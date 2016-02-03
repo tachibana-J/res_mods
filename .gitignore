@@ -1,9 +1,9 @@
 # Public mods not to track:
 */audio
 */content/gameplay/japan
-*/gui
+*/gui/*
 !*/gui/flash/fonts_all.swf
-*/spaces
+*/spaces/*
 !*/spaces/Dock_ocean
 */postfx_animations.xml
 
