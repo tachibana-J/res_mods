@@ -2,8 +2,10 @@
 */audio
 */content/gameplay/japan
 */gui
+!*/gui/flash/fonts_all.swf
 */spaces
 !*/spaces/Dock_ocean
+*/postfx_animations.xml
 
 # Windows image file caches
 Thumbs.db
