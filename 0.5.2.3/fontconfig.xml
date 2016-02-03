@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<fontconfig>
+
+	<!--
+		Меппинг шрифтов для реалма ASIA
+	-->
+
+		<lib> gui/flash/fonts_all.swf </lib>
+
+			<alias>
+				<embedded> $ZurichCondensed </embedded>
+				<runtime> Source Han Sans JP Medium WH </runtime>
+			</alias>
+			<alias>
+				<embedded> $ZurichCondensedBold </embedded>
+				<runtime> Source Han Sans JP Bold WH </runtime>
+			</alias>
+			<alias>
+				<embedded> $WWSDefaultFont </embedded>
+				<runtime> Source Han Sans JP Medium WH </runtime>
+			</alias>
+			<alias>
+				<embedded> $WWSDefaultFontBold </embedded>
+				<runtime> Source Han Sans JP Bold WH </runtime>
+			</alias>
+
+
+</fontconfig>

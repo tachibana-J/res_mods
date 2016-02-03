@@ -1,0 +1,268 @@
+<postfx_animations.xml>
+	<animation>
+		<name>BattleEndVictory</name>
+		<intro>0.1</intro>
+		<timeline>
+			<frame>
+				<t>0</t>
+				<vignetteColor>255 255 255 255</vignetteColor>
+				<vignetteInnerRadius>0</vignetteInnerRadius>
+				<vignetteOuterRadius>0.9</vignetteOuterRadius>
+				<vignetteIntensity>0</vignetteIntensity>
+				<desaturation>0</desaturation>
+			</frame>
+
+			<frame>
+				<t>0.2</t>
+				<vignetteColor>255 255 255 255</vignetteColor>
+				<vignetteInnerRadius>0</vignetteInnerRadius>
+				<vignetteOuterRadius>0.8</vignetteOuterRadius>
+				<vignetteIntensity>0.1</vignetteIntensity>
+				<desaturation>-0.1</desaturation>
+			</frame>
+
+			<frame>
+				<t>0.4</t>
+				<vignetteColor>255 255 255 255</vignetteColor>
+				<vignetteInnerRadius>0</vignetteInnerRadius>
+				<vignetteOuterRadius>0.7</vignetteOuterRadius>
+				<vignetteIntensity>0.2</vignetteIntensity>
+				<desaturation>-0.2</desaturation>
+			</frame>
+
+			<frame>
+				<t>0.6</t>
+				<vignetteColor>255 255 255 255</vignetteColor>
+				<vignetteInnerRadius>0</vignetteInnerRadius>
+				<vignetteOuterRadius>0.6</vignetteOuterRadius>
+				<vignetteIntensity>0.3</vignetteIntensity>
+				<desaturation>-0.3</desaturation>
+			</frame>
+
+			<frame>
+				<t>0.8</t>
+				<vignetteColor>255 255 255 255</vignetteColor>
+				<vignetteInnerRadius>0</vignetteInnerRadius>
+				<vignetteOuterRadius>0.55</vignetteOuterRadius>
+				<vignetteIntensity>0.3</vignetteIntensity>
+				<desaturation>-0.4</desaturation>
+			</frame>
+
+			<frame>
+				<t>1</t>
+				<vignetteColor>0 0 0 255</vignetteColor>
+				<vignetteInnerRadius>0</vignetteInnerRadius>
+				<vignetteOuterRadius>0.8</vignetteOuterRadius>
+				<vignetteIntensity>0.2</vignetteIntensity>
+				<desaturation>-0.5</desaturation>
+			</frame>
+		</timeline>
+	</animation>
+
+	<animation>
+		<name>BattleEndDefeat</name>
+		<intro>0.1</intro>
+		<timeline>
+			<frame>
+				<t>0</t>
+				<vignetteColor>255 255 255 255</vignetteColor>
+				<vignetteInnerRadius>0</vignetteInnerRadius>
+				<vignetteOuterRadius>0.9</vignetteOuterRadius>
+				<vignetteIntensity>0</vignetteIntensity>
+				<desaturation>0</desaturation>
+			</frame>
+
+			<frame>
+				<t>0.2</t>
+				<vignetteColor>255 255 255 255</vignetteColor>
+				<vignetteInnerRadius>0</vignetteInnerRadius>
+				<vignetteOuterRadius>0.8</vignetteOuterRadius>
+				<vignetteIntensity>0.1</vignetteIntensity>
+				<desaturation>0.1</desaturation>
+			</frame>
+
+			<frame>
+				<t>0.4</t>
+				<vignetteColor>255 255 255 255</vignetteColor>
+				<vignetteInnerRadius>0</vignetteInnerRadius>
+				<vignetteOuterRadius>0.7</vignetteOuterRadius>
+				<vignetteIntensity>0.2</vignetteIntensity>
+				<desaturation>0.2</desaturation>
+			</frame>
+
+			<frame>
+				<t>0.6</t>
+				<vignetteColor>255 255 255 255</vignetteColor>
+				<vignetteInnerRadius>0</vignetteInnerRadius>
+				<vignetteOuterRadius>0.6</vignetteOuterRadius>
+				<vignetteIntensity>0.3</vignetteIntensity>
+				<desaturation>0.3</desaturation>
+			</frame>
+
+			<frame>
+				<t>0.8</t>
+				<vignetteColor>255 255 255 255</vignetteColor>
+				<vignetteInnerRadius>0</vignetteInnerRadius>
+				<vignetteOuterRadius>0.55</vignetteOuterRadius>
+				<vignetteIntensity>0.3</vignetteIntensity>
+				<desaturation>0.4</desaturation>
+			</frame>
+
+			<frame>
+				<t>1</t>
+				<vignetteColor>0 0 0 255</vignetteColor>
+				<vignetteInnerRadius>0</vignetteInnerRadius>
+				<vignetteOuterRadius>0.8</vignetteOuterRadius>
+				<vignetteIntensity>0.2</vignetteIntensity>
+				<desaturation>0.5</desaturation>
+			</frame>
+		</timeline>
+	</animation>
+
+	<animation>
+		<name>Death</name>
+		<intro>0.0</intro>
+		<timeline>
+			<frame>
+				<t>0</t>
+				<desaturation>0.0</desaturation>
+				<screenBlurIntensity>0.3</screenBlurIntensity>
+				<radialBlurIntensity>0.3</radialBlurIntensity>
+				<radialBlurSize>0.7</radialBlurSize>
+			</frame>
+			<frame>
+				<t>0.3</t>
+				<desaturation>0.8</desaturation>
+				<screenBlurIntensity>0.5</screenBlurIntensity>
+				<radialBlurIntensity>100</radialBlurIntensity>
+				<radialBlurSize>0.7</radialBlurSize>
+			</frame>		
+			<frame>
+				<t>0.5</t>
+				<desaturation>1</desaturation>
+				<screenBlurIntensity>1</screenBlurIntensity>
+				<radialBlurIntensity>20</radialBlurIntensity>
+				<radialBlurSize>0.7</radialBlurSize>
+			</frame>
+			<frame>
+				<t>2</t>
+				<desaturation>0.5</desaturation>
+				<screenBlurIntensity>0.1</screenBlurIntensity>
+				<radialBlurIntensity>0</radialBlurIntensity>
+				<radialBlurSize>0.7</radialBlurSize>
+			</frame>
+			<frame>
+				<t>4</t>
+				<desaturation>0.0</desaturation>
+				<screenBlurIntensity>0</screenBlurIntensity>
+				<radialBlurIntensity>0</radialBlurIntensity>
+				<radialBlurSize>0.7</radialBlurSize>
+			</frame>
+		</timeline>
+	</animation>
+	
+	<animation>
+		<name>BinocularShot</name>
+		<intro>0.0</intro>
+		<timeline>
+			<frame>
+				<t>0</t>
+				<colorTintIntensityOverbright>0.0</colorTintIntensityOverbright>
+			</frame>
+			<frame>
+				<t>0.7</t>
+				<colorTintIntensityOverbright>0</colorTintIntensityOverbright>
+			</frame>
+		</timeline>
+	</animation>
+	
+	<animation>
+		<name>DockShipOwned</name>
+		<intro>0.5</intro>
+		<timeline>
+			<frame>
+				<t>0</t>
+				<screenBlurIntensity>0.0</screenBlurIntensity>
+				<smokescreenIntensity>0.0</smokescreenIntensity>
+				<desaturation>0.0</desaturation>
+			</frame>
+			<frame>
+				<t>1</t>
+				<screenBlurIntensity>0.0</screenBlurIntensity>
+				<smokescreenIntensity>0.0</smokescreenIntensity>
+				<desaturation>0.0</desaturation>
+			</frame>
+		</timeline>
+	</animation>
+	
+	<animation>
+		<name>DockShipExplored</name>
+		<intro>1.0</intro>
+		<timeline>
+			<frame>
+				<t>0</t>
+				<screenBlurIntensity>0.0</screenBlurIntensity>
+				<smokescreenIntensity>0.0</smokescreenIntensity>
+				<desaturation>0.0</desaturation>
+			</frame>
+		</timeline>
+	</animation>
+	
+	<animation>
+		<name>DockShipAbsent</name>
+		<intro>1.0</intro>
+		<timeline>
+			<frame>
+				<t>0</t>
+				<screenBlurIntensity>0.0</screenBlurIntensity>
+				<smokescreenIntensity>0.0</smokescreenIntensity>
+				<desaturation>0.0</desaturation>
+			</frame>
+		</timeline>
+	</animation>
+	
+	<animation>
+		<name>DockShipJustOwned</name>
+		<intro>0.5</intro>
+		<timeline>
+			<frame>
+				<t>0</t>
+				<screenBlurIntensity>0.2</screenBlurIntensity>
+				<smokescreenIntensity>0.0</smokescreenIntensity>
+				<desaturation>-1.0</desaturation>
+				<colorTintIntensityOverbright>0.3</colorTintIntensityOverbright>
+			</frame>
+			<frame>
+				<t>0.5</t>
+				<screenBlurIntensity>0.0</screenBlurIntensity>
+				<smokescreenIntensity>0.0</smokescreenIntensity>
+				<desaturation>0.0</desaturation>
+				<colorTintIntensityOverbright>0</colorTintIntensityOverbright>
+			</frame>
+		</timeline>
+	</animation>
+	
+	<animation>
+		<name>DockShipJustExplored</name>
+		<intro>0.5</intro>
+		<timeline>
+			<frame>
+				<t>0</t>
+				<screenBlurIntensity>0.6</screenBlurIntensity>
+				<smokescreenIntensity>0.0</smokescreenIntensity>
+				<desaturation>0.2</desaturation>
+				<colorTintIntensityOverbright>0.3</colorTintIntensityOverbright>
+			</frame>
+			<frame>
+				<t>0.5</t>
+				<screenBlurIntensity>0.0</screenBlurIntensity>
+				<smokescreenIntensity>0.0</smokescreenIntensity>
+				<desaturation>0.6</desaturation>
+				<colorTintIntensityOverbright>0.0</colorTintIntensityOverbright>
+			</frame>
+		</timeline>
+	</animation>
+	
+	
+
+</postfx_animations.xml>
