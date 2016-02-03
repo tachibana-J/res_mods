@@ -1,5 +1,4 @@
-# res_mods
-## WoWS mods that I maintain:
+## WoWS mods that Destroyer_Tachibana maintains:
 
 1. Japanese text mod `/texts` AND `fontconfig.xml` (only `global.mo` is necessary):
     
