@@ -1,5 +1,7 @@
 ## WoWS mods that Destroyer_Tachibana maintains:
 
+####*<p align="center">Read the [changelog](https://github.com/tachibana-J/res_mods/blob/master/CHANGELOG.md)!</p>*
+
 1. Japanese text mod `/texts` AND `fontconfig.xml` (only `global.mo` is necessary):
     
     &nbsp;&nbsp;A. HUD UI elements (pulled from SEA client text file) are in Japanese;
