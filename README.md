@@ -12,10 +12,12 @@
     &nbsp;&nbsp;D. Reworded certain features, including:
 
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. Achievements: **(to-do)**
+    
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b. Signal flags
       
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b. リザーブ → 営舎、エリア → 海域、ゾーン → 陣地、(etc.)
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c. リザーブ → 営舎、エリア → 海域、ゾーン → 陣地、(etc.)
       
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c. Certain unnatural expressions: 配属する: → 配属させる:
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;d. Certain unnatural expressions: 配属する: → 配属させる:
       
     &nbsp;&nbsp;E. Modules of Asian ships, mostly IJN for now, are changed to be as historically accurate as technically allowed:
     
