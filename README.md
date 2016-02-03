@@ -22,9 +22,7 @@
     
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;e. Nation names are changed to mimic a WWII environment, displayed in Japanese (kanji);
       
-    &nbsp;&nbsp;E. Modules of Asian ships, mostly IJN for now, are changed to be as historically accurate as technically allowed:
-    
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Exceptions:
+    &nbsp;&nbsp;E. Modules of Asian ships, mostly IJN for now, are changed to be as historically accurate as technically allowed. Exceptions:
     
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. 古鷹の後期主砲(tech.)
         
