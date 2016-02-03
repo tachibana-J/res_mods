@@ -2,7 +2,7 @@
 
 ####*<p align="center">Read the [changelog](https://github.com/tachibana-J/res_mods/blob/master/CHANGELOG.md)!</p>*
 
-1. Japanese text mod `/texts`  (only `global.mo` is necessary) AND `fontconfig.xml` AND a SEA-client `fonts_all.swf` (or see item 6):
+1. Japanese text mod `/texts`  (only `global.mo` is necessary) AND `fontconfig.xml` AND an SEA-client `fonts_all.swf` (or see item 6):
     
     &nbsp;&nbsp;A. HUD UI elements (pulled from SEA client text file) are in Japanese;
     
