@@ -3,25 +3,25 @@
 
 1. Japanese text mod `/texts` AND `fontconfig.xml` (only .mo file in /texts is necessary):
     
-&nbsp;&nbsp;A. HUD UI elements (pulled from SEA client text file) are in Japanese;
+    &nbsp;&nbsp;A. HUD UI elements (pulled from SEA client text file) are in Japanese;
     
-&nbsp;&nbsp;B. Asian ship names are displayed in Japanese (kanji with exception of ARP ships);
+    &nbsp;&nbsp;B. Asian ship names are displayed in Japanese (kanji with exception of ARP ships);
     
-&nbsp;&nbsp;C. Asian captain names are changed to those of historical figures, displayed in Japanese (kanji);
+    &nbsp;&nbsp;C. Asian captain names are changed to those of historical figures, displayed in Japanese (kanji);
     
-&nbsp;&nbsp;D. Reworded certain features, including:
+    &nbsp;&nbsp;D. Reworded certain features, including:
 
-&nbsp;&nbsp;&nbsp;&nbsp;a. Achievements: (to-do)
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. Achievements: (to-do)
       
-&nbsp;&nbsp;&nbsp;&nbsp;b. リザーブ -> 営舎、エリア -> 海域、ゾーン -> 陣地、(etc.)
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b. リザーブ → 営舎、エリア → 海域、ゾーン → 陣地、(etc.)
       
-&nbsp;&nbsp;&nbsp;&nbsp;c. Certain unnatural expressions: 配属する: -> 配属させる:
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c. Certain unnatural expressions: 配属する: → 配属させる:
       
-&nbsp;&nbsp;E. Modules of Asian ships, mostly IJN for now, are changed to be as historically accurate as technically allowed:
+    &nbsp;&nbsp;E. Modules of Asian ships, mostly IJN for now, are changed to be as historically accurate as technically allowed:
     
-&nbsp;&nbsp;&nbsp;&nbsp;Exceptions: 古鷹の後期主砲、陽炎の主砲
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Exceptions: 古鷹の後期主砲、陽炎の主砲
       
-&nbsp;&nbsp;F. Easter egg(s?).
+    &nbsp;&nbsp;F. Easter egg(s?).
     
 
 2. AP tracer color mod `/particles`: a simple recoloring of AP shell tracers to give a ice-blue for own shells and green for others' shells (friendly and hostile).
