@@ -44,4 +44,4 @@
 
 5. Dock mod `/spaces/Dock_ocean`: a simple tweak of the Ocean dock to allow better water/lighting/wind.
 
-6. {WIP} Japanese font mod `/gui/flash/fonts_all.swf`: an on-the-fly swf resource replacement allowing better alphanumeric display with the default Japanese font; may bug out.
+6. **WIP** Japanese font mod `/gui/flash/fonts_all.swf`: an on-the-fly swf resource replacement allowing better alphanumeric display with the default Japanese font; may bug out.
