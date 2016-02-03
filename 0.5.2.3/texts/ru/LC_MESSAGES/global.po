@@ -14022,7 +14022,7 @@ msgid "IDS_PJUH801_SHIMAKAZE_1943"
 msgstr "島風 1943"
 
 msgid "IDS_PJUH802_SHIMAKAZE_1944"
-msgstr "島風 1944"
+msgstr "島風"
 
 msgid "IDS_PJUH811_IBUKI_1944"
 msgstr "伊吹 (甲)"
