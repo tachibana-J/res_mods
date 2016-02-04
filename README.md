@@ -12,9 +12,76 @@
     
     &nbsp;&nbsp;D. Reworded certain features, including:
 
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. Achievements: **(to-do)**
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. Achievements:
+    <table style="margin: 0px auto;">
+        <tr>
+            <th>NA name</th>
+            <th>SEA name</th>
+            <th>This mod</th>
+        </tr>
+        <tr>
+            <td>Detonation</td>
+            <td>爆沈</td>
+            <td>轟沈</td>
+        </tr>
+        <tr>
+            <td>Dreadnought</td>
+            <td>ドレッドノート</td>
+            <td>弩級</td>
+        </tr>
+        <tr>
+            <td>High Caliber</td>
+            <td>大口径</td>
+            <td>勇戦</td>
+        </tr>
+        <tr>
+            <td>Devastating Strike</td>
+            <td>破壊的一撃</td>
+            <td>全門斉射</td>
+        </tr>
+        <tr>
+            <td>It's Just a Flesh Wound!</td>
+            <td>かすり傷さ!</td>
+            <td>道連れ</td>
+        </tr>
+        <tr>
+            <td>Confederate</td>
+            <td>共謀者</td>
+            <td>援護</td>
+        </tr>
+        <tr>
+            <td>Kraken Unleashed!</td>
+            <td>クラーケン来襲!</td>
+            <td>無双</td>
+        </tr>
+        <tr>
+            <td>Solo Warrior</td>
+            <td>孤高の戦士</td>
+            <td>一縷の希望</td>
+        </tr>
+        <tr>
+            <td>Clear Sky</td>
+            <td>晴天</td>
+            <td>防空</td>
+        </tr>
+        <tr>
+            <td>Close Quarters Expert</td>
+            <td>接近戦エキスパート</td>
+            <td>接近戦専門</td>
+        </tr>
+        <tr>
+            <td>?</td>
+            <td>?</td>
+            <td>武士の情け</td>
+        </tr>
+        <tr>
+            <td>?</td>
+            <td>?</td>
+            <td>見えざる脅威</td>
+        </tr>
+    </table>
     
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b. Signal flags
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b. Signal flags' texts
       
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c. リザーブ → 営舎、エリア → 海域、ゾーン → 陣地、(etc.)
       
