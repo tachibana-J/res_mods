@@ -13,7 +13,7 @@
     &nbsp;&nbsp;D. Reworded certain features, including:
 
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. Achievements:
-    <table style="margin: 0px auto;">
+    <table style="margin: 0px auto; text-align: center;">
         <tr>
             <th>NA name</th>
             <th>SEA name</th>
