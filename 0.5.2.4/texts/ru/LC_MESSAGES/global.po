@@ -3816,7 +3816,7 @@ msgid "IDS_GIFTS_EARNED_AVAILABLE_INFO"
 msgstr "取得褒賞"
 
 msgid "IDS_GIFTS_FOR_HEROES"
-msgstr "英雄の名誉"
+msgstr "英雄の誉れ"
 
 msgid "IDS_GMCRITPROB"
 msgstr ": 主砲の機能停止の発生率"
@@ -3852,7 +3852,7 @@ msgid "IDS_GOTO_EXTERIOR_CONFIGURATION"
 msgstr "外観画面に移動"
 
 msgid "IDS_GOT_ACHIEVEMENT_CHAT"
-msgstr "さんが実績を取得:"
+msgstr "殿が実績を取得:"
 
 msgid "IDS_GRAPHICS_OPTIONS"
 msgstr "グラフィック"
@@ -3921,10 +3921,10 @@ msgid "IDS_HELP"
 msgstr "ヘルプ"
 
 msgid "IDS_HELPED_IN_CHAT"
-msgstr "チャットでのアシスト"
+msgstr "チャットでの連携"
 
 msgid "IDS_HELP_ABOUT_FREE_EXPERIENCE"
-msgstr "研究に必要な経験値が不足する場合、フリー 経験値で不足分を補うことができます。"
+msgstr "研究に必要な経験値が不足する場合、フリー経験値で不足分を補うことができます。"
 
 msgid "IDS_HELP_ACTION_PANEL"
 msgstr "アクションパネル"
@@ -7075,10 +7075,10 @@ msgid "IDS_MENU_SETTINGS"
 msgstr "設定"
 
 msgid "IDS_MESSAGES_FROM_USER_DISABLED"
-msgstr "%s さんからのメッセージを無効化しました"
+msgstr "%s からのメッセージを無効化しました"
 
 msgid "IDS_MESSAGES_FROM_USER_ENABLED"
-msgstr "%s さんからのメッセージを有効化しました"
+msgstr "%s からのメッセージを有効化しました"
 
 msgid "IDS_METER"
 msgstr "m"
@@ -14373,7 +14373,7 @@ msgid "IDS_PJUT902_610_TYPE_F3"
 msgstr "回天"
 
 msgid "IDS_PJUT903_610_TYPE_90_KITAKAMI"
-msgstr "九〇式 一型 魚雷"
+msgstr "九〇式 魚雷 一型"
 
 msgid "IDS_PLACED_ADDED"
 msgstr "部屋追加:"
@@ -14418,7 +14418,7 @@ msgid "IDS_PLAYER_HAS_TOO_MANY_INVITES"
 msgstr "このプレイヤーの招待受信数が上限に達しています。"
 
 msgid "IDS_PLAYER_IS_OFFLINE"
-msgstr "さんはオフラインです。"
+msgstr "殿はオフラインです。"
 
 msgid "IDS_PLAYER_IS_OFFLINE_C"
 msgstr "オフライン"
@@ -16443,7 +16443,7 @@ msgid "IDS_RIBBON_10"
 msgstr "陣地を占領"
 
 msgid "IDS_RIBBON_11"
-msgstr "陣地占領をアシスト"
+msgstr "陣地占領アシスト"
 
 msgid "IDS_RIBBON_2"
 msgstr "目標に命中"
@@ -16458,13 +16458,13 @@ msgid "IDS_RIBBON_5"
 msgstr "撃沈"
 
 msgid "IDS_RIBBON_6"
-msgstr "火災を発生させた"
+msgstr "火災を誘発"
 
 msgid "IDS_RIBBON_7"
-msgstr "浸水を発生させた"
+msgstr "浸水を誘発"
 
 msgid "IDS_RIBBON_8"
-msgstr "防郭への命中"
+msgstr "防郭へ命中"
 
 msgid "IDS_RIBBON_9"
 msgstr "陣地を防衛"
@@ -16497,7 +16497,7 @@ msgid "IDS_RTS_CAMERA_FIXED_YAW"
 msgstr "北向き視点"
 
 msgid "IDS_RUN_OUT"
-msgstr "さんからの応答待ちが制限時間を超過しました。"
+msgstr "殿からの応答待ちが制限時間を超過しました。"
 
 msgid "IDS_RUSSIA"
 msgstr "蘇連"
