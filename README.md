@@ -70,14 +70,9 @@
             <td>接近戦専門</td>
         </tr>
         <tr>
-            <td>?</td>
-            <td>?</td>
-            <td>武士の情け</td>
-        </tr>
-        <tr>
-            <td>?</td>
-            <td>?</td>
-            <td>見えざる脅威</td>
+            <td>Mercy Strike (unused)</td>
+            <td>仁慈の攻撃 (unused)</td>
+            <td>武士の情け (unused)</td>
         </tr>
     </table>
     
@@ -111,4 +106,4 @@
 
 5. Dock mod `/spaces/Dock_ocean`: a simple tweak of the Ocean dock to allow better water/lighting/wind.
 
-6. **WIP** Japanese font mod `/gui/flash/fonts_all.swf`: an in-place swf resource replacement allowing better alphanumeric display with the default Japanese font: by default the Source Hans Sans is partially replaced (basic latin and numeric characters) with WG's WarHelicC, but new characters like ō, ǒ, ł, etc. are missing or using the wider Source Hans Sans, resulting in an ugly interface. The fonts of these characters have now been replaced with WarHelicC (extracted from NA client), but spacing may be wrong, resulting in bugs.
+6. Japanese font mod `/gui/flash/fonts_all.swf`: an in-place swf resource replacement allowing better alphanumeric display with the default Japanese font: by default the Source Hans Sans is partially replaced (basic latin and numeric characters) with WG's WarHelicC, but new characters like ō, ǒ, ł, etc. are missing or using the wider Source Hans Sans, resulting in an ugly interface. The fonts of these characters have now been replaced with WarHelicC (extracted from NA client). It appears impossible to decompile the swf back to an editable fla flash, therefore future development of this feature is put on hold until I get a Adobe Flash Pro and create a new flash.
