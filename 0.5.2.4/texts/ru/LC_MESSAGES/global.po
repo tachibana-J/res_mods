@@ -14397,7 +14397,7 @@ msgid "IDS_PLAYERS_IN_GROUP"
 msgstr "グループ内"
 
 msgid "IDS_PLAYERS_IN_YOUR_RANGE"
-msgstr "マッチング対象プレイヤー"
+msgstr "同ティア/マッチング対象プレイヤー"
 
 msgid "IDS_PLAYERS_WAITING"
 msgstr "待機中のプレイヤー:"
