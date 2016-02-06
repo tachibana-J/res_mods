@@ -1,5 +1,8 @@
 # Changelog of _implemented_ aka _compiled_ (i.e. not WIP or minute changes in texts) features
 
+20160205 Flags updated to 0.5.2.4 layout
+---
+
 20160205 Custom fonts_all.swf Proof-of-Concept
 ---
 * A custom `fonts_all.swf` is created with Adobe Flash Pro
