@@ -10,19 +10,19 @@
 
 			<alias>
 				<embedded> $ZurichCondensed </embedded>
-				<runtime> Source Han Sans JP Medium WH </runtime>
+				<runtime> Yu Go Narrow </runtime>
 			</alias>
 			<alias>
 				<embedded> $ZurichCondensedBold </embedded>
-				<runtime> Source Han Sans JP Bold WH </runtime>
+				<runtime> Yu Go Semibold </runtime>
 			</alias>
 			<alias>
 				<embedded> $WWSDefaultFont </embedded>
-				<runtime> Source Han Sans JP Medium WH </runtime>
+				<runtime> Yu Go Narrow </runtime>
 			</alias>
 			<alias>
 				<embedded> $WWSDefaultFontBold </embedded>
-				<runtime> Source Han Sans JP Bold WH </runtime>
+				<runtime> Yu Go Semibold </runtime>
 			</alias>
 
 
