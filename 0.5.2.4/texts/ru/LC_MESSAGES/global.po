@@ -1148,7 +1148,7 @@ msgid "IDS_BATTLE_STATS_ENEMIES_MISSION_COMPLETE_ON_TIMEOUT"
 msgstr "ポイント優勢により敵チーム勝利"
 
 msgid "IDS_BATTLE_STATS_ENEMIES_SUNK"
-msgstr "敵艦艇隊殲滅"
+msgstr "敵艦隊殲滅"
 
 msgid "IDS_BATTLE_STATS_ENEMY_SHIPS"
 msgstr "敵艦艇"
@@ -4849,7 +4849,7 @@ msgstr "全ての砲を用いて砲撃するには、敵に対し側面を向け
 
 msgid "IDS_I00_DONTCOMECLOSE_HINT"
 msgstr ""
-"敵艦艇隊への単独攻撃は無謀だ。\n"
+"敵艦隊への単独攻撃は無謀だ。\n"
 "敵に対して距離を保ち、集中砲火を受けないよう心がけろ。"
 
 msgid "IDS_I00_EXPACT_AD"
@@ -76819,7 +76819,7 @@ msgid "IDS_TOOLTIP_BATTLE_MESSAGES"
 msgstr "戦闘結果に関する報告"
 
 msgid "IDS_TOOLTIP_BATTLE_STATS_DETAILED_REPORT"
-msgstr "ダメージ与/被、クレジット、EXP"
+msgstr "与/被ダメージ、クレジット、EXP"
 
 msgid "IDS_TOOLTIP_BATTLE_STATS_PERSONAL_REPORT"
 msgstr "個人スコア"
