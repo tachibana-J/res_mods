@@ -1,5 +1,12 @@
 # Changelog of _implemented_ aka _compiled_ (i.e. not WIP or minute changes in texts) features
 
+20160211 Small changes to texts are compiled
+---
+* Fixed mistakes where 敵艦隊 were referred to as 敵艦艇隊
+* Rearranged word order of a result screen tooltip
+* Truncated the sentence shown when a result screen is unavailable
+* Added text string for the nation Arpeggio in tech tree
+
 20160205 Flags updated to 0.5.2.4 layout
 ---
 
