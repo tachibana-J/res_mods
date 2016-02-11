@@ -669,6 +669,9 @@ msgstr "指揮官に任命"
 msgid "IDS_ARMED"
 msgstr "武装あり"
 
+msgid "IDS_ARPEGGIO"
+msgstr "霧の艦隊"
+
 msgid "IDS_ARPEGGIO_CREW_INFO"
 msgstr "営舎または同国籍の他の艦艇から艦長を配属してください。"
 
@@ -77542,7 +77545,7 @@ msgid "IDS_WANT_IN_DIVISION"
 msgstr "戦隊に参加希望"
 
 msgid "IDS_WARNING_BATTLESTATS_AVAILABILITY"
-msgstr "詳細戦績が確認可能なのは、現在のゲームセッション中にプレイした戦闘のみです。"
+msgstr "詳細戦績が確認可能なのは、現在のセッション中にプレイした戦闘のみです。"
 
 msgid "IDS_WARNING_BATTLESTATS_NOT_AVAILABLE"
 msgstr "詳細戦績なし"
