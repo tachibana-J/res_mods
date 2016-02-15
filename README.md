@@ -106,4 +106,4 @@
 
 5. Dock mod `/spaces/Dock_ocean`: a simple tweak of the Ocean dock to allow better water/lighting/wind.
 
-6. Japanese font mod `/gui/flash/fonts_all.swf` AND `fontconfig.xml`: a remake of the flash file that contains fonts used by the game. The flash file has a very barebone layout — two texts of "regular" and "bold" font-face on a 550x400@25fps canvas, with those two (or more, a total of four used by the game) actual fonts' files embeded, and anti-aliasing settings to "custom" with sharpness and thickness both at 0. Export to swf with Flash ver. 10.3.
+6. Japanese font mod `/gui/flash/fonts_all.swf` AND `fontconfig.xml`: a remake of the flash file that contains fonts used by the game. The flash file has a very barebone layout — two texts of "regular" and "bold" font-face on a 550x400@25fps canvas, with those two (or more, a total of four used by the game) actual fonts' files embeded, and anti-aliasing settings to "custom" with sharpness and thickness both at 0. Export to swf with Flash ver. 10.3. (Causes a bug in the dock carousel filter selector, pushing the checkbox items of Tier IX and X into the next column)
