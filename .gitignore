@@ -9,6 +9,9 @@
 !*/spaces/Dock_ocean
 */postfx_animations.xml
 
+# Backup files
+*.o
+
 # Windows stupid system files
 Thumbs.db
 ehthumbs.db
