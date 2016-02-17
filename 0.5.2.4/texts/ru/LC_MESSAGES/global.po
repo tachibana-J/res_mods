@@ -77695,7 +77695,7 @@ msgid "IDS_YOU_ARE_OUT_OF_DIVISION"
 msgstr "戦隊から外されました。"
 
 msgid "IDS_YOU_DIDNT_SHOW_RESULTS"
-msgstr "この戦闘では実力を示せませんでした"
+msgstr "何をやっておる！"
 
 msgid "IDS_YOU_HAVE_BEEN_DENUNCATED"
 msgstr "貴様は通報されました!"
