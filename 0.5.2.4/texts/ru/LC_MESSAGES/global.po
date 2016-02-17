@@ -1067,16 +1067,16 @@ msgid "IDS_BATTLE_STATS_ALLIES_SUNK"
 msgstr "味方艦艇全滅"
 
 msgid "IDS_BATTLE_STATS_ATBA_AMMO0"
-msgstr "第 1 砲弾タイプ"
+msgstr "第 1 種砲弾"
 
 msgid "IDS_BATTLE_STATS_ATBA_AMMO1"
-msgstr "第 2 砲弾タイプ"
+msgstr "第 2 種砲弾"
 
 msgid "IDS_BATTLE_STATS_ATBA_SHOTS"
 msgstr "副砲射撃弾数"
 
 msgid "IDS_BATTLE_STATS_AUTOREPAIR"
-msgstr "自動修理"
+msgstr "修理費用"
 
 msgid "IDS_BATTLE_STATS_BACK_TO_DOCK"
 msgstr "港に戻る"
@@ -1169,7 +1169,7 @@ msgid "IDS_BATTLE_STATS_FUTURE_REWARDS"
 msgstr "後続勲章"
 
 msgid "IDS_BATTLE_STATS_IS_CREDITED"
-msgstr "取得"
+msgstr "支給"
 
 msgid "IDS_BATTLE_STATS_MAIN_GUN_AMMO0"
 msgstr "AP 弾命中"
@@ -1205,7 +1205,7 @@ msgid "IDS_BATTLE_STATS_RAMS"
 msgstr "体当たり"
 
 msgid "IDS_BATTLE_STATS_REAMMUNITION"
-msgstr "弾薬の自動補給"
+msgstr "弾薬の補給費用"
 
 msgid "IDS_BATTLE_STATS_RECEIVED_AIRPLANES_BOMBS_HITS"
 msgstr "爆弾命中"
