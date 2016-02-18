@@ -114,7 +114,7 @@ msgid "IDS_ACCURACY_TORPEDO_TOOLTIP_PROFILE"
 msgstr "魚雷命中率"
 
 msgid "IDS_ACHIEVEMENT_AMAUTEUR"
-msgstr "アマチュア"
+msgstr "新参者"
 
 msgid "IDS_ACHIEVEMENT_ARSONIST"
 msgstr "放火犯"
@@ -123,7 +123,7 @@ msgid "IDS_ACHIEVEMENT_ATBA_CALIBER"
 msgstr "接近戦専門"
 
 msgid "IDS_ACHIEVEMENT_AT_PARTICIPANT"
-msgstr "AT ベテラン"
+msgstr "AT 参加者"
 
 msgid "IDS_ACHIEVEMENT_BATTLE_HERO"
 msgstr "戦功者"
@@ -132,16 +132,16 @@ msgid "IDS_ACHIEVEMENT_BROTHERS_IN_ARMS"
 msgstr "戦友"
 
 msgid "IDS_ACHIEVEMENT_BW_PARTICIPANT"
-msgstr "Участник BW"
+msgstr "BW 参加者"
 
 msgid "IDS_ACHIEVEMENT_CAPITAL"
 msgstr "初期資本"
 
 msgid "IDS_ACHIEVEMENT_CBT_PARTICIPANT"
-msgstr "CBT ベテラン"
+msgstr "CBT 参加者"
 
 msgid "IDS_ACHIEVEMENT_CHIEF_ENGINEER"
-msgstr "造船技師長"
+msgstr "造船工場長"
 
 msgid "IDS_ACHIEVEMENT_CLEAR_SKY"
 msgstr "防空"
@@ -158,7 +158,7 @@ msgstr ""
 "HP の %(damageRatio_percent)s を上回ること。"
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_ATBA_CALIBER"
-msgstr "敵艦にダメージを与え、撃沈する。その際、最後の直接ダメージを副砲により与えること。"
+msgstr "敵艦艇にダメージを与え、撃沈する。その際、最後の直接ダメージを副砲により与えること。"
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_AT_PARTICIPANT"
 msgstr "開発チームは、αテストにご参加頂いた皆様に感謝致します。"
@@ -206,7 +206,7 @@ msgstr ""
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_DREADNOUGHT"
 msgstr ""
 "自艦の通常 HP の %(damageRatio_percent)s を超えるダメージを "
-"%(damagersCount)s 隻以上の敵艦から受けた上で生還する。"
+"%(damagersCount)s 隻以上の敵艦艇から受けた上で生還する。"
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_ENGINEER"
 msgstr "艦艇を %(shipsCount)s 隻研究する。"
@@ -276,27 +276,27 @@ msgstr ""
 "s 隻以上の敵艦艇に対し単独で立ち向かい、勝利する。"
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_RETRIBUTION"
-msgstr "自艦が撃沈された後に、任意の敵艦を撃沈する。"
+msgstr "自艦が撃沈された後に、任意の敵艦艇を撃沈する。"
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_SCIENCE_OF_WINNING_ARSONIST"
-msgstr "敵艦を 1 隻、火災により撃沈する。"
+msgstr "敵艦艇を 1 隻、火災により撃沈する。"
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_SCIENCE_OF_WINNING_BOMBARDIER"
-msgstr "敵艦に合計 %(damageCount)s HP のダメージを与える。"
+msgstr "敵艦艇に合計 %(damageCount)s HP のダメージを与える。"
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_SCIENCE_OF_WINNING_HARD_EDGED"
-msgstr "敵艦を 1 隻、体当たりで撃沈する。"
+msgstr "敵艦艇を 1 隻、体当たりで撃沈する。"
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_SCIENCE_OF_WINNING_LUCKY"
 msgstr ""
-"敵艦を "
+"敵艦艇を "
 "1 隻、弾薬庫にダメージを与え、その誘爆により撃沈する。"
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_SCIENCE_OF_WINNING_TACTICIAN"
 msgstr "敵陣地を占領する。"
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_SCIENCE_OF_WINNING_TO_THE_BOTTOM"
-msgstr "敵艦を 1 隻、浸水により撃沈する。"
+msgstr "敵艦艇を 1 隻、浸水により撃沈する。"
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_SEA_LEGEND"
 msgstr "任意の戦功章を %(achievementCount)s 回取得する。"
@@ -327,10 +327,10 @@ msgid "IDS_ACHIEVEMENT_DESCRIPTION_WARRIOR"
 msgstr "敵艦艇を %(victimsCount)s 隻以上撃破する。"
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_WGSPB_STAFF"
-msgstr "Сотрудник Wargaming Санкт-Петербург"
+msgstr "Wargaming St. Petersburg スタッフ"
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_WG_STAFF"
-msgstr "Сотрудник Wargaming"
+msgstr "Wargaming スタッフ"
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_WITHERING"
 msgstr ""
@@ -350,10 +350,10 @@ msgid "IDS_ACHIEVEMENT_DREADNOUGHT"
 msgstr "弩級"
 
 msgid "IDS_ACHIEVEMENT_ENGINEER"
-msgstr "造船者"
+msgstr "造船技士"
 
 msgid "IDS_ACHIEVEMENT_FIGHTER"
-msgstr "戦士"
+msgstr "海軍士官"
 
 msgid "IDS_ACHIEVEMENT_FINISH_HIM"
 msgstr "武士の情け"
@@ -377,7 +377,7 @@ msgid "IDS_ACHIEVEMENT_INSTANT_KILL"
 msgstr "全門斉射"
 
 msgid "IDS_ACHIEVEMENT_JUNIOR_PLANNER"
-msgstr "造船技師補"
+msgstr "造船場見習い"
 
 msgid "IDS_ACHIEVEMENT_LIQUIDATOR"
 msgstr "水浸し"
@@ -386,13 +386,13 @@ msgid "IDS_ACHIEVEMENT_MAIN_CALIBER"
 msgstr "勇戦"
 
 msgid "IDS_ACHIEVEMENT_MERCENARY"
-msgstr "働き者"
+msgstr "勤勉家"
 
 msgid "IDS_ACHIEVEMENT_MESSENGER"
-msgstr "任務の最中"
+msgstr "任務完遂"
 
 msgid "IDS_ACHIEVEMENT_MILLIONAIR"
-msgstr "マネーバッグ"
+msgstr "実業家"
 
 msgid "IDS_ACHIEVEMENT_MULTIPLE"
 msgstr "複数回"
@@ -401,16 +401,16 @@ msgid "IDS_ACHIEVEMENT_MULTIPLE_PER_BATTLE"
 msgstr "1 戦中に複数回取得可能"
 
 msgid "IDS_ACHIEVEMENT_NEVER_ENOUGH_MONEY"
-msgstr "有力事業者"
+msgstr "経済学者"
 
 msgid "IDS_ACHIEVEMENT_NO_DAY_WITHOUT_ADVENTURE"
-msgstr "毎日冒険を"
+msgstr "日々精進"
 
 msgid "IDS_ACHIEVEMENT_NO_PRICE_FOR_HEROISM"
-msgstr "海の伝説"
+msgstr "海軍の誇り"
 
 msgid "IDS_ACHIEVEMENT_OBT_PARTICIPANT"
-msgstr "OBT ベテラン"
+msgstr "OBT 参加者"
 
 msgid "IDS_ACHIEVEMENT_ONE_SOLDIER_IN_THE_FIELD"
 msgstr "一縷の希望"
@@ -428,16 +428,16 @@ msgid "IDS_ACHIEVEMENT_SCIENCE_OF_WINNING_HARD_EDGED"
 msgstr "海戦: 体当たり"
 
 msgid "IDS_ACHIEVEMENT_SCIENCE_OF_WINNING_LUCKY"
-msgstr "海戦: ラッキーショット"
+msgstr "海戦: 幸運の女神"
 
 msgid "IDS_ACHIEVEMENT_SCIENCE_OF_WINNING_TACTICIAN"
-msgstr "海戦: 戦術"
+msgstr "海戦: 戦略"
 
 msgid "IDS_ACHIEVEMENT_SCIENCE_OF_WINNING_TO_THE_BOTTOM"
 msgstr "海戦: 浸水"
 
 msgid "IDS_ACHIEVEMENT_SEA_LEGEND"
-msgstr "大洋の破壊神"
+msgstr "海神の使者"
 
 msgid "IDS_ACHIEVEMENT_SILENT_KILLER"
 msgstr "見えざる脅威"
@@ -452,7 +452,7 @@ msgid "IDS_ACHIEVEMENT_STAGED"
 msgstr "名誉"
 
 msgid "IDS_ACHIEVEMENT_ST_PARTICIPANT"
-msgstr "Участник ST"
+msgstr "ST 参加者"
 
 msgid "IDS_ACHIEVEMENT_SUBTYPE_ECONOMIC"
 msgstr "経済"
@@ -482,16 +482,16 @@ msgid "IDS_ACHIEVEMENT_UNSINKABLE"
 msgstr "不沈"
 
 msgid "IDS_ACHIEVEMENT_VETERAN"
-msgstr "ベテラン"
+msgstr "海軍将校"
 
 msgid "IDS_ACHIEVEMENT_WARRIOR"
 msgstr "無双"
 
 msgid "IDS_ACHIEVEMENT_WGSPB_STAFF"
-msgstr "Разработчик"
+msgstr "Wargaming 本部スタッフ"
 
 msgid "IDS_ACHIEVEMENT_WG_STAFF"
-msgstr "Wargaming"
+msgstr "Wargaming スタッフ"
 
 msgid "IDS_ACHIEVEMENT_WITHERING"
 msgstr "災害誘発"
@@ -1044,7 +1044,7 @@ msgstr "戦闘"
 msgid "IDS_BATTLEHINT_DESCRIPTION_AP"
 msgstr ""
 "徹甲弾 "
-"(AP) は、敵艦の装甲を貫通してその内部で炸裂することにより、大ダメージを与えます。ただしその信管が適切に作動するのは、装甲が充分に厚かった場合のみです。装甲厚が不足していた場合、砲弾は全貫通を起こし、小さなダメージしか与えることができません。"
+"(AP) は、敵艦艇の装甲を貫通してその内部で炸裂することにより、大ダメージを与えます。ただしその信管が適切に作動するのは、装甲が充分に厚かった場合のみです。装甲厚が不足していた場合、砲弾は全貫通を起こし、小さなダメージしか与えることができません。"
 
 msgid "IDS_BATTLEHINT_DESCRIPTION_BOMBER"
 msgstr "雷撃機は、魚雷による攻撃を行います。"
@@ -1073,7 +1073,7 @@ msgstr "敵航空機に対して効果的な兵器です。"
 msgid "IDS_BATTLEHINT_DESCRIPTION_HE"
 msgstr ""
 "榴弾 "
-"(HE) は、敵艦の表面に接触した際に即時炸裂します。\n"
+"(HE) は、敵艦艇の表面に接触した際に即時炸裂します。\n"
 "火災を引き起こしたりモジュールを機能停止に陥らせたりする確率が高いため、大きなダメージを与え得るポテンシャルを有しています。"
 
 msgid "IDS_BATTLEHINT_DESCRIPTION_TORPEDO"
@@ -3721,7 +3721,7 @@ msgstr "港"
 msgid "IDS_DOCK_AMMO_DESCRIPTION_AP"
 msgstr ""
 "徹甲弾 "
-"(AP) は、敵艦の装甲を貫通してその内部で炸裂することにより、大ダメージを与えます。ただしその信管が適切に作動するのは、装甲が充分に厚かった場合のみです。装甲厚が不足していた場合、砲弾は全貫通を起こし、小さなダメージしか与えることができません。"
+"(AP) は、敵艦艇の装甲を貫通してその内部で炸裂することにより、大ダメージを与えます。ただしその信管が適切に作動するのは、装甲が充分に厚かった場合のみです。装甲厚が不足していた場合、砲弾は全貫通を起こし、小さなダメージしか与えることができません。"
 
 msgid "IDS_DOCK_AMMO_DESCRIPTION_BOMBER"
 msgstr "雷撃機は、魚雷による攻撃を行います。"
@@ -3735,7 +3735,7 @@ msgstr "敵航空機に対し、高い効果を発揮する兵器です。"
 msgid "IDS_DOCK_AMMO_DESCRIPTION_HE"
 msgstr ""
 "榴弾 "
-"(HE) は、敵艦の表面に接触した際に即時炸裂します。\n"
+"(HE) は、敵艦艇の表面に接触した際に即時炸裂します。\n"
 "火災を引き起こしたりモジュールを機能停止に陥らせたりする確率が高いため、大きなダメージを与え得るポテンシャルを有しています。"
 
 msgid "IDS_DOCK_AMMO_DESCRIPTION_TORPEDO"
@@ -12874,7 +12874,7 @@ msgid "IDS_PJAD007_D4Y3"
 msgstr "空技廠 彗星三三型"
 
 msgid "IDS_PJAD008_WAKUSEI"
-msgstr "惑星"
+msgstr "中島 藤花"
 
 msgid "IDS_PJAD009_AICHI_B7A"
 msgstr "愛知 流星"
@@ -14707,7 +14707,7 @@ msgid "IDS_PJUD007_D4Y3"
 msgstr "空技廠 彗星三三型"
 
 msgid "IDS_PJUD008_WAKUSEI"
-msgstr "惑星"
+msgstr "中島 藤花"
 
 msgid "IDS_PJUD009_AICHI_B7A"
 msgstr "愛知 流星"
@@ -16604,7 +16604,7 @@ msgid "IDS_PRSD102"
 msgstr "Storozhevoi"
 
 msgid "IDS_PRSD102_DESCR"
-msgstr "ストロジェヴォイは「中型」駆逐艦として設計され、偵察任務から敵艦との水雷戦および砲戦まで、幅広い任務を考慮していました。高い技術水準で開発された主機により、極めて高い速力を実現していました。"
+msgstr "ストロジェヴォイは「中型」駆逐艦として設計され、偵察任務から敵艦艇との水雷戦および砲戦まで、幅広い任務を考慮していました。高い技術水準で開発された主機により、極めて高い速力を実現していました。"
 
 msgid "IDS_PRSD102_NUMBER"
 msgstr "0"
