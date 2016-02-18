@@ -91,7 +91,7 @@
         
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b. 陽炎の主砲(tech.)
         
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c. 白龍の後期爆撃機「Wakusei」(hist. to-be-corrected)
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c. 白龍の後期爆撃機「Wakusei」(hist. creatively corrected)
         
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;d. 蔵王の主砲「Type 18」&魚雷「Type F3」(hist. creatively corrected);
       
@@ -100,7 +100,7 @@
 
 2. AP tracer color mod `/particles`: a simple recoloring of AP shell tracers to give a ice-blue for own shells and green for others' shells (friendly and hostile).
 
-3. Flag mod `/content/gameplay/common/flags`: a shameless redo of a certain 2K flag mod, using historical navy flags of IJN and KM from Wikipedia.
+3. **WIP**~~Flag mod `/content/gameplay/common/flags`: a shameless redo of a certain 2K flag mod, using historical navy flags of IJN and KM from Wikipedia.~~
 
 4. Camouflage mod `/camouflages.xml` AND `/content/gameplay/common/camouflage`: a systematic recoloring of IJN "pickle-green" camos and others that I possess into more discreet versions. **(pic to-do)**
 
