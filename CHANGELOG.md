@@ -1,5 +1,10 @@
 # Changelog of _implemented_ aka _compiled_ (i.e. not WIP or minute changes in texts) features
 
+20160217 Update for 0.5.3.0
+* Many new texts are added
+* Flag mod is temporarily removed pending update
+* 急降下爆撃機 Wakusei on 白龍 is renamed 中島 藤花
+
 20160211 Small changes to texts are compiled
 ---
 * Fixed mistakes where 敵艦隊 were referred to as 敵艦艇隊
