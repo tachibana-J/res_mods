@@ -761,7 +761,7 @@ msgid "IDS_ALLY_START_CAPTURE_BASE"
 msgstr "味方が陣地の占領を開始"
 
 msgid "IDS_ALLY_START_CAPTURE_BASEWITHPOINTS"
-msgstr "味方がエリアの占領を開始"
+msgstr "味方が陣地の占領を開始"
 
 msgid "IDS_ALLY_START_CAPTURE_CONTROL"
 msgstr "味方が海域の占領を開始"
@@ -1148,7 +1148,7 @@ msgid "IDS_BATTLEHINT_USAGE_TORPEDO"
 msgstr "魚雷の射程には制限があり、雷速は比較的低速です。偏差角度を計算する際には、目標の速度と進路を考慮してください。"
 
 msgid "IDS_BATTLELOADING_CP_TITLE"
-msgstr "キーエリア"
+msgstr "陣地"
 
 msgid "IDS_BATTLES"
 msgstr "戦闘"
@@ -1205,7 +1205,7 @@ msgid "IDS_BATTLES_AT_USA"
 msgstr "%s (アメリカ艦艇)"
 
 msgid "IDS_BATTLES_ON"
-msgstr "戦闘中"
+msgstr "開催中"
 
 msgid "IDS_BATTLES_PER_LEVEL"
 msgstr "%s (Tier %s 艦艇)"
@@ -1657,7 +1657,7 @@ msgid "IDS_CAPTURE_ENEMY_BASE"
 msgstr "敵陣地占領"
 
 msgid "IDS_CAPTURE_POINT"
-msgstr "キーエリア"
+msgstr "陣地"
 
 msgid "IDS_CAPTURE_POINT_MEGABASE_ACTIVATED"
 msgstr "陣地を占領可能"
@@ -1997,7 +1997,7 @@ msgid "IDS_CLUB_CREATING_FIRST_TIME"
 msgstr "最初のチームの作成は無償です。"
 
 msgid "IDS_CLUB_CREATING_INFO"
-msgstr "現段階ではチーム名を入力する必要はありません。チーム名は、「マイチーム」画面でチーム名をクリックすることでいつでも入力/変更可能です。チーム名の変更には、ゲーム通貨が必要です。"
+msgstr "現段階ではチーム名を入力する必要はありません。チーム名は、「貴官のチーム」画面でチーム名をクリックすることでいつでも入力/変更可能です。チーム名の変更には、ゲーム通貨が必要です。"
 
 msgid "IDS_CLUB_CREATION"
 msgstr "チーム作成中"
@@ -3305,7 +3305,7 @@ msgid "IDS_DAILY"
 msgstr "デイリー"
 
 msgid "IDS_DAILY_CLUB_BATTLES"
-msgstr "チームバトルは、次の期間中には毎日開催されます:"
+msgstr "チームバトルは、下の時間帯に毎日開催されます:"
 
 msgid "IDS_DAILY_QUESTS"
 msgstr "デイリーミッション"
@@ -4483,7 +4483,7 @@ msgid "IDS_GOT_ACHIEVEMENT_CHAT"
 msgstr "殿が実績を取得:"
 
 msgid "IDS_GO_TO_MY_CLUBS"
-msgstr "マイチームへ移動"
+msgstr "貴官のチームリストへ移動"
 
 msgid "IDS_GRAPHICS_OPTIONS"
 msgstr "グラフィック"
@@ -5964,7 +5964,7 @@ msgid "IDS_INVITE_TO_CLUB_ACTION_DENY_REASON_LOW_LEVEL"
 msgstr "このプレイヤーは、任務記録レベルが不足しているためチームには参加できません。"
 
 msgid "IDS_INVITE_TO_CLUB_ACTION_DENY_REASON_MAX_CLUBS"
-msgstr "The player already consists in the maximum quantity of teams"
+msgstr "このプレイヤーは、チーム所属の上限に達しています。"
 
 msgid "IDS_INVITE_TO_CLUB_ACTION_DENY_REASON_NO_FREE_PLACE"
 msgstr "チームに空き枠がありません。"
@@ -8178,7 +8178,7 @@ msgid "IDS_MY_CLUBS"
 msgstr "貴官のチーム"
 
 msgid "IDS_MY_CONTACTS"
-msgstr "マイ・コンタクト"
+msgstr "友達"
 
 msgid "IDS_MY_SHIP"
 msgstr "自艦"
@@ -17350,7 +17350,7 @@ msgid "IDS_QUESTION_LEARN_FOR"
 msgstr "スキルを習得しますか? 必要:"
 
 msgid "IDS_QUESTION_PASSWORD_FORGET"
-msgstr "パスワードを忘れた場合は?"
+msgstr "パスワードをお忘れですか?"
 
 msgid "IDS_QUESTION_PURCHASE_AND_INSTALL_FOR"
 msgstr "購入して搭載しますか? 費用:"
@@ -17957,16 +17957,16 @@ msgid "IDS_SCENARIO_DOMINATION"
 msgstr "制圧戦"
 
 msgid "IDS_SCENARIO_DOMINATION_2_BASES"
-msgstr "制圧戦 (キーエリア 2 ヶ所)"
+msgstr "制圧戦 (陣地 2 ヶ所)"
 
 msgid "IDS_SCENARIO_DOMINATION_2_BASES_SECOND"
-msgstr "制圧戦 (キーエリア 2 ヶ所) — セカンド"
+msgstr "制圧戦 (陣地 2 ヶ所) — セカンド"
 
 msgid "IDS_SCENARIO_DOMINATION_3_BASES"
-msgstr "制圧戦 (キーエリア 3 ヶ所)"
+msgstr "制圧戦 (海域 3 ヶ所)"
 
 msgid "IDS_SCENARIO_DOMINATION_4_BASES"
-msgstr "制圧戦 (キーエリア 4 ヶ所)"
+msgstr "制圧戦 (海域 4 ヶ所)"
 
 msgid "IDS_SCENARIO_DOMINATION_RANK_OBSERV0"
 msgstr "制圧戦、トーナメント、観戦者なし"
@@ -17996,10 +17996,10 @@ msgid "IDS_SCENARIO_SKIRMISH_DOMINATION"
 msgstr "制圧戦 — Co-op"
 
 msgid "IDS_SCENARIO_SKIRMISH_DOMINATION_2_BASES"
-msgstr "制圧戦 (キーエリア 2 ヶ所) — Co-op"
+msgstr "制圧戦 (陣地 2 ヶ所) — Co-op"
 
 msgid "IDS_SCENARIO_SKIRMISH_DOMINATION_3_BASES"
-msgstr "制圧戦 (キーエリア 3 ヶ所) — Co-op"
+msgstr "制圧戦 (海域 3 ヶ所) — Co-op"
 
 msgid "IDS_SCENARIO_SKIRMISH_MEGABASE"
 msgstr "陣地戦 — Co-op"
@@ -18029,7 +18029,7 @@ msgid "IDS_SCHEDULLE"
 msgstr "スケジュール"
 
 msgid "IDS_SEARCH_GROUP_IN_FRIENDS"
-msgstr "マイ・コンタクト"
+msgstr "友達"
 
 msgid "IDS_SEARCH_GROUP_IN_IGNOR_LIST"
 msgstr "ブラックリスト内"
@@ -19088,7 +19088,7 @@ msgid "IDS_SKILL_VISIBILITYMODIFIER"
 msgstr "隠蔽処理専門家"
 
 msgid "IDS_SKIRMISH_SCENARIO_DOMINATION_2_BASES"
-msgstr "制圧戦 (キーエリア 2 ヶ所) — Co-op"
+msgstr "制圧戦 (陣地 2 ヶ所) — Co-op"
 
 msgid "IDS_SKY_LIGHT_MAP"
 msgstr "スカイライトマップ"
@@ -92914,7 +92914,7 @@ msgid "IDS_UNLOCKS_DESCRIPTION_19_0"
 msgstr "プレイスタイルに合うチームを作成または選択しましょう。レーティング向上を目指しても良いですし、純粋に楽しんでも良いでしょう。"
 
 msgid "IDS_UNLOCKS_DESCRIPTION_19_1"
-msgstr "マイチーム画面のプロフィールや概要画面の戦績で進行状況を確認しましょう。"
+msgstr "貴官のチーム画面のプロフィールや概要画面の戦績で進行状況を確認しましょう。"
 
 msgid "IDS_UNLOCKS_DESCRIPTION_5_0"
 msgstr ""
