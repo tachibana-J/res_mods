@@ -1,6 +1,15 @@
 # Changelog of _implemented_ aka _compiled_ (i.e. not WIP or minute changes in texts) features
 
+20160219 Small changes to texts are compiled
+---
+* Reworded a few マイxxx words
+* Unified all エリア and キーエリア expressions to 海域 or 陣地
+* Translated a missed tooltip for when a player has reached its three team-battle-teams limit
+* Reworded tooltip for the display of team-battle times
+* Reworded "forgot password" prompt
+
 20160217 Update for 0.5.3.0
+---
 * Many new texts are added
 * Flag mod is temporarily removed pending update
 * 急降下爆撃機 Wakusei on 白龍 is renamed 中島 藤花
