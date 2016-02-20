@@ -169,7 +169,7 @@ msgstr "任意の戦功章を %(achievementCount)s 回取得する。"
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_BROTHERS_IN_ARMS"
 msgstr ""
 "戦隊でプレイし、敵艦艇 "
-"6 隻以上にダメージを与える。戦隊メンバー全員による与ダメージの合計が、敵チーム全艦艇の合計 "
+"6 隻以上にダメージを与える。戦隊メンバー全員による与ダメージの合計が、敵艦隊全艦艇の合計 "
 "HP の %(damageRatio_percent)s を上回ること。"
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_BW_PARTICIPANT"
@@ -245,7 +245,7 @@ msgstr ""
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_MAIN_CALIBER"
 msgstr ""
 "%(victimsCount)"
-"s 隻以上の敵艦艇にダメージを与える。与ダメージが敵チーム全艦艇の合計 "
+"s 隻以上の敵艦艇にダメージを与える。与ダメージが敵艦隊全艦艇の合計 "
 "HP の %(damageRatio_percent)s を上回ること。"
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_MERCENARY"
@@ -307,7 +307,7 @@ msgstr ""
 "1 隻撃沈した上で、敵から発見されていない状態を維持する。"
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_ST_PARTICIPANT"
-msgstr "Спасибо от разработки за участие в супер-тесте"
+msgstr "開発チームは、スーパーテスターの皆様に感謝致します。"
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_SUPPORT"
 msgstr ""
@@ -401,7 +401,7 @@ msgid "IDS_ACHIEVEMENT_MULTIPLE_PER_BATTLE"
 msgstr "1 戦中に複数回取得可能"
 
 msgid "IDS_ACHIEVEMENT_NEVER_ENOUGH_MONEY"
-msgstr "経済学者"
+msgstr "国家予算"
 
 msgid "IDS_ACHIEVEMENT_NO_DAY_WITHOUT_ADVENTURE"
 msgstr "日々精進"
@@ -488,10 +488,10 @@ msgid "IDS_ACHIEVEMENT_WARRIOR"
 msgstr "無双"
 
 msgid "IDS_ACHIEVEMENT_WGSPB_STAFF"
-msgstr "Wargaming 本部スタッフ"
+msgstr "WG 本部スタッフ"
 
 msgid "IDS_ACHIEVEMENT_WG_STAFF"
-msgstr "Wargaming スタッフ"
+msgstr "WG スタッフ"
 
 msgid "IDS_ACHIEVEMENT_WITHERING"
 msgstr "災害誘発"
@@ -587,7 +587,7 @@ msgid "IDS_ACTION_LOG_HARD_DAMAGE_LEVEL"
 msgstr "重大な損害"
 
 msgid "IDS_ACTION_LOG_LANDING_STRIP_CRIT"
-msgstr "飛行甲板、機能停止"
+msgstr "飛行甲板、使用不能"
 
 msgid "IDS_ACTION_LOG_LANDING_STRIP_DAMAGED"
 msgstr "飛行甲板損傷"
@@ -770,7 +770,7 @@ msgid "IDS_ALLY_START_CAPTURE_MEGABASE"
 msgstr "味方が陣地の占領を開始"
 
 msgid "IDS_ALLY_TEAM"
-msgstr "味方チーム"
+msgstr "味方艦隊"
 
 msgid "IDS_ALL_ACHIEVEMENTS"
 msgstr "全ての実績"
@@ -854,7 +854,7 @@ msgid "IDS_APPLY"
 msgstr "適用"
 
 msgid "IDS_APPLY_DEFAULT"
-msgstr "標準"
+msgstr "リセット"
 
 msgid "IDS_APPOINT_PLAYER_TO_COMMANDER"
 msgstr "指揮官に任命"
@@ -1003,10 +1003,10 @@ msgid "IDS_BACKTODOCKBUTTON"
 msgstr "港に戻る"
 
 msgid "IDS_BAD_BEHAVIOUR"
-msgstr "チャットでのマナー違反"
+msgstr "チャットでの規則違反"
 
 msgid "IDS_BAD_PLAYER"
-msgstr "不適切なプレイ"
+msgstr "不当なプレイ"
 
 msgid "IDS_BARRACKS"
 msgstr "艦長を営舎に送る"
@@ -1095,7 +1095,7 @@ msgid "IDS_BATTLEHINT_TYPE_CONSUMABLE_REGENCREW"
 msgstr "修理班"
 
 msgid "IDS_BATTLEHINT_TYPE_CONSUMABLE_SCOUT"
-msgstr "着弾観測機"
+msgstr "水上偵察機"
 
 msgid "IDS_BATTLEHINT_TYPE_CONSUMABLE_SMOKEGENERATOR"
 msgstr "発煙装置"
@@ -1217,7 +1217,7 @@ msgid "IDS_BATTLE_CHAT_TEAM"
 msgstr "味方宛"
 
 msgid "IDS_BATTLE_DESCRIPTION"
-msgstr "2 チームが戦場で対峙します。ミッション利用可能。"
+msgstr "二つの艦隊が戦場で対峙します。ミッション利用可能。"
 
 msgid "IDS_BATTLE_EFFECTIVENESS"
 msgstr "戦績"
@@ -1256,13 +1256,13 @@ msgid "IDS_BATTLE_STATS_ALIVE_TIME"
 msgstr "継戦時間"
 
 msgid "IDS_BATTLE_STATS_ALLIES_CAPTURED_BASE"
-msgstr "味方チームが陣地を占領"
+msgstr "味方艦隊が陣地を占領"
 
 msgid "IDS_BATTLE_STATS_ALLIES_MISSION_COMPLETE"
-msgstr "味方チームがミッションを達成。"
+msgstr "味方艦隊がミッションを達成。"
 
 msgid "IDS_BATTLE_STATS_ALLIES_MISSION_COMPLETE_ON_TIMEOUT"
-msgstr "ポイント優勢により味方チーム勝利"
+msgstr "ポイント優勢により味方艦隊勝利"
 
 msgid "IDS_BATTLE_STATS_ALLIES_SUNK"
 msgstr "味方艦艇全滅"
@@ -1343,13 +1343,13 @@ msgid "IDS_BATTLE_STATS_ENEMIES"
 msgstr "敵"
 
 msgid "IDS_BATTLE_STATS_ENEMIES_CAPTURED_BASE"
-msgstr "敵チームが陣地を占領"
+msgstr "敵艦隊が陣地を占領"
 
 msgid "IDS_BATTLE_STATS_ENEMIES_MISSION_COMPLETE"
-msgstr "敵チームがミッションを達成"
+msgstr "敵艦隊がミッションを達成"
 
 msgid "IDS_BATTLE_STATS_ENEMIES_MISSION_COMPLETE_ON_TIMEOUT"
-msgstr "ポイント優勢により敵チーム勝利"
+msgstr "ポイント優勢により敵艦隊勝利"
 
 msgid "IDS_BATTLE_STATS_ENEMIES_SUNK"
 msgstr "敵艦隊殲滅"
@@ -1445,7 +1445,7 @@ msgid "IDS_BATTLE_STATS_TEAMMATES"
 msgstr "味方"
 
 msgid "IDS_BATTLE_STATS_TEAM_REPORT"
-msgstr "チームスコア"
+msgstr "艦隊スコア"
 
 msgid "IDS_BATTLE_STATS_TIME_AND_SPACE"
 msgstr "時間と距離"
@@ -1705,13 +1705,13 @@ msgid "IDS_CHALLENGE_ARPEGGIO"
 msgstr "アルペジオ・チャレンジ"
 
 msgid "IDS_CHANGE_CLUB_LEADER"
-msgstr "リーダー権限を委譲"
+msgstr "司令官権限を委譲"
 
 msgid "IDS_CHANGE_PORT_HINT_DIVISION"
 msgstr "戦隊に所属中に別の港を選択するには、「準備中」をクリック"
 
 msgid "IDS_CHANGE_PORT_HINT_PARTY"
-msgstr "港を変更するには、チームバトルでステータスを「準備中」に設定してください。"
+msgstr "港を変更するには、艦隊戦でステータスを「準備中」に設定してください。"
 
 msgid "IDS_CHANNELS"
 msgstr "チャンネルに追加"
@@ -1857,10 +1857,10 @@ msgid "IDS_CHOOSE_MODERNIZATION"
 msgstr "アップグレードを選択"
 
 msgid "IDS_CHOOSE_NEW_LEADER"
-msgstr "チームリーダーに任命するプレイヤーを選択してください。"
+msgstr "艦隊司令官に任命するプレイヤーを選択してください。"
 
 msgid "IDS_CHOOSE_NEW_LEADER_INFO"
-msgstr "貴官に代わってチームリーダーになるプレイヤーを選択してください。"
+msgstr "貴官に代わって艦隊司令官に務めるプレイヤーを選択してください。"
 
 msgid "IDS_CHOOSE_PORT_HEADER"
 msgstr "港を選択"
@@ -1899,27 +1899,27 @@ msgid "IDS_CLOSE_UPPER_CASE"
 msgstr "閉じる"
 
 msgid "IDS_CLUBS"
-msgstr "チーム"
+msgstr "艦隊"
 
 msgid "IDS_CLUBS_INTRO_0_0"
 msgstr ""
-"7 名構成の常設チームでチームバトルに参加しましょう。各チームには、メンバー "
+"7 名構成の常設艦隊で艦隊戦に参加しましょう。各艦隊には、メンバー "
 "7 名に加え、リザーブプレイヤー用に "
 "3 名分の空き枠があります。"
 
 msgid "IDS_CLUBS_INTRO_0_1"
-msgstr "フレンドを自分のチームに招待するか、他のプレイヤーからの招待を承諾しましょう。"
+msgstr "フレンドを自分の艦隊に招待するか、他のプレイヤーからの招待を承諾しましょう。"
 
 msgid "IDS_CLUBS_INTRO_1_0"
-msgstr "チームバトルは、各チーム 7 名で戦います。"
+msgstr "艦隊戦は、各艦隊 7 名で戦います。"
 
 msgid "IDS_CLUBS_INTRO_1_1"
 msgstr ""
-"既にチームに所属している場合は、「準備完了!」をクリックしてチーム招集プロセスを開始しましょう。\n"
-"チームバトルが自動選択され、招集メッセージがチームメンバー全員に送信されます。"
+"既に艦隊に所属している場合は、「準備完了!」をクリックして艦隊集結を開始しましょう。\n"
+"艦隊戦が自動選択され、集結メッセージが艦隊メンバー全員に送信されます。"
 
 msgid "IDS_CLUBS_INTRO_2_0"
-msgstr "チームに戦闘準備を完了しているメンバーが不足している場合は、連絡先リストから傭兵を招待することもできますし、人数不足のまま戦闘に参加することもできます。"
+msgstr "艦隊に戦闘準備を完了しているメンバーが不足している場合は、連絡先リストから傭兵を招待することもできますし、人数不足のまま戦闘に参加することもできます。"
 
 msgid "IDS_CLUBS_INTRO_2_1"
 msgstr ""
@@ -1928,133 +1928,133 @@ msgstr ""
 "s 名です。戦闘待機画面で自動的に傭兵が追加されます。"
 
 msgid "IDS_CLUBS_INTRO_3_0"
-msgstr "傭兵としてチームバトルに参加することもできます。その場合、空き枠があるランダムなチームに自動的に参加します。"
+msgstr "傭兵として艦隊戦に参加することもできます。その場合、空き枠があるランダムな艦隊に自動的に参加します。"
 
 msgid "IDS_CLUBS_INTRO_3_1"
-msgstr "手順は、チームバトルを選択して「戦闘開始!」をクリックするだけです。"
+msgstr "手順は、艦隊戦を選択して「戦闘開始!」をクリックするだけです。"
 
 msgid "IDS_CLUBS_INTRO_4_0"
-msgstr "チームバトルでの健闘を!"
+msgstr "艦隊戦での健闘を!"
 
 msgid "IDS_CLUB_BATTLE"
-msgstr "チームバトル"
+msgstr "艦隊戦"
 
 msgid "IDS_CLUB_BATTLES"
-msgstr "チームバトル"
+msgstr "艦隊戦"
 
 msgid "IDS_CLUB_BATTLES_ALLOWED_SHIPS_FROM"
 msgstr ""
-"チームバトルに参加できるのは、Tier %(levelMin)"
+"艦隊戦に参加できるのは、Tier %(levelMin)"
 "r 以上の艦艇のみです。"
 
 msgid "IDS_CLUB_BATTLES_ALLOWED_SHIPS_FROM_TO"
 msgstr ""
-"チームバトルに参加できるのは、Tier %(levelMin)r - %(levelMax)"
+"艦隊戦に参加できるのは、Tier %(levelMin)r - %(levelMax)"
 "r 艦艇のみです。"
 
 msgid "IDS_CLUB_BATTLES_ALLOWED_SHIPS_TO"
 msgstr ""
-"チームバトルに参加できるのは、Tier %(levelMax)"
+"艦隊戦に参加できるのは、Tier %(levelMax)"
 "r 以下の艦艇のみです。"
 
 msgid "IDS_CLUB_BATTLES_COUNT"
 msgstr "参加戦闘数"
 
 msgid "IDS_CLUB_BATTLES_ENDED"
-msgstr "チームバトルの現セッションは終了しました"
+msgstr "艦隊戦の現セッションは終了しました"
 
 msgid "IDS_CLUB_BATTLES_SEASON_OFF"
-msgstr "チームバトルは現在ご利用頂けません。"
+msgstr "艦隊戦は現在ご利用頂けません。"
 
 msgid "IDS_CLUB_BATTLE_ACC"
-msgstr "チームバトル"
+msgstr "艦隊戦"
 
 msgid "IDS_CLUB_BATTLE_DESCRIPTION"
-msgstr "チーム同士で対戦"
+msgstr "既定の艦隊同士で対戦"
 
 msgid "IDS_CLUB_BATTLE_INFO_0"
 msgstr "招待を待つ必要はありません。"
 
 msgid "IDS_CLUB_BATTLE_INFO_1"
-msgstr "チームバトルに参加すると、空き枠があるランダムなチームに自動的に参加します。"
+msgstr "艦隊戦に参加すると、空き枠があるランダムな艦隊に自動的に参加します。"
 
 msgid "IDS_CLUB_BATTLE_RESULTS_MODAL_HEADER"
-msgstr "チームバトル結果"
+msgstr "艦隊戦結果"
 
 msgid "IDS_CLUB_CONTEXT_MENU_HINT"
-msgstr "クリックしてチームから脱退"
+msgstr "クリックして艦隊から脱退"
 
 msgid "IDS_CLUB_CONTEXT_MENU_HINT_LEAD"
-msgstr "クリックしてチームを改名するか、チームから脱退"
+msgstr "クリックして艦隊を改名するか、艦隊から脱退"
 
 msgid "IDS_CLUB_CREATED"
-msgstr "チーム %(clubName)s 作成完了"
+msgstr "艦隊 %(clubName)s 作成完了"
 
 msgid "IDS_CLUB_CREATING"
-msgstr "チーム作成中"
+msgstr "艦隊作成中"
 
 msgid "IDS_CLUB_CREATING_FIRST_TIME"
-msgstr "最初のチームの作成は無償です。"
+msgstr "最初の艦隊の作成は無償です。"
 
 msgid "IDS_CLUB_CREATING_INFO"
-msgstr "現段階ではチーム名を入力する必要はありません。チーム名は、「貴官のチーム」画面でチーム名をクリックすることでいつでも入力/変更可能です。チーム名の変更には、ゲーム通貨が必要です。"
+msgstr "現段階では艦隊名を入力する必要はありません。艦隊名は、「貴官の艦隊」画面で艦隊名をクリックすることでいつでも入力/変更可能です。艦隊名の変更には、ゲーム通貨が必要です。"
 
 msgid "IDS_CLUB_CREATION"
-msgstr "チーム作成中"
+msgstr "艦隊作成中"
 
 msgid "IDS_CLUB_CREATOR"
 msgstr "作成者"
 
 msgid "IDS_CLUB_CURRENT_TITLE"
-msgstr "現在のチーム名"
+msgstr "現在の艦隊名"
 
 msgid "IDS_CLUB_ERROR_ALREADY_EXIST"
-msgstr "このチーム名は既に使用されています。別のチーム名を入力してください。"
+msgstr "この艦隊名は既に使用されています。別の艦隊名を入力してください。"
 
 msgid "IDS_CLUB_ERROR_RESTRICTED_SYMBOLS"
-msgstr "チーム名に無効な文字が含まれています。別のチーム名を入力してください。"
+msgstr "艦隊名に無効な文字が含まれています。別の艦隊名を入力してください。"
 
 msgid "IDS_CLUB_ERROR_TOO_SHORT_TITLE"
 msgstr ""
-"チーム名は %(min)d - %(max)d 文字である必要があります。"
+"艦隊名は %(min)d - %(max)d 文字である必要があります。"
 
 msgid "IDS_CLUB_LEADER_DESCRIPTION_0"
-msgstr "リーダーは、チーム名を変更したり、投票なしでプレイヤーを招待してチームに加えたりできます。"
+msgstr "司令官は、艦隊名を変更したり、投票なしでプレイヤーを招待して艦隊に加えたりできます。"
 
 msgid "IDS_CLUB_LEADER_DESCRIPTION_1"
-msgstr "リーダーをチームから除外するには、チームメンバー全員が除外に賛成する必要があります。"
+msgstr "司令官を艦隊から除外するには、艦隊メンバー全員が除外に賛成する必要があります。"
 
 msgid "IDS_CLUB_LEADER_DESCRIPTION_2"
-msgstr "リーダー権限を他のチームメンバーに委譲するには、プレイヤー名を右リックし、コンテキストメニューで「リーダー権限を委譲」を選択してください。"
+msgstr "司令官権限を他の艦隊メンバーに委譲するには、プレイヤー名を右リックし、コンテキストメニューで「司令官権限を委譲」を選択してください。"
 
 msgid "IDS_CLUB_LEADER_HINT"
-msgstr "チームリーダー"
+msgstr "艦隊司令官"
 
 msgid "IDS_CLUB_NAME"
-msgstr "チーム名"
+msgstr "艦隊名"
 
 msgid "IDS_CLUB_NAME_CHANGED"
-msgstr "チーム名変更完了"
+msgstr "艦隊名変更完了"
 
 msgid "IDS_CLUB_NEW_TITLE"
-msgstr "新チーム名"
+msgstr "新艦隊名"
 
 msgid "IDS_CLUB_RENAME_RESTRICTION"
-msgstr "次回以降のチーム名変更は有償になります。"
+msgstr "次回以降の艦隊名変更は有償になります。"
 
 msgid "IDS_CLUB_RENAMING"
-msgstr "チーム名を変更中"
+msgstr "艦隊名を変更中"
 
 msgid "IDS_CLUB_TITLE"
-msgstr "チーム名"
+msgstr "艦隊名"
 
 msgid "IDS_CLUB_TITLE_RESTRICTION"
 msgstr ""
-"チーム名は %(min)d - %(max)"
+"艦隊名は %(min)d - %(max)"
 "d 文字である必要があり、特殊文字は使用できません。"
 
 msgid "IDS_CLUB_YOU_ARE_GOING_WITH"
-msgstr "貴官が共に戦闘に参加するチームです。"
+msgstr "貴官が共に戦闘に参加する艦隊です。"
 
 msgid "IDS_CMD_GAME_MENU_HOTKEY"
 msgstr "Esc キーでメインメニューを開く"
@@ -2111,7 +2111,7 @@ msgid "IDS_COACH_BATTLETYPE_HEADER"
 msgstr "ランダム戦をお試しください"
 
 msgid "IDS_COACH_BATTLETYPE_HINT_0"
-msgstr "この戦闘タイプでは、プレイヤーチーム同士で対戦します。"
+msgstr "この戦闘タイプでは、プレイヤー艦隊同士で対戦します。"
 
 msgid "IDS_COACH_BATTLETYPE_HINT_1"
 msgstr "戦闘タイプの一覧から「ランダム戦」を選択してください。"
@@ -2168,7 +2168,7 @@ msgid "IDS_COMPLAIN_ACCEPTED"
 msgstr "通報送信完了"
 
 msgid "IDS_COMPLAIN_DISABLED_FOR_CLUB_BATTLES"
-msgstr "チームバトルでは通報はご利用頂けません。"
+msgstr "艦隊戦では通報はご利用頂けません。"
 
 msgid "IDS_COMPLAIN_DISABLED_FOR_DIVISION_MEMBERS"
 msgstr ""
@@ -2307,7 +2307,7 @@ msgstr ""
 "全ての艦艇の商標および商標権は、それらの各所有者に帰属します。"
 
 msgid "IDS_CONTEXT_ACTION_NOT_AVAILABLE_IN_MATCHMAKER"
-msgstr "チームは港で管理することができます。"
+msgstr "艦隊は港で管理することができます。"
 
 msgid "IDS_CONTINUE"
 msgstr "続行"
@@ -2351,7 +2351,7 @@ msgid "IDS_COOPERATIVE_BATTLE_ACC"
 msgstr "Co-op 戦"
 
 msgid "IDS_COOPERATIVE_BATTLE_DESCRIPTION"
-msgstr "プレイヤーチームとボットチームとの対戦。デイリーミッション利用不能"
+msgstr "プレイヤー艦隊とボット艦隊との対戦。デイリーミッション利用不能"
 
 msgid "IDS_COST"
 msgstr "コスト:"
@@ -2372,7 +2372,7 @@ msgid "IDS_CP_REWARD_FOR_HOLDING"
 msgstr "+ %s / %s %s"
 
 msgid "IDS_CP_VICTORY_CONDITION"
-msgstr "敵チームより先に %s %s 取得せよ"
+msgstr "敵艦隊より先に %s %s 取得せよ"
 
 msgid "IDS_CREATE"
 msgstr "作成"
@@ -2390,13 +2390,13 @@ msgid "IDS_CREATE_CHANNEL"
 msgstr "チャンネル作成"
 
 msgid "IDS_CREATE_CLUB"
-msgstr "チーム作成"
+msgstr "艦隊作成"
 
 msgid "IDS_CREATE_DIVISION"
 msgstr "戦隊の作成"
 
 msgid "IDS_CREATE_PARTY"
-msgstr "チーム招集"
+msgstr "艦隊集結"
 
 msgid "IDS_CREATION_DATE"
 msgstr "作成日"
@@ -3225,37 +3225,37 @@ msgid "IDS_CR_CHANGE"
 msgstr "適用"
 
 msgid "IDS_CURRENT_LEAGUE_0"
-msgstr "このチームはプレミアリーグ所属です。"
+msgstr "この艦隊はプレミアリーグ所属です。"
 
 msgid "IDS_CURRENT_LEAGUE_1"
-msgstr "このチームはファーストリーグ所属です。"
+msgstr "この艦隊はファーストリーグ所属です。"
 
 msgid "IDS_CURRENT_LEAGUE_10"
-msgstr "このチームは第 10 リーグ所属です。"
+msgstr "この艦隊は第 10 リーグ所属です。"
 
 msgid "IDS_CURRENT_LEAGUE_2"
-msgstr "このチームはセカンドリーグ所属です。"
+msgstr "この艦隊はセカンドリーグ所属です。"
 
 msgid "IDS_CURRENT_LEAGUE_3"
-msgstr "このチームはサードリーグ所属です。"
+msgstr "この艦隊はサードリーグ所属です。"
 
 msgid "IDS_CURRENT_LEAGUE_4"
-msgstr "このチームは第 4 リーグ所属です。"
+msgstr "この艦隊は第 4 リーグ所属です。"
 
 msgid "IDS_CURRENT_LEAGUE_5"
-msgstr "このチームは第 5 リーグ所属です。"
+msgstr "この艦隊は第 5 リーグ所属です。"
 
 msgid "IDS_CURRENT_LEAGUE_6"
-msgstr "このチームは第 6 リーグ所属です。"
+msgstr "この艦隊は第 6 リーグ所属です。"
 
 msgid "IDS_CURRENT_LEAGUE_7"
-msgstr "このチームは第 7 リーグ所属です。"
+msgstr "この艦隊は第 7 リーグ所属です。"
 
 msgid "IDS_CURRENT_LEAGUE_8"
-msgstr "このチームは第 8 リーグ所属です。"
+msgstr "この艦隊は第 8 リーグ所属です。"
 
 msgid "IDS_CURRENT_LEAGUE_9"
-msgstr "このチームは第 9 リーグ所属です。"
+msgstr "この艦隊は第 9 リーグ所属です。"
 
 msgid "IDS_CURRENT_PROGRESS"
 msgstr "現在の進捗"
@@ -3270,25 +3270,25 @@ msgid "IDS_CUR_COUNT_AIRCARRIER_IN_DIVISION"
 msgstr "戦隊の航空母艦"
 
 msgid "IDS_CUR_COUNT_AIRCARRIER_IN_PARTY"
-msgstr "チームの航空母艦"
+msgstr "艦隊の航空母艦"
 
 msgid "IDS_CUR_COUNT_BATTLESHIP_IN_DIVISION"
 msgstr "戦隊の戦艦"
 
 msgid "IDS_CUR_COUNT_BATTLESHIP_IN_PARTY"
-msgstr "チームの戦艦"
+msgstr "艦隊の戦艦"
 
 msgid "IDS_CUR_COUNT_CRUISER_IN_DIVISION"
 msgstr "戦隊の巡洋艦"
 
 msgid "IDS_CUR_COUNT_CRUISER_IN_PARTY"
-msgstr "チームの巡洋艦"
+msgstr "艦隊の巡洋艦"
 
 msgid "IDS_CUR_COUNT_DESTROYER_IN_DIVISION"
 msgstr "戦隊の駆逐艦"
 
 msgid "IDS_CUR_COUNT_DESTROYER_IN_PARTY"
-msgstr "チームの駆逐艦"
+msgstr "艦隊の駆逐艦"
 
 msgid "IDS_CUSTOMROOMSDESCRIPTION1LABEL"
 msgstr ""
@@ -3305,7 +3305,7 @@ msgid "IDS_DAILY"
 msgstr "デイリー"
 
 msgid "IDS_DAILY_CLUB_BATTLES"
-msgstr "チームバトルは、下の時間帯に毎日開催されます:"
+msgstr "艦隊戦は、下の時間帯に毎日開催されます:"
 
 msgid "IDS_DAILY_QUESTS"
 msgstr "デイリーミッション"
@@ -3464,12 +3464,12 @@ msgid "IDS_DEMOBILIZATION_CANCELLED"
 msgstr "解任をキャンセルしました"
 
 msgid "IDS_DEPOSE_CLUB_LEADER"
-msgstr "リーダーを解任"
+msgstr "司令官を解任"
 
 msgid "IDS_DEPOSE_CLUB_LEADER_HINT"
 msgstr ""
-"リーダーを解任するための投票は、メンバー数 "
-"4 名以上のチームでご利用頂けます。"
+"司令官を解任するための投票は、メンバー数 "
+"4 名以上の艦隊でご利用頂けます。"
 
 msgid "IDS_DESCRIPTION_DAMAGE_SHIPS"
 msgid_plural "IDS_DESCRIPTION_DAMAGE_SHIPS"
@@ -3668,10 +3668,10 @@ msgid "IDS_DISMISS_DIVISION_QUESTION"
 msgstr "戦隊を解散しますか?"
 
 msgid "IDS_DISMISS_PARTY"
-msgstr "戦闘のためのプレイヤー招集を中止"
+msgstr "戦闘のためのプレイヤー集結を中止"
 
 msgid "IDS_DISMISS_PARTY_QUESTION"
-msgstr "チームバトルのためのプレイヤー招集を中止しますか?"
+msgstr "艦隊戦のためのプレイヤー集結を中止しますか?"
 
 msgid "IDS_DIVEBOMBER"
 msgstr "急降下爆撃機"
@@ -3680,7 +3680,7 @@ msgid "IDS_DIVISION"
 msgstr "戦隊"
 
 msgid "IDS_DIVISIONS_ARE_NOT_ALLOWED_IN_CLUB_BATTLES"
-msgstr "戦隊は、チームバトルには参加できません"
+msgstr "戦隊は、艦隊戦には参加できません"
 
 msgid "IDS_DIVISIONS_ARE_NOT_ALLOWED_IN_INTRO_MISSION_DESC"
 msgstr "入門ミッションは戦隊ではご利用頂けません。別の戦闘タイプを選択してください。"
@@ -4011,7 +4011,7 @@ msgid "IDS_ENTER_CHANNEL_TITLE"
 msgstr "チャンネル名を入力"
 
 msgid "IDS_ENTER_CLUB_TITLE"
-msgstr "チーム名を入力してください"
+msgstr "艦隊名を入力してください"
 
 msgid "IDS_ENTER_FORUM"
 msgstr "フォーラム"
@@ -4158,23 +4158,23 @@ msgid "IDS_EXCHANGE_UPPER_CASE"
 msgstr "変換"
 
 msgid "IDS_EXCLUDE_LEADER_FROM_CLUB"
-msgstr "リーダーをチームから除外"
+msgstr "司令官を艦隊から除外"
 
 msgid "IDS_EXCLUDE_PLAYER_FROM_CLUB"
-msgstr "プレイヤーをチームから除外"
+msgstr "プレイヤーを艦隊から除外"
 
 msgid "IDS_EXCLUDE_PLAYER_FROM_DIVISION_QUESTION"
 msgstr "<h3>%(playerName)s</h3> 殿を戦隊から外しますか?"
 
 msgid "IDS_EXCLUDE_PLAYER_FROM_PARTY_QUESTION"
 msgstr ""
-"<h3>%(playerName)s</h3> 殿をチームバトルから外しますか?"
+"<h3>%(playerName)s</h3> 殿を艦隊戦から外しますか?"
 
 msgid "IDS_EXCLUDE_PLAYER_OUT_OF_DIVISION"
 msgstr "戦隊から除外"
 
 msgid "IDS_EXCLUDE_PLAYER_OUT_OF_PARTY"
-msgstr "チームバトルから除外"
+msgstr "艦隊戦から除外"
 
 msgid "IDS_EXITBATTLE"
 msgstr "港に戻る"
@@ -4325,7 +4325,7 @@ msgid "IDS_FREE_MERCENARIES"
 msgstr "フリー傭兵"
 
 msgid "IDS_FREE_MERCENARIES_DESCRIPTION"
-msgstr "フリー傭兵は、人数不足のランダムなチームに自動的に分配されます。"
+msgstr "フリー傭兵は、人数不足のランダムな艦隊に自動的に分配されます。"
 
 msgid "IDS_FREE_PLACES"
 msgstr "空室"
@@ -4352,16 +4352,16 @@ msgid "IDS_FULLSCREEN_BORDERLESS"
 msgstr "ボーダーレス・ウィンドウ"
 
 msgid "IDS_FULL_PARTIES"
-msgstr "チーム"
+msgstr "艦隊"
 
 msgid "IDS_FULL_PARTIES_DESCRIPTION"
-msgstr "戦闘参加待機中のフルメンバーチーム"
+msgstr "戦闘参加待機中のフルメンバー艦隊"
 
 msgid "IDS_GAMELOGIC_PRESET"
 msgstr "小型オブジェクトのアニメーション"
 
 msgid "IDS_GAMEMODE_AWESOME_DESCRIPTION"
-msgstr "重要海域を占領し、敵艦艇を撃沈して、敵チームより先にポイントを稼げ"
+msgstr "重要海域を占領し、敵艦艇を撃沈して、敵艦隊より先にポイントを稼げ"
 
 msgid "IDS_GAMEMODE_AWESOME_TITLE"
 msgstr "制圧戦"
@@ -4418,10 +4418,10 @@ msgid "IDS_GAMMA"
 msgstr "ガンマ"
 
 msgid "IDS_GATHERING_PARTY_TO_BATTLE"
-msgstr "チームは戦闘に備え招集中"
+msgstr "艦隊は戦闘に備え集結中"
 
 msgid "IDS_GATHERING_TO_BATTLE"
-msgstr "招集中"
+msgstr "集結中"
 
 msgid "IDS_GERMANY"
 msgstr "独逸"
@@ -4483,13 +4483,13 @@ msgid "IDS_GOT_ACHIEVEMENT_CHAT"
 msgstr "殿が実績を取得:"
 
 msgid "IDS_GO_TO_MY_CLUBS"
-msgstr "貴官のチームリストへ移動"
+msgstr "貴官の艦隊リストへ移動"
 
 msgid "IDS_GRAPHICS_OPTIONS"
 msgstr "グラフィック"
 
 msgid "IDS_GREETINGS_ON_CLUB_SCREEN"
-msgstr "チーム画面へようこそ"
+msgstr "艦隊画面へようこそ"
 
 msgid "IDS_GROUP_TITLE_IGNOR_LIST"
 msgstr "ブラックリスト"
@@ -5123,7 +5123,7 @@ msgid "IDS_HINT_CHECKBOX_FILTER_CLASS"
 msgstr "この艦種の艦艇を表示"
 
 msgid "IDS_HINT_CHECKBOX_FILTER_CLUB"
-msgstr "チームバトルに適合する艦艇を表示"
+msgstr "艦隊戦に適合する艦艇を表示"
 
 msgid "IDS_HINT_CHECKBOX_FILTER_ELITE"
 msgstr "エリート艦艇を表示"
@@ -5170,7 +5170,7 @@ msgid "IDS_HINT_CREATE_DIVISION"
 msgstr "戦隊で他のプレイヤーと共同でプレイ"
 
 msgid "IDS_HINT_CREATE_PARTY"
-msgstr "他のプレイヤーと共にチームでプレイ"
+msgstr "他のプレイヤーと共に艦隊でプレイ"
 
 msgid "IDS_HINT_CREWEXP_TO_ADAPTATION"
 msgstr "再訓練完了のための所要 EXP"
@@ -5244,13 +5244,13 @@ msgid "IDS_HINT_INVITE_PLAYERS"
 msgstr "連絡先のプレイヤーを招待するか、名前でプレイヤーを検索"
 
 msgid "IDS_HINT_INVITE_PLAYERS_TO_CLUB"
-msgstr "プレイヤーを常駐メンバーとしてチームに招待"
+msgstr "プレイヤーを常駐メンバーとして艦隊に招待"
 
 msgid "IDS_HINT_INVITE_PLAYERS_TO_PARTY_0"
-msgstr "プレイヤーにチームバトルへの招待を送信"
+msgstr "プレイヤーに艦隊戦への招待を送信"
 
 msgid "IDS_HINT_INVITE_PLAYERS_TO_PARTY_1"
-msgstr "チームメンバーではないプレイヤーは、傭兵としてチームに招待"
+msgstr "艦隊メンバーではないプレイヤーは、傭兵として艦隊に招待"
 
 msgid "IDS_HINT_IS_NOT_READY"
 msgstr "戦隊での戦闘準備中。艦の構成を変更可能です。"
@@ -5274,7 +5274,7 @@ msgid "IDS_HINT_LEFT_CLICK_TO_IVITE_TO_CHANNEL"
 msgstr "プレイヤーをチャンネルに招待"
 
 msgid "IDS_HINT_LEFT_CLICK_TO_IVITE_TO_CLUB"
-msgstr "チームへ招待"
+msgstr "艦隊へ招待"
 
 msgid "IDS_HINT_LEFT_CLICK_TO_IVITE_TO_DIVISION"
 msgstr "戦隊に招待"
@@ -5714,13 +5714,13 @@ msgid "IDS_INFO_TURRET_IS_DESCTRUCTED"
 msgstr "主砲塔大破"
 
 msgid "IDS_INFO_VP_ALLY_CAPTURED_BASE"
-msgstr "味方チームが海域 %s を占領!"
+msgstr "味方艦隊が海域 %s を占領!"
 
 msgid "IDS_INFO_VP_ENEMY_CAPTURED_BASE"
-msgstr "敵チームが海域 %s を占領!"
+msgstr "敵艦隊が海域 %s を占領!"
 
 msgid "IDS_INFO_VP_ENEMY_START_RECAPTURE_BASE"
-msgstr "敵チームが海域 %s の占領を開始!"
+msgstr "敵艦隊が海域 %s の占領を開始!"
 
 msgid "IDS_INITIATOR"
 msgstr "開始者:"
@@ -5828,7 +5828,7 @@ msgid "IDS_INSTRUCTION_NO_PLAYERS_WANTED_IN_DIVISION"
 msgstr "戦隊への参加希望プレイヤーは現在いません。"
 
 msgid "IDS_INSTRUCTION_NO_PLAYERS_WANTED_IN_PARTY"
-msgstr "現在、チームバトルへの参加希望プレイヤーはいません"
+msgstr "現在、艦隊戦への参加希望プレイヤーはいません"
 
 msgid "IDS_INSTRUCTION_OPEN_CONSUMABLES"
 msgstr "消耗品リストを開く"
@@ -5862,10 +5862,10 @@ msgid "IDS_INSTRUCTION_UNABLE_TO_TAKE_AWAY_CAMO"
 msgstr "搭載中の迷彩は戦闘後に消費されます。自動補給が有効な場合は、自動で再搭載されます。"
 
 msgid "IDS_INSTRUCTION_YOU_HAVE_NO_CLUBS"
-msgstr "貴官はチームに非所属です。自分のチームを作成するか、他のプレイヤーのチームに参加しましょう。"
+msgstr "貴官は艦隊に非所属です。自分の艦隊を作成するか、他のプレイヤーの艦隊に参加しましょう。"
 
 msgid "IDS_INSTRUCTION_YOU_HAVE_NO_CLUB_MEMBERS"
-msgstr "チームにプレイヤーがいません"
+msgstr "艦隊にプレイヤーがいません"
 
 msgid "IDS_INTERFACE_OPTIONS"
 msgstr "インターフェイス"
@@ -5898,13 +5898,13 @@ msgid "IDS_INTRO_MISSION_NOT_AVAILABLE_WHEN_IN_DIVISION"
 msgstr "入門ミッションは戦隊ではご利用頂けません。"
 
 msgid "IDS_INTRO_MISSION_NOT_AVAILABLE_WHEN_IN_PARTY"
-msgstr "入門ミッションはチームではご利用頂けません"
+msgstr "入門ミッションは艦隊ではご利用頂けません"
 
 msgid "IDS_INVALID_SHIP_WAYPOINT"
 msgstr "遂行不能: 指示された場所まで移動できません"
 
 msgid "IDS_INVITATION_TO_CLUB_SENT"
-msgstr "チームへの招待を送信しました"
+msgstr "艦隊への招待を送信しました"
 
 msgid "IDS_INVITECHECK"
 msgstr "招待制"
@@ -5913,19 +5913,19 @@ msgid "IDS_INVITED_IN_PARTY"
 msgstr "戦闘参加招待を送信しました"
 
 msgid "IDS_INVITED_TO_CLUB"
-msgstr "チーム参加招待済み"
+msgstr "艦隊参加招待済み"
 
 msgid "IDS_INVITES_YOU_TO_JOIN_CLUB"
-msgstr "チームへの招待"
+msgstr "艦隊への招待"
 
 msgid "IDS_INVITES_YOU_TO_JOIN_DIVISION"
 msgstr "戦隊への招待"
 
 msgid "IDS_INVITES_YOU_TO_JOIN_PARTY"
-msgstr "チームバトルへの招待"
+msgstr "艦隊戦への招待"
 
 msgid "IDS_INVITES_YOU_TO_JOIN_PARTY_AS_MERC"
-msgstr "チームバトルへの傭兵としての招待"
+msgstr "艦隊戦への傭兵としての招待"
 
 msgid "IDS_INVITE_ALREADY_SENT"
 msgstr "貴官は既にこのプレイヤーを戦隊に招待済みです。プレイヤーが招待を承諾するまでお待ちください。"
@@ -5946,28 +5946,28 @@ msgid "IDS_INVITE_PLAYER_TO_CHANNEL"
 msgstr "プレイヤーをチャンネルに招待"
 
 msgid "IDS_INVITE_PLAYER_TO_CLUB"
-msgstr "プレイヤーをチームに招待"
+msgstr "プレイヤーを艦隊に招待"
 
 msgid "IDS_INVITE_RECIEVED_FROM_THIS_PLAYER"
 msgstr "このプレイヤーが貴官を戦隊に招待しています。招待を承諾または辞退してください。"
 
 msgid "IDS_INVITE_TO_CLUB"
-msgstr "チームへ招待"
+msgstr "艦隊へ招待"
 
 msgid "IDS_INVITE_TO_CLUB_ACTION_DENY_REASON_ALREADY_INVITED"
-msgstr "このプレイヤーはこのチームに招待済みです。"
+msgstr "このプレイヤーはこの艦隊に招待済みです。"
 
 msgid "IDS_INVITE_TO_CLUB_ACTION_DENY_REASON_ALREADY_IN_CLUB"
-msgstr "このプレイヤーはこのチームに参加済みです"
+msgstr "このプレイヤーはこの艦隊に参加済みです"
 
 msgid "IDS_INVITE_TO_CLUB_ACTION_DENY_REASON_LOW_LEVEL"
-msgstr "このプレイヤーは、任務記録レベルが不足しているためチームには参加できません。"
+msgstr "このプレイヤーは、任務記録レベルが不足しているため艦隊には参加できません。"
 
 msgid "IDS_INVITE_TO_CLUB_ACTION_DENY_REASON_MAX_CLUBS"
-msgstr "このプレイヤーは、チーム所属の上限に達しています。"
+msgstr "このプレイヤーは、艦隊所属の上限に達しています。"
 
 msgid "IDS_INVITE_TO_CLUB_ACTION_DENY_REASON_NO_FREE_PLACE"
-msgstr "チームに空き枠がありません。"
+msgstr "艦隊に空き枠がありません。"
 
 msgid "IDS_INVITE_TO_DIVISION_ACTION_DENY_REASON_OFFLINE"
 msgstr "オフラインのプレイヤーを戦隊に招待することはできません。"
@@ -5979,10 +5979,10 @@ msgid "IDS_INVITE_TO_PARTY_ACTION_DENY_REASON_ALREADY_IN_PARTY"
 msgstr "このプレイヤーは戦闘への招待を承諾済みです。"
 
 msgid "IDS_INVITE_TO_PARTY_ACTION_DENY_REASON_LOW_LEVEL"
-msgstr "このプレイヤーは、任務記録レベルが不足しているためチームバトルには参加できません。"
+msgstr "このプレイヤーは、任務記録レベルが不足しているため艦隊戦には参加できません。"
 
 msgid "IDS_INVITE_TO_PARTY_ACTION_DENY_REASON_OFFLINE"
-msgstr "オフラインのプレイヤーをチームバトルに招待することはできません。"
+msgstr "オフラインのプレイヤーを艦隊戦に招待することはできません。"
 
 msgid "IDS_INVITE_TO_THE_CHANNEL"
 msgstr "殿が貴官をチャンネルに招待しています"
@@ -5994,7 +5994,7 @@ msgid "IDS_IN_BATTLE_QUEUE"
 msgstr "戦闘待機中"
 
 msgid "IDS_IN_CLUB_BATTLE"
-msgstr "チームバトル中"
+msgstr "艦隊戦中"
 
 msgid "IDS_IN_COOPERATIVE_BATTLE"
 msgstr "(Co-op 戦):"
@@ -6003,7 +6003,7 @@ msgid "IDS_IN_DIVISION"
 msgstr "戦隊所属"
 
 msgid "IDS_IN_PARTY"
-msgstr "チーム内"
+msgstr "艦隊内"
 
 msgid "IDS_IN_RANDOM_BATTLE"
 msgstr "(ランダム戦):"
@@ -6220,11 +6220,11 @@ msgstr "ボリューム大"
 
 msgid "IDS_KICK_LEADER_INFO"
 msgstr ""
-"リーダーの解任投票には、ダブロンによる手数料が必要です。ダブロンは、投票結果を問わず返還されません。\n"
-"投票により解任が決まった場合は、貴官が新しいチームリーダーになります。"
+"司令官の解任投票には、ダブロンによる手数料が必要です。ダブロンは、投票結果を問わず返還されません。\n"
+"投票により解任が決まった場合は、貴官が新しい艦隊司令官になります。"
 
 msgid "IDS_KICK_PLAYER_FROM_CLUB"
-msgstr "チームから除外"
+msgstr "艦隊から除外"
 
 msgid "IDS_KILL_ENEMIES"
 msgstr "敵撃破"
@@ -6257,10 +6257,10 @@ msgid "IDS_LAST_TIME"
 msgstr "最終"
 
 msgid "IDS_LEADERSANDSHIPSLABEL"
-msgstr "リーダーボード:"
+msgstr "司令官ボード:"
 
 msgid "IDS_LEADER_KICKED_FROM_CLUB"
-msgstr "リーダーをチームから除外しました"
+msgstr "司令官を艦隊から除外しました"
 
 msgid "IDS_LEAGUE_0"
 msgstr "プレミアリーグ"
@@ -6323,7 +6323,7 @@ msgid "IDS_LEAVE_BATTLE_FIRST_TO_OPERATE_FLAGS"
 msgstr "この艦の信号旗を変更するには、この戦闘が終了するまでお待ちください。"
 
 msgid "IDS_LEAVE_CLUB"
-msgstr "チームから脱退"
+msgstr "艦隊から脱退"
 
 msgid "IDS_LEAVE_DIVISION"
 msgstr "戦隊から離脱"
@@ -6336,11 +6336,11 @@ msgstr "枠を空ける"
 
 msgid "IDS_LEAVE_PARTY_COMMENT"
 msgstr ""
-"チームバトルで枠を空けた後も、貴官はチームに留まります。\n"
-"ステータスを再度「準備完了!」に設定することで、チームバトルへの参加を続けることができます。"
+"艦隊戦で枠を空けた後も、貴官は艦隊に留まります。\n"
+"ステータスを再度「準備完了!」に設定することで、艦隊戦への参加を続けることができます。"
 
 msgid "IDS_LEAVE_PARTY_QUESTION"
-msgstr "チームバトルの枠を空けますか?"
+msgstr "艦隊戦の枠を空けますか?"
 
 msgid "IDS_LEAVE_QUEUE"
 msgstr "待機を中止"
@@ -7878,7 +7878,7 @@ msgid "IDS_LOOKING_FOR_DIVISION"
 msgstr "戦隊に参加希望"
 
 msgid "IDS_LOOKING_FOR_PARTY"
-msgstr "チームバトルに参加希望"
+msgstr "艦隊戦に参加希望"
 
 msgid "IDS_LOOK_AT_TARGET"
 msgstr "選択中の目標に砲を追従"
@@ -7941,7 +7941,7 @@ msgid "IDS_MASTER_VOLUME"
 msgstr "全体音量"
 
 msgid "IDS_MATCHING_TEAMS"
-msgstr "チームのマッチング"
+msgstr "艦隊のマッチング"
 
 msgid "IDS_MAX"
 msgstr "最大"
@@ -7953,25 +7953,25 @@ msgid "IDS_MAX_COUNT_AIRCARRIER_IN_DIVISION"
 msgstr "戦隊の航空母艦数の上限"
 
 msgid "IDS_MAX_COUNT_AIRCARRIER_IN_PARTY"
-msgstr "チームの航空母艦数の上限"
+msgstr "艦隊の航空母艦数の上限"
 
 msgid "IDS_MAX_COUNT_BATTLESHIP_IN_DIVISION"
 msgstr "戦隊の戦艦数の上限"
 
 msgid "IDS_MAX_COUNT_BATTLESHIP_IN_PARTY"
-msgstr "チームの戦艦数の上限"
+msgstr "艦隊の戦艦数の上限"
 
 msgid "IDS_MAX_COUNT_CRUISER_IN_DIVISION"
 msgstr "戦隊の巡洋艦数の上限"
 
 msgid "IDS_MAX_COUNT_CRUISER_IN_PARTY"
-msgstr "チームの巡洋関数の上限"
+msgstr "艦隊の巡洋関数の上限"
 
 msgid "IDS_MAX_COUNT_DESTROYER_IN_DIVISION"
 msgstr "戦隊の駆逐艦数の上限"
 
 msgid "IDS_MAX_COUNT_DESTROYER_IN_PARTY"
-msgstr "チームの駆逐艦数の上限"
+msgstr "艦隊の駆逐艦数の上限"
 
 msgid "IDS_MAX_DAMAGE"
 msgstr "最大ダメージ"
@@ -8037,7 +8037,7 @@ msgid "IDS_MERCENARIES"
 msgstr "傭兵"
 
 msgid "IDS_MERC_IN_CLUB"
-msgstr "チームの傭兵"
+msgstr "艦隊の傭兵"
 
 msgid "IDS_MESSAGES_BANNED"
 msgstr "メッセージ送信がブロックされました"
@@ -8175,7 +8175,7 @@ msgid "IDS_MY_ACHIEVEMENTS"
 msgstr "貴官の実績"
 
 msgid "IDS_MY_CLUBS"
-msgstr "貴官のチーム"
+msgstr "貴官の艦隊"
 
 msgid "IDS_MY_CONTACTS"
 msgstr "友達"
@@ -8200,13 +8200,13 @@ msgstr "新規戦闘"
 
 msgid "IDS_NEW_CLUB_LEADER_AFTER_VOTE"
 msgstr ""
-"%(newLeaderNickname)s 殿が新しいチームリーダーになります"
+"%(newLeaderNickname)s 殿が新しい艦隊司令官になります"
 
 msgid "IDS_NEW_GROUP"
 msgstr "新規グループ"
 
 msgid "IDS_NEW_LEADER"
-msgstr "新リーダー"
+msgstr "新司令官"
 
 msgid "IDS_NEW_NAME"
 msgstr "新しい名称"
@@ -8264,14 +8264,14 @@ msgstr "ダブロン不足によりスロット購入不能"
 
 msgid "IDS_NOT_ENOUGH_READY_PLAYERS_IN_PARTY_FOR_BATTLE"
 msgstr ""
-"チームで戦闘に参加するためには、戦闘準備を完了したプレイヤーが最小 "
+"艦隊で戦闘に参加するためには、戦闘準備を完了したプレイヤーが最小 "
 "%(minPartyForBattle)d 名必要です。"
 
 msgid "IDS_NOT_FULL_PARTIES"
-msgstr "人数不足のチーム"
+msgstr "人数不足の艦隊"
 
 msgid "IDS_NOT_FULL_PARTIES_DESCRIPTION"
-msgstr "人数不足のまま戦闘に参加したチームです。空き枠には、フリー傭兵が加わります。"
+msgstr "人数不足のまま戦闘に参加した艦隊です。空き枠には、フリー傭兵が加わります。"
 
 msgid "IDS_NOT_IGNORE_PLAYER"
 msgstr "ブラックリストから削除"
@@ -8304,10 +8304,10 @@ msgid "IDS_NOT_READY_TO_BATTLE_IN_FORMATION_INFO_2"
 msgstr "適合する艦を選択し、「準備完了!」をクリックして戦闘に参加しましょう。"
 
 msgid "IDS_NOT_READY_TO_BATTLE_IN_PARTY"
-msgstr "チームバトルの準備中"
+msgstr "艦隊戦の準備中"
 
 msgid "IDS_NOT_READY_TO_BATTLE_IN_PARTY_INFO"
-msgstr "チームバトルの準備中"
+msgstr "艦隊戦の準備中"
 
 msgid "IDS_NOT_RESEARCHED"
 msgstr "未研究"
@@ -8316,7 +8316,7 @@ msgid "IDS_NOT_VISIBLE_FOR_OTHER_PLAYERS_DIVISION"
 msgstr "このステータスを無効にすると、「戦隊に参加希望」リストから貴官の名前を削除します。"
 
 msgid "IDS_NOT_VISIBLE_FOR_OTHER_PLAYERS_PARTY"
-msgstr "このステータスを無効にすると、「チームバトルに参加希望」リストから貴官の名前を削除します。"
+msgstr "このステータスを無効にすると、「艦隊戦に参加希望」リストから貴官の名前を削除します。"
 
 msgid "IDS_NO_ACHIEVEMENTS_EARNED"
 msgstr "貴官はまだ実績を未取得です"
@@ -8379,25 +8379,25 @@ msgid "IDS_NO_MAX_COUNT_AIRCARRIER_IN_DIVISION"
 msgstr "戦隊の航空母艦数は無制限です"
 
 msgid "IDS_NO_MAX_COUNT_AIRCARRIER_IN_PARTY"
-msgstr "チームの航空母艦数は無制限です"
+msgstr "艦隊の航空母艦数は無制限です"
 
 msgid "IDS_NO_MAX_COUNT_BATTLESHIP_IN_DIVISION"
 msgstr "戦隊の戦艦数は無制限です"
 
 msgid "IDS_NO_MAX_COUNT_BATTLESHIP_IN_PARTY"
-msgstr "チームの戦艦数は無制限です"
+msgstr "艦隊の戦艦数は無制限です"
 
 msgid "IDS_NO_MAX_COUNT_CRUISER_IN_DIVISION"
 msgstr "戦隊の巡洋艦数は無制限です"
 
 msgid "IDS_NO_MAX_COUNT_CRUISER_IN_PARTY"
-msgstr "チームの巡洋艦数は無制限です"
+msgstr "艦隊の巡洋艦数は無制限です"
 
 msgid "IDS_NO_MAX_COUNT_DESTROYER_IN_DIVISION"
 msgstr "戦隊の駆逐艦数は無制限です"
 
 msgid "IDS_NO_MAX_COUNT_DESTROYER_IN_PARTY"
-msgstr "チームの駆逐艦数は無制限です"
+msgstr "艦隊の駆逐艦数は無制限です"
 
 msgid "IDS_NO_MONEY_FOR_UNMOUNT"
 msgstr "解除費用不足。"
@@ -8487,7 +8487,7 @@ msgid "IDS_OPTIONS_DAMAGE_EFFECT"
 msgstr "ダメージを受けた際の振動効果有効"
 
 msgid "IDS_OPTIONS_ENABLE_EARES"
-msgstr "チームパネル表示"
+msgstr "艦隊パネル表示"
 
 msgid "IDS_OPTIONS_ENGINES_VOLUME"
 msgstr "機関ノイズ"
@@ -8609,13 +8609,13 @@ msgid "IDS_OTHER_PLAYERS_DONT_SEE_YOU_DIVISION"
 msgstr "「戦隊に参加希望」リストから貴官の名前を削除しました。"
 
 msgid "IDS_OTHER_PLAYERS_DONT_SEE_YOU_PARTY"
-msgstr "「チームバトルに参加希望」リストから貴官の名前を削除しました。"
+msgstr "「艦隊戦に参加希望」リストから貴官の名前を削除しました。"
 
 msgid "IDS_OTHER_PLAYERS_SEE_YOU_DIVISION"
 msgstr "「戦隊に参加希望」リストに貴官の名前を掲載しました。"
 
 msgid "IDS_OTHER_PLAYERS_SEE_YOU_PARTY"
-msgstr "「チームバトルに参加希望」リストに貴官の名前を掲載しました。"
+msgstr "「艦隊戦に参加希望」リストに貴官の名前を掲載しました。"
 
 msgid "IDS_OWN_SHIP_IN_COMPARE_OFF"
 msgstr "自艦の表示 OFF"
@@ -9660,13 +9660,13 @@ msgid "IDS_PARTICLE_QUALITY"
 msgstr "エフェクト品質"
 
 msgid "IDS_PARTIES_ARE_NOT_ALLOWED_IN_COOPERATIVE_BATTLES"
-msgstr "チームは Co-op 戦には参加できません"
+msgstr "艦隊は Co-op 戦には参加できません"
 
 msgid "IDS_PARTIES_ARE_NOT_ALLOWED_IN_RANDOM_BATTLES"
-msgstr "チームはランダム戦には参加できません"
+msgstr "艦隊はランダム戦には参加できません"
 
 msgid "IDS_PARTIES_ARE_NOT_ALLOWED_IN_RANK_BATTLES"
-msgstr "ランク戦はチームでは参加できません。"
+msgstr "ランク戦は艦隊では参加できません。"
 
 msgid "IDS_PARTY_COMMANDER"
 msgstr "指揮官"
@@ -9675,28 +9675,28 @@ msgid "IDS_PARTY_COMMANDER_C"
 msgstr "指揮官"
 
 msgid "IDS_PARTY_IN_BATTLE"
-msgstr "チームは戦闘中"
+msgstr "艦隊は戦闘中"
 
 msgid "IDS_PARTY_LEAVES_WITHOUT_YOU"
-msgstr "チームは貴官を伴わずに戦闘に参加します"
+msgstr "艦隊は貴官を伴わずに戦闘に参加します"
 
 msgid "IDS_PARTY_LEAVES_WITHOUT_YOU_INFO"
-msgstr "今戦闘に参加したくない場合は、「港に留まる」をクリックしてください。チームには参加したままになります。"
+msgstr "今戦闘に参加したくない場合は、「港に留まる」をクリックしてください。艦隊には参加したままになります。"
 
 msgid "IDS_PARTY_NOT_READY"
-msgstr "チームは準備中"
+msgstr "艦隊は準備中"
 
 msgid "IDS_PARTY_NOT_READY_COMMANDER_INFO"
 msgstr ""
 "準備中のプレイヤーには、この戦闘に参加するかどうかを決めるために "
 "15 秒間が与えられます。\n"
-"準備中のプレイヤーは戦闘には参加しませんが、チームには参加したままになります。"
+"準備中のプレイヤーは戦闘には参加しませんが、艦隊には参加したままになります。"
 
 msgid "IDS_PARTY_READY"
-msgstr "チームは準備中"
+msgstr "艦隊は準備中"
 
 msgid "IDS_PARTY_UP_FOR_BATTLE"
-msgstr "チームは間もなく戦闘に参加"
+msgstr "艦隊は間もなく戦闘に参加"
 
 msgid "IDS_PASA002"
 msgstr "Bogue"
@@ -11738,7 +11738,7 @@ msgid "IDS_PCEE014_FLAG_SUPERTEST_DESCRIPTION"
 msgstr "特別"
 
 msgid "IDS_PCEE014_FLAG_SUPERTEST_EXTRA_DESCRIPTION"
-msgstr "スーパーテスト・チームメンバー用の特別旗です。"
+msgstr "スーパーテスト・艦隊メンバー用の特別旗です。"
 
 msgid "IDS_PCEE015_JOLLY_ROGER_2"
 msgstr "海賊旗 II"
@@ -15569,14 +15569,14 @@ msgstr "殿が貴官の招待を承諾しました。"
 
 msgid "IDS_PLAYER_ACCEPTED_YOUR_INVITATION_TO_CLUB"
 msgstr ""
-"%(playerName)s 殿がチーム %(clubName)"
+"%(playerName)s 殿が艦隊 %(clubName)"
 "s への招待を承諾しました"
 
 msgid "IDS_PLAYER_ALREADY_IN_DIVISION"
 msgstr "殿は既に戦隊に参加中です。"
 
 msgid "IDS_PLAYER_ALREADY_IN_PARTY"
-msgstr "殿は既に招集中のチームに参加中です"
+msgstr "殿は既に集結中の艦隊に参加中です"
 
 msgid "IDS_PLAYER_ATTACK_TARGET"
 msgstr "%s: %s を攻撃中!"
@@ -15586,27 +15586,27 @@ msgstr "殿が招待を拒否しました"
 
 msgid "IDS_PLAYER_DECLINED_YOUR_INVITATION_TO_CLUB"
 msgstr ""
-"%(playerName)s 殿がチーム %(clubName)"
+"%(playerName)s 殿が艦隊 %(clubName)"
 "s への招待を辞退しました"
 
 msgid "IDS_PLAYER_HAS_TOO_MANY_INVITES"
 msgstr "このプレイヤーの招待受信数が上限に達しています。"
 
 msgid "IDS_PLAYER_INVITED_TO_CLUB"
-msgstr "%(playerName)s 殿をチーム %(clubName)s に招待しました"
+msgstr "%(playerName)s 殿を艦隊 %(clubName)s に招待しました"
 
 msgid "IDS_PLAYER_INVITES_YOU_TO_JOIN_A_CLUB"
-msgstr "%(playerName)s 殿が貴官をチームに招待しました"
+msgstr "%(playerName)s 殿が貴官を艦隊に招待しました"
 
 msgid "IDS_PLAYER_INVITES_YOU_TO_JOIN_CLUB"
 msgstr ""
-"%(playerName)s 殿が貴官をチーム %(clubName)"
+"%(playerName)s 殿が貴官を艦隊 %(clubName)"
 "s に招待しました"
 
 msgid "IDS_PLAYER_IS_LEADER"
 msgstr ""
-"[icon]%(playerName)s 殿がチーム %(clubName)"
-"s のリーダーになりました"
+"[icon]%(playerName)s 殿が艦隊 %(clubName)"
+"s の司令官になりました"
 
 msgid "IDS_PLAYER_IS_OFFLINE"
 msgstr "殿はオフラインです。"
@@ -15616,35 +15616,35 @@ msgstr "オフライン"
 
 msgid "IDS_PLAYER_IS_OUT_OF_CLUB"
 msgstr ""
-"%(playerName)s 殿をチーム %(clubName)s から除外しました"
+"%(playerName)s 殿を艦隊 %(clubName)s から除外しました"
 
 msgid "IDS_PLAYER_IS_OUT_OF_DIVISION"
 msgstr "殿を戦隊から除外しました。"
 
 msgid "IDS_PLAYER_IS_OUT_OF_PARTY"
-msgstr "殿をチームバトルから除外しました"
+msgstr "殿を艦隊戦から除外しました"
 
 msgid "IDS_PLAYER_JOINED_CLUB"
-msgstr "%(playerName)s 殿がチーム %(clubName)s に参加しました"
+msgstr "%(playerName)s 殿が艦隊 %(clubName)s に参加しました"
 
 msgid "IDS_PLAYER_JOINED_DIVISION"
 msgstr "殿が戦隊に参加しました。"
 
 msgid "IDS_PLAYER_JOINED_PARTY"
-msgstr "殿がチームバトルに参加しました"
+msgstr "殿が艦隊戦に参加しました"
 
 msgid "IDS_PLAYER_KICKED_FROM_CLUB"
-msgstr "プレイヤーをチームから除外しました"
+msgstr "プレイヤーを艦隊から除外しました"
 
 msgid "IDS_PLAYER_LEFT_CLUB"
 msgstr ""
-"%(playerName)s 殿がチーム %(clubName)s から脱退しました"
+"%(playerName)s 殿が艦隊 %(clubName)s から脱退しました"
 
 msgid "IDS_PLAYER_LEFT_DIVISION"
 msgstr "殿が戦隊から脱退しました。"
 
 msgid "IDS_PLAYER_LEFT_PARTY"
-msgstr "殿がチームバトルから離脱しました"
+msgstr "殿が艦隊戦から離脱しました"
 
 msgid "IDS_PLAYER_LONG_OFFLINE"
 msgstr ""
@@ -15655,7 +15655,7 @@ msgid "IDS_PLAYER_TO_CONTACT_LIST"
 msgstr "連絡先に追加"
 
 msgid "IDS_PLAY_IN_CLUB"
-msgstr "フレンドと共にチームでプレイしましょう。"
+msgstr "フレンドと共に艦隊でプレイしましょう。"
 
 msgid "IDS_PLEASE_READ"
 msgstr "お読みください:"
@@ -15879,7 +15879,7 @@ msgid "IDS_PRAISE_ACCEPTED"
 msgstr "賛辞送信完了"
 
 msgid "IDS_PRAISE_DISABLED_FOR_CLUB_BATTLES"
-msgstr "チームバトルでは賛辞はご利用頂けません。"
+msgstr "艦隊戦では賛辞はご利用頂けません。"
 
 msgid "IDS_PRAISE_DISABLED_FOR_DIVISION_MEMBERS"
 msgstr ""
@@ -16071,7 +16071,7 @@ msgid "IDS_PREPARE_BATTLE"
 msgstr "戦闘開始に備えよ:"
 
 msgid "IDS_PREPARING_FOR_BATTLE"
-msgstr "チームラインナップ"
+msgstr "艦隊ラインナップ"
 
 msgid "IDS_PREVIOUS_BATTLES"
 msgstr "今シーズン中のこれまで"
@@ -16252,7 +16252,7 @@ msgid "IDS_PROFILE_ACHIEVEMENTS_INSTRUCTION_0"
 msgstr "ランダム戦およびランク戦で実績を達成しましょう。"
 
 msgid "IDS_PROFILE_ACHIEVEMENTS_INSTRUCTION_0_1"
-msgstr "ランダム戦、ランク戦、チームバトルで実績を取得しましょう。"
+msgstr "ランダム戦、ランク戦、艦隊戦で実績を取得しましょう。"
 
 msgid "IDS_PROFILE_ACHIEVEMENTS_INSTRUCTION_1"
 msgstr "対象実績を達成することで追加褒賞を取得できます。"
@@ -16265,15 +16265,15 @@ msgstr ""
 
 msgid "IDS_PROFILE_CLUBS_INSTRUCTION_1"
 msgstr ""
-"チームリーダーは、投票なしでプレイヤーを招待してチームに加えることができます。リーダーをチームから除外することは可能ですが、定足数 "
+"艦隊司令官は、投票なしでプレイヤーを招待して艦隊に加えることができます。司令官を艦隊から除外することは可能ですが、定足数 "
 "(必要な投票参加数) が他の投票の場合よりも多く、投票開始者は追加手数料を支払う必要があります。"
 
 msgid "IDS_PROFILE_CLUBS_INSTRUCTION_10"
-msgstr "チームの人数が不足している場合、チーム外の任意のプレイヤーを招待しましょう。または、人数不足のまま戦闘に参加して、ランダムな傭兵をチームに受け入れることもできます。"
+msgstr "艦隊の人数が不足している場合、艦隊外の任意のプレイヤーを招待しましょう。または、人数不足のまま戦闘に参加して、ランダムな傭兵を艦隊に受け入れることもできます。"
 
 msgid "IDS_PROFILE_CLUBS_INSTRUCTION_11"
 msgstr ""
-"新しいチームは、チームバトルに %(minBattles)"
+"新しい艦隊は、艦隊戦に %(minBattles)"
 "d 戦参加して以後に作成可能になります。"
 
 msgid "IDS_PROFILE_CLUBS_INSTRUCTION_2"
@@ -16288,28 +16288,28 @@ msgstr ""
 
 msgid "IDS_PROFILE_CLUBS_INSTRUCTION_4"
 msgstr ""
-"7 名構成のチームを作成してチームバトルに参加しましょう。\n"
-"チームメンバーであれば誰でもチームの招集を開始することができます。"
+"7 名構成の艦隊を作成して艦隊戦に参加しましょう。\n"
+"艦隊メンバーであれば誰でも艦隊の集結を開始することができます。"
 
 msgid "IDS_PROFILE_CLUBS_INSTRUCTION_5"
-msgstr "同時に 3 チームまでに所属することができます。"
+msgstr "同時に 3 艦隊までに所属することができます。"
 
 msgid "IDS_PROFILE_CLUBS_INSTRUCTION_6"
-msgstr "プレイヤーの招待または除外を決定するためには、投票が必要です。ただしチームリーダーは投票なしでプレイヤーをチームに追加することができます。"
+msgstr "プレイヤーの招待または除外を決定するためには、投票が必要です。ただし艦隊司令官は投票なしでプレイヤーを艦隊に追加することができます。"
 
 msgid "IDS_PROFILE_CLUBS_INSTRUCTION_7"
-msgstr "チームメンバーであれば誰でもチームの招集を開始することができます。"
+msgstr "艦隊メンバーであれば誰でも艦隊の集結を開始することができます。"
 
 msgid "IDS_PROFILE_CLUBS_INSTRUCTION_8"
-msgstr "チームバトルにアクセス可能な任意の他のプレイヤーを加えることもできます。"
+msgstr "艦隊戦にアクセス可能な任意の他のプレイヤーを加えることもできます。"
 
 msgid "IDS_PROFILE_CLUBS_INSTRUCTION_9"
 msgstr ""
-"「準備完了!」をクリックしてチーム招集を開始しましょう。\n"
-"チームバトルが自動選択され、招集メッセージがチームメンバー全員に送信されます。"
+"「準備完了!」をクリックして艦隊集結を開始しましょう。\n"
+"艦隊戦が自動選択され、集結メッセージが艦隊メンバー全員に送信されます。"
 
 msgid "IDS_PROFILE_CLUBS_INSTRUCTION_9_1"
-msgstr "「準備完了!」をクリックしてチーム招集プロセスに加わりましょう。"
+msgstr "「準備完了!」をクリックして艦隊集結に加わりましょう。"
 
 msgid "IDS_PROFILE_RANKS"
 msgstr "ランク"
@@ -17301,13 +17301,13 @@ msgid "IDS_QUESTION_CONFIRM_ASSIGN_CREW"
 msgstr "艦長を配属:"
 
 msgid "IDS_QUESTION_CONFIRM_CHANGE_LEADER"
-msgstr "リーダー権限を委譲しますか?"
+msgstr "司令官権限を委譲しますか?"
 
 msgid "IDS_QUESTION_CONFIRM_CHANGE_LEADER_AND_CLUB_LEAVE"
-msgstr "チームから脱退してリーダー権限を委譲しますか?"
+msgstr "艦隊から脱退して司令官権限を委譲しますか?"
 
 msgid "IDS_QUESTION_CONFIRM_CLUB_LEAVE"
-msgstr "チームから脱退しますか?"
+msgstr "艦隊から脱退しますか?"
 
 msgid "IDS_QUESTION_CONFIRM_DISASSIGN_CREW"
 msgstr "この艦長を営舎に送りますか?"
@@ -17356,7 +17356,7 @@ msgid "IDS_QUESTION_PURCHASE_AND_INSTALL_FOR"
 msgstr "購入して搭載しますか? 費用:"
 
 msgid "IDS_QUESTION_PURCHASE_FOR_CLUB_CREATION"
-msgstr "チームを作成、手数料:"
+msgstr "艦隊を作成、手数料:"
 
 msgid "IDS_QUESTION_PURCHASE_SHIP_FOR"
 msgstr "この艦を購入しますか? 費用:"
@@ -17383,7 +17383,7 @@ msgid "IDS_QUESTION_SELL_SHIP_FOR"
 msgstr "艦を売却しますか? 価格:"
 
 msgid "IDS_QUESTION_UNEQUAL_TEAMS"
-msgstr "チームが不完全です。戦闘を開始しますか?"
+msgstr "艦隊が不完全です。戦闘を開始しますか?"
 
 msgid "IDS_QUESTION_UNMOUNT_FOR"
 msgstr "解除しますか? 費用:"
@@ -17454,7 +17454,7 @@ msgstr ""
 "ランク戦には、Tier %(max)s 以下の艦艇が参加可能です。"
 
 msgid "IDS_RANKED_BATTLE_DESCRIPTION"
-msgstr "プレイヤーチーム同士で対戦します。各プレイヤーはランクを獲得します。"
+msgstr "プレイヤー艦隊同士で対戦します。各プレイヤーはランクを獲得します。"
 
 msgid "IDS_RANKED_BATTLE_RESULTS"
 msgstr "戦闘結果"
@@ -17511,59 +17511,59 @@ msgid "IDS_RATING"
 msgstr "レーティング"
 
 msgid "IDS_RATING_DOWN"
-msgstr "チームのレーティングが低下しました"
+msgstr "艦隊のレーティングが低下しました"
 
 msgid "IDS_RATING_DOWN_LB"
-msgstr "最終戦後にチームのレーティングが低下しました"
+msgstr "最終戦後に艦隊のレーティングが低下しました"
 
 msgid "IDS_RATING_GBR_ALL"
 msgstr ""
 "このゲームは <font color='#03953f'>全</font>年齢対象です。"
 
 msgid "IDS_RATING_HINT_0"
-msgstr "チームのレーティングは、戦闘結果に応じて変化します。"
+msgstr "艦隊のレーティングは、戦闘結果に応じて変化します。"
 
 msgid "IDS_RATING_HINT_1"
-msgstr "敵チームのレーティングが高いほど、勝利した際に取得できるレーティングポイントが多くなります。"
+msgstr "敵艦隊のレーティングが高いほど、勝利した際に取得できるレーティングポイントが多くなります。"
 
 msgid "IDS_RATING_UP"
-msgstr "チームのレーティングが向上しました"
+msgstr "艦隊のレーティングが向上しました"
 
 msgid "IDS_RATING_UP_LB"
-msgstr "最終戦後にチームのレーティングが向上しました"
+msgstr "最終戦後に艦隊のレーティングが向上しました"
 
 msgid "IDS_REACH_LEAGUE_0"
-msgstr "チームがプレミアリーグに加わりました"
+msgstr "艦隊がプレミアリーグに加わりました"
 
 msgid "IDS_REACH_LEAGUE_1"
-msgstr "チームがファーストリーグに加わりました"
+msgstr "艦隊がファーストリーグに加わりました"
 
 msgid "IDS_REACH_LEAGUE_10"
-msgstr "チームが第 10 リーグに加わりました"
+msgstr "艦隊が第 10 リーグに加わりました"
 
 msgid "IDS_REACH_LEAGUE_2"
-msgstr "チームがセカンドリーグに加わりました"
+msgstr "艦隊がセカンドリーグに加わりました"
 
 msgid "IDS_REACH_LEAGUE_3"
-msgstr "チームがサードリーグに加わりました"
+msgstr "艦隊がサードリーグに加わりました"
 
 msgid "IDS_REACH_LEAGUE_4"
-msgstr "チームが第 4 リーグに加わりました"
+msgstr "艦隊が第 4 リーグに加わりました"
 
 msgid "IDS_REACH_LEAGUE_5"
-msgstr "チームが第 5 リーグに加わりました"
+msgstr "艦隊が第 5 リーグに加わりました"
 
 msgid "IDS_REACH_LEAGUE_6"
-msgstr "チームが第 6 リーグに加わりました"
+msgstr "艦隊が第 6 リーグに加わりました"
 
 msgid "IDS_REACH_LEAGUE_7"
-msgstr "チームが第 7 リーグに加わりました"
+msgstr "艦隊が第 7 リーグに加わりました"
 
 msgid "IDS_REACH_LEAGUE_8"
-msgstr "チームが第 8 リーグに加わりました"
+msgstr "艦隊が第 8 リーグに加わりました"
 
 msgid "IDS_REACH_LEAGUE_9"
-msgstr "チームが第 9 リーグに加わりました"
+msgstr "艦隊が第 9 リーグに加わりました"
 
 msgid "IDS_READY"
 msgstr "準備完了!"
@@ -17572,7 +17572,7 @@ msgid "IDS_READY_BUTTON"
 msgstr "準備完了!"
 
 msgid "IDS_READY_TO_BATTLE_DENY_REASON_NO_CREW"
-msgstr "新しい艦長を採用するか、またはリザーブや他の艦艇の艦長を配属してください。"
+msgstr "新しい艦長を採用するか、または営舎や他の艦艇の艦長を配属してください。"
 
 msgid "IDS_READY_TO_BATTLE_DENY_REASON_NO_SHIP"
 msgstr "艦を選択"
@@ -17593,10 +17593,10 @@ msgid "IDS_READY_TO_BATTLE_IN_FORMATION_INFO_2"
 msgstr "別の艦艇を選択したり艦の構成を変更したりするには、「準備中」をクリックしてください。"
 
 msgid "IDS_READY_TO_BATTLE_IN_PARTY"
-msgstr "チームバトルの準備完了"
+msgstr "艦隊戦の準備完了"
 
 msgid "IDS_READY_TO_BATTLE_IN_PARTY_INFO"
-msgstr "貴官はチームバトルの準備を完了"
+msgstr "貴官は艦隊戦の準備を完了"
 
 msgid "IDS_REASON_CANCELLED_BY_INITIATOR"
 msgstr "投票の開始者がキャンセルしました"
@@ -17605,7 +17605,7 @@ msgid "IDS_REASON_NOT_ENOUGH_VOICES"
 msgstr "投票参加数不足"
 
 msgid "IDS_REASON_PLAYER_LEFT_CLUB"
-msgstr "プレイヤーがチームから脱退しました"
+msgstr "プレイヤーが艦隊から脱退しました"
 
 msgid "IDS_RECALL_INVITATION"
 msgstr "招待の取り消し"
@@ -17650,7 +17650,7 @@ msgid "IDS_RENAME"
 msgstr "改称"
 
 msgid "IDS_RENAME_CLUB"
-msgstr "チーム名を変更"
+msgstr "艦隊名を変更"
 
 msgid "IDS_RENAME_GROUP"
 msgstr "グループ改名"
@@ -18161,7 +18161,7 @@ msgid "IDS_SERVICE_IS_UNAVAILABLE_CHAT"
 msgstr "チャットサーバーは利用不能です"
 
 msgid "IDS_SERVICE_IS_UNAVAILABLE_CLUB"
-msgstr "チームサービスご利用不能"
+msgstr "艦隊サービスご利用不能"
 
 msgid "IDS_SERVICE_NOT_COMPLETED"
 msgstr "修理・補給不能"
@@ -18170,7 +18170,7 @@ msgid "IDS_SET_NOT_READY_TO_BATTLE_IN_FORMATION"
 msgstr "ステータスを「準備中」に設定"
 
 msgid "IDS_SET_READY_IN_PARTY"
-msgstr "チームステータスを「準備完了!」にセットして戦闘に参加しましょう。"
+msgstr "艦隊ステータスを「準備完了!」にセットして戦闘に参加しましょう。"
 
 msgid "IDS_SET_READY_TO_BATTLE_IN_FORMATION"
 msgstr "ステータスを「準備完了!」に設定"
@@ -18188,16 +18188,16 @@ msgid "IDS_SET_UNREADY_DIVISION_FIRST_TO_OPERATE_FLAGS"
 msgstr "ステータスが「戦隊での戦闘準備完了」になっています。信号旗を変更するには、「準備中」をクリックしてください。"
 
 msgid "IDS_SET_UNREADY_PARTY_FIRST_TO_BUY_MODERNIZATION"
-msgstr "ステータスが「チームバトルの準備完了」になっています。アップグレードを変更するには「準備中」をクリックしてください。"
+msgstr "ステータスが「艦隊戦の準備完了」になっています。アップグレードを変更するには「準備中」をクリックしてください。"
 
 msgid "IDS_SET_UNREADY_PARTY_FIRST_TO_CHANGE_CONSUMABLES"
-msgstr "ステータスが「チームバトルの準備完了」になっています。消耗品を変更するには、「準備中」をクリックしてください。"
+msgstr "ステータスが「艦隊戦の準備完了」になっています。消耗品を変更するには、「準備中」をクリックしてください。"
 
 msgid "IDS_SET_UNREADY_PARTY_FIRST_TO_OPERATE_CAMO"
-msgstr "ステータスが「チームバトルの準備完了」になっています。迷彩を変更するには、「準備中」をクリックしてください。"
+msgstr "ステータスが「艦隊戦の準備完了」になっています。迷彩を変更するには、「準備中」をクリックしてください。"
 
 msgid "IDS_SET_UNREADY_PARTY_FIRST_TO_OPERATE_FLAGS"
-msgstr "ステータスが「チームバトルの準備完了」になっています。信号旗を変更するには、「準備中」をクリックしてください。"
+msgstr "ステータスが「艦隊戦の準備完了」になっています。信号旗を変更するには、「準備中」をクリックしてください。"
 
 msgid "IDS_SGCRITPROB"
 msgstr ": 操舵装置の機能停止の発生率"
@@ -18283,12 +18283,12 @@ msgstr "別の艦艇を選択したり艦の構成を変更したりするには
 msgid "IDS_SHIP_IN_PARTY_MESSAGE_COMMANDER_0"
 msgstr ""
 "貴官が指揮官です。\n"
-"「戦闘開始!」をクリックするとチームで戦闘に参加します。"
+"「戦闘開始!」をクリックすると艦隊で戦闘に参加します。"
 
 msgid "IDS_SHIP_IN_PARTY_MESSAGE_NOT_COMMANDER_0"
 msgstr ""
-"貴官はチームでの戦闘準備を完了しました。\n"
-"指揮官がチームを戦闘に送るまでお待ちください。"
+"貴官は艦隊での戦闘準備を完了しました。\n"
+"指揮官が艦隊を戦闘に送るまでお待ちください。"
 
 msgid "IDS_SHIP_IS_ELITE_HEADING"
 msgstr "エリート艦艇ステータス"
@@ -18664,7 +18664,7 @@ msgid "IDS_SHOWHELP"
 msgstr "ヘルプ"
 
 msgid "IDS_SHOWSTATS"
-msgstr "チームパネル表示"
+msgstr "艦隊パネル表示"
 
 msgid "IDS_SHOW_IMELANGBAR"
 msgstr "言語バー"
@@ -19570,7 +19570,7 @@ msgid "IDS_STARTBATTLE_LOCK_REASON_NOT_COMMANDER_DIVISION"
 msgstr "貴官は戦隊に参加中です。戦闘を開始できるのは、戦隊の指揮官だけです。"
 
 msgid "IDS_STARTBATTLE_LOCK_REASON_NOT_COMMANDER_PARTY"
-msgstr "貴官はチームに参加中です。チームを戦闘に送ることができるのは、指揮官のみです。"
+msgstr "貴官は艦隊に参加中です。艦隊を戦闘に送ることができるのは、指揮官のみです。"
 
 msgid "IDS_STARTBATTLE_LOCK_REASON_NOT_IN_DIVISION"
 msgstr "チャレンジを達成するには、戦隊を作成するか、戦隊に参加してください。"
@@ -19588,13 +19588,13 @@ msgid "IDS_START_BATTLE"
 msgstr "戦闘開始!"
 
 msgid "IDS_START_CLUB_BATTLE"
-msgstr "チームバトルに参加!"
+msgstr "艦隊戦に参加!"
 
 msgid "IDS_START_QUEST"
 msgstr "開始"
 
 msgid "IDS_START_VOTE_TO_KICK_LEADER_FOR"
-msgstr "リーダー解任投票を開始、手数料:"
+msgstr "司令官解任投票を開始、手数料:"
 
 msgid "IDS_STATISTICS_BY_NATIONS_TOOLTIP"
 msgstr "国別の戦績"
@@ -19606,13 +19606,13 @@ msgid "IDS_STATISTICS_BY_SHIP_TYPES_TOOLTIP"
 msgstr "艦種別の戦績"
 
 msgid "IDS_STATUS_CHANGING_LEADER"
-msgstr "リーダー変更中"
+msgstr "司令官変更中"
 
 msgid "IDS_STATUS_CLEARED"
 msgstr "ステータス未設定"
 
 msgid "IDS_STATUS_CREATING_CLUB"
-msgstr "チーム作成中"
+msgstr "艦隊作成中"
 
 msgid "IDS_STATUS_DECLINING_INVITE"
 msgstr "招待が拒否されました"
@@ -19624,19 +19624,19 @@ msgid "IDS_STATUS_IS_TAKEN_OFF"
 msgstr "ステータスのクリア完了"
 
 msgid "IDS_STATUS_JOINING_CLUB"
-msgstr "チームに参加中"
+msgstr "艦隊に参加中"
 
 msgid "IDS_STATUS_JOINING_DIVISION"
 msgstr "戦隊に参加中"
 
 msgid "IDS_STATUS_JOINING_PARTY"
-msgstr "チームバトルに参加中"
+msgstr "艦隊戦に参加中"
 
 msgid "IDS_STATUS_LEAVING_CLUB"
-msgstr "チームから脱退中"
+msgstr "艦隊から脱退中"
 
 msgid "IDS_STATUS_RENAMING_CLUB"
-msgstr "チーム名を変更中"
+msgstr "艦隊名を変更中"
 
 msgid "IDS_STATUS_SAVED"
 msgstr "保存済み"
@@ -19672,19 +19672,19 @@ msgid "IDS_SWITCH_TO_SHORT_VIEW"
 msgstr "タイル"
 
 msgid "IDS_SYSMESSAGE_VOTE_CANCELLED_LEADER_REJECT"
-msgstr "[icon]%(playerName)s 殿をチーム %(clubName)s から除外"
+msgstr "[icon]%(playerName)s 殿を艦隊 %(clubName)s から除外"
 
 msgid "IDS_SYSMESSAGE_VOTE_CANCELLED_LEADER_REJECT_ISME"
-msgstr "貴官をチーム %(clubName)s から除外"
+msgstr "貴官を艦隊 %(clubName)s から除外"
 
 msgid "IDS_SYSMESSAGE_VOTE_CANCELLED_PLAYER_INVITE"
-msgstr "%(playerName)s 殿をチーム %(clubName)s に招待"
+msgstr "%(playerName)s 殿を艦隊 %(clubName)s に招待"
 
 msgid "IDS_SYSMESSAGE_VOTE_CANCELLED_PLAYER_REJECT"
-msgstr "%(playerName)s 殿をチーム %(clubName)s から除外"
+msgstr "%(playerName)s 殿を艦隊 %(clubName)s から除外"
 
 msgid "IDS_SYSMESSAGE_VOTE_CANCELLED_PLAYER_REJECT_ISME"
-msgstr "貴官をチーム %(clubName)s から除外"
+msgstr "貴官を艦隊 %(clubName)s から除外"
 
 msgid "IDS_SYSMESSAGE_VOTE_FINISHED_LEADER_REJECT_RESULT_NEGATIVE"
 msgstr ""
@@ -19695,21 +19695,21 @@ msgstr "貴官は %(clubName)s から除外されませんでした"
 
 msgid "IDS_SYSMESSAGE_VOTE_FINISHED_LEADER_REJECT_RESULT_POSITIVE"
 msgstr ""
-"[icon]%(playerName)s 殿をチーム %(clubName)s から除外しました"
+"[icon]%(playerName)s 殿を艦隊 %(clubName)s から除外しました"
 
 msgid "IDS_SYSMESSAGE_VOTE_FINISHED_LEADER_REJECT_RESULT_POSITIVE_ISME"
 msgstr "貴官は %(clubName)s から除外されました"
 
 msgid "IDS_SYSMESSAGE_VOTE_FINISHED_PLAYER_INVITE_RESULT_NEGATIVE"
 msgstr ""
-"%(playerName)s 殿をチーム %(clubName)s に招待しませんでした"
+"%(playerName)s 殿を艦隊 %(clubName)s に招待しませんでした"
 
 msgid "IDS_SYSMESSAGE_VOTE_FINISHED_PLAYER_INVITE_RESULT_POSITIVE"
-msgstr "%(playerName)s 殿をチーム %(clubName)s に招待しました"
+msgstr "%(playerName)s 殿を艦隊 %(clubName)s に招待しました"
 
 msgid "IDS_SYSMESSAGE_VOTE_FINISHED_PLAYER_REJECT_RESULT_NEGATIVE"
 msgstr ""
-"%(playerName)s 殿をチーム %(clubName)"
+"%(playerName)s 殿を艦隊 %(clubName)"
 "s から除外しませんでした"
 
 msgid "IDS_SYSMESSAGE_VOTE_FINISHED_PLAYER_REJECT_RESULT_NEGATIVE_ISME"
@@ -19717,29 +19717,29 @@ msgstr "貴官は %(clubName)s から除外されませんでした"
 
 msgid "IDS_SYSMESSAGE_VOTE_FINISHED_PLAYER_REJECT_RESULT_POSITIVE"
 msgstr ""
-"%(playerName)s 殿をチーム %(clubName)s から除外しました"
+"%(playerName)s 殿を艦隊 %(clubName)s から除外しました"
 
 msgid "IDS_SYSMESSAGE_VOTE_FINISHED_PLAYER_REJECT_RESULT_POSITIVE_ISME"
 msgstr "貴官は %(clubName)s から除外されました"
 
 msgid "IDS_SYSMESSAGE_VOTE_STARTED_LEADER_REJECT"
-msgstr "[icon]%(playerName)s 殿をチーム %(clubName)s から除外"
+msgstr "[icon]%(playerName)s 殿を艦隊 %(clubName)s から除外"
 
 msgid "IDS_SYSMESSAGE_VOTE_STARTED_LEADER_REJECT_ISME"
-msgstr "貴官をチーム %(clubName)s から除外"
+msgstr "貴官を艦隊 %(clubName)s から除外"
 
 msgid "IDS_SYSMESSAGE_VOTE_STARTED_PLAYER_INVITE"
-msgstr "%(playerName)s 殿をチーム %(clubName)s に招待"
+msgstr "%(playerName)s 殿を艦隊 %(clubName)s に招待"
 
 msgid "IDS_SYSMESSAGE_VOTE_STARTED_PLAYER_REJECT"
-msgstr "%(playerName)s 殿をチーム %(clubName)s から除外"
+msgstr "%(playerName)s 殿を艦隊 %(clubName)s から除外"
 
 msgid "IDS_SYSMESSAGE_VOTE_STARTED_PLAYER_REJECT_ISME"
-msgstr "貴官をチーム %(clubName)s から除外"
+msgstr "貴官を艦隊 %(clubName)s から除外"
 
 msgid "IDS_SYS_MESSAGE_CLUB_INVITES_YOU_TO_JOIN_PARTY"
 msgstr ""
-"チーム %(clubName)s が貴官を戦闘に招待しました。\n"
+"艦隊 %(clubName)s が貴官を戦闘に招待しました。\n"
 "送信者: %(playerName)s 殿"
 
 msgid "IDS_SYS_MESSAGE_HEADER_MS_ACC_ABILITY_AUTORECHARGE_RESULT"
@@ -19788,46 +19788,46 @@ msgid "IDS_SYS_MESSAGE_HEADER_MS_ACC_CHAT_BAN_DROPPED"
 msgstr "チャットのロックが解除されました。メッセージを送信可能です。"
 
 msgid "IDS_SYS_MESSAGE_HEADER_MS_ACC_CLUB_CREATED"
-msgstr "チーム作成完了"
+msgstr "艦隊作成完了"
 
 msgid "IDS_SYS_MESSAGE_HEADER_MS_ACC_CLUB_INVITATION_FAILED_FALSE"
 msgstr "招待を辞退しました"
 
 msgid "IDS_SYS_MESSAGE_HEADER_MS_ACC_CLUB_NAME_CHANGED_FALSE"
-msgstr "チーム名変更完了"
+msgstr "艦隊名変更完了"
 
 msgid "IDS_SYS_MESSAGE_HEADER_MS_ACC_CLUB_NAME_CHANGED_TRUE"
-msgstr "貴官はチーム名を変更しました"
+msgstr "貴官は艦隊名を変更しました"
 
 msgid "IDS_SYS_MESSAGE_HEADER_MS_ACC_CLUB_PLAYER_BECOME_LEADER_FALSE"
-msgstr "プレイヤーがチームリーダーになりました"
+msgstr "プレイヤーが艦隊司令官になりました"
 
 msgid "IDS_SYS_MESSAGE_HEADER_MS_ACC_CLUB_PLAYER_BECOME_LEADER_TRUE"
-msgstr "貴官がチームリーダーになりました"
+msgstr "貴官が艦隊司令官になりました"
 
 msgid "IDS_SYS_MESSAGE_HEADER_MS_ACC_CLUB_PLAYER_DECLINED_INVITATION_FALSE"
-msgstr "プレイヤーがチームへの招待を辞退しました"
+msgstr "プレイヤーが艦隊への招待を辞退しました"
 
 msgid "IDS_SYS_MESSAGE_HEADER_MS_ACC_CLUB_PLAYER_DECLINED_INVITATION_TRUE"
-msgstr "貴官はチームへの招待を辞退しました"
+msgstr "貴官は艦隊への招待を辞退しました"
 
 msgid "IDS_SYS_MESSAGE_HEADER_MS_ACC_CLUB_PLAYER_INVITED_FALSE"
-msgstr "プレイヤーをチームに招待しました"
+msgstr "プレイヤーを艦隊に招待しました"
 
 msgid "IDS_SYS_MESSAGE_HEADER_MS_ACC_CLUB_PLAYER_INVITED_TRUE"
-msgstr "貴官はチームへの招待を受けました"
+msgstr "貴官は艦隊への招待を受けました"
 
 msgid "IDS_SYS_MESSAGE_HEADER_MS_ACC_CLUB_PLAYER_JOINED_FALSE"
-msgstr "プレイヤーがチームに参加しました"
+msgstr "プレイヤーが艦隊に参加しました"
 
 msgid "IDS_SYS_MESSAGE_HEADER_MS_ACC_CLUB_PLAYER_JOINED_TRUE"
-msgstr "貴官はチームに参加しました"
+msgstr "貴官は艦隊に参加しました"
 
 msgid "IDS_SYS_MESSAGE_HEADER_MS_ACC_CLUB_PLAYER_LEFT_FALSE"
-msgstr "プレイヤーがチームから脱退しました"
+msgstr "プレイヤーが艦隊から脱退しました"
 
 msgid "IDS_SYS_MESSAGE_HEADER_MS_ACC_CLUB_PLAYER_LEFT_TRUE"
-msgstr "貴官はチームから脱退しました"
+msgstr "貴官は艦隊から脱退しました"
 
 msgid "IDS_SYS_MESSAGE_HEADER_MS_ACC_CREW_ASSIGN"
 msgstr "艦長配属完了"
@@ -20047,25 +20047,25 @@ msgid "IDS_SYS_MESSAGE_HEADER_MS_UI_ACTION_ERROR"
 msgstr "不明なエラー"
 
 msgid "IDS_SYS_MESSAGE_HEADER_MS_UI_DISMISSED_CLUB"
-msgstr "チームが解散しました"
+msgstr "艦隊が解散しました"
 
 msgid "IDS_SYS_MESSAGE_HEADER_MS_UI_DISMISSED_DIVISION"
 msgstr "戦隊の解散完了"
 
 msgid "IDS_SYS_MESSAGE_HEADER_MS_UI_DISMISSED_PARTY"
-msgstr "チームが戦闘のためのプレイヤー招集を中止しました"
+msgstr "艦隊が戦闘のためのプレイヤー集結を中止しました"
 
 msgid "IDS_SYS_MESSAGE_HEADER_MS_UI_INVITATION_ACTION_0_DIVISION"
 msgstr "プレイヤーが戦隊への招待を辞退しました"
 
 msgid "IDS_SYS_MESSAGE_HEADER_MS_UI_INVITATION_ACTION_0_PARTY"
-msgstr "プレイヤーがチームバトルへの招待を辞退しました"
+msgstr "プレイヤーが艦隊戦への招待を辞退しました"
 
 msgid "IDS_SYS_MESSAGE_HEADER_MS_UI_INVITATION_ACTION_1_DIVISION"
 msgstr "プレイヤーが戦隊への招待を承諾しました"
 
 msgid "IDS_SYS_MESSAGE_HEADER_MS_UI_INVITATION_ACTION_1_PARTY"
-msgstr "プレイヤーがチームバトルへの招待を承諾しました"
+msgstr "プレイヤーが艦隊戦への招待を承諾しました"
 
 msgid "IDS_SYS_MESSAGE_HEADER_MS_UI_INVITATION_FAILED"
 msgstr "招待を辞退しました"
@@ -20074,31 +20074,31 @@ msgid "IDS_SYS_MESSAGE_HEADER_MS_UI_INVITATION_RECEIVED_DIVISION"
 msgstr "戦隊への招待"
 
 msgid "IDS_SYS_MESSAGE_HEADER_MS_UI_INVITATION_RECEIVED_PARTY"
-msgstr "チームバトルへの招待"
+msgstr "艦隊戦への招待"
 
 msgid "IDS_SYS_MESSAGE_HEADER_MS_UI_LOOKING_FOR_DIVISION_STATUS_DIVISION"
 msgstr "戦隊に参加希望"
 
 msgid "IDS_SYS_MESSAGE_HEADER_MS_UI_LOOKING_FOR_DIVISION_STATUS_PARTY"
-msgstr "チームバトルに参加希望"
+msgstr "艦隊戦に参加希望"
 
 msgid "IDS_SYS_MESSAGE_HEADER_MS_UI_PLAYER_ACTION_IN_DIVISION_0_DIVISION"
 msgstr "プレイヤーが戦隊に参加"
 
 msgid "IDS_SYS_MESSAGE_HEADER_MS_UI_PLAYER_ACTION_IN_DIVISION_0_PARTY"
-msgstr "プレイヤーがチームに参加しました"
+msgstr "プレイヤーが艦隊に参加しました"
 
 msgid "IDS_SYS_MESSAGE_HEADER_MS_UI_PLAYER_ACTION_IN_DIVISION_1_DIVISION"
 msgstr "プレイヤーが戦隊から脱退"
 
 msgid "IDS_SYS_MESSAGE_HEADER_MS_UI_PLAYER_ACTION_IN_DIVISION_1_PARTY"
-msgstr "プレイヤーがチームから脱退しました"
+msgstr "プレイヤーが艦隊から脱退しました"
 
 msgid "IDS_SYS_MESSAGE_HEADER_MS_UI_PLAYER_ACTION_IN_DIVISION_2_DIVISION"
 msgstr "プレイヤーを戦隊から除外しました"
 
 msgid "IDS_SYS_MESSAGE_HEADER_MS_UI_PLAYER_ACTION_IN_DIVISION_2_PARTY"
-msgstr "プレイヤーをチームバトルから除外しました"
+msgstr "プレイヤーを艦隊戦から除外しました"
 
 msgid "IDS_SYS_MESSAGE_HEADER_MS_UI_PLAYER_IS_COMMANDER_DIVISION"
 msgstr "プレイヤーを戦隊指揮官に任命"
@@ -20122,19 +20122,19 @@ msgid "IDS_SYS_MESSAGE_HEADER_MS_UI_YOUR_ACTION_IN_DIVISION_0_DIVISION"
 msgstr "戦隊に参加しました"
 
 msgid "IDS_SYS_MESSAGE_HEADER_MS_UI_YOUR_ACTION_IN_DIVISION_0_PARTY"
-msgstr "チームバトルに参加しました"
+msgstr "艦隊戦に参加しました"
 
 msgid "IDS_SYS_MESSAGE_HEADER_MS_UI_YOUR_ACTION_IN_DIVISION_1_DIVISION"
 msgstr "戦隊から脱退しました"
 
 msgid "IDS_SYS_MESSAGE_HEADER_MS_UI_YOUR_ACTION_IN_DIVISION_1_PARTY"
-msgstr "チームバトルから離脱しました"
+msgstr "艦隊戦から離脱しました"
 
 msgid "IDS_SYS_MESSAGE_HEADER_MS_UI_YOUR_ACTION_IN_DIVISION_2_DIVISION"
 msgstr "貴官は戦隊から除外されました"
 
 msgid "IDS_SYS_MESSAGE_HEADER_MS_UI_YOUR_ACTION_IN_DIVISION_2_PARTY"
-msgstr "貴官はチームバトルから除外されました"
+msgstr "貴官は艦隊戦から除外されました"
 
 msgid "IDS_SYS_MESSAGE_HEADER_MS_UI_YOU_ARE_COMMANDER_DIVISION"
 msgstr "貴官が戦隊の指揮官です"
@@ -20178,16 +20178,16 @@ msgid "IDS_TEAMKILLER_ATTACK_CHAT"
 msgstr "同士討ちに対する警告"
 
 msgid "IDS_TEAMONELABEL"
-msgstr "チーム 1"
+msgstr "艦隊 1"
 
 msgid "IDS_TEAMTWOLABEL"
-msgstr "チーム 2"
+msgstr "艦隊 2"
 
 msgid "IDS_TEAM_GOALS"
-msgstr "チームミッション"
+msgstr "艦隊ミッション"
 
 msgid "IDS_TEAM_STRUCTURE"
-msgstr "チームメンバー"
+msgstr "艦隊メンバー"
 
 msgid "IDS_TEAM_TASKS"
 msgstr "ミッション"
@@ -20196,130 +20196,130 @@ msgid "IDS_TEMPLATE_BATTLE_CONDITIONS"
 msgstr "ミッションを達成する"
 
 msgid "IDS_TEMPLATE_BATTLE_CONDITIONS_CLUB_BATTLE"
-msgstr "チーム戦でミッションを達成する"
+msgstr "艦隊戦でミッションを達成する"
 
 msgid "IDS_TEMPLATE_BATTLE_CONDITIONS_CLUB_BATTLE_COOP_BATTLE"
-msgstr "Co-op 戦で または チーム戦でミッションを達成する"
+msgstr "Co-op 戦で または 艦隊戦でミッションを達成する"
 
 msgid "IDS_TEMPLATE_BATTLE_CONDITIONS_CLUB_BATTLE_COOP_BATTLE_INTRO_BATTLE"
 msgstr ""
 "Co-"
-"op 戦で、チーム戦で または 入門戦でミッションを達成する"
+"op 戦で、艦隊戦で または 入門戦でミッションを達成する"
 
 msgid "IDS_TEMPLATE_BATTLE_CONDITIONS_CLUB_BATTLE_COOP_BATTLE_INTRO_BATTLE_RANDOM_BATTLE"
 msgstr ""
 "ランダム戦で、Co-"
-"op 戦で、チーム戦で または 入門戦でミッションを達成する"
+"op 戦で、艦隊戦で または 入門戦でミッションを達成する"
 
 msgid "IDS_TEMPLATE_BATTLE_CONDITIONS_CLUB_BATTLE_COOP_BATTLE_INTRO_BATTLE_RANDOM_BATTLE_RANK_BATTLE"
 msgstr ""
 "ランダム戦で、ランク戦で、Co-"
-"op 戦で、チーム戦で または 入門戦でミッションを達成する"
+"op 戦で、艦隊戦で または 入門戦でミッションを達成する"
 
 msgid "IDS_TEMPLATE_BATTLE_CONDITIONS_CLUB_BATTLE_COOP_BATTLE_INTRO_BATTLE_RANDOM_BATTLE_RANK_BATTLE_TRAINING_BATTLE"
 msgstr ""
 "ランダム戦で、ランク戦で、Co-"
-"op 戦で、チーム戦で、トレーニング戦で または 入門戦でミッションを達成する"
+"op 戦で、艦隊戦で、トレーニング戦で または 入門戦でミッションを達成する"
 
 msgid "IDS_TEMPLATE_BATTLE_CONDITIONS_CLUB_BATTLE_COOP_BATTLE_INTRO_BATTLE_RANDOM_BATTLE_TRAINING_BATTLE"
 msgstr ""
 "ランダム戦で、Co-"
-"op 戦で、チーム戦で、トレーニング戦で または 入門戦でミッションを達成する"
+"op 戦で、艦隊戦で、トレーニング戦で または 入門戦でミッションを達成する"
 
 msgid "IDS_TEMPLATE_BATTLE_CONDITIONS_CLUB_BATTLE_COOP_BATTLE_INTRO_BATTLE_RANK_BATTLE"
 msgstr ""
 "ランク戦で、Co-"
-"op 戦で、チーム戦で または 入門戦でミッションを達成する"
+"op 戦で、艦隊戦で または 入門戦でミッションを達成する"
 
 msgid "IDS_TEMPLATE_BATTLE_CONDITIONS_CLUB_BATTLE_COOP_BATTLE_INTRO_BATTLE_RANK_BATTLE_TRAINING_BATTLE"
 msgstr ""
 "ランク戦で、Co-"
-"op 戦で、チーム戦で、トレーニング戦で または 入門戦でミッションを達成する"
+"op 戦で、艦隊戦で、トレーニング戦で または 入門戦でミッションを達成する"
 
 msgid "IDS_TEMPLATE_BATTLE_CONDITIONS_CLUB_BATTLE_COOP_BATTLE_INTRO_BATTLE_TRAINING_BATTLE"
 msgstr ""
 "Co-"
-"op 戦で、チーム戦で、トレーニング戦で または 入門戦でミッションを達成する"
+"op 戦で、艦隊戦で、トレーニング戦で または 入門戦でミッションを達成する"
 
 msgid "IDS_TEMPLATE_BATTLE_CONDITIONS_CLUB_BATTLE_COOP_BATTLE_RANDOM_BATTLE"
 msgstr ""
 "ランダム戦で、Co-"
-"op 戦で または チーム戦でミッションを達成する"
+"op 戦で または 艦隊戦でミッションを達成する"
 
 msgid "IDS_TEMPLATE_BATTLE_CONDITIONS_CLUB_BATTLE_COOP_BATTLE_RANDOM_BATTLE_RANK_BATTLE"
 msgstr ""
 "ランダム戦で、ランク戦で、Co-"
-"op 戦で または チーム戦でミッションを達成する"
+"op 戦で または 艦隊戦でミッションを達成する"
 
 msgid "IDS_TEMPLATE_BATTLE_CONDITIONS_CLUB_BATTLE_COOP_BATTLE_RANDOM_BATTLE_RANK_BATTLE_TRAINING_BATTLE"
 msgstr ""
 "ランダム戦で、ランク戦で、Co-"
-"op 戦で、チーム戦で または トレーニング戦でミッションを達成する"
+"op 戦で、艦隊戦で または トレーニング戦でミッションを達成する"
 
 msgid "IDS_TEMPLATE_BATTLE_CONDITIONS_CLUB_BATTLE_COOP_BATTLE_RANDOM_BATTLE_TRAINING_BATTLE"
 msgstr ""
 "ランダム戦で、Co-"
-"op 戦で、チーム戦で または トレーニング戦でミッションを達成する"
+"op 戦で、艦隊戦で または トレーニング戦でミッションを達成する"
 
 msgid "IDS_TEMPLATE_BATTLE_CONDITIONS_CLUB_BATTLE_COOP_BATTLE_RANK_BATTLE"
 msgstr ""
 "ランク戦で、Co-"
-"op 戦で または チーム戦でミッションを達成する"
+"op 戦で または 艦隊戦でミッションを達成する"
 
 msgid "IDS_TEMPLATE_BATTLE_CONDITIONS_CLUB_BATTLE_COOP_BATTLE_RANK_BATTLE_TRAINING_BATTLE"
 msgstr ""
 "ランク戦で、Co-"
-"op 戦で、チーム戦で または トレーニング戦でミッションを達成する"
+"op 戦で、艦隊戦で または トレーニング戦でミッションを達成する"
 
 msgid "IDS_TEMPLATE_BATTLE_CONDITIONS_CLUB_BATTLE_COOP_BATTLE_TRAINING_BATTLE"
 msgstr ""
 "Co-"
-"op 戦で、チーム戦で または トレーニング戦でミッションを達成する"
+"op 戦で、艦隊戦で または トレーニング戦でミッションを達成する"
 
 msgid "IDS_TEMPLATE_BATTLE_CONDITIONS_CLUB_BATTLE_INTRO_BATTLE"
-msgstr "チーム戦で または 入門戦でミッションを達成する"
+msgstr "艦隊戦で または 入門戦でミッションを達成する"
 
 msgid "IDS_TEMPLATE_BATTLE_CONDITIONS_CLUB_BATTLE_INTRO_BATTLE_RANDOM_BATTLE"
-msgstr "ランダム戦で、チーム戦で または 入門戦でミッションを達成する"
+msgstr "ランダム戦で、艦隊戦で または 入門戦でミッションを達成する"
 
 msgid "IDS_TEMPLATE_BATTLE_CONDITIONS_CLUB_BATTLE_INTRO_BATTLE_RANDOM_BATTLE_RANK_BATTLE"
-msgstr "ランダム戦で、ランク戦で、チーム戦で または 入門戦でミッションを達成する"
+msgstr "ランダム戦で、ランク戦で、艦隊戦で または 入門戦でミッションを達成する"
 
 msgid "IDS_TEMPLATE_BATTLE_CONDITIONS_CLUB_BATTLE_INTRO_BATTLE_RANDOM_BATTLE_RANK_BATTLE_TRAINING_BATTLE"
-msgstr "ランダム戦で、ランク戦で、チーム戦で、トレーニング戦で または 入門戦でミッションを達成する"
+msgstr "ランダム戦で、ランク戦で、艦隊戦で、トレーニング戦で または 入門戦でミッションを達成する"
 
 msgid "IDS_TEMPLATE_BATTLE_CONDITIONS_CLUB_BATTLE_INTRO_BATTLE_RANDOM_BATTLE_TRAINING_BATTLE"
-msgstr "ランダム戦で、チーム戦で、トレーニング戦で または 入門戦でミッションを達成する"
+msgstr "ランダム戦で、艦隊戦で、トレーニング戦で または 入門戦でミッションを達成する"
 
 msgid "IDS_TEMPLATE_BATTLE_CONDITIONS_CLUB_BATTLE_INTRO_BATTLE_RANK_BATTLE"
-msgstr "ランク戦で、チーム戦で または 入門戦でミッションを達成する"
+msgstr "ランク戦で、艦隊戦で または 入門戦でミッションを達成する"
 
 msgid "IDS_TEMPLATE_BATTLE_CONDITIONS_CLUB_BATTLE_INTRO_BATTLE_RANK_BATTLE_TRAINING_BATTLE"
-msgstr "ランク戦で、チーム戦で、トレーニング戦で または 入門戦でミッションを達成する"
+msgstr "ランク戦で、艦隊戦で、トレーニング戦で または 入門戦でミッションを達成する"
 
 msgid "IDS_TEMPLATE_BATTLE_CONDITIONS_CLUB_BATTLE_INTRO_BATTLE_TRAINING_BATTLE"
-msgstr "チーム戦で、トレーニング戦で または 入門戦でミッションを達成する"
+msgstr "艦隊戦で、トレーニング戦で または 入門戦でミッションを達成する"
 
 msgid "IDS_TEMPLATE_BATTLE_CONDITIONS_CLUB_BATTLE_RANDOM_BATTLE"
-msgstr "ランダム戦で または チーム戦でミッションを達成する"
+msgstr "ランダム戦で または 艦隊戦でミッションを達成する"
 
 msgid "IDS_TEMPLATE_BATTLE_CONDITIONS_CLUB_BATTLE_RANDOM_BATTLE_RANK_BATTLE"
-msgstr "ランダム戦で、ランク戦で または チーム戦でミッションを達成する"
+msgstr "ランダム戦で、ランク戦で または 艦隊戦でミッションを達成する"
 
 msgid "IDS_TEMPLATE_BATTLE_CONDITIONS_CLUB_BATTLE_RANDOM_BATTLE_RANK_BATTLE_TRAINING_BATTLE"
-msgstr "ランダム戦で、ランク戦で、チーム戦で または トレーニング戦でミッションを達成する"
+msgstr "ランダム戦で、ランク戦で、艦隊戦で または トレーニング戦でミッションを達成する"
 
 msgid "IDS_TEMPLATE_BATTLE_CONDITIONS_CLUB_BATTLE_RANDOM_BATTLE_TRAINING_BATTLE"
-msgstr "ランダム戦で、チーム戦で または トレーニング戦でミッションを達成する"
+msgstr "ランダム戦で、艦隊戦で または トレーニング戦でミッションを達成する"
 
 msgid "IDS_TEMPLATE_BATTLE_CONDITIONS_CLUB_BATTLE_RANK_BATTLE"
-msgstr "ランク戦で または チーム戦でミッションを達成する"
+msgstr "ランク戦で または 艦隊戦でミッションを達成する"
 
 msgid "IDS_TEMPLATE_BATTLE_CONDITIONS_CLUB_BATTLE_RANK_BATTLE_TRAINING_BATTLE"
-msgstr "ランク戦で、チーム戦で または トレーニング戦でミッションを達成する"
+msgstr "ランク戦で、艦隊戦で または トレーニング戦でミッションを達成する"
 
 msgid "IDS_TEMPLATE_BATTLE_CONDITIONS_CLUB_BATTLE_TRAINING_BATTLE"
-msgstr "チーム戦で または トレーニング戦でミッションを達成する"
+msgstr "艦隊戦で または トレーニング戦でミッションを達成する"
 
 msgid "IDS_TEMPLATE_BATTLE_CONDITIONS_COOP_BATTLE"
 msgstr "Co-op 戦でミッションを達成する"
@@ -20421,132 +20421,132 @@ msgid "IDS_TEMPLATE_BATTLE_CONDITIONS_IN_SQUAD"
 msgstr "戦隊でプレイし、ミッションを達成する"
 
 msgid "IDS_TEMPLATE_BATTLE_CONDITIONS_IN_SQUAD_CLUB_BATTLE"
-msgstr "戦隊でプレイし、チーム戦でミッションを達成する"
+msgstr "戦隊でプレイし、艦隊戦でミッションを達成する"
 
 msgid "IDS_TEMPLATE_BATTLE_CONDITIONS_IN_SQUAD_CLUB_BATTLE_COOP_BATTLE"
 msgstr ""
 "戦隊でプレイし、Co-"
-"op 戦で または チーム戦でミッションを達成する"
+"op 戦で または 艦隊戦でミッションを達成する"
 
 msgid "IDS_TEMPLATE_BATTLE_CONDITIONS_IN_SQUAD_CLUB_BATTLE_COOP_BATTLE_INTRO_BATTLE"
 msgstr ""
 "戦隊でプレイし、Co-"
-"op 戦で、チーム戦で または 入門戦でミッションを達成する"
+"op 戦で、艦隊戦で または 入門戦でミッションを達成する"
 
 msgid "IDS_TEMPLATE_BATTLE_CONDITIONS_IN_SQUAD_CLUB_BATTLE_COOP_BATTLE_INTRO_BATTLE_RANDOM_BATTLE"
 msgstr ""
 "戦隊でプレイし、ランダム戦で、Co-"
-"op 戦で、チーム戦で または 入門戦でミッションを達成する"
+"op 戦で、艦隊戦で または 入門戦でミッションを達成する"
 
 msgid "IDS_TEMPLATE_BATTLE_CONDITIONS_IN_SQUAD_CLUB_BATTLE_COOP_BATTLE_INTRO_BATTLE_RANDOM_BATTLE_RANK_BATTLE"
 msgstr ""
 "戦隊でプレイし、ランダム戦で、ランク戦で、Co-"
-"op 戦で、チーム戦で または 入門戦でミッションを達成する"
+"op 戦で、艦隊戦で または 入門戦でミッションを達成する"
 
 msgid "IDS_TEMPLATE_BATTLE_CONDITIONS_IN_SQUAD_CLUB_BATTLE_COOP_BATTLE_INTRO_BATTLE_RANDOM_BATTLE_RANK_BATTLE_TRAINING_BATTLE"
 msgstr ""
 "戦隊でプレイし、ランダム戦で、ランク戦で、Co-"
-"op 戦で、チーム戦で、トレーニング戦で または 入門戦でミッションを達成する"
+"op 戦で、艦隊戦で、トレーニング戦で または 入門戦でミッションを達成する"
 
 msgid "IDS_TEMPLATE_BATTLE_CONDITIONS_IN_SQUAD_CLUB_BATTLE_COOP_BATTLE_INTRO_BATTLE_RANDOM_BATTLE_TRAINING_BATTLE"
 msgstr ""
 "戦隊でプレイし、ランダム戦で、Co-"
-"op 戦で、チーム戦で、トレーニング戦で または 入門戦でミッションを達成する"
+"op 戦で、艦隊戦で、トレーニング戦で または 入門戦でミッションを達成する"
 
 msgid "IDS_TEMPLATE_BATTLE_CONDITIONS_IN_SQUAD_CLUB_BATTLE_COOP_BATTLE_INTRO_BATTLE_RANK_BATTLE"
 msgstr ""
 "戦隊でプレイし、ランク戦で、Co-"
-"op 戦で、チーム戦で または 入門戦でミッションを達成する"
+"op 戦で、艦隊戦で または 入門戦でミッションを達成する"
 
 msgid "IDS_TEMPLATE_BATTLE_CONDITIONS_IN_SQUAD_CLUB_BATTLE_COOP_BATTLE_INTRO_BATTLE_RANK_BATTLE_TRAINING_BATTLE"
 msgstr ""
 "戦隊でプレイし、ランク戦で、Co-"
-"op 戦で、チーム戦で、トレーニング戦で または 入門戦でミッションを達成する"
+"op 戦で、艦隊戦で、トレーニング戦で または 入門戦でミッションを達成する"
 
 msgid "IDS_TEMPLATE_BATTLE_CONDITIONS_IN_SQUAD_CLUB_BATTLE_COOP_BATTLE_INTRO_BATTLE_TRAINING_BATTLE"
 msgstr ""
 "戦隊でプレイし、Co-"
-"op 戦で、チーム戦で、トレーニング戦で または 入門戦でミッションを達成する"
+"op 戦で、艦隊戦で、トレーニング戦で または 入門戦でミッションを達成する"
 
 msgid "IDS_TEMPLATE_BATTLE_CONDITIONS_IN_SQUAD_CLUB_BATTLE_COOP_BATTLE_RANDOM_BATTLE"
 msgstr ""
 "戦隊でプレイし、ランダム戦で、Co-"
-"op 戦で または チーム戦でミッションを達成する"
+"op 戦で または 艦隊戦でミッションを達成する"
 
 msgid "IDS_TEMPLATE_BATTLE_CONDITIONS_IN_SQUAD_CLUB_BATTLE_COOP_BATTLE_RANDOM_BATTLE_RANK_BATTLE"
 msgstr ""
 "戦隊でプレイし、ランダム戦で、ランク戦で、Co-"
-"op 戦で または チーム戦でミッションを達成する"
+"op 戦で または 艦隊戦でミッションを達成する"
 
 msgid "IDS_TEMPLATE_BATTLE_CONDITIONS_IN_SQUAD_CLUB_BATTLE_COOP_BATTLE_RANDOM_BATTLE_RANK_BATTLE_TRAINING_BATTLE"
 msgstr ""
 "戦隊でプレイし、ランダム戦で、ランク戦で、Co-"
-"op 戦で、チーム戦で または トレーニング戦でミッションを達成する"
+"op 戦で、艦隊戦で または トレーニング戦でミッションを達成する"
 
 msgid "IDS_TEMPLATE_BATTLE_CONDITIONS_IN_SQUAD_CLUB_BATTLE_COOP_BATTLE_RANDOM_BATTLE_TRAINING_BATTLE"
 msgstr ""
 "戦隊でプレイし、ランダム戦で、Co-"
-"op 戦で、チーム戦で または トレーニング戦でミッションを達成する"
+"op 戦で、艦隊戦で または トレーニング戦でミッションを達成する"
 
 msgid "IDS_TEMPLATE_BATTLE_CONDITIONS_IN_SQUAD_CLUB_BATTLE_COOP_BATTLE_RANK_BATTLE"
 msgstr ""
 "戦隊でプレイし、ランク戦で、Co-"
-"op 戦で または チーム戦でミッションを達成する"
+"op 戦で または 艦隊戦でミッションを達成する"
 
 msgid "IDS_TEMPLATE_BATTLE_CONDITIONS_IN_SQUAD_CLUB_BATTLE_COOP_BATTLE_RANK_BATTLE_TRAINING_BATTLE"
 msgstr ""
 "戦隊でプレイし、ランク戦で、Co-"
-"op 戦で、チーム戦で または トレーニング戦でミッションを達成する"
+"op 戦で、艦隊戦で または トレーニング戦でミッションを達成する"
 
 msgid "IDS_TEMPLATE_BATTLE_CONDITIONS_IN_SQUAD_CLUB_BATTLE_COOP_BATTLE_TRAINING_BATTLE"
 msgstr ""
 "戦隊でプレイし、Co-"
-"op 戦で、チーム戦で または トレーニング戦でミッションを達成する"
+"op 戦で、艦隊戦で または トレーニング戦でミッションを達成する"
 
 msgid "IDS_TEMPLATE_BATTLE_CONDITIONS_IN_SQUAD_CLUB_BATTLE_INTRO_BATTLE"
-msgstr "戦隊でプレイし、チーム戦で または 入門戦でミッションを達成する"
+msgstr "戦隊でプレイし、艦隊戦で または 入門戦でミッションを達成する"
 
 msgid "IDS_TEMPLATE_BATTLE_CONDITIONS_IN_SQUAD_CLUB_BATTLE_INTRO_BATTLE_RANDOM_BATTLE"
-msgstr "戦隊でプレイし、ランダム戦で、チーム戦で または 入門戦でミッションを達成する"
+msgstr "戦隊でプレイし、ランダム戦で、艦隊戦で または 入門戦でミッションを達成する"
 
 msgid "IDS_TEMPLATE_BATTLE_CONDITIONS_IN_SQUAD_CLUB_BATTLE_INTRO_BATTLE_RANDOM_BATTLE_RANK_BATTLE"
-msgstr "戦隊でプレイし、ランダム戦で、ランク戦で、チーム戦で または 入門戦でミッションを達成する"
+msgstr "戦隊でプレイし、ランダム戦で、ランク戦で、艦隊戦で または 入門戦でミッションを達成する"
 
 msgid "IDS_TEMPLATE_BATTLE_CONDITIONS_IN_SQUAD_CLUB_BATTLE_INTRO_BATTLE_RANDOM_BATTLE_RANK_BATTLE_TRAINING_BATTLE"
-msgstr "戦隊でプレイし、ランダム戦で、ランク戦で、チーム戦で、トレーニング戦で または 入門戦でミッションを達成する"
+msgstr "戦隊でプレイし、ランダム戦で、ランク戦で、艦隊戦で、トレーニング戦で または 入門戦でミッションを達成する"
 
 msgid "IDS_TEMPLATE_BATTLE_CONDITIONS_IN_SQUAD_CLUB_BATTLE_INTRO_BATTLE_RANDOM_BATTLE_TRAINING_BATTLE"
-msgstr "戦隊でプレイし、ランダム戦で、チーム戦で、トレーニング戦で または 入門戦でミッションを達成する"
+msgstr "戦隊でプレイし、ランダム戦で、艦隊戦で、トレーニング戦で または 入門戦でミッションを達成する"
 
 msgid "IDS_TEMPLATE_BATTLE_CONDITIONS_IN_SQUAD_CLUB_BATTLE_INTRO_BATTLE_RANK_BATTLE"
-msgstr "戦隊でプレイし、ランク戦で、チーム戦で または 入門戦でミッションを達成する"
+msgstr "戦隊でプレイし、ランク戦で、艦隊戦で または 入門戦でミッションを達成する"
 
 msgid "IDS_TEMPLATE_BATTLE_CONDITIONS_IN_SQUAD_CLUB_BATTLE_INTRO_BATTLE_RANK_BATTLE_TRAINING_BATTLE"
-msgstr "戦隊でプレイし、ランク戦で、チーム戦で、トレーニング戦で または 入門戦でミッションを達成する"
+msgstr "戦隊でプレイし、ランク戦で、艦隊戦で、トレーニング戦で または 入門戦でミッションを達成する"
 
 msgid "IDS_TEMPLATE_BATTLE_CONDITIONS_IN_SQUAD_CLUB_BATTLE_INTRO_BATTLE_TRAINING_BATTLE"
-msgstr "戦隊でプレイし、チーム戦で、トレーニング戦で または 入門戦でミッションを達成する"
+msgstr "戦隊でプレイし、艦隊戦で、トレーニング戦で または 入門戦でミッションを達成する"
 
 msgid "IDS_TEMPLATE_BATTLE_CONDITIONS_IN_SQUAD_CLUB_BATTLE_RANDOM_BATTLE"
-msgstr "戦隊でプレイし、ランダム戦で または チーム戦でミッションを達成する"
+msgstr "戦隊でプレイし、ランダム戦で または 艦隊戦でミッションを達成する"
 
 msgid "IDS_TEMPLATE_BATTLE_CONDITIONS_IN_SQUAD_CLUB_BATTLE_RANDOM_BATTLE_RANK_BATTLE"
-msgstr "戦隊でプレイし、ランダム戦で、ランク戦で または チーム戦でミッションを達成する"
+msgstr "戦隊でプレイし、ランダム戦で、ランク戦で または 艦隊戦でミッションを達成する"
 
 msgid "IDS_TEMPLATE_BATTLE_CONDITIONS_IN_SQUAD_CLUB_BATTLE_RANDOM_BATTLE_RANK_BATTLE_TRAINING_BATTLE"
-msgstr "戦隊でプレイし、ランダム戦で、ランク戦で、チーム戦で または トレーニング戦でミッションを達成する"
+msgstr "戦隊でプレイし、ランダム戦で、ランク戦で、艦隊戦で または トレーニング戦でミッションを達成する"
 
 msgid "IDS_TEMPLATE_BATTLE_CONDITIONS_IN_SQUAD_CLUB_BATTLE_RANDOM_BATTLE_TRAINING_BATTLE"
-msgstr "戦隊でプレイし、ランダム戦で、チーム戦で または トレーニング戦でミッションを達成する"
+msgstr "戦隊でプレイし、ランダム戦で、艦隊戦で または トレーニング戦でミッションを達成する"
 
 msgid "IDS_TEMPLATE_BATTLE_CONDITIONS_IN_SQUAD_CLUB_BATTLE_RANK_BATTLE"
-msgstr "戦隊でプレイし、ランク戦で または チーム戦でミッションを達成する"
+msgstr "戦隊でプレイし、ランク戦で または 艦隊戦でミッションを達成する"
 
 msgid "IDS_TEMPLATE_BATTLE_CONDITIONS_IN_SQUAD_CLUB_BATTLE_RANK_BATTLE_TRAINING_BATTLE"
-msgstr "戦隊でプレイし、ランク戦で、チーム戦で または トレーニング戦でミッションを達成する"
+msgstr "戦隊でプレイし、ランク戦で、艦隊戦で または トレーニング戦でミッションを達成する"
 
 msgid "IDS_TEMPLATE_BATTLE_CONDITIONS_IN_SQUAD_CLUB_BATTLE_TRAINING_BATTLE"
-msgstr "戦隊でプレイし、チーム戦で または トレーニング戦でミッションを達成する"
+msgstr "戦隊でプレイし、艦隊戦で または トレーニング戦でミッションを達成する"
 
 msgid "IDS_TEMPLATE_BATTLE_CONDITIONS_IN_SQUAD_COOP_BATTLE"
 msgstr "戦隊でプレイし、Co-op 戦でミッションを達成する"
@@ -91880,11 +91880,11 @@ msgstr ""
 "s を達成する"
 
 msgid "IDS_TEMPLATE_TOP_N_DAMAGE_IN_ONE_BATTLE_TOP_IN_TEAM_1"
-msgstr "1 戦中に、敵に対する与ダメージでチーム内最高を達成する"
+msgstr "1 戦中に、敵に対する与ダメージで艦隊内最高を達成する"
 
 msgid "IDS_TEMPLATE_TOP_N_DAMAGE_IN_ONE_BATTLE_TOP_IN_TEAM_2"
 msgstr ""
-"1 戦中に、敵に対する与ダメージでチーム内 TOP %(top_count)"
+"1 戦中に、敵に対する与ダメージで艦隊内 TOP %(top_count)"
 "s を達成する"
 
 msgid "IDS_TEMPLATE_TOP_N_DAMAGE_SURVIVE_IN_BATTLES_1"
@@ -91896,11 +91896,11 @@ msgstr ""
 "s を達成する"
 
 msgid "IDS_TEMPLATE_TOP_N_DAMAGE_SURVIVE_IN_BATTLES_TOP_IN_TEAM_1"
-msgstr "各戦で生還し、敵に対する与ダメージでチーム内最高を達成する"
+msgstr "各戦で生還し、敵に対する与ダメージで艦隊内最高を達成する"
 
 msgid "IDS_TEMPLATE_TOP_N_DAMAGE_SURVIVE_IN_BATTLES_TOP_IN_TEAM_2"
 msgstr ""
-"各戦で生還し、敵に対する与ダメージでチーム内 TOP "
+"各戦で生還し、敵に対する与ダメージで艦隊内 TOP "
 "%(top_count)s を達成する"
 
 msgid "IDS_TEMPLATE_TOP_N_DAMAGE_SURVIVE_IN_ONE_BATTLE_1"
@@ -91912,11 +91912,11 @@ msgstr ""
 "s を達成する"
 
 msgid "IDS_TEMPLATE_TOP_N_DAMAGE_SURVIVE_IN_ONE_BATTLE_TOP_IN_TEAM_1"
-msgstr "1 戦生還し、敵に対する与ダメージでチーム内最高を達成する"
+msgstr "1 戦生還し、敵に対する与ダメージで艦隊内最高を達成する"
 
 msgid "IDS_TEMPLATE_TOP_N_DAMAGE_SURVIVE_IN_ONE_BATTLE_TOP_IN_TEAM_2"
 msgstr ""
-"1 戦生還し、敵に対する与ダメージでチーム内 TOP "
+"1 戦生還し、敵に対する与ダメージで艦隊内 TOP "
 "%(top_count)s を達成する"
 
 msgid "IDS_TEMPLATE_TOP_N_DAMAGE_SURVIVE_WIN_IN_BATTLES_1"
@@ -91928,11 +91928,11 @@ msgstr ""
 "%(top_count)s を達成する"
 
 msgid "IDS_TEMPLATE_TOP_N_DAMAGE_SURVIVE_WIN_IN_BATTLES_TOP_IN_TEAM_1"
-msgstr "各戦で勝利かつ生還し、敵に対する与ダメージでチーム内最高を達成する"
+msgstr "各戦で勝利かつ生還し、敵に対する与ダメージで艦隊内最高を達成する"
 
 msgid "IDS_TEMPLATE_TOP_N_DAMAGE_SURVIVE_WIN_IN_BATTLES_TOP_IN_TEAM_2"
 msgstr ""
-"各戦で勝利かつ生還し、敵に対する与ダメージでチーム内 "
+"各戦で勝利かつ生還し、敵に対する与ダメージで艦隊内 "
 "TOP %(top_count)s を達成する"
 
 msgid "IDS_TEMPLATE_TOP_N_DAMAGE_SURVIVE_WIN_IN_ONE_BATTLE_1"
@@ -91944,19 +91944,19 @@ msgstr ""
 "%(top_count)s を達成する"
 
 msgid "IDS_TEMPLATE_TOP_N_DAMAGE_SURVIVE_WIN_IN_ONE_BATTLE_TOP_IN_TEAM_1"
-msgstr "1 戦勝利かつ生還し、敵に対する与ダメージでチーム内最高を達成する"
+msgstr "1 戦勝利かつ生還し、敵に対する与ダメージで艦隊内最高を達成する"
 
 msgid "IDS_TEMPLATE_TOP_N_DAMAGE_SURVIVE_WIN_IN_ONE_BATTLE_TOP_IN_TEAM_2"
 msgstr ""
-"1 戦勝利かつ生還し、敵に対する与ダメージでチーム内 "
+"1 戦勝利かつ生還し、敵に対する与ダメージで艦隊内 "
 "TOP %(top_count)s を達成する"
 
 msgid "IDS_TEMPLATE_TOP_N_DAMAGE_TOP_IN_TEAM_1"
-msgstr "敵に対する与ダメージでチーム内最高を達成する"
+msgstr "敵に対する与ダメージで艦隊内最高を達成する"
 
 msgid "IDS_TEMPLATE_TOP_N_DAMAGE_TOP_IN_TEAM_2"
 msgstr ""
-"敵に対する与ダメージでチーム内 TOP %(top_count)"
+"敵に対する与ダメージで艦隊内 TOP %(top_count)"
 "s を達成する"
 
 msgid "IDS_TEMPLATE_TOP_N_DAMAGE_WIN_IN_BATTLES_1"
@@ -91968,11 +91968,11 @@ msgstr ""
 "s を達成する"
 
 msgid "IDS_TEMPLATE_TOP_N_DAMAGE_WIN_IN_BATTLES_TOP_IN_TEAM_1"
-msgstr "各戦で勝利し、敵に対する与ダメージでチーム内最高を達成する"
+msgstr "各戦で勝利し、敵に対する与ダメージで艦隊内最高を達成する"
 
 msgid "IDS_TEMPLATE_TOP_N_DAMAGE_WIN_IN_BATTLES_TOP_IN_TEAM_2"
 msgstr ""
-"各戦で勝利し、敵に対する与ダメージでチーム内 TOP "
+"各戦で勝利し、敵に対する与ダメージで艦隊内 TOP "
 "%(top_count)s を達成する"
 
 msgid "IDS_TEMPLATE_TOP_N_DAMAGE_WIN_IN_ONE_BATTLE_1"
@@ -91984,11 +91984,11 @@ msgstr ""
 "s を達成する"
 
 msgid "IDS_TEMPLATE_TOP_N_DAMAGE_WIN_IN_ONE_BATTLE_TOP_IN_TEAM_1"
-msgstr "1 戦勝利し、敵に対する与ダメージでチーム内最高を達成する"
+msgstr "1 戦勝利し、敵に対する与ダメージで艦隊内最高を達成する"
 
 msgid "IDS_TEMPLATE_TOP_N_DAMAGE_WIN_IN_ONE_BATTLE_TOP_IN_TEAM_2"
 msgstr ""
-"1 戦勝利し、敵に対する与ダメージでチーム内 TOP "
+"1 戦勝利し、敵に対する与ダメージで艦隊内 TOP "
 "%(top_count)s を達成する"
 
 msgid "IDS_TEMPLATE_TOP_N_EXP_1"
@@ -92004,11 +92004,11 @@ msgid "IDS_TEMPLATE_TOP_N_EXP_IN_ONE_BATTLE_2"
 msgstr "1 戦中に、取得経験値で TOP %(top_count)s を達成する"
 
 msgid "IDS_TEMPLATE_TOP_N_EXP_IN_ONE_BATTLE_TOP_IN_TEAM_1"
-msgstr "1 戦中に、取得経験値でチーム内最高を達成する"
+msgstr "1 戦中に、取得経験値で艦隊内最高を達成する"
 
 msgid "IDS_TEMPLATE_TOP_N_EXP_IN_ONE_BATTLE_TOP_IN_TEAM_2"
 msgstr ""
-"1 戦中に、取得経験値でチーム内 TOP %(top_count)"
+"1 戦中に、取得経験値で艦隊内 TOP %(top_count)"
 "s を達成する"
 
 msgid "IDS_TEMPLATE_TOP_N_EXP_SURVIVE_IN_BATTLES_1"
@@ -92019,11 +92019,11 @@ msgstr ""
 "各戦で生還し、取得経験値で TOP %(top_count)s を達成する"
 
 msgid "IDS_TEMPLATE_TOP_N_EXP_SURVIVE_IN_BATTLES_TOP_IN_TEAM_1"
-msgstr "各戦で生還し、取得経験値でチーム内最高を達成する"
+msgstr "各戦で生還し、取得経験値で艦隊内最高を達成する"
 
 msgid "IDS_TEMPLATE_TOP_N_EXP_SURVIVE_IN_BATTLES_TOP_IN_TEAM_2"
 msgstr ""
-"各戦で生還し、取得経験値でチーム内 TOP %(top_count)"
+"各戦で生還し、取得経験値で艦隊内 TOP %(top_count)"
 "s を達成する"
 
 msgid "IDS_TEMPLATE_TOP_N_EXP_SURVIVE_IN_ONE_BATTLE_1"
@@ -92033,11 +92033,11 @@ msgid "IDS_TEMPLATE_TOP_N_EXP_SURVIVE_IN_ONE_BATTLE_2"
 msgstr "1 戦生還し、取得経験値で TOP %(top_count)s を達成する"
 
 msgid "IDS_TEMPLATE_TOP_N_EXP_SURVIVE_IN_ONE_BATTLE_TOP_IN_TEAM_1"
-msgstr "1 戦生還し、取得経験値でチーム内最高を達成する"
+msgstr "1 戦生還し、取得経験値で艦隊内最高を達成する"
 
 msgid "IDS_TEMPLATE_TOP_N_EXP_SURVIVE_IN_ONE_BATTLE_TOP_IN_TEAM_2"
 msgstr ""
-"1 戦生還し、取得経験値でチーム内 TOP %(top_count)"
+"1 戦生還し、取得経験値で艦隊内 TOP %(top_count)"
 "s を達成する"
 
 msgid "IDS_TEMPLATE_TOP_N_EXP_SURVIVE_WIN_IN_BATTLES_1"
@@ -92049,11 +92049,11 @@ msgstr ""
 "s を達成する"
 
 msgid "IDS_TEMPLATE_TOP_N_EXP_SURVIVE_WIN_IN_BATTLES_TOP_IN_TEAM_1"
-msgstr "各戦で勝利かつ生還し、取得経験値でチーム内最高を達成する"
+msgstr "各戦で勝利かつ生還し、取得経験値で艦隊内最高を達成する"
 
 msgid "IDS_TEMPLATE_TOP_N_EXP_SURVIVE_WIN_IN_BATTLES_TOP_IN_TEAM_2"
 msgstr ""
-"各戦で勝利かつ生還し、取得経験値でチーム内 TOP "
+"各戦で勝利かつ生還し、取得経験値で艦隊内 TOP "
 "%(top_count)s を達成する"
 
 msgid "IDS_TEMPLATE_TOP_N_EXP_SURVIVE_WIN_IN_ONE_BATTLE_1"
@@ -92065,18 +92065,18 @@ msgstr ""
 "s を達成する"
 
 msgid "IDS_TEMPLATE_TOP_N_EXP_SURVIVE_WIN_IN_ONE_BATTLE_TOP_IN_TEAM_1"
-msgstr "1 戦勝利かつ生還し、取得経験値でチーム内最高を達成する"
+msgstr "1 戦勝利かつ生還し、取得経験値で艦隊内最高を達成する"
 
 msgid "IDS_TEMPLATE_TOP_N_EXP_SURVIVE_WIN_IN_ONE_BATTLE_TOP_IN_TEAM_2"
 msgstr ""
-"1 戦勝利かつ生還し、取得経験値でチーム内 TOP %(top_count)"
+"1 戦勝利かつ生還し、取得経験値で艦隊内 TOP %(top_count)"
 "s を達成する"
 
 msgid "IDS_TEMPLATE_TOP_N_EXP_TOP_IN_TEAM_1"
-msgstr "取得経験値でチーム内最高を達成する"
+msgstr "取得経験値で艦隊内最高を達成する"
 
 msgid "IDS_TEMPLATE_TOP_N_EXP_TOP_IN_TEAM_2"
-msgstr "取得経験値でチーム内 TOP %(top_count)s を達成する"
+msgstr "取得経験値で艦隊内 TOP %(top_count)s を達成する"
 
 msgid "IDS_TEMPLATE_TOP_N_EXP_WIN_IN_BATTLES_1"
 msgstr "各戦で勝利し、取得経験値で最高を達成する"
@@ -92086,11 +92086,11 @@ msgstr ""
 "各戦で勝利し、取得経験値で TOP %(top_count)s を達成する"
 
 msgid "IDS_TEMPLATE_TOP_N_EXP_WIN_IN_BATTLES_TOP_IN_TEAM_1"
-msgstr "各戦で勝利し、取得経験値でチーム内最高を達成する"
+msgstr "各戦で勝利し、取得経験値で艦隊内最高を達成する"
 
 msgid "IDS_TEMPLATE_TOP_N_EXP_WIN_IN_BATTLES_TOP_IN_TEAM_2"
 msgstr ""
-"各戦で勝利し、取得経験値でチーム内 TOP %(top_count)"
+"各戦で勝利し、取得経験値で艦隊内 TOP %(top_count)"
 "s を達成する"
 
 msgid "IDS_TEMPLATE_TOP_N_EXP_WIN_IN_ONE_BATTLE_1"
@@ -92100,11 +92100,11 @@ msgid "IDS_TEMPLATE_TOP_N_EXP_WIN_IN_ONE_BATTLE_2"
 msgstr "1 戦勝利し、取得経験値で TOP %(top_count)s を達成する"
 
 msgid "IDS_TEMPLATE_TOP_N_EXP_WIN_IN_ONE_BATTLE_TOP_IN_TEAM_1"
-msgstr "1 戦勝利し、取得経験値でチーム内最高を達成する"
+msgstr "1 戦勝利し、取得経験値で艦隊内最高を達成する"
 
 msgid "IDS_TEMPLATE_TOP_N_EXP_WIN_IN_ONE_BATTLE_TOP_IN_TEAM_2"
 msgstr ""
-"1 戦勝利し、取得経験値でチーム内 TOP %(top_count)"
+"1 戦勝利し、取得経験値で艦隊内 TOP %(top_count)"
 "s を達成する"
 
 msgid "IDS_TEMPLATE_WIN_IN_BATTLES_1"
@@ -92144,12 +92144,12 @@ msgstr "砲弾が全貫通!"
 
 msgid "IDS_TILL_CLUB_BATTLES_END_IN"
 msgstr ""
-"<body>チームバトル現セッション終了まで\n"
+"<body>艦隊戦現セッション終了まで\n"
 "<h3>%(timeLeft)s</h3></body>"
 
 msgid "IDS_TILL_CLUB_BATTLES_START_IN"
 msgstr ""
-"<body>チームバトル・セッション開始まで\n"
+"<body>艦隊戦セッション再開まで\n"
 "<h3>%(timeLeft)s</h3></body>"
 
 msgid "IDS_TILL_END"
@@ -92346,7 +92346,7 @@ msgid "IDS_TOOLTIP_BATTLE_STATS_PERSONAL_REPORT"
 msgstr "個人スコア"
 
 msgid "IDS_TOOLTIP_BATTLE_STATS_TEAM_REPORT"
-msgstr "両チームの全プレイヤーの戦果"
+msgstr "両艦隊の全プレイヤーの戦果"
 
 msgid "IDS_TOOLTIP_BOMBER_SQUADRONS"
 msgstr "爆撃機編隊"
@@ -92571,7 +92571,7 @@ msgid "IDS_TOOLTIP_TAB_CHANNELS"
 msgstr "チャンネル一覧"
 
 msgid "IDS_TOOLTIP_TAB_CLUBS"
-msgstr "貴官のチームのプレイヤーリスト"
+msgstr "貴官の艦隊のプレイヤーリスト"
 
 msgid "IDS_TOOLTIP_TAB_CONTACTS"
 msgstr "連絡先リスト"
@@ -92595,10 +92595,10 @@ msgid "IDS_TOOLTIP_TAB_TACTICS"
 msgstr "戦術"
 
 msgid "IDS_TOOLTIP_TAB_TASKS"
-msgstr "戦闘で達成可能なチームミッションの説明"
+msgstr "戦闘で達成可能な艦隊ミッションの説明"
 
 msgid "IDS_TOOLTIP_TAB_TEAM_STRUCTURE"
-msgstr "チームプレイヤー一覧"
+msgstr "艦隊プレイヤー一覧"
 
 msgid "IDS_TOOLTIP_TBOMBER_SQUADRONS"
 msgstr "雷撃機編隊"
@@ -92670,7 +92670,7 @@ msgid "IDS_TO_CANCEL_EXPAND_BARRACKS"
 msgstr "解任をキャンセルするには、営舎を空けるか、または拡張してください。"
 
 msgid "IDS_TO_CLUBS"
-msgstr "チームへ移動"
+msgstr "艦隊へ移動"
 
 msgid "IDS_TO_INSTALL_PURCHASE_SHIP_FIRST"
 msgstr "このモジュールを搭載するには、まずは艦を購入してください。"
@@ -92730,10 +92730,10 @@ msgid "IDS_UNABLE_TO_CREATE_TRAINING_WHEN_IN_DIVISION"
 msgstr "戦隊への参加中はトレーニングルームを作成できません。"
 
 msgid "IDS_UNABLE_TO_CREATE_TRAINING_WHEN_IN_PARTY"
-msgstr "チームバトルに参加しようとしている際には、トレーニングルームは作成できません。"
+msgstr "艦隊戦に参加しようとしている際には、トレーニングルームは作成できません。"
 
 msgid "IDS_UNABLE_TO_EXCLUDE_PLAYER_OUT_OF_PARTY"
-msgstr "チームバトルが終了するまではプレイヤーを除外できません。"
+msgstr "艦隊戦が終了するまではプレイヤーを除外できません。"
 
 msgid "IDS_UNABLE_TO_INSTALL_CAMO"
 msgstr "迷彩を搭載できません"
@@ -92782,7 +92782,7 @@ msgstr "BATTLE_TUTORIAL"
 
 msgid "IDS_UNLOCKS_1"
 msgstr ""
-"他のプレイヤーとチームを組み、ボット相手に戦闘を行います。\n"
+"他のプレイヤーと手を組み、ボット相手に戦闘を行います。\n"
 "戦闘タイプ選択メニューから利用可能。"
 
 msgid "IDS_UNLOCKS_10"
@@ -92817,7 +92817,7 @@ msgstr "新しい艦艇の研究と購入"
 
 msgid "IDS_UNLOCKS_19"
 msgstr ""
-"フレンドと共にプレイ。チームバトルへの参加。\n"
+"フレンドと共にプレイ。艦隊戦への参加。\n"
 "戦闘タイプ選択メニューから利用可能です。"
 
 msgid "IDS_UNLOCKS_2"
@@ -92825,7 +92825,7 @@ msgstr "IDS_UNLOCKS_2"
 
 msgid "IDS_UNLOCKS_3"
 msgstr ""
-"2 チームに分かれて外洋で対戦します。\n"
+"二つの艦隊に分かれて外洋で対戦します。\n"
 "戦闘タイプ選択メニューから利用可能。"
 
 msgid "IDS_UNLOCKS_4"
@@ -92911,10 +92911,10 @@ msgid "IDS_UNLOCKS_DESCRIPTION_17_2"
 msgstr "使用可能なあらゆる艦艇は、技術ツリー画面およびモジュール画面において研究、購入、アップグレードすることができます。これらの画面にアクセスするには、上部のメニューで該当タブをクリックしてください。"
 
 msgid "IDS_UNLOCKS_DESCRIPTION_19_0"
-msgstr "プレイスタイルに合うチームを作成または選択しましょう。レーティング向上を目指しても良いですし、純粋に楽しんでも良いでしょう。"
+msgstr "プレイスタイルに合う艦隊を作成または選択しましょう。レーティング向上を目指しても良いですし、純粋に楽しんでも良いでしょう。"
 
 msgid "IDS_UNLOCKS_DESCRIPTION_19_1"
-msgstr "貴官のチーム画面のプロフィールや概要画面の戦績で進行状況を確認しましょう。"
+msgstr "「貴官の艦隊」画面のプロフィールや概要画面の戦績で進行状況を確認しましょう。"
 
 msgid "IDS_UNLOCKS_DESCRIPTION_5_0"
 msgstr ""
@@ -92965,7 +92965,7 @@ msgid "IDS_UNLOCKS_TITLE_18"
 msgstr "ミッション"
 
 msgid "IDS_UNLOCKS_TITLE_19"
-msgstr "チームバトル"
+msgstr "艦隊戦"
 
 msgid "IDS_UNLOCKS_TITLE_2"
 msgstr "IDS_UNLOCKS_TITLE_2"
@@ -93004,7 +93004,7 @@ msgid "IDS_UNREADY_DIVISION_FIRST"
 msgstr "モジュールを購入するには、戦隊でステータスを「準備中」に設定してください"
 
 msgid "IDS_UNREADY_PARTY_FIRST"
-msgstr "モジュールを購入するには、ステータスを「チームバトルの準備中」に設定してください"
+msgstr "モジュールを購入するには、ステータスを「艦隊戦の準備中」に設定してください"
 
 msgid "IDS_UPDATED"
 msgstr "更新"
@@ -93064,7 +93064,7 @@ msgid "IDS_VISIBLE_FOR_OTHER_PLAYERS_DIVISION"
 msgstr "このステータスを有効にすると、「戦隊に参加希望」リストに貴官の名前が掲載され、他のプレイヤーから招待を受けることができます。"
 
 msgid "IDS_VISIBLE_FOR_OTHER_PLAYERS_PARTY"
-msgstr "このステータスを有効にすると、「チームバトルに参加希望」リストに貴官の名前が掲載され、他のプレイヤーから傭兵として招待を受けることができます。"
+msgstr "このステータスを有効にすると、「艦隊戦に参加希望」リストに貴官の名前が掲載され、他のプレイヤーから傭兵として招待を受けることができます。"
 
 msgid "IDS_VISIONDISTCOEFF"
 msgstr ": 最大捕捉範囲"
@@ -93129,17 +93129,17 @@ msgid "IDS_WANT_IN_DIVISION"
 msgstr "戦隊に参加希望"
 
 msgid "IDS_WANT_IN_PARTY"
-msgstr "チームバトルに参加希望"
+msgstr "艦隊戦に参加希望"
 
 msgid "IDS_WANT_IN_PARTY_INFO_0"
-msgstr "チームバトルには、チームに所属していなくても参加可能です。"
+msgstr "艦隊戦には、艦隊に所属していなくても参加可能です。"
 
 msgid "IDS_WANT_IN_PARTY_INFO_1"
-msgstr "「チームバトルに参加希望」ステータスを有効にして招待を待ちましょう。"
+msgstr "「艦隊戦に参加希望」ステータスを有効にして招待を待ちましょう。"
 
 msgid "IDS_WANT_IN_PARTY_MULTILINE"
 msgstr ""
-"チームバトル\n"
+"艦隊戦\n"
 "に参加希望"
 
 msgid "IDS_WARNING_BATTLESTATS_AVAILABILITY"
@@ -93270,7 +93270,7 @@ msgid "IDS_YOUR_BEST_RANK_IN_SEASON_HINT"
 msgstr "現在のシーズンにおいて貴官が達成した最高ランクです。"
 
 msgid "IDS_YOUR_CLUB"
-msgstr "貴官のチーム"
+msgstr "貴官の艦隊"
 
 msgid "IDS_YOUR_DIVISION_CANT_GO_TO_RANK_BATTLE"
 msgstr "戦隊でランク戦に参加することはできません。"
@@ -93285,7 +93285,7 @@ msgid "IDS_YOUR_KARMA"
 msgstr "貴官の業"
 
 msgid "IDS_YOUR_PARTY_IS_IN_BATTLE"
-msgstr "貴官のチームは戦闘中です。現在のチームバトルが終了するまでお待ちください。"
+msgstr "貴官の艦隊は戦闘中です。現在の艦隊戦が終了するまでお待ちください。"
 
 msgid "IDS_YOUR_RANGE_HINT"
 msgstr ""
@@ -93299,50 +93299,50 @@ msgid "IDS_YOUR_SHIP"
 msgstr "自艦"
 
 msgid "IDS_YOU_ARE_ALREADY_IN_DIVISION"
-msgstr "戦隊に参加中は「チームバトルに参加希望」ステータスを設定できません。"
+msgstr "戦隊に参加中は「艦隊戦に参加希望」ステータスを設定できません。"
 
 msgid "IDS_YOU_ARE_ALREADY_IN_PARTY"
-msgstr "貴官は既に傭兵としてチームに参加中です。"
+msgstr "貴官は既に傭兵として艦隊に参加中です。"
 
 msgid "IDS_YOU_ARE_CLUB_LEADER"
-msgstr "貴官がこのチームのリーダーです。"
+msgstr "貴官がこの艦隊の司令官です。"
 
 msgid "IDS_YOU_ARE_COMMANDER"
 msgstr "貴官が指揮官です。"
 
 msgid "IDS_YOU_ARE_LEADER"
 msgstr ""
-"[icon]貴官がチーム %(clubName)s のリーダーになりました"
+"[icon]貴官が艦隊 %(clubName)s の司令官になりました"
 
 msgid "IDS_YOU_ARE_MEMBER_DIVISION"
 msgstr "貴官は戦隊で戦闘に参加中です"
 
 msgid "IDS_YOU_ARE_MEMBER_PARTY"
-msgstr "貴官はチームで戦闘に参加中です"
+msgstr "貴官は艦隊で戦闘に参加中です"
 
 msgid "IDS_YOU_ARE_MERC"
 msgstr "貴官は傭兵です。"
 
 msgid "IDS_YOU_ARE_MERC_DESCRIPTION"
-msgstr "フリー傭兵は、人数不足のランダムなチームに自動的に分配されます。"
+msgstr "フリー傭兵は、人数不足のランダムな艦隊に自動的に分配されます。"
 
 msgid "IDS_YOU_ARE_MERC_IN_CLUB"
-msgstr "貴官はチームの傭兵です。"
+msgstr "貴官は艦隊の傭兵です。"
 
 msgid "IDS_YOU_ARE_OUT_OF_CLUB"
-msgstr "貴官はチーム %(clubName)s から除外されました"
+msgstr "貴官は艦隊 %(clubName)s から除外されました"
 
 msgid "IDS_YOU_ARE_OUT_OF_DIVISION"
 msgstr "戦隊から除外されました"
 
 msgid "IDS_YOU_ARE_OUT_OF_PARTY"
-msgstr "貴官はチームバトルから除外されました"
+msgstr "貴官は艦隊戦から除外されました"
 
 msgid "IDS_YOU_CANT_VOTE"
 msgstr "貴官は投票不可"
 
 msgid "IDS_YOU_DECLINED_YOUR_INVITATION_TO_CLUB"
-msgstr "貴官はチーム %(clubName)s への招待を辞退しました"
+msgstr "貴官は艦隊 %(clubName)s への招待を辞退しました"
 
 msgid "IDS_YOU_DIDNT_SHOW_RESULTS"
 msgstr "何をやっておる！"
@@ -93357,10 +93357,10 @@ msgid "IDS_YOU_HELP_THE_COMMUNITY"
 msgstr "コミュニティの発展にご協力ください"
 
 msgid "IDS_YOU_JOINED_CLUB"
-msgstr "チーム %(clubName)s に参加しました"
+msgstr "艦隊 %(clubName)s に参加しました"
 
 msgid "IDS_YOU_LEFT_CLUB"
-msgstr "チーム %(clubName)s から脱退しました"
+msgstr "艦隊 %(clubName)s から脱退しました"
 
 msgid "IDS_YOU_MAY_CHANGE_SHIP_CONFIGS"
 msgstr "所有艦艇の構成を変更することができます"
@@ -93372,10 +93372,10 @@ msgid "IDS_YOU_WERE_AUTOKICKED"
 msgstr "長時間無操作であったため、サーバーから切断されました。"
 
 msgid "IDS_YOU_WERE_INVITED_TO_CLUB"
-msgstr "チーム %(clubName)s への招待を受けました"
+msgstr "艦隊 %(clubName)s への招待を受けました"
 
 msgid "IDS_YOU_WILL_BE_CLUB_LEADER"
-msgstr "チームを作成すると、貴官がそのチームのリーダーになります。"
+msgstr "艦隊を作成すると、貴官がその艦隊の司令官になります。"
 
 msgid "IDS_YOU_WILL_ENTER_GAME_SHORTLY"
 msgstr "数分以内にゲームに参加可能です。"
