@@ -100,7 +100,7 @@
 
 2. AP tracer color mod `/particles`: a simple recoloring of AP shell tracers to give a ice-blue for own shells and green for others' shells (friendly and hostile).
 
-3. **WIP**~~Flag mod `/content/gameplay/common/flags`: a shameless redo of a certain 2K flag mod, using historical navy flags of IJN and KM from Wikipedia.~~
+3. Flag mod `/content/gameplay/common/flags`: an innovative approach to easing the update of this mod by altering the `atlas` coordination file to read a remote region of the dds file that is currently blank.
 
 4. Camouflage mod `/camouflages.xml` AND `/content/gameplay/common/camouflage`: a systematic recoloring of IJN "pickle-green" camos and others that I possess into more discreet versions. **(pic to-do)**
 
