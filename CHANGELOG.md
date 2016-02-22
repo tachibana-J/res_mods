@@ -1,5 +1,9 @@
 # Changelog of _implemented_ aka _compiled_ (i.e. not WIP or minute changes in texts) features
 
+20160221 Small changes to texts are compiled
+---
+* Reworded the description texts of a few achievements
+
 20160220 Flags updated to 0.5.3.0 layout
 ---
 
