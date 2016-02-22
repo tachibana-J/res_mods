@@ -164,7 +164,7 @@ msgid "IDS_ACHIEVEMENT_DESCRIPTION_AT_PARTICIPANT"
 msgstr "開発チームは、αテストにご参加頂いた皆様に感謝致します。"
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_BATTLE_HERO"
-msgstr "任意の戦功章を %(achievementCount)s 回取得する。"
+msgstr "勇敢なる行為を %(achievementCount)s 回成し遂げる。"
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_BROTHERS_IN_ARMS"
 msgstr ""
@@ -265,7 +265,7 @@ msgstr ""
 "5 日連続でデイリーミッションを 1 回以上達成する。"
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_NO_PRICE_FOR_HEROISM"
-msgstr "任意の戦功章を %(achievementCount)s 回取得する。"
+msgstr "勇敢なる行為を %(achievementCount)s 回成し遂げる"
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_OBT_PARTICIPANT"
 msgstr "開発チームは、オープンβテストにご参加頂いた皆様に感謝致します。"
@@ -299,7 +299,7 @@ msgid "IDS_ACHIEVEMENT_DESCRIPTION_SCIENCE_OF_WINNING_TO_THE_BOTTOM"
 msgstr "敵艦艇を 1 隻、浸水により撃沈する。"
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_SEA_LEGEND"
-msgstr "任意の戦功章を %(achievementCount)s 回取得する。"
+msgstr "勇敢なる行為を %(achievementCount)s 回成し遂げる"
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_SILENT_KILLER"
 msgstr ""
