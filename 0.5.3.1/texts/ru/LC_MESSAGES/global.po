@@ -173,7 +173,7 @@ msgstr ""
 "HP の %(damageRatio_percent)s を上回ること。"
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_BW_PARTICIPANT"
-msgstr "Спасибо от разработки за участие в бета-выходных"
+msgstr "開発者は、ベータ版の週末に参加していただきありがとうございます。"
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_CAPITAL"
 msgstr "%(moneyCount)s クレジット取得する。"
@@ -847,8 +847,9 @@ msgstr ""
 msgid "IDS_AOGAS_RESET_PENALTY"
 msgid_plural "IDS_AOGAS_RESET_PENALTY"
 msgstr[0] ""
-"貴官は %(hours)s 時間、ログインしませんでした。再び、クレジットおよび EXP "
-"を満量取得可能になりました。"
+"貴官は %(hours)"
+"s 時間、ログインしませんでした。再び、クレジットおよび "
+"EXP を満量取得可能になりました。"
 
 msgid "IDS_APPLY"
 msgstr "適用"
@@ -1445,7 +1446,7 @@ msgid "IDS_BATTLE_STATS_TEAMMATES"
 msgstr "味方"
 
 msgid "IDS_BATTLE_STATS_TEAM_REPORT"
-msgstr "艦隊スコア"
+msgstr "艦隊戦果"
 
 msgid "IDS_BATTLE_STATS_TIME_AND_SPACE"
 msgstr "時間と距離"
@@ -6257,7 +6258,7 @@ msgid "IDS_LAST_TIME"
 msgstr "最終"
 
 msgid "IDS_LEADERSANDSHIPSLABEL"
-msgstr "司令官ボード:"
+msgstr "司令官リスト:"
 
 msgid "IDS_LEADER_KICKED_FROM_CLUB"
 msgstr "司令官を艦隊から除外しました"
@@ -7965,7 +7966,7 @@ msgid "IDS_MAX_COUNT_CRUISER_IN_DIVISION"
 msgstr "戦隊の巡洋艦数の上限"
 
 msgid "IDS_MAX_COUNT_CRUISER_IN_PARTY"
-msgstr "艦隊の巡洋関数の上限"
+msgstr "艦隊の巡洋艦数の上限"
 
 msgid "IDS_MAX_COUNT_DESTROYER_IN_DIVISION"
 msgstr "戦隊の駆逐艦数の上限"
@@ -11118,7 +11119,7 @@ msgid "IDS_PAUI001_GRUMMAN_F3F"
 msgstr "Grumman F3F Flying Barrel"
 
 msgid "IDS_PAUI002_GRUMMAN_F6F"
-msgstr "Grumman F6F Hellcat"
+msgstr "Grumman F6F-5 Hellcat"
 
 msgid "IDS_PAUI003_BOEING_XF7B"
 msgstr "Boeing XF7B"
@@ -11136,7 +11137,7 @@ msgid "IDS_PAUI011_CURTISS_TS1"
 msgstr "Curtiss TS-1"
 
 msgid "IDS_PAUI012_VOUGHT_F4U"
-msgstr "Vought F4U Corsair"
+msgstr "Vought F4U-4 Corsair"
 
 msgid "IDS_PAUI013_CURTISS_F6C_1"
 msgstr "Curtiss F6C-1 Hawk"
@@ -11148,7 +11149,7 @@ msgid "IDS_PAUI017_BOEING_F4B"
 msgstr "Boeing F4B"
 
 msgid "IDS_PAUI018_GRUMMAN_F4F_5"
-msgstr "Grumman F4F Wildcat"
+msgstr "Grumman F4F-5 Wildcat"
 
 msgid "IDS_PAUI020_GRUMMAN_F9F_2"
 msgstr "Grumman F9F-2 Panther"
@@ -11752,67 +11753,76 @@ msgstr ""
 "2つのインスタンスが自動的にプレミアム船に交換されています。"
 
 msgid "IDS_PCEE016_FLAG_DEVELOPER"
-msgstr "Флаг Разработчика"
+msgstr "ディベロッパー フラグ"
 
 msgid "IDS_PCEE016_FLAG_DEVELOPER_DESCRIPTION"
 msgstr "特別"
 
 msgid "IDS_PCEE016_FLAG_DEVELOPER_EXTRA_DESCRIPTION"
-msgstr "Флаг участника команды Разработки."
+msgstr "開発チームのメンバーのための特別なフラグ。"
 
 msgid "IDS_PCEE017_FLAG_VOLUNTEER"
-msgstr "Флаг волонтёра"
+msgstr "ボランティア旗"
 
 msgid "IDS_PCEE017_FLAG_VOLUNTEER_DESCRIPTION"
 msgstr "特別"
 
 msgid "IDS_PCEE017_FLAG_VOLUNTEER_EXTRA_DESCRIPTION"
-msgstr "Флаг сообщества волонтёров проекта"
+msgstr "プロジェクトのボランティアのコミュニティのための特別なフラグ。"
 
 msgid "IDS_PCEE018_FLAG_VAL_PLAYER"
-msgstr "Флаг ценного игрока"
+msgstr "貴重プレーヤーフラグ"
 
 msgid "IDS_PCEE018_FLAG_VAL_PLAYER_DESCRIPTION"
 msgstr "特別"
 
 msgid "IDS_PCEE018_FLAG_VAL_PLAYER_EXTRA_DESCRIPTION"
-msgstr "Флаг ценного игрока сообщества"
+msgstr "コミュニティの貴重なプレーヤーのための特別なフラグ。"
 
 msgid "IDS_PCEE019_FLAG_AT"
-msgstr "Флаг AT"
+msgstr "AT フラグ"
 
 msgid "IDS_PCEE019_FLAG_AT_DESCRIPTION"
 msgstr "特別"
 
 msgid "IDS_PCEE019_FLAG_AT_EXTRA_DESCRIPTION"
-msgstr "Флаг участника альфа-теста"
+msgstr "AT 参加者のための特別なフラグ。"
 
 msgid "IDS_PCEE020_FLAG_CBW"
-msgstr "Флаг BW"
+msgstr "BW フラグ"
 
 msgid "IDS_PCEE020_FLAG_CBW_DESCRIPTION"
 msgstr "特別"
 
 msgid "IDS_PCEE020_FLAG_CBW_EXTRA_DESCRIPTION"
-msgstr "Флаг участника бета-выходных"
+msgstr "BWの参加者のための特別なフラグ。"
 
 msgid "IDS_PCEE021_FLAG_CBT"
-msgstr "Флаг CBT"
+msgstr "CBT フラグ"
 
 msgid "IDS_PCEE021_FLAG_CBT_DESCRIPTION"
 msgstr "特別"
 
 msgid "IDS_PCEE021_FLAG_CBT_EXTRA_DESCRIPTION"
-msgstr "Флаг участника закрытого бета-теста"
+msgstr "CBT参加者のための特別なフラグ。"
 
 msgid "IDS_PCEE022_FLAG_WG"
-msgstr "Флаг Wargaming"
+msgstr "Wargaming フラグ"
 
 msgid "IDS_PCEE022_FLAG_WG_DESCRIPTION"
 msgstr "特別"
 
 msgid "IDS_PCEE022_FLAG_WG_EXTRA_DESCRIPTION"
-msgstr "Флаг сотрудника Wargaming"
+msgstr "Wargaming 従業員"
+
+msgid "IDS_PCEE023_SEASONFLAG00"
+msgstr "1st ranked season"
+
+msgid "IDS_PCEE023_SEASONFLAG00_DESCRIPTION"
+msgstr "A commemorative flag for participation in the 1st ranked season."
+
+msgid "IDS_PCEE023_SEASONFLAG00_EXTRA_DESCRIPTION"
+msgstr "  "
 
 msgid "IDS_PCEE999_SECRETSANTA"
 msgstr "秘密のサンタ"
@@ -17283,7 +17293,7 @@ msgid "IDS_PZUT502_ANSHAN"
 msgstr "533 mm 53-51"
 
 msgid "IDS_PZUT701_LO_YANG"
-msgstr "533 mm Mk15 mod.3"
+msgstr "533 mm Mk15 mod. 3"
 
 msgid "IDS_PZUT702_LO_YANG"
 msgstr "533 mm Mk31"
@@ -17356,7 +17366,7 @@ msgid "IDS_QUESTION_PURCHASE_AND_INSTALL_FOR"
 msgstr "購入して搭載しますか? 費用:"
 
 msgid "IDS_QUESTION_PURCHASE_FOR_CLUB_CREATION"
-msgstr "艦隊を作成、手数料:"
+msgstr "艦隊作成の手数料:"
 
 msgid "IDS_QUESTION_PURCHASE_SHIP_FOR"
 msgstr "この艦を購入しますか? 費用:"
