@@ -1,5 +1,9 @@
 # Changelog of _implemented_ aka _compiled_ (i.e. not WIP or minute changes in texts) features
 
+20160229 Small changes to texts are compiled
+---
+* Reworded a few UI texts in the battle result screen
+
 20160224 Update for 0.5.3.1
 ---
 * Updated a few texts to 0.5.3.1 version
