@@ -1395,7 +1395,7 @@ msgid "IDS_BATTLE_STATS_NEITHER_SIDE_PREVAILED"
 msgstr "勝者なし"
 
 msgid "IDS_BATTLE_STATS_PERSONAL_REPORT"
-msgstr "個別スコア"
+msgstr "個別戦果"
 
 msgid "IDS_BATTLE_STATS_PLANES_DESTROYED"
 msgstr "航空機撃墜"
@@ -3994,7 +3994,7 @@ msgid "IDS_ENEMY_FRAGS"
 msgstr "敵"
 
 msgid "IDS_ENEMY_TEAM"
-msgstr "敵"
+msgstr "敵艦隊"
 
 msgid "IDS_ENGINE"
 msgstr "主機"
