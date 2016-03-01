@@ -7897,10 +7897,10 @@ msgid "IDS_LSHIFT"
 msgstr "SHIFT"
 
 msgid "IDS_LUCKY_CLUB_BATTLE"
-msgstr "幸運な戦闘"
+msgstr "鎧袖一触"
 
 msgid "IDS_LUCKY_RANKED_BATTLE"
-msgstr "幸運な戦闘"
+msgstr "鎧袖一触"
 
 msgid "IDS_MAIN_CALIBER"
 msgstr "主兵装"
@@ -17524,7 +17524,7 @@ msgid "IDS_RATING_DOWN"
 msgstr "艦隊のレーティングが低下しました"
 
 msgid "IDS_RATING_DOWN_LB"
-msgstr "最終戦後に艦隊のレーティングが低下しました"
+msgstr "先の戦いで艦隊のレーティングが低下しました"
 
 msgid "IDS_RATING_GBR_ALL"
 msgstr ""
@@ -17540,7 +17540,7 @@ msgid "IDS_RATING_UP"
 msgstr "艦隊のレーティングが向上しました"
 
 msgid "IDS_RATING_UP_LB"
-msgstr "最終戦後に艦隊のレーティングが向上しました"
+msgstr "先の戦いで艦隊のレーティングが向上しました"
 
 msgid "IDS_REACH_LEAGUE_0"
 msgstr "艦隊がプレミアリーグに加わりました"
@@ -92993,10 +92993,10 @@ msgid "IDS_UNLOCKS_TITLE_9"
 msgstr "ミッションとチャレンジ"
 
 msgid "IDS_UNLUCKY_CLUB_BATTLE"
-msgstr "不運な戦闘"
+msgstr "千慮一失"
 
 msgid "IDS_UNLUCKY_RANKED_BATTLE"
-msgstr "不運な戦闘"
+msgstr "千慮一失"
 
 msgid "IDS_UNMOUNT"
 msgstr "解除"
