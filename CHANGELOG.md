@@ -1,5 +1,10 @@
 # Changelog of _implemented_ aka _compiled_ (i.e. not WIP or minute changes in texts) features
 
+20160310 Small changes to texts and camo
+---
+* Reworded a few UI texts to fit the display
+* Corrected a mistake that resulted in IJN cruisers being not recolored
+
 20160309 Update for 0.5.3.2
 ---
 * New texts are added
