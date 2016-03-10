@@ -1,5 +1,11 @@
 # Changelog of _implemented_ aka _compiled_ (i.e. not WIP or minute changes in texts) features
 
+20160309 Update for 0.5.3.2
+---
+* New texts are added
+* Recolored the permanent camo on Fubuki
+* Updated camouflages.xml
+
 20160301 Small changes to texts are compiled
 ---
 * Reworded a few UI texts concerning team battle

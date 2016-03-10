@@ -173,7 +173,7 @@ msgstr ""
 "HP の %(damageRatio_percent)s を上回ること。"
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_BW_PARTICIPANT"
-msgstr "開発者は、ベータ版の週末に参加していただきありがとうございます。"
+msgstr "開発チームは、βウィークエンドにご参加頂いた皆様に感謝致します。"
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_CAPITAL"
 msgstr "%(moneyCount)s クレジット取得する。"
@@ -307,7 +307,7 @@ msgstr ""
 "1 隻撃沈した上で、敵から発見されていない状態を維持する。"
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_ST_PARTICIPANT"
-msgstr "開発チームは、スーパーテスターの皆様に感謝致します。"
+msgstr "開発チームは、スーパーテストにご参加頂いた皆様に感謝致します。"
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_SUPPORT"
 msgstr ""
@@ -327,10 +327,10 @@ msgid "IDS_ACHIEVEMENT_DESCRIPTION_WARRIOR"
 msgstr "敵艦艇を %(victimsCount)s 隻以上撃破する。"
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_WGSPB_STAFF"
-msgstr "Wargaming St. Petersburg スタッフ"
+msgstr "Wargaming St. Petersburg 従業員"
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_WG_STAFF"
-msgstr "Wargaming スタッフ"
+msgstr "Wargaming 従業員"
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_WITHERING"
 msgstr ""
@@ -1606,6 +1606,21 @@ msgstr "カメラ"
 msgid "IDS_CAMERA_HINT_INDICATOR"
 msgstr "Ctrl を押しながら見回す"
 
+msgid "IDS_CAMERA_MOVE_DOWN"
+msgstr "下へ"
+
+msgid "IDS_CAMERA_MOVE_LEFT"
+msgstr "左へ"
+
+msgid "IDS_CAMERA_MOVE_RIGHT"
+msgstr "右へ"
+
+msgid "IDS_CAMERA_MOVE_UP"
+msgstr "上へ"
+
+msgid "IDS_CAMERA_SETTINGS"
+msgstr "カメラ設定"
+
 msgid "IDS_CAMOUFLAGE"
 msgstr "迷彩"
 
@@ -2308,7 +2323,7 @@ msgstr ""
 "全ての艦艇の商標および商標権は、それらの各所有者に帰属します。"
 
 msgid "IDS_CONTEXT_ACTION_NOT_AVAILABLE_IN_MATCHMAKER"
-msgstr "艦隊は港で管理することができます。"
+msgstr "艦隊は港で管理することができます"
 
 msgid "IDS_CONTINUE"
 msgstr "続行"
@@ -3229,16 +3244,16 @@ msgid "IDS_CURRENT_LEAGUE_0"
 msgstr "この艦隊はプレミアリーグ所属です。"
 
 msgid "IDS_CURRENT_LEAGUE_1"
-msgstr "この艦隊はファーストリーグ所属です。"
+msgstr "この艦隊は第 1 リーグ所属です。"
 
 msgid "IDS_CURRENT_LEAGUE_10"
 msgstr "この艦隊は第 10 リーグ所属です。"
 
 msgid "IDS_CURRENT_LEAGUE_2"
-msgstr "この艦隊はセカンドリーグ所属です。"
+msgstr "この艦隊は第 2 リーグ所属です。"
 
 msgid "IDS_CURRENT_LEAGUE_3"
-msgstr "この艦隊はサードリーグ所属です。"
+msgstr "この艦隊は第 3 リーグ所属です。"
 
 msgid "IDS_CURRENT_LEAGUE_4"
 msgstr "この艦隊は第 4 リーグ所属です。"
@@ -3837,6 +3852,18 @@ msgstr "魚雷発射管の装填時間を {torpedoReloadTime} に短縮"
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PCY018_TORPEDORELOADERPREMIUM"
 msgstr "魚雷発射管の装填時間を {torpedoReloadTime} に短縮"
 
+msgid "IDS_DOCK_CONSUME_DESCRIPTION_PCY019_RLSSEARCH"
+msgstr ""
+"敵艦艇の強制捕捉範囲 "
+"(煙幕の範囲内も含む) を大幅に向上させます。\n"
+"敵艦艇捕捉 - {distShip}"
+
+msgid "IDS_DOCK_CONSUME_DESCRIPTION_PCY020_RLSSEARCHPREMIUM"
+msgstr ""
+"敵艦艇の強制捕捉範囲 "
+"(煙幕の範囲内も含む) を大幅に向上させます。\n"
+"敵艦艇捕捉 - {distShip}"
+
 msgid "IDS_DOCK_CONSUME_TITLE_PCY001_CRASHCREW"
 msgstr "応急工作班 I"
 
@@ -3890,6 +3917,12 @@ msgstr "次発装填装置 I"
 
 msgid "IDS_DOCK_CONSUME_TITLE_PCY018_TORPEDORELOADERPREMIUM"
 msgstr "次発装填装置 II"
+
+msgid "IDS_DOCK_CONSUME_TITLE_PCY019_RLSSEARCH"
+msgstr "水上レーダー I"
+
+msgid "IDS_DOCK_CONSUME_TITLE_PCY020_RLSSEARCHPREMIUM"
+msgstr "水上レーダー II"
 
 msgid "IDS_DONE"
 msgstr "達成"
@@ -4304,6 +4337,117 @@ msgstr ": 戦闘で取得するフリー EXP"
 msgid "IDS_FREE_CAMERA"
 msgstr "フリーカメラ有効"
 
+msgid "IDS_FREE_CAMERA_ATTACH_TO_VEHICLE"
+msgstr "フリーカメラを艦艇に付着"
+
+msgid "IDS_FREE_CAMERA_ATTACH_TO_VEHICLE_REL"
+msgstr "フリーカメラを艦艇に付着rel"
+
+msgid "IDS_FREE_CAMERA_BACKWARD"
+msgstr "後方"
+
+msgid "IDS_FREE_CAMERA_BACKWARD_XZ_ALIGNED"
+msgstr "後方XZ"
+
+msgid "IDS_FREE_CAMERA_FORWARD"
+msgstr "前方"
+
+msgid "IDS_FREE_CAMERA_FORWARD_XZ_ALIGNED"
+msgstr "前方XZ"
+
+msgid "IDS_FREE_CAMERA_LAND"
+msgstr "着陸"
+
+msgid "IDS_FREE_CAMERA_LEFT"
+msgstr "左方"
+
+msgid "IDS_FREE_CAMERA_LIFT"
+msgstr "上昇"
+
+msgid "IDS_FREE_CAMERA_PRIMARY_PRESET_1"
+msgstr "Priプリセット 1"
+
+msgid "IDS_FREE_CAMERA_PRIMARY_PRESET_2"
+msgstr "Priプリセット 2"
+
+msgid "IDS_FREE_CAMERA_PRIMARY_PRESET_3"
+msgstr "Priプリセット 3"
+
+msgid "IDS_FREE_CAMERA_PRIMARY_PRESET_4"
+msgstr "Priプリセット 4"
+
+msgid "IDS_FREE_CAMERA_PRIMARY_PRESET_5"
+msgstr "Priプリセット 5"
+
+msgid "IDS_FREE_CAMERA_PRIMARY_PRESET_6"
+msgstr "Priプリセット 6"
+
+msgid "IDS_FREE_CAMERA_PRIMARY_PRESET_7"
+msgstr "Priプリセット 7"
+
+msgid "IDS_FREE_CAMERA_PRIMARY_PRESET_8"
+msgstr "Priプリセット 8"
+
+msgid "IDS_FREE_CAMERA_PRIMARY_PRESET_9"
+msgstr "Priプリセット 9"
+
+msgid "IDS_FREE_CAMERA_RIGHT"
+msgstr "右方"
+
+msgid "IDS_FREE_CAMERA_SECONDARY_PRESET_1"
+msgstr "Secプリセット 1"
+
+msgid "IDS_FREE_CAMERA_SECONDARY_PRESET_2"
+msgstr "Secプリセット 2"
+
+msgid "IDS_FREE_CAMERA_SECONDARY_PRESET_3"
+msgstr "Secプリセット 3"
+
+msgid "IDS_FREE_CAMERA_SECONDARY_PRESET_4"
+msgstr "Secプリセット 4"
+
+msgid "IDS_FREE_CAMERA_SECONDARY_PRESET_5"
+msgstr "Secプリセット 5"
+
+msgid "IDS_FREE_CAMERA_SECONDARY_PRESET_6"
+msgstr "Secプリセット 6"
+
+msgid "IDS_FREE_CAMERA_SECONDARY_PRESET_7"
+msgstr "Secプリセット 7"
+
+msgid "IDS_FREE_CAMERA_SECONDARY_PRESET_8"
+msgstr "Secプリセット 8"
+
+msgid "IDS_FREE_CAMERA_SECONDARY_PRESET_9"
+msgstr "Secプリセット 9"
+
+msgid "IDS_FREE_CAMERA_SETTINGS"
+msgstr "フリーカメラ設定"
+
+msgid "IDS_FREE_CAMERA_TUNING1_MINUS"
+msgstr "フリーカメラ チューニング 1 減少"
+
+msgid "IDS_FREE_CAMERA_TUNING1_PLUS"
+msgstr "フリーカメラ チューニング 1 増加"
+
+msgid "IDS_FREE_CAMERA_TUNING2_MINUS"
+msgstr "フリーカメラ チューニング 2 減少"
+
+msgid "IDS_FREE_CAMERA_TUNING2_PLUS"
+msgstr "フリーカメラ チューニング 2 減少"
+
+msgid "IDS_FREE_CAMERA_TURN_DOWN"
+msgstr "下へ"
+
+msgid "IDS_FREE_CAMERA_TURN_LEFT"
+msgstr "左へ"
+
+msgid "IDS_FREE_CAMERA_TURN_RIGHT"
+msgstr "右へ"
+
+msgid "IDS_FREE_CAMERA_TURN_UP"
+msgstr "上へ"
+
 msgid "IDS_FREE_CURSOR"
 msgstr "フリーカーソル有効"
 
@@ -4448,7 +4592,7 @@ msgid "IDS_GMCRITPROB"
 msgstr ": 主砲の機能停止の発生率"
 
 msgid "IDS_GMIDEALRADIUS"
-msgstr "主砲の射撃精度を向上"
+msgstr ": 主砲弾の最大散布界"
 
 msgid "IDS_GMMAXDIST"
 msgstr ": 主砲最大射程"
@@ -4463,7 +4607,7 @@ msgid "IDS_GMSHOTDELAY"
 msgstr ": 主砲装填時間"
 
 msgid "IDS_GMSIGMACOUNT"
-msgstr "主砲の射撃精度を向上"
+msgstr ": 主砲弾の最大散布界"
 
 msgid "IDS_GMT0_PERIODS"
 msgstr "戦闘開催期間 (GMT)"
@@ -4496,7 +4640,7 @@ msgid "IDS_GROUP_TITLE_IGNOR_LIST"
 msgstr "ブラックリスト"
 
 msgid "IDS_GSIDEALRADIUS"
-msgstr "副砲の射撃精度を向上"
+msgstr ": 副砲弾の最大散布界"
 
 msgid "IDS_GSMAXDIST"
 msgstr ": 副砲最大射程"
@@ -4508,7 +4652,7 @@ msgid "IDS_GSSHOTDELAY"
 msgstr ": 副砲装填時間"
 
 msgid "IDS_GSSIGMACOUNT"
-msgstr "副砲の射撃精度を向上"
+msgstr ": 副砲弾の最大散布界"
 
 msgid "IDS_GTCRITPROB"
 msgstr ": 魚雷発射管の機能停止の発生率"
@@ -4533,6 +4677,9 @@ msgstr "兵装: 方位にロック"
 
 msgid "IDS_GUN_LOCK_INDICATOR_TARGET"
 msgstr "目標 %s ロック"
+
+msgid "IDS_HAGURO"
+msgstr "ハグロ"
 
 msgid "IDS_HARDDAMAGE"
 msgstr "損害大"
@@ -4692,6 +4839,11 @@ msgstr "艦に追従し、敵機を自動的に迎撃します。"
 msgid "IDS_HELP_CONSUME_DESCRIPTION_REGENCREW"
 msgstr "軽度の損傷を修理し、艦の HP を一部回復します。"
 
+msgid "IDS_HELP_CONSUME_DESCRIPTION_RLSSEARCH"
+msgstr ""
+"敵艦艇の強制捕捉範囲 "
+"(煙幕の範囲内も含む) を大幅に向上させます。"
+
 msgid "IDS_HELP_CONSUME_DESCRIPTION_SMOKEGENERATOR"
 msgstr "艦の後方に、敵の視界を遮る煙幕を展開します。"
 
@@ -4721,6 +4873,9 @@ msgstr "水上戦闘機"
 msgid "IDS_HELP_CONSUME_TITLE_REGENCREW"
 msgstr "修理班"
 
+msgid "IDS_HELP_CONSUME_TITLE_RLSSEARCH"
+msgstr "水上レーダー"
+
 msgid "IDS_HELP_CONSUME_TITLE_SMOKEGENERATOR"
 msgstr "発煙装置"
 
@@ -4734,7 +4889,7 @@ msgid "IDS_HELP_CONSUME_TITLE_SPOTTER"
 msgstr "着弾観測機"
 
 msgid "IDS_HELP_CONSUME_TITLE_TORPEDORELOADER"
-msgstr "魚雷発射管装填システム"
+msgstr "次発装填装置"
 
 msgid "IDS_HELP_CREDITS_AND_EXPERIENCE"
 msgstr "クレジット/経験値"
@@ -5346,6 +5501,9 @@ msgstr "戦闘でのクレジット/EXP 取得量の優遇。"
 msgid "IDS_HINT_PREM_GET_MORE_PREM_PORTS"
 msgstr "プレミアム港へのアクセスを取得"
 
+msgid "IDS_HINT_PRMP_LIFETIME"
+msgstr "Lasts shares"
+
 msgid "IDS_HINT_REDIRECT_TO_STORE"
 msgstr "プレミアムショップにリダイレクトされます。"
 
@@ -5371,7 +5529,7 @@ msgid "IDS_HINT_SEARCH_SHIP_BY_NAME"
 msgstr "名称で艦艇を検索"
 
 msgid "IDS_HINT_SERVER_SWITCH_BATTLES"
-msgstr "貴官の所有艦艇が参加する進行中の戦闘数"
+msgstr "貴官の所有艦艇が参加中の進行中の戦闘数"
 
 msgid "IDS_HINT_SERVER_SWITCH_TIMER"
 msgstr "他のサーバーへの移行の際の最大待ち時間です。これより早くリダイレクトされる場合があります。"
@@ -5748,7 +5906,7 @@ msgid "IDS_INSTALL_UPPER_CASE"
 msgstr "搭載"
 
 msgid "IDS_INSTRUCTION_ACHIEVE_LEAGUE_FLAG"
-msgstr "旗を取得するには、ランク戦に参加してセカンドリーグを目指してください。"
+msgstr "旗を取得するには、ランク戦に参加して第 2 リーグを目指してください。"
 
 msgid "IDS_INSTRUCTION_ACHIEVE_SEASON_FLAG"
 msgstr "シーズン終了時には、記念旗が授与されます。"
@@ -6267,16 +6425,16 @@ msgid "IDS_LEAGUE_0"
 msgstr "プレミアリーグ"
 
 msgid "IDS_LEAGUE_1"
-msgstr "ファーストリーグ"
+msgstr "第 1 リーグ"
 
 msgid "IDS_LEAGUE_10"
 msgstr "第 10 リーグ"
 
 msgid "IDS_LEAGUE_2"
-msgstr "セカンドリーグ"
+msgstr "第 2 リーグ"
 
 msgid "IDS_LEAGUE_3"
-msgstr "サードリーグ"
+msgstr "第 3 リーグ"
 
 msgid "IDS_LEAGUE_4"
 msgstr "第 4 リーグ"
@@ -7702,7 +7860,7 @@ msgid "IDS_LOADING_TOOLTIP_LEVEL8_23"
 msgstr "応急工作班を効果的に用いるには、新たな脅威が無いことを確認した上で使用せよ"
 
 msgid "IDS_LOADING_TOOLTIP_LEVEL8_24"
-msgstr "[CMD_FIXING_TARGET_POSITION] で、射程内の発見済み目標に向けて照準をロック可能。"
+msgstr "[CMD_FIXING_TARGET_POSITION] で、射程内の発見済み目標に向けて照準をロック可能"
 
 msgid "IDS_LOADING_TOOLTIP_LEVEL8_25"
 msgstr ""
@@ -7710,27 +7868,27 @@ msgstr ""
 "[CMD_FIXING_TARGET_POSITION] でロックを解除"
 
 msgid "IDS_LOADING_TOOLTIP_LEVEL8_26"
-msgstr "[CMD_ABSOLUTE_GUNS_LOCK] でセクターにロック可能。兵装はロック中のセクターに向けて自動的に旋回する。"
+msgstr "[CMD_ABSOLUTE_GUNS_LOCK] でセクターにロック可能。兵装はロック中のセクターに向けて自動的に旋回する"
 
 msgid "IDS_LOADING_TOOLTIP_LEVEL8_27"
 msgstr ""
 "照準を動かさずに周囲を見回すには、"
-"[KEY_RIGHTMOUSE] を長押し。"
+"[KEY_RIGHTMOUSE] を長押し"
 
 msgid "IDS_LOADING_TOOLTIP_LEVEL8_28"
-msgstr "航空母艦の飛行甲板に火災が発生している場合、航空機の発着はできない。"
+msgstr "航空母艦の飛行甲板に火災が発生している場合、航空機の発着はできない"
 
 msgid "IDS_LOADING_TOOLTIP_LEVEL8_29"
-msgstr "連携して行動し、味方を支援せよ。"
+msgstr "連携して行動し、味方を支援せよ"
 
 msgid "IDS_LOADING_TOOLTIP_LEVEL8_3"
 msgstr "速度と進路を変更し、敵に照準を定めさせるな"
 
 msgid "IDS_LOADING_TOOLTIP_LEVEL8_30"
-msgstr "[KEY_RIGHTMOUSE] で、試射中に進路を素早く確認可能。"
+msgstr "[KEY_RIGHTMOUSE] で、試射中に進路を素早く確認可能"
 
 msgid "IDS_LOADING_TOOLTIP_LEVEL8_31"
-msgstr "魚雷が主砲塔付近に命中した場合、弾薬庫誘爆を引き起こす場合がある。"
+msgstr "魚雷が主砲塔付近に命中した場合、弾薬庫誘爆を引き起こす場合がある"
 
 msgid "IDS_LOADING_TOOLTIP_LEVEL8_4"
 msgstr "被雷率を下げるには、艦首を接近中の魚雷に向けて旋回せよ"
@@ -8218,6 +8376,9 @@ msgstr "新ランク"
 msgid "IDS_NEW_TASK"
 msgstr "新しいミッション"
 
+msgid "IDS_NEXT_ALLIED_VEHICLE"
+msgstr "次の味方艦"
+
 msgid "IDS_NEXT_REPLENISHMENT"
 msgstr "次の補給"
 
@@ -8432,6 +8593,9 @@ msgstr "使用回数"
 
 msgid "IDS_OBJECT_LOD"
 msgstr "オブジェクト描画品質"
+
+msgid "IDS_OBSERVE_CAMERA"
+msgstr "オブザーバーカメラ"
 
 msgid "IDS_OFF"
 msgstr "Off"
@@ -8672,6 +8836,9 @@ msgstr "Grumman TBM-3 Avenger"
 msgid "IDS_PAAB053_DOUGLAS_XSB2D"
 msgstr "Douglas XSB2D"
 
+msgid "IDS_PAAB509_DOUGLAS_AD1_S"
+msgstr "Douglas AD-1 Skyraider"
+
 msgid "IDS_PAAD001_CURTISS_SB2C"
 msgstr "Curtiss SB2C Helldiver"
 
@@ -8792,6 +8959,9 @@ msgstr "Grumman F4F-4 Wildcat"
 msgid "IDS_PAAF031_FM_2"
 msgstr "GM FM-2 Wildcat"
 
+msgid "IDS_PAAF512_VOUGHT_F4U_S"
+msgstr "Vought F4U-4 Corsair"
+
 msgid "IDS_PAAS001_VOUGHT_OS2U"
 msgstr "Vought OS2U Kingfisher"
 
@@ -8831,16 +9001,32 @@ msgstr "タイプ 3"
 msgid "IDS_PAEC001_PERMOFLAGE_TEST_DESCRIPTION"
 msgstr "艦の被発見性を低減"
 
+msgid "IDS_PAEC108_SAIPAN"
+msgstr "タイプ 10 – Saipan"
+
+msgid "IDS_PAEC108_SAIPAN_DESCRIPTION"
+msgstr ""
+"艦の被発見性を低減し、艦および艦長の取得 "
+"EXP を向上させる。"
+
 msgid "IDS_PAEC112_LEXINGTON_1944"
-msgstr "タイプ 7 – Lexington"
+msgstr "タイプ 10 – Lexington"
 
 msgid "IDS_PAEC112_LEXINGTON_1944_DESCRIPTION"
 msgstr ""
 "艦の被発見性を低減し、艦および艦長の取得 "
 "EXP を向上させる。"
 
+msgid "IDS_PAEC306_ARIZONA"
+msgstr "タイプ 9 – Arizona"
+
+msgid "IDS_PAEC306_ARIZONA_DESCRIPTION"
+msgstr ""
+"敵の射撃精度を低下させ、艦および艦長の取得 "
+"EXP を向上させる。"
+
 msgid "IDS_PAEC312_NORTH_CAROLINA_1945"
-msgstr "タイプ 8 – North Carolina"
+msgstr "タイプ 10 – North Carolina"
 
 msgid "IDS_PAEC312_NORTH_CAROLINA_1945_DESCRIPTION"
 msgstr ""
@@ -8848,7 +9034,7 @@ msgstr ""
 "EXP を向上させる。"
 
 msgid "IDS_PAEC313_ARKANSAS_1912"
-msgstr "タイプ 6 – Arkansas"
+msgstr "タイプ 9 – Arkansas"
 
 msgid "IDS_PAEC313_ARKANSAS_1912_DESCRIPTION"
 msgstr ""
@@ -8856,7 +9042,7 @@ msgstr ""
 "EXP を向上させる。"
 
 msgid "IDS_PAEC318_IOWA_1944"
-msgstr "タイプ 8 – Iowa"
+msgstr "タイプ 16 – Iowa"
 
 msgid "IDS_PAEC318_IOWA_1944_DESCRIPTION"
 msgstr ""
@@ -8864,7 +9050,7 @@ msgstr ""
 "EXP を向上させる。"
 
 msgid "IDS_PAEC403_ALBANY_1898"
-msgstr "タイプ 6 – Albany"
+msgstr "タイプ 9 – Albany"
 
 msgid "IDS_PAEC403_ALBANY_1898_DESCRIPTION"
 msgstr ""
@@ -8872,7 +9058,7 @@ msgstr ""
 "EXP を向上させる。"
 
 msgid "IDS_PAEC406_ATLANTA_1942"
-msgstr "タイプ 8 – Atlanta"
+msgstr "タイプ 10 – Atlanta"
 
 msgid "IDS_PAEC406_ATLANTA_1942_DESCRIPTION"
 msgstr ""
@@ -8880,7 +9066,7 @@ msgstr ""
 "EXP を向上させる。"
 
 msgid "IDS_PAEC407_CLEVELAND_1945"
-msgstr "タイプ 10 – Cleveland"
+msgstr "タイプ 12 – Cleveland"
 
 msgid "IDS_PAEC407_CLEVELAND_1945_DESCRIPTION"
 msgstr ""
@@ -8888,7 +9074,7 @@ msgstr ""
 "EXP を向上させる。"
 
 msgid "IDS_PAEC414_NEW_ORLEAN_1944"
-msgstr "タイプ 8 – New Orleans"
+msgstr "タイプ 10 – New Orleans"
 
 msgid "IDS_PAEC414_NEW_ORLEAN_1944_DESCRIPTION"
 msgstr ""
@@ -8896,7 +9082,7 @@ msgstr ""
 "EXP を向上させる。"
 
 msgid "IDS_PAEC444_MARBLEHEAD_1924"
-msgstr "タイプ 6 – Marblehead"
+msgstr "タイプ 9 – Marblehead"
 
 msgid "IDS_PAEC444_MARBLEHEAD_1924_DESCRIPTION"
 msgstr ""
@@ -8904,7 +9090,7 @@ msgstr ""
 "EXP を向上させる。"
 
 msgid "IDS_PAEC445_MARBLEHEAD_1924_ASUS"
-msgstr "タイプ 6 – Trenton"
+msgstr "タイプ 9 – Trenton"
 
 msgid "IDS_PAEC445_MARBLEHEAD_1924_ASUS_DESCRIPTION"
 msgstr ""
@@ -8912,7 +9098,7 @@ msgstr ""
 "EXP を向上させる。"
 
 msgid "IDS_PAEC502_SMITH"
-msgstr "タイプ 5 – Smith"
+msgstr "タイプ 9 – Smith"
 
 msgid "IDS_PAEC502_SMITH_DESCRIPTION"
 msgstr ""
@@ -8920,7 +9106,7 @@ msgstr ""
 "EXP を向上させる。"
 
 msgid "IDS_PAEC508_BENSON_1945"
-msgstr "タイプ 7 – Benson"
+msgstr "タイプ 10 – Benson"
 
 msgid "IDS_PAEC508_BENSON_1945_DESCRIPTION"
 msgstr ""
@@ -8928,7 +9114,7 @@ msgstr ""
 "EXP を向上させる。"
 
 msgid "IDS_PAEC521_FLETCHER_1943"
-msgstr "タイプ 7 – Fletcher"
+msgstr "タイプ 16 – Fletcher"
 
 msgid "IDS_PAEC521_FLETCHER_1943_DESCRIPTION"
 msgstr ""
@@ -8936,7 +9122,7 @@ msgstr ""
 "EXP を向上させる。"
 
 msgid "IDS_PAEC529_SIMS_1941"
-msgstr "タイプ 7 – Sims"
+msgstr "タイプ 10 – Sims"
 
 msgid "IDS_PAEC529_SIMS_1941_DESCRIPTION"
 msgstr ""
@@ -9224,6 +9410,12 @@ msgstr "152 mm/53 Mk13"
 
 msgid "IDS_PAGM160_6IN53_MK13_SINGLE"
 msgstr "152 mm/53 Mk13"
+
+msgid "IDS_PAGM162_14IN45_TRIPLE"
+msgstr "356 mm/45 Mk9"
+
+msgid "IDS_PAGM163_14IN45_TRIPLE"
+msgstr "356 mm/45 Mk9"
 
 msgid "IDS_PAGS001_5IN38_MK30_MOD0"
 msgstr "127 mm/38 Mk30 mod. 0"
@@ -9552,6 +9744,12 @@ msgstr "406 mm HE Mk2"
 msgid "IDS_PAPA061_SHELL_152MM_AP_SC_MK_27_MOD_5"
 msgstr "152 mm AP/SC Mk27 mod. 5"
 
+msgid "IDS_PAPA062_SHELL_356MM_AP_MK_16_ARIZONA"
+msgstr "356 mm AP Mk16"
+
+msgid "IDS_PAPA063_SHELL_356MM_HE_MK_22_ARIZONA"
+msgstr "356 mm HE/HC Mk22"
+
 msgid "IDS_PAPB001_BOMB_6"
 msgstr "Bomb prototype"
 
@@ -9697,7 +9895,7 @@ msgid "IDS_PARTY_READY"
 msgstr "艦隊は準備中"
 
 msgid "IDS_PARTY_UP_FOR_BATTLE"
-msgstr "艦隊は間もなく戦闘に参加"
+msgstr "戦闘に備え艦隊を集結中"
 
 msgid "IDS_PASA002"
 msgstr "Bogue"
@@ -9734,18 +9932,6 @@ msgstr "9"
 
 msgid "IDS_PASA006_YEAR"
 msgstr "1943"
-
-msgid "IDS_PASA008"
-msgstr "Saipan"
-
-msgid "IDS_PASA008_DESCR"
-msgstr "サイパン級航空母艦は、ボルチモア級巡洋艦を元に建造された高速軽空母です。本級は比較的小型である割には搭載機数が多く、対空兵装も充実していました。そして、ずっと大型の攻撃空母の防御力に匹敵する、非常に優れた装甲が施されていました。"
-
-msgid "IDS_PASA008_NUMBER"
-msgstr "2"
-
-msgid "IDS_PASA008_YEAR"
-msgstr "1945"
 
 msgid "IDS_PASA010"
 msgstr "Ranger"
@@ -9794,6 +9980,18 @@ msgstr "3"
 
 msgid "IDS_PASA015_YEAR"
 msgstr "1945"
+
+msgid "IDS_PASA507"
+msgstr "Saipan"
+
+msgid "IDS_PASA507_DESCR"
+msgstr "サイパン級航空母艦は、ボルチモア級巡洋艦を元に建造された高速軽空母です。本級は比較的小型である割には搭載機数が多く、対空兵装も充実していました。そして、ずっと大型の攻撃空母の防御力に匹敵する、非常に優れた装甲が施されていました。"
+
+msgid "IDS_PASA507_NUMBER"
+msgstr "2"
+
+msgid "IDS_PASA507_YEAR"
+msgstr "1946"
 
 msgid "IDS_PASB001"
 msgstr "South Carolina"
@@ -9910,6 +10108,21 @@ msgstr "3"
 
 msgid "IDS_PASB034_YEAR"
 msgstr "1918"
+
+msgid "IDS_PASB506"
+msgstr "Arizona"
+
+msgid "IDS_PASB506_DESCR"
+msgstr ""
+"戦艦アリゾナは、アメリカ海軍の「標準型戦艦」の一隻であり、主砲塔を艦首と艦尾に集中配置し、装甲は、長距離砲戦を前提として、重要区画に限定して重装甲を施す集中防御方式 "
+"(All or "
+"nothing) を採用していました。二次大戦の勃発までに対水雷防御の強化が図られましたが、これは機動性の大幅な低下を招きました。"
+
+msgid "IDS_PASB506_NUMBER"
+msgstr "2"
+
+msgid "IDS_PASB506_YEAR"
+msgstr "1916"
 
 msgid "IDS_PASB801"
 msgstr "South Carolina"
@@ -10139,6 +10352,18 @@ msgstr "10"
 
 msgid "IDS_PASC045_YEAR"
 msgstr "1924"
+
+msgid "IDS_PASC692"
+msgstr "Bottlesheep"
+
+msgid "IDS_PASC692_DESCR"
+msgstr "とってもポケットサイズな戦艦「ボトルシープ」"
+
+msgid "IDS_PASC692_NUMBER"
+msgstr "1"
+
+msgid "IDS_PASC692_YEAR"
+msgstr "2016"
 
 msgid "IDS_PASC802"
 msgstr "Cimarron"
@@ -10428,6 +10653,9 @@ msgstr "356 mm/50 Mk4"
 msgid "IDS_PAUA523_356_50_MK7"
 msgstr "356 mm/50 Mk7"
 
+msgid "IDS_PAUA531_356_45_ARIZONA"
+msgstr "356 mm/45 Mk9"
+
 msgid "IDS_PAUA601_203_50_MK14"
 msgstr "203 mm/50 Mk14"
 
@@ -10535,6 +10763,12 @@ msgstr "Grumman TBM-3 Avenger"
 
 msgid "IDS_PAUB053_DOUGLAS_XSB2D"
 msgstr "Douglas XSB2D"
+
+msgid "IDS_PAUB509_DOUGLAS_AD1_SAIPAN"
+msgstr "Douglas AD-1 Skyraider"
+
+msgid "IDS_PAUB553_DOUGLAS_XSB2D_SAIPAN"
+msgstr "Douglas XSB2D Destroyer"
 
 msgid "IDS_PAUD000_DIVEBOMBER_DEFAULT"
 msgstr "Curtiss SBC-4 Helldiver"
@@ -10665,6 +10899,9 @@ msgstr "推力: 50,000 馬力"
 msgid "IDS_PAUE532_ENGINE_37000"
 msgstr "推力: 37,000 馬力"
 
+msgid "IDS_PAUE541_ENGINE_35000_ARIZONA"
+msgstr "推力: 35,000 馬力"
+
 msgid "IDS_PAUE601_ENGINE_107000"
 msgstr "推力: 107,000 馬力"
 
@@ -10691,6 +10928,9 @@ msgstr "推力: 75,000 馬力"
 
 msgid "IDS_PAUE741_ENGINE_115000"
 msgstr "推力: 115,000 馬力"
+
+msgid "IDS_PAUE751_ENGINE_120000_SAIPAN"
+msgstr "推力: 120,000 馬力"
 
 msgid "IDS_PAUE801_ENGINE_120000"
 msgstr "推力: 120,000 馬力"
@@ -10788,6 +11028,9 @@ msgstr "Mk7 mod. 2"
 msgid "IDS_PAUF613_FLIGHTCONTROL_2_F"
 msgstr "Mk7 mod. 3"
 
+msgid "IDS_PAUF621_SAIPAN"
+msgstr "Mk7 mod. 1"
+
 msgid "IDS_PAUF701_FLIGHTCONTROL_1"
 msgstr "Mk8 mod. 1"
 
@@ -10808,6 +11051,9 @@ msgstr "Mk8 mod. 2"
 
 msgid "IDS_PAUF713_FLIGHTCONTROL_2_F"
 msgstr "Mk8 mod. 3"
+
+msgid "IDS_PAUF721_SAIPAN"
+msgstr "Mk8 mod. 1"
 
 msgid "IDS_PAUF801_FLIGHTCONTROL_1"
 msgstr "Mk9 mod. 1"
@@ -10998,6 +11244,9 @@ msgstr "New Mexico (B)"
 msgid "IDS_PAUH543_NEW_MEXICO_1941"
 msgstr "New Mexico (C)"
 
+msgid "IDS_PAUH551_ARIZONA"
+msgstr "Arizona"
+
 msgid "IDS_PAUH601_PENSACOLA_1942"
 msgstr "Pensacola (A)"
 
@@ -11060,6 +11309,9 @@ msgstr "North Carolina (B)"
 
 msgid "IDS_PAUH741_ATLANTA_1942"
 msgstr "Atlanta"
+
+msgid "IDS_PAUH751_SAIPAN"
+msgstr "Saipan"
 
 msgid "IDS_PAUH801_BALTIMORE_1944"
 msgstr "Baltimore (A)"
@@ -11165,6 +11417,12 @@ msgstr "Grumman F4F-4 Wildcat"
 
 msgid "IDS_PAUI031_FM_2"
 msgstr "GM FM-2 Wildcat"
+
+msgid "IDS_PAUI510_F8F_SAIPAN"
+msgstr "Grumman F8F Bearcat"
+
+msgid "IDS_PAUI512_VOUGHT_F4U_SAIPAN"
+msgstr "Vought F4U-4 Corsair"
 
 msgid "IDS_PAUP301_TS1_T3M"
 msgstr "4x (TS1, T3M)"
@@ -11312,6 +11570,9 @@ msgstr "Mk6 mod. 1"
 
 msgid "IDS_PAUS532_SUO"
 msgstr "Mk6 mod. 2"
+
+msgid "IDS_PAUS541_SUO_ARIZONA"
+msgstr "Mk6 mod. 1"
 
 msgid "IDS_PAUS601_SUO"
 msgstr "Mk7 mod. 1"
@@ -11515,9 +11776,17 @@ msgid "IDS_PBAS001_WALRUS"
 msgstr "Supermarine Walrus"
 
 msgid "IDS_PBEC302_WARSPITE_1941"
-msgstr "タイプ 8 – Warspite"
+msgstr "タイプ 10 – Warspite"
 
 msgid "IDS_PBEC302_WARSPITE_1941_DESCRIPTION"
+msgstr ""
+"敵の射撃精度を低下させ、艦および艦長の取得 "
+"EXP を向上させる。"
+
+msgid "IDS_PBEC503_CAMPBELTOWN"
+msgstr "タイプ 9 – Campbeltown"
+
+msgid "IDS_PBEC503_CAMPBELTOWN_DESCRIPTION"
 msgstr ""
 "敵の射撃精度を低下させ、艦および艦長の取得 "
 "EXP を向上させる。"
@@ -11534,34 +11803,64 @@ msgid "IDS_PBEE001_UK_YEARS"
 msgstr "1801 年以降"
 
 msgid "IDS_PBGA007_20MM_OERLIKON_MK4"
-msgstr "20 mm Oerlikon Mk4"
+msgstr "20 mm Oerlikon Mk IV"
 
 msgid "IDS_PBGA008_2_PDR_MKVIII_8BARREL"
-msgstr "40 mm Vickers 2-pdr. Mk8"
+msgstr "40 mm Vickers 2-pdr. Mk VIII"
+
+msgid "IDS_PBGA028_BROWNING_M2_MOD2"
+msgstr "12.7 mm Browning M2 mod. 2"
+
+msgid "IDS_PBGA032_12PDR_12CWT_MK9"
+msgstr "76.2 mm/40 QF Mk II"
 
 msgid "IDS_PBGM009_15IN42_MK1"
-msgstr "381 mm/42 Mk1"
+msgstr "381 mm/42 Mk I"
 
 msgid "IDS_PBGM010_15IN42_MK1_RF"
-msgstr "381 mm/42 Mk1"
+msgstr "381 mm/42 Mk I"
+
+msgid "IDS_PBGM026_4IN50_MK12"
+msgstr "102 mm/50 Mk XII"
+
+msgid "IDS_PBGM027_4IN50_MK12"
+msgstr "102 mm/50 Mk XII"
 
 msgid "IDS_PBGS006_4IN45_QF_MK_XIX"
-msgstr "102 mm/45 QF Mk19"
+msgstr "102 mm/45 QF Mk XIX"
 
 msgid "IDS_PBGS011_152MM50_TYPE41"
-msgstr "152 mm/50 BL Mk16"
+msgstr "152 mm/50 BL Mk XVI"
+
+msgid "IDS_PBGT030_21IN_TORPEDO_TUBES_TRIPLE"
+msgstr "533 mm 魚雷発射管 3 連装 Mk I"
 
 msgid "IDS_PBPA001_381MM_HE_MKVIII"
-msgstr "381 mm HE Mk8b"
+msgstr "381 mm HE Mk VIIIb"
 
 msgid "IDS_PBPA002_381MM_AP_APC_MARKXXIIB"
-msgstr "381 mm AP Mk22b"
+msgstr "381 mm AP Mk XXIIb"
 
 msgid "IDS_PBPA003_152MM_HE_HE4CRH"
 msgstr "152 mm HE 4CRH"
 
 msgid "IDS_PBPA004_102MM_HE_HE_35LBS"
 msgstr "102 mm HE 35 lb"
+
+msgid "IDS_PBPA005_102MM_AP_CAMPBELTOWN"
+msgstr "102 mm SC Mk XVI"
+
+msgid "IDS_PBPA006_102MM_HE_CAMPBELTOWN"
+msgstr "102 mm SC Mk XV"
+
+msgid "IDS_PBPT001_CAMPBELTOWN"
+msgstr "Bliss Leavitt Mk8 mod. 2"
+
+msgid "IDS_PBPT002_CAMPBELTOWN"
+msgstr "533 mm Mk VIII"
+
+msgid "IDS_PBPT003_CAMPBELTOWN"
+msgstr "533 mm Mk IV"
 
 msgid "IDS_PBSB002"
 msgstr "Warspite"
@@ -11577,17 +11876,52 @@ msgstr "5"
 msgid "IDS_PBSB002_YEAR"
 msgstr "1915"
 
+msgid "IDS_PBSD503"
+msgstr "Campbeltown"
+
+msgid "IDS_PBSD503_DESCR"
+msgstr ""
+"アメリカ製の「平甲板型」駆逐艦であり、"
+"1940 年にイギリス海軍へと譲渡されました。このキャンベルタウンは、極めて強力な雷装に加え、当時の軍艦としては例外的なまでの高速もまた特長でした。魚雷発射管の配置が独特であったため、発射管を片舷側へ素早く集中指向することが可能でした。"
+
+msgid "IDS_PBSD503_NUMBER"
+msgstr "111"
+
+msgid "IDS_PBSD503_YEAR"
+msgstr "1919"
+
+msgid "IDS_PBUA201_102MM_CAMPBELTOWN"
+msgstr "102 mm/50 Mk12"
+
 msgid "IDS_PBUA501_381_42_MK_1"
-msgstr "381 mm/42 Mk1"
+msgstr "381 mm/42 Mk I"
+
+msgid "IDS_PBUE201_ENGINE_24200_CAMPBELTOWN"
+msgstr "推力: 24,200 馬力"
 
 msgid "IDS_PBUE501_ENGINE_80000"
 msgstr "推力: 80,000 馬力"
 
+msgid "IDS_PBUH201_CAMPBELTOWN"
+msgstr "Campbeltown"
+
 msgid "IDS_PBUH501_WARSPITE_1941"
 msgstr "Warspite"
 
+msgid "IDS_PBUS201_SUO_CAMPBELTOWN"
+msgstr "Mk3 mod. 1"
+
 msgid "IDS_PBUS501_SUO"
-msgstr "Mk6 mod. 1"
+msgstr "Mk VI mod. 1"
+
+msgid "IDS_PBUT201_CAMPBELTOWN"
+msgstr "Bliss Leavitt Mk8 mod. 2"
+
+msgid "IDS_PBUT202_CAMPBELTOWN"
+msgstr "533 mm Mk VIII"
+
+msgid "IDS_PBUT203_CAMPBELTOWN"
+msgstr "533 mm Mk IV"
 
 msgid "IDS_PCEC001_CAMO_1"
 msgstr "タイプ 1"
@@ -11625,65 +11959,31 @@ msgstr "タイプ 4 – スーパーテスト"
 msgid "IDS_PCEC006_TILE_SUPERTEST_DESCRIPTION"
 msgstr "敵の射撃精度を低下させ、取得 EXP を向上させる"
 
-msgid "IDS_PCEC103_PERMO_1_LOW_LVL"
-msgstr "タイプ 5 – プレミアム"
+msgid "IDS_PCEC007_CAMO_3_TILE_DOUBLE"
+msgstr "タイプ 5"
 
-msgid "IDS_PCEC103_PERMO_1_LOW_LVL_DESCRIPTION"
+msgid "IDS_PCEC007_CAMO_3_TILE_DOUBLE_DESCRIPTION"
+msgstr "艦の被発見性を低減し、敵の射撃精度を低下させる"
+
+msgid "IDS_PCEC008_CAMO_ECO_TILE"
+msgstr "タイプ 6"
+
+msgid "IDS_PCEC008_CAMO_ECO_TILE_DESCRIPTION"
 msgstr ""
-"艦の被発見性を低減し、艦および艦長の取得 "
-"EXP を向上させる。"
-
-msgid "IDS_PCEC107_PERMO_1_HIGH_LVL"
-msgstr "タイプ 7 – 強化プレミアム"
-
-msgid "IDS_PCEC107_PERMO_1_HIGH_LVL_DESCRIPTION"
-msgstr ""
-"艦の被発見性を低減し、艦および艦長の取得 "
-"EXP を向上させる。"
-
-msgid "IDS_PCEC203_PERMO_2_LOW_LVL"
-msgstr "タイプ 6 – プレミアム"
-
-msgid "IDS_PCEC203_PERMO_2_LOW_LVL_DESCRIPTION"
-msgstr ""
-"敵の射撃精度を低下させ、艦および艦長の取得 "
-"EXP を向上させる。"
-
-msgid "IDS_PCEC207_PERMO_2_HIGH_LVL"
-msgstr "タイプ 8 – 強化プレミアム"
-
-msgid "IDS_PCEC207_PERMO_2_HIGH_LVL_DESCRIPTION"
-msgstr ""
-"敵の射撃精度を低下させ、艦および艦長の取得 "
-"EXP を向上させる。"
-
-msgid "IDS_PCEC301_CAMO_NY_1"
-msgstr "タイプ 9 – 新年"
-
-msgid "IDS_PCEC301_CAMO_NY_1_DESCRIPTION"
-msgstr ""
-"艦の被発見性を低減し、艦および艦長の取得 "
-"EXP を向上させる。"
-
-msgid "IDS_PCEC302_CAMO_NY_2"
-msgstr "タイプ 10 – 新年"
-
-msgid "IDS_PCEC302_CAMO_NY_2_DESCRIPTION"
-msgstr ""
-"敵の射撃精度を低下させ、艦および艦長の取得 "
-"EXP を向上させる。"
+"艦の被発見性を低減し、敵の射撃精度を低下させ、"
+"艦および艦長の取得 EXP を向上させる。"
 
 msgid "IDS_PCEE008_RANK20"
-msgstr "セカンドリーグ"
+msgstr "第 2 リーグ"
 
 msgid "IDS_PCEE008_RANK20_DESCRIPTION"
-msgstr "セカンドリーグ旗"
+msgstr "第 2 リーグ旗"
 
 msgid "IDS_PCEE009_RANK10"
-msgstr "ファーストリーグ"
+msgstr "第 1 リーグ"
 
 msgid "IDS_PCEE009_RANK10_DESCRIPTION"
-msgstr "ファーストリーグ旗"
+msgstr "第 1 リーグ旗"
 
 msgid "IDS_PCEE010_RANK1"
 msgstr "プレミアリーグ"
@@ -11696,7 +11996,7 @@ msgstr "呉港"
 
 msgid "IDS_PCEE011_SEASONFLAG01_DESCRIPTION"
 msgstr ""
-"ランク戦セカンドシーズンにおいてランク "
+"ランク戦第 2 シーズンにおいてランク "
 "14 を達成することで授与される記念旗です。"
 
 msgid "IDS_PCEE011_SEASONFLAG01_EXTRA_DESCRIPTION"
@@ -11722,7 +12022,7 @@ msgstr "ハワイ"
 
 msgid "IDS_PCEE013_SEASONFLAG03_DESCRIPTION"
 msgstr ""
-"ランク戦サードシーズンにおいてランク "
+"ランク戦第 3 シーズンにおいてランク "
 "14 を達成することで授与される記念旗です。"
 
 msgid "IDS_PCEE013_SEASONFLAG03_EXTRA_DESCRIPTION"
@@ -11742,24 +12042,25 @@ msgid "IDS_PCEE014_FLAG_SUPERTEST_EXTRA_DESCRIPTION"
 msgstr "スーパーテスト・艦隊メンバー用の特別旗です。"
 
 msgid "IDS_PCEE015_JOLLY_ROGER_2"
-msgstr "海賊旗 II"
+msgstr ""
+"海賊旗\n"
+"クラス II"
 
 msgid "IDS_PCEE015_JOLLY_ROGER_2_DESCRIPTION"
-msgstr "ランク 1 を達成することで授与される記念旗です。"
+msgstr ""
+"ランク 1 を再達成することで授与される記念旗です。"
 
 msgid "IDS_PCEE015_JOLLY_ROGER_2_EXTRA_DESCRIPTION"
-msgstr ""
-"このフラグの"
-"2つのインスタンスが自動的にプレミアム船に交換されています。"
+msgstr "  "
 
 msgid "IDS_PCEE016_FLAG_DEVELOPER"
-msgstr "ディベロッパー フラグ"
+msgstr "開発者旗"
 
 msgid "IDS_PCEE016_FLAG_DEVELOPER_DESCRIPTION"
 msgstr "特別"
 
 msgid "IDS_PCEE016_FLAG_DEVELOPER_EXTRA_DESCRIPTION"
-msgstr "開発チームのメンバーのための特別なフラグ。"
+msgstr "開発チームメンバー用の特別旗です。"
 
 msgid "IDS_PCEE017_FLAG_VOLUNTEER"
 msgstr "ボランティア旗"
@@ -11768,58 +12069,58 @@ msgid "IDS_PCEE017_FLAG_VOLUNTEER_DESCRIPTION"
 msgstr "特別"
 
 msgid "IDS_PCEE017_FLAG_VOLUNTEER_EXTRA_DESCRIPTION"
-msgstr "プロジェクトのボランティアのコミュニティのための特別なフラグ。"
+msgstr "プロジェクト・ボランティア・コミュニティ用の特別旗です。"
 
 msgid "IDS_PCEE018_FLAG_VAL_PLAYER"
-msgstr "貴重プレーヤーフラグ"
+msgstr "優秀プレイヤー旗"
 
 msgid "IDS_PCEE018_FLAG_VAL_PLAYER_DESCRIPTION"
 msgstr "特別"
 
 msgid "IDS_PCEE018_FLAG_VAL_PLAYER_EXTRA_DESCRIPTION"
-msgstr "コミュニティの貴重なプレーヤーのための特別なフラグ。"
+msgstr "コミュニティの優秀プレイヤー用の特別旗です。"
 
 msgid "IDS_PCEE019_FLAG_AT"
-msgstr "AT フラグ"
+msgstr "AT 旗"
 
 msgid "IDS_PCEE019_FLAG_AT_DESCRIPTION"
 msgstr "特別"
 
 msgid "IDS_PCEE019_FLAG_AT_EXTRA_DESCRIPTION"
-msgstr "AT 参加者のための特別なフラグ。"
+msgstr "αテスト参加者用の特別旗です。"
 
 msgid "IDS_PCEE020_FLAG_CBW"
-msgstr "BW フラグ"
+msgstr "BW 旗"
 
 msgid "IDS_PCEE020_FLAG_CBW_DESCRIPTION"
 msgstr "特別"
 
 msgid "IDS_PCEE020_FLAG_CBW_EXTRA_DESCRIPTION"
-msgstr "BWの参加者のための特別なフラグ。"
+msgstr "βウィークエンド参加者用の特別旗です。"
 
 msgid "IDS_PCEE021_FLAG_CBT"
-msgstr "CBT フラグ"
+msgstr "CBT 旗"
 
 msgid "IDS_PCEE021_FLAG_CBT_DESCRIPTION"
 msgstr "特別"
 
 msgid "IDS_PCEE021_FLAG_CBT_EXTRA_DESCRIPTION"
-msgstr "CBT参加者のための特別なフラグ。"
+msgstr "クローズドβテスト参加者用の特別旗です。"
 
 msgid "IDS_PCEE022_FLAG_WG"
-msgstr "Wargaming フラグ"
+msgstr "Wargaming 旗"
 
 msgid "IDS_PCEE022_FLAG_WG_DESCRIPTION"
 msgstr "特別"
 
 msgid "IDS_PCEE022_FLAG_WG_EXTRA_DESCRIPTION"
-msgstr "Wargaming 従業員"
+msgstr "Wargaming 従業員用の特別旗です。"
 
 msgid "IDS_PCEE023_SEASONFLAG00"
-msgstr "1st ranked season"
+msgstr "1st Season"
 
 msgid "IDS_PCEE023_SEASONFLAG00_DESCRIPTION"
-msgstr "A commemorative flag for participation in the 1st ranked season."
+msgstr "  "
 
 msgid "IDS_PCEE023_SEASONFLAG00_EXTRA_DESCRIPTION"
 msgstr "  "
@@ -12007,7 +12308,7 @@ msgid "IDS_PGAS006_BV_P126"
 msgstr "Blohm & Voss P. 126"
 
 msgid "IDS_PGEC302_TIRPIZ_1942"
-msgstr "タイプ 8 – Tirpitz"
+msgstr "タイプ 10 – Tirpitz"
 
 msgid "IDS_PGEC302_TIRPIZ_1942_DESCRIPTION"
 msgstr ""
@@ -12015,7 +12316,7 @@ msgstr ""
 "EXP を向上させる。"
 
 msgid "IDS_PGEC402_EMDEN_1908"
-msgstr "タイプ 6 – Emden"
+msgstr "タイプ 9 – Emden"
 
 msgid "IDS_PGEC402_EMDEN_1908_DESCRIPTION"
 msgstr ""
@@ -12023,7 +12324,7 @@ msgstr ""
 "EXP を向上させる。"
 
 msgid "IDS_PGEC406_NURNBERG"
-msgstr "タイプ 10 – Nürnberg"
+msgstr "タイプ 12 – Nürnberg"
 
 msgid "IDS_PGEC406_NURNBERG_DESCRIPTION"
 msgstr ""
@@ -12031,7 +12332,7 @@ msgstr ""
 "EXP を向上させる。"
 
 msgid "IDS_PGEC408_HIPPER"
-msgstr "タイプ 8 – Admiral Hipper"
+msgstr "タイプ 10 – Admiral Hipper"
 
 msgid "IDS_PGEC408_HIPPER_DESCRIPTION"
 msgstr ""
@@ -12541,6 +12842,18 @@ msgstr "2"
 msgid "IDS_PGSC502_YEAR"
 msgstr "1909"
 
+msgid "IDS_PGSC692"
+msgstr "Das Boot"
+
+msgid "IDS_PGSC692_DESCR"
+msgstr "とってもポケットサイズな戦艦「ダスボート」"
+
+msgid "IDS_PGSC692_NUMBER"
+msgstr "1"
+
+msgid "IDS_PGSC692_YEAR"
+msgstr "2016"
+
 msgid "IDS_PGUA001_128_61_SK_C42"
 msgstr "128 mm L/61 SK C/42"
 
@@ -12977,7 +13290,7 @@ msgid "IDS_PJAS901"
 msgstr "三菱 零式観測機"
 
 msgid "IDS_PJEC112_ZUIKAKU_1944"
-msgstr "タイプ 7 – 翔鶴"
+msgstr "タイプ 10 – 翔鶴"
 
 msgid "IDS_PJEC112_ZUIKAKU_1944_DESCRIPTION"
 msgstr ""
@@ -12985,7 +13298,7 @@ msgstr ""
 "EXP を向上させる。"
 
 msgid "IDS_PJEC308_ISHIZUCHI_1921"
-msgstr "タイプ 6 – 石鎚"
+msgstr "タイプ 9 – 石鎚"
 
 msgid "IDS_PJEC308_ISHIZUCHI_1921_DESCRIPTION"
 msgstr ""
@@ -12993,7 +13306,7 @@ msgstr ""
 "EXP を向上させる。"
 
 msgid "IDS_PJEC311_MIKASA_1905"
-msgstr "タイプ 6 – 三笠"
+msgstr "タイプ 9 – 三笠"
 
 msgid "IDS_PJEC311_MIKASA_1905_DESCRIPTION"
 msgstr ""
@@ -13001,7 +13314,7 @@ msgstr ""
 "EXP を向上させる。"
 
 msgid "IDS_PJEC313_AMAGI_1942"
-msgstr "タイプ 8 – 天城"
+msgstr "タイプ 10 – 天城"
 
 msgid "IDS_PJEC313_AMAGI_1942_DESCRIPTION"
 msgstr ""
@@ -13009,7 +13322,7 @@ msgstr ""
 "EXP を向上させる。"
 
 msgid "IDS_PJEC321_IZUMO_1938"
-msgstr "タイプ 8 – 出雲"
+msgstr "タイプ 16 – 出雲"
 
 msgid "IDS_PJEC321_IZUMO_1938_DESCRIPTION"
 msgstr ""
@@ -13017,7 +13330,7 @@ msgstr ""
 "EXP を向上させる。"
 
 msgid "IDS_PJEC403_KATORI"
-msgstr "タイプ 5 – 香取"
+msgstr "タイプ 9 – 香取"
 
 msgid "IDS_PJEC403_KATORI_DESCRIPTION"
 msgstr ""
@@ -13025,7 +13338,7 @@ msgstr ""
 "EXP を向上させる。"
 
 msgid "IDS_PJEC404_YUBARI_1944"
-msgstr "タイプ 5 – 夕張"
+msgstr "タイプ 9 – 夕張"
 
 msgid "IDS_PJEC404_YUBARI_1944_DESCRIPTION"
 msgstr ""
@@ -13033,7 +13346,7 @@ msgstr ""
 "EXP を向上させる。"
 
 msgid "IDS_PJEC409_MOGAMI_1935"
-msgstr "タイプ 8 – 最上"
+msgstr "タイプ 10 – 最上"
 
 msgid "IDS_PJEC409_MOGAMI_1935_DESCRIPTION"
 msgstr ""
@@ -13041,7 +13354,7 @@ msgstr ""
 "EXP を向上させる。"
 
 msgid "IDS_PJEC414_KITAKAMI_1945"
-msgstr "タイプ 7 – 北上"
+msgstr "タイプ 10 – 北上"
 
 msgid "IDS_PJEC414_KITAKAMI_1945_DESCRIPTION"
 msgstr ""
@@ -13049,7 +13362,7 @@ msgstr ""
 "EXP を向上させる。"
 
 msgid "IDS_PJEC418_TONE"
-msgstr "タイプ 8 – 利根"
+msgstr "タイプ 10 – 利根"
 
 msgid "IDS_PJEC418_TONE_DESCRIPTION"
 msgstr ""
@@ -13057,7 +13370,7 @@ msgstr ""
 "EXP を向上させる。"
 
 msgid "IDS_PJEC426_IWAKI_1944"
-msgstr "タイプ 5 – 岩木"
+msgstr "タイプ 9 – 岩木"
 
 msgid "IDS_PJEC426_IWAKI_1944_DESCRIPTION"
 msgstr ""
@@ -13065,7 +13378,7 @@ msgstr ""
 "EXP を向上させる。"
 
 msgid "IDS_PJEC438_ATAGO_1944"
-msgstr "タイプ 8 – 愛宕"
+msgstr "タイプ 10 – 愛宕"
 
 msgid "IDS_PJEC438_ATAGO_1944_DESCRIPTION"
 msgstr ""
@@ -13073,7 +13386,7 @@ msgstr ""
 "EXP を向上させる。"
 
 msgid "IDS_PJEC501_TACHIBANA_1912"
-msgstr "タイプ 5 – 桜"
+msgstr "タイプ 9 – 桜"
 
 msgid "IDS_PJEC501_TACHIBANA_1912_DESCRIPTION"
 msgstr ""
@@ -13081,7 +13394,7 @@ msgstr ""
 "EXP を向上させる。"
 
 msgid "IDS_PJEC504_MINEKADZE_1920"
-msgstr "タイプ 9 – 峯風"
+msgstr "タイプ 12 – 峯風"
 
 msgid "IDS_PJEC504_MINEKADZE_1920_DESCRIPTION"
 msgstr ""
@@ -13089,7 +13402,7 @@ msgstr ""
 "EXP を向上させる。"
 
 msgid "IDS_PJEC507_FUBUKI_1944"
-msgstr "タイプ 7 – 吹雪"
+msgstr "タイプ 10 – 吹雪"
 
 msgid "IDS_PJEC507_FUBUKI_1944_DESCRIPTION"
 msgstr ""
@@ -13105,7 +13418,7 @@ msgstr ""
 "EXP を向上させる。"
 
 msgid "IDS_PJEC517_KAMIKAZE_1930"
-msgstr "タイプ 5 – 夕凪"
+msgstr "タイプ 9 – 夕凪"
 
 msgid "IDS_PJEC517_KAMIKAZE_1930_DESCRIPTION"
 msgstr ""
@@ -13113,7 +13426,7 @@ msgstr ""
 "EXP を向上させる。"
 
 msgid "IDS_PJEC525_TRUE_KAMIKAZE"
-msgstr "タイプ 5 – 疾風"
+msgstr "タイプ 9 – 疾風"
 
 msgid "IDS_PJEC525_TRUE_KAMIKAZE_DESCRIPTION"
 msgstr ""
@@ -13121,7 +13434,7 @@ msgstr ""
 "EXP を向上させる。"
 
 msgid "IDS_PJEC526_CAMO_KAMIKAZE"
-msgstr "タイプ 5 – 朝凪"
+msgstr "タイプ 9 – 朝凪"
 
 msgid "IDS_PJEC526_CAMO_KAMIKAZE_DESCRIPTION"
 msgstr ""
@@ -13475,6 +13788,9 @@ msgstr "45口径 四一式 15cm砲"
 
 msgid "IDS_PJGS138_76MM40_WITH_SHIELD_BLACK"
 msgstr "40口径 四一式 8cm砲"
+
+msgid "IDS_PJGS139_127MM40_TYPE89_MOD_A3"
+msgstr "40口径 八九式 12.7cm高角砲 A3型"
 
 msgid "IDS_PJGS508_150MM50_TYPE_41_TGS"
 msgstr "50口径 四一式 15cm砲 TGS"
@@ -14084,12 +14400,6 @@ msgstr "河内"
 msgid "IDS_PJSB802_DESCR"
 msgstr "入門ミッションで使用される戦艦 河内"
 
-msgid "IDS_PJSB818"
-msgstr "大和"
-
-msgid "IDS_PJSB818_DESCR"
-msgstr "入門ミッションで使用される戦艦 大和"
-
 msgid "IDS_PJSC001_NUMBER"
 msgstr "4"
 
@@ -14313,6 +14623,18 @@ msgstr "4"
 msgid "IDS_PJSC503_YEAR"
 msgstr "1940"
 
+msgid "IDS_PJSC692"
+msgstr "ポケボート"
+
+msgid "IDS_PJSC692_DESCR"
+msgstr "とってもポケットサイズな戦艦「ポケボート」"
+
+msgid "IDS_PJSC692_NUMBER"
+msgstr "1"
+
+msgid "IDS_PJSC692_YEAR"
+msgstr "2016"
+
 msgid "IDS_PJSC705"
 msgstr "霧 ミョウコウ"
 
@@ -14327,6 +14649,22 @@ msgid "IDS_PJSC705_NUMBER"
 msgstr " "
 
 msgid "IDS_PJSC705_YEAR"
+msgstr " "
+
+msgid "IDS_PJSC709"
+msgstr "霧 ハグロ"
+
+msgid "IDS_PJSC709_DESCR"
+msgstr ""
+"妙高型重巡洋艦四番艦「羽黒」を模した「霧の艦隊」の重巡洋艦。船体に複数のスラスターを装備し、そのスピードとトリッキーな動きで相手を翻弄する。メンタルモデル・ハグロは面倒くさがりで毒舌家。ヒエイが組織する「霧の生徒会」でアシガラと同じく書記の任に就いている。\n"
+"本艦艇は「劇場版 蒼き鋼のアルペジオ ‐アルス・ノヴァ‐ "
+"Cadenza」に登場するハグロを参考に World of "
+"Warships 向けにデザインされている。"
+
+msgid "IDS_PJSC709_NUMBER"
+msgstr " "
+
+msgid "IDS_PJSC709_YEAR"
 msgstr " "
 
 msgid "IDS_PJSC837"
@@ -14632,6 +14970,9 @@ msgstr "50口径 三年式 1号 20cm砲 C型"
 msgid "IDS_PJUA591_203_50_3RD_YEAR_TYPE_MYOKO"
 msgstr "50口径 三年式 2号 20.3cm砲 E型"
 
+msgid "IDS_PJUA592_203_50_3RD_YEAR_TYPE_HAGURO"
+msgstr "50口径 三年式 2号 20.3cm砲 E型"
+
 msgid "IDS_PJUA611_410_45_TYPE3YEAR"
 msgstr "45口径 三年式 41cm砲"
 
@@ -14858,6 +15199,9 @@ msgid "IDS_PJUE771_ENGINE_152000_TONE"
 msgstr "推力: 152,000 馬力"
 
 msgid "IDS_PJUE792_ENGINE_132000_MYOKO"
+msgstr "推力: 132,000 馬力"
+
+msgid "IDS_PJUE793_ENGINE_132000_HAGURO"
 msgstr "推力: 132,000 馬力"
 
 msgid "IDS_PJUE801_ENGINE_75000"
@@ -15190,6 +15534,9 @@ msgstr "利根"
 msgid "IDS_PJUH795_MYOKO"
 msgstr "ミョウコウ"
 
+msgid "IDS_PJUH796_HAGURO"
+msgstr "ハグロ"
+
 msgid "IDS_PJUH801_SHIMAKAZE_1943"
 msgstr "島風 1943"
 
@@ -15424,6 +15771,9 @@ msgstr "七式 一号"
 msgid "IDS_PJUS791_SUO_MYOKO"
 msgstr "七式 一号"
 
+msgid "IDS_PJUS792_SUO_HAGURO"
+msgstr "七式 一号"
+
 msgid "IDS_PJUS801_SUO"
 msgstr "九式 一号"
 
@@ -15521,6 +15871,9 @@ msgid "IDS_PJUT604_610_TYPE_90_MOD_1"
 msgstr "九〇式 魚雷 一型"
 
 msgid "IDS_PJUT694_610_TYPE_90_MOD_1_MYOKO"
+msgstr "九〇式 侵食魚雷 一型"
+
+msgid "IDS_PJUT695_610_TYPE_90_MOD_1_HAGURO"
 msgstr "九〇式 侵食魚雷 一型"
 
 msgid "IDS_PJUT705_610_TYPE_90_MOD_2"
@@ -15882,6 +16235,24 @@ msgstr "ポーランド共和国海軍の軍艦旗"
 msgid "IDS_PPEE001_POLAND_YEARS"
 msgstr "1927 – 1945"
 
+msgid "IDS_PRAF011_I_15_FLOAT"
+msgstr "Polikarpov I-15"
+
+msgid "IDS_PRAF012_I_153_FLOAT"
+msgstr "Polikarpov I-153"
+
+msgid "IDS_PRAF013_YAK_1_FLOAT"
+msgstr "Yakovlev Yak-1"
+
+msgid "IDS_PRAF014_YAK_9U_FLOAT"
+msgstr "Yakovlev Yak-9U"
+
+msgid "IDS_PRAF015_LA_126_FLOAT"
+msgstr "Lavochkin La-126"
+
+msgid "IDS_PRAF016_LA_9_FLOAT"
+msgstr "Lavochkin La-9"
+
 msgid "IDS_PRAISE"
 msgstr "賛辞"
 
@@ -15899,11 +16270,32 @@ msgstr ""
 msgid "IDS_PRAS001_KOR_2"
 msgstr "Beriyev KOR-2"
 
+msgid "IDS_PRAS002_KOR_1"
+msgstr "Beriyev KOR-1"
+
+msgid "IDS_PRAS003_KR_1"
+msgstr "KR-1"
+
 msgid "IDS_PRAS004_VOUGHT_OS2U"
 msgstr "Vought OS2U"
 
+msgid "IDS_PRAS005_KOR_2_M_62"
+msgstr "Nikitin KOR-2 (M-62)"
+
+msgid "IDS_PRAS006_KOR_3_VK_107"
+msgstr "Beriyev KOR-3 (VK-107)"
+
+msgid "IDS_PRAS007_KOR_3_M_87"
+msgstr "Beriyev KOR-3 (M-87)"
+
+msgid "IDS_PRAS008_KL_145"
+msgstr "Beriyev KL-145"
+
+msgid "IDS_PRAS009_KOR_2_VK_105"
+msgstr "Shavrov KOR-2 (M-105)"
+
 msgid "IDS_PREC301_NIKOLAY_I"
-msgstr "タイプ 6 – Imperator Nikolai I"
+msgstr "タイプ 9 – Imperator Nikolai I"
 
 msgid "IDS_PREC301_NIKOLAY_I_DESCRIPTION"
 msgstr ""
@@ -15911,7 +16303,7 @@ msgstr ""
 "EXP を向上させる。"
 
 msgid "IDS_PREC401_AVRORA_1917"
-msgstr "タイプ 6 – Aurora"
+msgstr "タイプ 9 – Aurora"
 
 msgid "IDS_PREC401_AVRORA_1917_DESCRIPTION"
 msgstr ""
@@ -15919,7 +16311,7 @@ msgstr ""
 "EXP を向上させる。"
 
 msgid "IDS_PREC402_DIANA_1905"
-msgstr "タイプ 6 – Diana"
+msgstr "タイプ 9 – Diana"
 
 msgid "IDS_PREC402_DIANA_1905_DESCRIPTION"
 msgstr ""
@@ -15927,7 +16319,7 @@ msgstr ""
 "EXP を向上させる。"
 
 msgid "IDS_PREC403_MURMANSK_1944"
-msgstr "タイプ 6 – Murmansk"
+msgstr "タイプ 9 – Murmansk"
 
 msgid "IDS_PREC403_MURMANSK_1944_DESCRIPTION"
 msgstr ""
@@ -15935,7 +16327,7 @@ msgstr ""
 "EXP を向上させる。"
 
 msgid "IDS_PREC408_KUTUZOV_1952"
-msgstr "タイプ 8 – Mikhail Kutuzov"
+msgstr "タイプ 10 – Mikhail Kutuzov"
 
 msgid "IDS_PREC408_KUTUZOV_1952_DESCRIPTION"
 msgstr ""
@@ -15943,7 +16335,7 @@ msgstr ""
 "EXP を向上させる。"
 
 msgid "IDS_PREC410_DIANA_1905_ASUS"
-msgstr "タイプ 6 – Diana Lima"
+msgstr "タイプ 9 – Diana Lima"
 
 msgid "IDS_PREC410_DIANA_1905_ASUS_DESCRIPTION"
 msgstr ""
@@ -15951,7 +16343,7 @@ msgstr ""
 "EXP を向上させる。"
 
 msgid "IDS_PREC501_GREMYASHCHY_1942"
-msgstr "タイプ 5 – Gremyashchy"
+msgstr "タイプ 9 – Gremyashchy"
 
 msgid "IDS_PREC501_GREMYASHCHY_1942_DESCRIPTION"
 msgstr ""
@@ -15959,7 +16351,7 @@ msgstr ""
 "EXP を向上させる。"
 
 msgid "IDS_PREC505_PR_7_GNEVNY"
-msgstr "タイプ 9 – Gnevny"
+msgstr "タイプ 12 – Gnevny"
 
 msgid "IDS_PREC505_PR_7_GNEVNY_DESCRIPTION"
 msgstr ""
@@ -15967,7 +16359,7 @@ msgstr ""
 "EXP を向上させる。"
 
 msgid "IDS_PREC508_PR_20I_TASHKENT"
-msgstr "タイプ 7 – Tashkent"
+msgstr "タイプ 10 – Tashkent"
 
 msgid "IDS_PREC508_PR_20I_TASHKENT_DESCRIPTION"
 msgstr ""
@@ -16086,6 +16478,9 @@ msgstr "艦隊ラインナップ"
 msgid "IDS_PREVIOUS_BATTLES"
 msgstr "今シーズン中のこれまで"
 
+msgid "IDS_PREV_ALLIED_VEHICLE"
+msgstr "先の味方艦"
+
 msgid "IDS_PRGA003_MACHINEGUNMAXIM_7_62"
 msgstr "7.62 mm Maxim machine gun"
 
@@ -16149,8 +16544,26 @@ msgstr "37 mm 46-K"
 msgid "IDS_PRGA059_40MM_VICKERS"
 msgstr "40 mm Vickers"
 
+msgid "IDS_PRGA061_7_62MM_MAXIM_MG_2"
+msgstr "7.62 mm Maxim machine gun"
+
 msgid "IDS_PRGA062_76_2MM_30_LENDER_8_K"
 msgstr "76.2 mm Lender gun"
+
+msgid "IDS_PRGA066_45MM_SM_20_ZIF"
+msgstr "45 mm SM-20-ZIF"
+
+msgid "IDS_PRGA086_DSHKM_2B_12_7MM_NO_LAMP"
+msgstr "12.7 mm DschKM-2B"
+
+msgid "IDS_PRGA089_25MM_4M120"
+msgstr "25 mm 4M-120"
+
+msgid "IDS_PRGA502_76MM34K"
+msgstr "Pompom"
+
+msgid "IDS_PRGA503_70K_37MM"
+msgstr "Flipflop"
 
 msgid "IDS_PRGM004_6IN45"
 msgstr "152 mm/45 Canet naval gun"
@@ -16179,6 +16592,9 @@ msgstr "152 mm/45 Canet naval gun"
 msgid "IDS_PRGM040_6IN45_CANE"
 msgstr "152 mm/45 Canet naval gun"
 
+msgid "IDS_PRGM041_120MM_45_CANET"
+msgstr "120 mm/45 Model 1892"
+
 msgid "IDS_PRGM043_12IN52"
 msgstr "305 mm/52 Model 1907"
 
@@ -16190,6 +16606,60 @@ msgstr "130 mm/55 B-2-U"
 
 msgid "IDS_PRGM063_152MM_57_MK_5"
 msgstr "152 mm/57 MK-5-bis"
+
+msgid "IDS_PRGM064_180MM_57_MK_3"
+msgstr "180 mm/57 MK-3-180"
+
+msgid "IDS_PRGM067_220MM_SM6"
+msgstr "220 mm/65 SM-6"
+
+msgid "IDS_PRGM069_180MM_CM_3"
+msgstr "180 mm/57 MK-3-180M"
+
+msgid "IDS_PRGM073_152MM_45_TWIN"
+msgstr "152 mm/45 Model 1892"
+
+msgid "IDS_PRGM074_180MM_CM_3_RF"
+msgstr "180 mm/57 MK-3-180M"
+
+msgid "IDS_PRGM075_180MM_CM_3_RADAR"
+msgstr "180 mm/57 MK-3-180M"
+
+msgid "IDS_PRGM076_152MM_45_CASEMATE"
+msgstr "152 mm/45 Model 1892"
+
+msgid "IDS_PRGM077_130MM_55_SHIELD"
+msgstr "130 mm/55 Model 1913"
+
+msgid "IDS_PRGM085_152MM_MK_5_1"
+msgstr "152 mm/57 MK-5"
+
+msgid "IDS_PRGM087_130MM_55_TWIN"
+msgstr "130 mm/55 Model 1913"
+
+msgid "IDS_PRGM088_152MM_45_CANET"
+msgstr "152 mm/45 Model 1892"
+
+msgid "IDS_PRGM090_130MM_55_CASEMATE"
+msgstr "130 mm/55 Model 1913"
+
+msgid "IDS_PRGM092_130MM55_CASEMATE"
+msgstr "130 mm/55 Model 1913"
+
+msgid "IDS_PRGM093_152MM_45_CASEMATE"
+msgstr "152 mm/45 Model 1892"
+
+msgid "IDS_PRGM094_130MM_55_B7"
+msgstr "130 mm/55 B-7"
+
+msgid "IDS_PRGM095_130MM55_B7CAS"
+msgstr "130 mm/55 Model 1913"
+
+msgid "IDS_PRGM096_152MM_MK_5"
+msgstr "152 mm/57 MK-5"
+
+msgid "IDS_PRGM501_130MM_B2LM"
+msgstr "Pewpew"
 
 msgid "IDS_PRGS001_6IN45"
 msgstr "152 mm/45 Canet naval gun"
@@ -16205,6 +16675,30 @@ msgstr "130 mm/55 Model 1913"
 
 msgid "IDS_PRGS058_100MM_70_SM_5_1S"
 msgstr "100 mm/70 SM-5-1s"
+
+msgid "IDS_PRGS065_100MM_B_34"
+msgstr "100 mm/56 B-34"
+
+msgid "IDS_PRGS070_130MM_BL_109A"
+msgstr "130 mm/60 BL-109A"
+
+msgid "IDS_PRGS072_100MM_50_MINIZINI"
+msgstr "100 mm/50 Minisini gun"
+
+msgid "IDS_PRGS079_100MM_B_54"
+msgstr "100 mm/56 B-54"
+
+msgid "IDS_PRGS080_130MM55_CASEMATE"
+msgstr "130 mm/55 Model 1913"
+
+msgid "IDS_PRGS082_75MM_50_CANET_CS"
+msgstr "75 mm/50 Canet naval gun"
+
+msgid "IDS_PRGS083_100MM_B_34_USM"
+msgstr "100 mm/56 B-34-USM"
+
+msgid "IDS_PRGS084_75MM_50_CANET_FS"
+msgstr "75 mm/50 Canet naval gun"
 
 msgid "IDS_PRGT010_533MM_39_U_TORPEDO_TUBES_TRIPLE"
 msgstr "533 mm 3 連装 39-U 魚雷発射管"
@@ -16227,11 +16721,29 @@ msgstr "533 mm 5 連装 2-N 魚雷発射管"
 msgid "IDS_PRGT071_533MM_PTA_5TUBES"
 msgstr "533 mm 5 連装 PTA-53-68-bis 魚雷発射管"
 
+msgid "IDS_PRGT078_533MM_4TUBES"
+msgstr "533 mm 4 連装 N-7 魚雷発射管"
+
+msgid "IDS_PRGT664_PLOP"
+msgstr "Plopplop"
+
 msgid "IDS_PRICES_CHANGED"
 msgstr "注意! スペシャルの更新に伴い、価格が変更されました。"
 
 msgid "IDS_PRIMARYHEADER"
 msgstr "主タスク:"
+
+msgid "IDS_PRMP_DISCOUNT"
+msgstr "割引"
+
+msgid "IDS_PRMP_FOR_YOU"
+msgstr "以下の艦艇を所持するため"
+
+msgid "IDS_PRMP_RECEIVE"
+msgstr "取得する"
+
+msgid "IDS_PRMP_SPECIAL_PROPOSAL"
+msgstr "貴官へのオファー！"
 
 msgid "IDS_PRO"
 msgstr "賛成"
@@ -16437,6 +16949,75 @@ msgstr "HE-55"
 msgid "IDS_PRPA024_152MM_OFU35_KUTUZOV"
 msgstr "OFU-35"
 
+msgid "IDS_PRPA025_100MM_HE_F_56"
+msgstr "HE-56"
+
+msgid "IDS_PRPA026_100MM_HE_P_28"
+msgstr "HE-56"
+
+msgid "IDS_PRPA027_120MM_HE_P_1907"
+msgstr "120 mm HE Model 1907"
+
+msgid "IDS_PRPA028_130MM_HE_OF_42"
+msgstr "HE-42"
+
+msgid "IDS_PRPA029_130MM_HE_OF_54"
+msgstr "HE-54"
+
+msgid "IDS_PRPA030_130_HE_1911_MG"
+msgstr "130 mm HE Model 1911"
+
+msgid "IDS_PRPA031_180_HE_OF_42_S"
+msgstr "HE-32"
+
+msgid "IDS_PRPA032_180_HE_OF_42_F"
+msgstr "HE-32"
+
+msgid "IDS_PRPA033_220_HE_OF_23"
+msgstr "HE-23"
+
+msgid "IDS_PRPA034_152MM_OFU35"
+msgstr "OFU-35"
+
+msgid "IDS_PRPA035_152MM_B35"
+msgstr "В-35"
+
+msgid "IDS_PRPA036_220_AP_B_23"
+msgstr "AP-23"
+
+msgid "IDS_PRPA037_180_AP_B_32_S"
+msgstr "AP-32"
+
+msgid "IDS_PRPA038_180_AP_B_32_F"
+msgstr "AP-32"
+
+msgid "IDS_PRPA039_130_AP_P_1928"
+msgstr "SAP-46"
+
+msgid "IDS_PRPA040_130_AP_P_1911"
+msgstr "130 mm AP Model 1911"
+
+msgid "IDS_PRPA041_120_AP_P_1905"
+msgstr "120 mm AP Model 1905"
+
+msgid "IDS_PRPA042_152_AP_C"
+msgstr "152 mm AP 91 lb"
+
+msgid "IDS_PRPA043_152_HE_C"
+msgstr "152 mm HE 109 lb"
+
+msgid "IDS_PRPA044_130_HE_PROFINTERN"
+msgstr "HE-54"
+
+msgid "IDS_PRPA045_130_AP_PROFINTERN"
+msgstr "SAP-46"
+
+msgid "IDS_PRPA601_1ST_AP_APRIL"
+msgstr "BANG"
+
+msgid "IDS_PRPA602_1ST_HE_APRIL"
+msgstr "Bangbang"
+
 msgid "IDS_PRPT001_53_36"
 msgstr "53-39"
 
@@ -16505,6 +17086,9 @@ msgstr "53-39 mod. 3"
 
 msgid "IDS_PRPT023_53_51"
 msgstr "53-51"
+
+msgid "IDS_PRPT901_PLOP"
+msgstr "Plopplop"
 
 msgid "IDS_PRSB001"
 msgstr "Imperator Nikolai I"
@@ -16586,6 +17170,142 @@ msgstr "0"
 msgid "IDS_PRSC101_YEAR"
 msgstr "1941"
 
+msgid "IDS_PRSC102"
+msgstr "Novik"
+
+msgid "IDS_PRSC102_DESCR"
+msgstr "ノヴィクは、偵察巡洋艦という艦種の草分けであり、速射砲を搭載する一方で、装甲は脆弱でした。就役期間中には、全期間を通じて世界最速の巡洋艦であり続けました。"
+
+msgid "IDS_PRSC102_NUMBER"
+msgstr "1"
+
+msgid "IDS_PRSC102_YEAR"
+msgstr "1901"
+
+msgid "IDS_PRSC103"
+msgstr "Bogatyr"
+
+msgid "IDS_PRSC103_DESCR"
+msgstr "ボガティルは、ロシア海軍における最高の防護巡洋艦として知られています。総合的なバランスの良さと、数多く搭載された主砲に優れた防御を施し、主砲の一部を砲塔に搭載していた点を特徴とする計画案に基づいて建造されました。一次大戦中には、兵装がより長い射程距離とより高い発射速度を有する小口径砲へと変更されました。"
+
+msgid "IDS_PRSC103_NUMBER"
+msgstr "2"
+
+msgid "IDS_PRSC103_YEAR"
+msgstr "1902"
+
+msgid "IDS_PRSC104"
+msgstr "Svietlana"
+
+msgid "IDS_PRSC104_DESCR"
+msgstr "スヴェトラーナ級軽巡洋艦は、ロシア帝国海軍用として起工された軽巡洋艦としては初めてタービン機関を採用した艦です。従来の軽巡洋艦に比して大幅に優速であるばかりではなく、装甲防御力も兵装も当時としては極めて優れたものであり、長射程かつ良好な弾道特性を有する主砲は特筆すべき性能でした。"
+
+msgid "IDS_PRSC104_NUMBER"
+msgstr "4"
+
+msgid "IDS_PRSC104_YEAR"
+msgstr "1928"
+
+msgid "IDS_PRSC105"
+msgstr "Kirov"
+
+msgid "IDS_PRSC105_DESCR"
+msgstr ""
+"キーロフ級巡洋艦 (プロイェークト "
+"26) は、ソ連において設計・建造されたものとしては最初の大型艦のひとつです。その小さな排水量にも関わらず、極めて強力な長射程の主砲を搭載し、速力も優れていました。その一方で、その装甲は同時代の競合艦の大半より劣っていました。"
+
+msgid "IDS_PRSC105_NUMBER"
+msgstr "2"
+
+msgid "IDS_PRSC105_YEAR"
+msgstr "1938"
+
+msgid "IDS_PRSC106"
+msgstr "Budyonny"
+
+msgid "IDS_PRSC106_DESCR"
+msgstr ""
+"ブジョンヌィは、プロイェークト "
+"94 によって建造された軽巡洋艦であり、キーロフ級巡洋艦の発展型です。原型艦に比して大型化され、防御力の大幅強化が図られていました。主砲の口径は小さくなりましたが、発射速度は向上していました。"
+
+msgid "IDS_PRSC106_NUMBER"
+msgstr "0"
+
+msgid "IDS_PRSC106_YEAR"
+msgstr "1940"
+
+msgid "IDS_PRSC107"
+msgstr "Shchors"
+
+msgid "IDS_PRSC107_DESCR"
+msgstr ""
+"ショールスは、「艦隊護衛用」軽巡洋艦 "
+"(プロイェークト "
+"28) として設計されました。高い速力と強力な兵装を備えていましたが、競合国の各種類似艦に比して、装甲防御力の面では劣っていました。"
+
+msgid "IDS_PRSC107_NUMBER"
+msgstr "0"
+
+msgid "IDS_PRSC107_YEAR"
+msgstr "1937"
+
+msgid "IDS_PRSC108"
+msgstr "Chapayev"
+
+msgid "IDS_PRSC108_DESCR"
+msgstr ""
+"強力な兵装を備えたチュパエフ級軽巡洋艦 "
+"(プロイェークト "
+"68) は、「大艦隊」計画に基づいて建造されました。速力は前級に比して若干低下していたものの、装甲防御力が大幅に強化されていました。改装により対空能力の大幅強化が図られました。"
+
+msgid "IDS_PRSC108_NUMBER"
+msgstr "7"
+
+msgid "IDS_PRSC108_YEAR"
+msgstr "1950"
+
+msgid "IDS_PRSC109"
+msgstr "Dmitri Donskoi"
+
+msgid "IDS_PRSC109_DESCR"
+msgstr ""
+"ドミートリィ・ダンスコイ (プロイェークト "
+"65) は、チュパエフ級軽巡洋艦の発展型であり、兵装および推進機関の強化が図られていました。原型に比して、大きさ、速力、砲力、対空能力、雷装という、あらゆる主要性能が向上していました。"
+
+msgid "IDS_PRSC109_NUMBER"
+msgstr "0"
+
+msgid "IDS_PRSC109_YEAR"
+msgstr "1951"
+
+msgid "IDS_PRSC110"
+msgstr "Moskva"
+
+msgid "IDS_PRSC110_DESCR"
+msgstr ""
+"マスクワ (プロイェークト "
+"66) は、敵軽巡洋艦を撃破し、重巡洋艦に対抗するための巡洋艦として設計されました。競合国の各種類似艦に比して大型であり、より優れた装甲防御力を備えていました。主砲は競合艦に比して最大射程および威力で上回っていたものの、発射速度では劣っていました。"
+
+msgid "IDS_PRSC110_NUMBER"
+msgstr "0"
+
+msgid "IDS_PRSC110_YEAR"
+msgstr "1953"
+
+msgid "IDS_PRSC505"
+msgstr "Profintern"
+
+msgid "IDS_PRSC505_DESCR"
+msgstr ""
+"軽巡洋艦級のネームシップであり、一次大戦勃発の直前に起工されました。起工時には「スヴェトラーナ」と命名されたものの、"
+"1920 年代中盤に完成した際に「プロフィンテルン」へと改名されました。バルト艦隊に所属して海外で任務に従事した実績があります。"
+
+msgid "IDS_PRSC505_NUMBER"
+msgstr "4"
+
+msgid "IDS_PRSC505_YEAR"
+msgstr "1928"
+
 msgid "IDS_PRSC508"
 msgstr "Mikhail Kutuzov"
 
@@ -16597,6 +17317,18 @@ msgstr "14"
 
 msgid "IDS_PRSC508_YEAR"
 msgstr "1954"
+
+msgid "IDS_PRSC692"
+msgstr "Bathyscrap"
+
+msgid "IDS_PRSC692_DESCR"
+msgstr "とってもポケットサイズな戦艦「ブティシュカフ」"
+
+msgid "IDS_PRSC692_NUMBER"
+msgstr "1"
+
+msgid "IDS_PRSC692_YEAR"
+msgstr "2016"
 
 msgid "IDS_PRSD001"
 msgstr "Gremyashchy"
@@ -16743,6 +17475,18 @@ msgstr "152 mm/45 Canet naval gun"
 msgid "IDS_PRUA121_4IN60_1911"
 msgstr "102 mm/60 Model 1911"
 
+msgid "IDS_PRUA131_120_45_PATTERN_1892"
+msgstr "120 mm/45 Model 1892"
+
+msgid "IDS_PRUA201_152_45_PATTERN_1892"
+msgstr "152 mm/45 Model 1892"
+
+msgid "IDS_PRUA301_130_55_MOD_1911"
+msgstr "130 mm/55 Model 1913"
+
+msgid "IDS_PRUA302_130_55_MOD_1928"
+msgstr "130 mm/55 B-7"
+
 msgid "IDS_PRUA401_152_53_MK16_MK13"
 msgstr "152 mm/53 Мк16/Мк13"
 
@@ -16755,6 +17499,18 @@ msgstr "130 mm/50 B-13"
 msgid "IDS_PRUA431_305_52_1907_NIKOLAY"
 msgstr "305 mm/52 Model 1907"
 
+msgid "IDS_PRUA441_180_MK3_K"
+msgstr "180 mm/57 MK-3-180"
+
+msgid "IDS_PRUA451_130_55_PROFINTERN"
+msgstr "130 mm/55 B-7"
+
+msgid "IDS_PRUA501_152_MK5"
+msgstr "152 mm/57 MK-5"
+
+msgid "IDS_PRUA691_1ST_APRIL"
+msgstr "Pewpew"
+
 msgid "IDS_PRUA701_152_MK5_KUTUZOV"
 msgstr "152 mm/57 MK-5-bis"
 
@@ -16763,6 +17519,12 @@ msgstr "130 mm/50 B-2LM"
 
 msgid "IDS_PRUA811_130_B2U"
 msgstr "130 mm/55 B-2-U"
+
+msgid "IDS_PRUA821_180_MK3"
+msgstr "180 mm/57 MK-3-180M"
+
+msgid "IDS_PRUA901_220_SM6"
+msgstr "220 mm/65 SM-6"
 
 msgid "IDS_PRUE001_ENGINE_12000"
 msgstr "推力: 12,000 馬力"
@@ -16779,11 +17541,20 @@ msgstr "推力: 11,600 馬力"
 msgid "IDS_PRUE121_ENGINE_28400"
 msgstr "推力: 28,400 馬力"
 
+msgid "IDS_PRUE131_ENGINE_17700"
+msgstr "推力: 17,700 馬力"
+
 msgid "IDS_PRUE201_ENGINE_25500"
 msgstr "推力: 25,500 馬力"
 
+msgid "IDS_PRUE211_ENGINE_19500"
+msgstr "推力: 19,500 馬力"
+
 msgid "IDS_PRUE301_ENGINE_32700"
 msgstr "推力: 32,700 馬力"
+
+msgid "IDS_PRUE311_ENGINE_50000"
+msgstr "推力: 50,000 馬力"
 
 msgid "IDS_PRUE401_ENGINE_90000"
 msgstr "推力: 90,000 馬力"
@@ -16800,11 +17571,26 @@ msgstr "推力: 53,100 馬力"
 msgid "IDS_PRUE431_ENGINE_30000_NIKOLAY"
 msgstr "推力: 30,000 馬力"
 
+msgid "IDS_PRUE441_ENGINE_110000"
+msgstr "推力: 110,000 馬力"
+
+msgid "IDS_PRUE451_ENGINE_50000_PROFINTERN"
+msgstr "推力: 50,000 馬力"
+
 msgid "IDS_PRUE501_ENGINE_52200"
 msgstr "推力: 52,200 馬力"
 
+msgid "IDS_PRUE511_ENGINE_130000"
+msgstr "推力: 130,000 馬力"
+
 msgid "IDS_PRUE601_ENGINE_84500"
 msgstr "推力: 84,500 馬力"
+
+msgid "IDS_PRUE611_ENGINE_126500"
+msgstr "推力: 126,500 馬力"
+
+msgid "IDS_PRUE691_ENGINE_1ST_APRIL"
+msgstr "Nocknockneo"
 
 msgid "IDS_PRUE701_ENGINE_125500"
 msgstr "推力: 125,500 馬力"
@@ -16812,11 +17598,20 @@ msgstr "推力: 125,500 馬力"
 msgid "IDS_PRUE711_ENGINE_121000_KUTUZOV"
 msgstr "推力: 121,000 馬力"
 
+msgid "IDS_PRUE721_ENGINE_124600"
+msgstr "推力: 124,600 馬力"
+
 msgid "IDS_PRUE801_ENGINE_81000"
 msgstr "推力: 81,000 馬力"
 
+msgid "IDS_PRUE811_ENGINE_144000"
+msgstr "推力: 144,000 馬力"
+
 msgid "IDS_PRUE901_ENGINE_130000"
 msgstr "推力: 130,000 馬力"
+
+msgid "IDS_PRUE911_ENGINE_210000"
+msgstr "推力: 210,000 馬力"
 
 msgid "IDS_PRUH001_AVRORA_1917"
 msgstr "Aurora"
@@ -16839,17 +17634,35 @@ msgstr "Storozhevoi (A)"
 msgid "IDS_PRUH122_SM_STOROJEVOY_1917"
 msgstr "Storozhevoi (B)"
 
+msgid "IDS_PRUH131_NOVIK_A"
+msgstr "Novik (A)"
+
+msgid "IDS_PRUH132_NOVIK_B"
+msgstr "Novik (B)"
+
 msgid "IDS_PRUH211_DERZKY_1915"
 msgstr "Derzki (A)"
 
 msgid "IDS_PRUH212_DERZKY_1916"
 msgstr "Derzki (B)"
 
+msgid "IDS_PRUH221_BOGATYR_A"
+msgstr "Bogatyr (A)"
+
+msgid "IDS_PRUH222_BOGATYR_B"
+msgstr "Bogatyr (B)"
+
 msgid "IDS_PRUH301_IZYASLAV_A"
 msgstr "Izyaslav (A)"
 
 msgid "IDS_PRUH302_IZYASLAV_B"
 msgstr "Izyaslav (B)"
+
+msgid "IDS_PRUH311_SVETLANA_A"
+msgstr "Svietlana (A)"
+
+msgid "IDS_PRUH312_SVETLANA_B"
+msgstr "Svietlana (B)"
 
 msgid "IDS_PRUH401_MURMANSK_1944"
 msgstr "Murmansk"
@@ -16866,17 +17679,41 @@ msgstr "Gnevny (B)"
 msgid "IDS_PRUH431_NIKOLAY"
 msgstr "Imperator Nikolai I"
 
+msgid "IDS_PRUH441_KIROV_A"
+msgstr "Kirov (A)"
+
+msgid "IDS_PRUH442_KIROV_B"
+msgstr "Kirov (B)"
+
+msgid "IDS_PRUH451_PROFINTERN"
+msgstr "Profintern"
+
 msgid "IDS_PRUH501_OGNEVOY_A"
 msgstr "Ognevoi (A)"
 
 msgid "IDS_PRUH502_OGNEVOY_B"
 msgstr "Ognevoi (B)"
 
+msgid "IDS_PRUH511_BUDENY_A"
+msgstr "Budyonny (A)"
+
+msgid "IDS_PRUH512_BUDENY_B"
+msgstr "Budyonny (B)"
+
 msgid "IDS_PRUH601_UDALOY_A"
 msgstr "Udaloi (A)"
 
 msgid "IDS_PRUH602_UDALOY_B"
 msgstr "Udaloi (B)"
+
+msgid "IDS_PRUH611_SCHORS_A"
+msgstr "Shchors (A)"
+
+msgid "IDS_PRUH612_SCHORS_B"
+msgstr "Shchors (B)"
+
+msgid "IDS_PRUH691_SEAL"
+msgstr "Swooshwhoosh"
 
 msgid "IDS_PRUH701_TASHKENT_A"
 msgstr "Tashkent (A)"
@@ -16887,14 +17724,32 @@ msgstr "Tashkent (B)"
 msgid "IDS_PRUH711_KUTUZOV"
 msgstr "Mikhail Kutuzov"
 
+msgid "IDS_PRUH721_CHAPAEV_A"
+msgstr "Chapayev (A)"
+
+msgid "IDS_PRUH722_CHAPAEV_B"
+msgstr "Chapayev (B)"
+
 msgid "IDS_PRUH801_KIEV_A"
 msgstr "Kiev (A)"
 
 msgid "IDS_PRUH802_KIEV_B"
 msgstr "Kiev (B)"
 
+msgid "IDS_PRUH811_DDONSKOY_A"
+msgstr "Dmitri Donskoi (A)"
+
+msgid "IDS_PRUH812_DDONSKOY_B"
+msgstr "Dmitri Donskoi (B)"
+
+msgid "IDS_PRUH813_DDONSKOY_C"
+msgstr "Dmitri Donskoi (C)"
+
 msgid "IDS_PRUH901_KHABAROVSK_A"
 msgstr "Khabarovsk (A)"
+
+msgid "IDS_PRUH911_MOSKVA_A"
+msgstr "Moskva (A)"
 
 msgid "IDS_PRUS001_SUO"
 msgstr "GFCS I mod. 1"
@@ -16908,6 +17763,12 @@ msgstr "GFCS II mod. 1"
 msgid "IDS_PRUS121_SUO"
 msgstr "GFCS II mod. 1"
 
+msgid "IDS_PRUS131_SUO"
+msgstr "GFCS II mod. 1"
+
+msgid "IDS_PRUS132_SUO"
+msgstr "GFCS II mod. 2"
+
 msgid "IDS_PRUS201_SUO"
 msgstr "GFCS III mod. 1"
 
@@ -16917,10 +17778,22 @@ msgstr "GFCS III mod. 1"
 msgid "IDS_PRUS212_SUO"
 msgstr "GFCS III mod. 2"
 
+msgid "IDS_PRUS221_SUO"
+msgstr "GFCS III mod. 1"
+
+msgid "IDS_PRUS222_SUO"
+msgstr "GFCS III mod. 2"
+
 msgid "IDS_PRUS301_SUO"
 msgstr "GFCS IV mod. 1"
 
 msgid "IDS_PRUS302_SUO"
+msgstr "GFCS IV mod. 2"
+
+msgid "IDS_PRUS311_SUO"
+msgstr "GFCS IV mod. 1"
+
+msgid "IDS_PRUS312_SUO"
 msgstr "GFCS IV mod. 2"
 
 msgid "IDS_PRUS401_SUO"
@@ -16938,10 +17811,25 @@ msgstr "GFCS V mod. 2"
 msgid "IDS_PRUS431_SUO_NIKOLAY"
 msgstr "GFCS IV mod. 1"
 
+msgid "IDS_PRUS441_SUO"
+msgstr "GFCS V mod. 1"
+
+msgid "IDS_PRUS442_SUO"
+msgstr "GFCS V mod. 2"
+
+msgid "IDS_PRUS451_SUO_PROFINTERN"
+msgstr "GFCS V mod. 1"
+
 msgid "IDS_PRUS501_SUO"
 msgstr "GFCS VI mod. 1"
 
 msgid "IDS_PRUS502_SUO"
+msgstr "GFCS VI mod. 2"
+
+msgid "IDS_PRUS511_SUO"
+msgstr "GFCS VI mod. 1"
+
+msgid "IDS_PRUS512_SUO"
 msgstr "GFCS VI mod. 2"
 
 msgid "IDS_PRUS601_SUO"
@@ -16949,6 +17837,15 @@ msgstr "GFCS VII mod. 1"
 
 msgid "IDS_PRUS602_SUO"
 msgstr "GFCS VII mod. 2"
+
+msgid "IDS_PRUS611_SUO"
+msgstr "GFCS VII mod. 1"
+
+msgid "IDS_PRUS612_SUO"
+msgstr "GFCS VII mod. 2"
+
+msgid "IDS_PRUS691_SUO_1ST_APRIL"
+msgstr "Iamassist"
 
 msgid "IDS_PRUS701_SUO"
 msgstr "GFCS VIII mod. 1"
@@ -16959,13 +17856,28 @@ msgstr "GFCS VIII mod. 2"
 msgid "IDS_PRUS711_SUO_KUTUZOV"
 msgstr "GFCS VIII mod. 1"
 
+msgid "IDS_PRUS721_SUO"
+msgstr "GFCS VIII mod. 1"
+
+msgid "IDS_PRUS722_SUO"
+msgstr "GFCS VIII mod. 2"
+
 msgid "IDS_PRUS801_SUO"
 msgstr "GFCS IX mod. 1"
 
 msgid "IDS_PRUS802_SUO"
 msgstr "GFCS IX mod. 2"
 
+msgid "IDS_PRUS811_SUO"
+msgstr "GFCS IX mod. 1"
+
+msgid "IDS_PRUS812_SUO"
+msgstr "GFCS IX mod. 2"
+
 msgid "IDS_PRUS901_SUO"
+msgstr "GFCS X mod. 1"
+
+msgid "IDS_PRUS911_SUO"
 msgstr "GFCS X mod. 1"
 
 msgid "IDS_PRUT002_45_12F"
@@ -17001,11 +17913,11 @@ msgstr "53-17"
 msgid "IDS_PRUT301_45_36I"
 msgstr "45-36U"
 
-msgid "IDS_PRUT311_53_27"
-msgstr "53-27"
-
 msgid "IDS_PRUT321_PAT_1912"
 msgstr "Torpedo Model 1912"
+
+msgid "IDS_PRUT331_53_27"
+msgstr "53-27"
 
 msgid "IDS_PRUT401_533_3_APT009"
 msgstr "Mark 11"
@@ -17019,11 +17931,17 @@ msgstr "53-36 mod. 1"
 msgid "IDS_PRUT422_53_38"
 msgstr "53-38"
 
+msgid "IDS_PRUT431_PROFINTERN"
+msgstr "53-27"
+
 msgid "IDS_PRUT601_53_39_MOD1"
 msgstr "53-39 mod. 1"
 
 msgid "IDS_PRUT602_53_38I"
 msgstr "53-38U"
+
+msgid "IDS_PRUT691_1ST_APRIL"
+msgstr "Plopplop"
 
 msgid "IDS_PRUT701_TORP_KUTUZOV"
 msgstr "53-51"
@@ -17074,7 +17992,7 @@ msgid "IDS_PURCHASE_SHIP_HEADER"
 msgstr "艦の購入"
 
 msgid "IDS_PURCHASE_SHIP_TO_SEE_AMMUNITION_AND_CONSUMABLES"
-msgstr "弾薬と消耗品を確認するには、この艦を購入してください。"
+msgstr "弾薬と消耗品を確認するには、この艦を購入してください"
 
 msgid "IDS_PURCHASE_SHIP_TO_SEE_MODERNIZATIONS"
 msgstr "アップグレードを確認するには艦を購入してください"
@@ -17101,7 +18019,7 @@ msgid "IDS_PURSHASE_FAILED"
 msgstr "購入エラー"
 
 msgid "IDS_PWEC501_BLYSKAWICA"
-msgstr "タイプ 7 – Błyskawica"
+msgstr "タイプ 10 – Błyskawica"
 
 msgid "IDS_PWEC501_BLYSKAWICA_DESCRIPTION"
 msgstr ""
@@ -17168,7 +18086,7 @@ msgstr ""
 "EXP、および取得フリー EXP を向上させる。"
 
 msgid "IDS_PZEC508_LOYANG"
-msgstr "タイプ 7 – 洛陽"
+msgstr "タイプ 10 – 洛陽"
 
 msgid "IDS_PZEC508_LOYANG_DESCRIPTION"
 msgstr ""
@@ -17546,16 +18464,16 @@ msgid "IDS_REACH_LEAGUE_0"
 msgstr "艦隊がプレミアリーグに加わりました"
 
 msgid "IDS_REACH_LEAGUE_1"
-msgstr "艦隊がファーストリーグに加わりました"
+msgstr "艦隊が第 1 リーグに加わりました"
 
 msgid "IDS_REACH_LEAGUE_10"
 msgstr "艦隊が第 10 リーグに加わりました"
 
 msgid "IDS_REACH_LEAGUE_2"
-msgstr "艦隊がセカンドリーグに加わりました"
+msgstr "艦隊が第 2 リーグに加わりました"
 
 msgid "IDS_REACH_LEAGUE_3"
-msgstr "艦隊がサードリーグに加わりました"
+msgstr "艦隊が第 3 リーグに加わりました"
 
 msgid "IDS_REACH_LEAGUE_4"
 msgstr "艦隊が第 4 リーグに加わりました"
@@ -18035,6 +18953,12 @@ msgstr "通常戦"
 msgid "IDS_SCENARIO_STANDART_SECOND"
 msgstr "通常戦"
 
+msgid "IDS_SCENARIO_TARGET"
+msgstr "ホーカスポーカス戦"
+
+msgid "IDS_SCENARIO_TARGET_DESCRIPTION"
+msgstr "キーエリアの占領し、敵艦艇を撃沈して、敵チームより先にポイントを稼げ"
+
 msgid "IDS_SCHEDULLE"
 msgstr "スケジュール"
 
@@ -18075,10 +18999,10 @@ msgid "IDS_SEASON_TITLE_1"
 msgstr "パイロットシーズン"
 
 msgid "IDS_SEASON_TITLE_2"
-msgstr "セカンドシーズン"
+msgstr "第 2 シーズン"
 
 msgid "IDS_SEASON_TITLE_3"
-msgstr "サードシーズン"
+msgstr "第 3 シーズン"
 
 msgid "IDS_SEA_REFLECTION_QUALITY"
 msgstr "反射"
@@ -18333,6 +19257,12 @@ msgstr "対空火力"
 msgid "IDS_SHIP_PARAM_AMMO_AP"
 msgstr "AP 弾"
 
+msgid "IDS_SHIP_PARAM_AMMO_BULLET_MASS"
+msgstr "砲弾重量"
+
+msgid "IDS_SHIP_PARAM_AMMO_BULLET_SPEED"
+msgstr "砲弾初速"
+
 msgid "IDS_SHIP_PARAM_AMMO_HE"
 msgstr "HE 弾"
 
@@ -18401,6 +19331,9 @@ msgstr "副砲塔"
 
 msgid "IDS_SHIP_PARAM_AVIATION"
 msgstr "航空機"
+
+msgid "IDS_SHIP_PARAM_BATTLE_LEVEL_RANGE"
+msgstr "マッチング Tier 帯"
 
 msgid "IDS_SHIP_PARAM_BOMBER_AVG_DAMAGE"
 msgstr "爆弾平均ダメージ"
@@ -18769,7 +19702,7 @@ msgstr "{torpedoBomber}"
 
 msgid "IDS_SKILL_ATR_AIGUNSEFFICIENCYMODIFIER_0"
 msgstr ""
-"139 mm 以下の主砲および全ての副砲の装填時間 "
+"口径 139 mm 以下の主砲および全副砲の装填時間 "
 "{smallGunReloadCoefficient}"
 
 msgid "IDS_SKILL_ATR_AIGUNSEFFICIENCYMODIFIER_1"
@@ -18922,14 +19855,10 @@ msgid "IDS_SKILL_DESC_ADDITIONALPLANESINSQUADMODIFIER"
 msgstr "編隊の機数を変更"
 
 msgid "IDS_SKILL_DESC_AIGUNSEFFICIENCYMODIFIER"
-msgstr ""
-"小口径 (139 "
-"mm 以下) の主砲およびあらゆる口径の副砲の能力を向上"
+msgstr "口径 139 mm 以下の主砲および全副砲の能力を向上"
 
 msgid "IDS_SKILL_DESC_AIGUNSRANGEMODIFIER"
-msgstr ""
-"小口径 (139 "
-"mm 以下) の主砲および全ての副砲の有効射程を向上"
+msgstr "口径 139 mm 以下の主砲および全副砲の有効射程を向上"
 
 msgid "IDS_SKILL_DESC_AIRDEFENCEBARRAGEABILITY"
 msgstr ""
@@ -19014,7 +19943,7 @@ msgid "IDS_SKILL_DESC_SURVIVALMODIFIER"
 msgstr "艦の通常 HP を向上"
 
 msgid "IDS_SKILL_DESC_TORPEDOACCELERATORMODIFIER"
-msgstr "魚雷の射程を犠牲にして雷速を向上"
+msgstr "艦載魚雷と航空魚雷の射程を犠牲にして雷速を向上"
 
 msgid "IDS_SKILL_DESC_TORPEDOALERTNESSMODIFIER"
 msgstr "魚雷捕捉範囲を向上"
@@ -19475,10 +20404,10 @@ msgid "IDS_SPACES/38_CANADA_DESCR"
 msgstr "北方にある岩だらけの島々"
 
 msgid "IDS_SPACES/98_JACUZZI"
-msgstr "ヤハ"
+msgstr "ジャクージーのルインベルク"
 
 msgid "IDS_SPACES/98_JACUZZI_DESCR"
-msgstr "国防艦隊"
+msgstr "ポケットサイズの戦艦同士による壮大な戦闘"
 
 msgid "IDS_SPACES/99_DEEP_SPACE"
 msgstr "宙のルインベルク"
@@ -19674,6 +20603,9 @@ msgstr "生還"
 
 msgid "IDS_SURVIVAL_TOOLTIP_PROFILE"
 msgstr "総生還数"
+
+msgid "IDS_SWITCH_CAMERA"
+msgstr "カメラモード切り替え"
 
 msgid "IDS_SWITCH_TO_DETAIL_VIEW"
 msgstr "詳細"
@@ -19993,10 +20925,10 @@ msgid "IDS_SYS_MESSAGE_HEADER_MS_ACC_SET_EXTERIOR_ACTIVITY_CAMOUFLAGE_31"
 msgstr "迷彩の破棄完了"
 
 msgid "IDS_SYS_MESSAGE_HEADER_MS_ACC_SET_EXTERIOR_ACTIVITY_ENSIGN_29"
-msgstr "信号旗の搭載完了"
+msgstr "旗搭載完了"
 
 msgid "IDS_SYS_MESSAGE_HEADER_MS_ACC_SET_EXTERIOR_ACTIVITY_ENSIGN_30"
-msgstr "信号旗解除完了"
+msgstr "旗削除完了"
 
 msgid "IDS_SYS_MESSAGE_HEADER_MS_ACC_SET_EXTERIOR_ACTIVITY_FLAGS_29"
 msgstr "信号旗の搭載完了"
@@ -20188,10 +21120,10 @@ msgid "IDS_TEAMKILLER_ATTACK_CHAT"
 msgstr "同士討ちに対する警告"
 
 msgid "IDS_TEAMONELABEL"
-msgstr "艦隊 1"
+msgstr "第一艦隊"
 
 msgid "IDS_TEAMTWOLABEL"
-msgstr "艦隊 2"
+msgstr "第二艦隊"
 
 msgid "IDS_TEAM_GOALS"
 msgstr "艦隊ミッション"
@@ -92346,6 +93278,9 @@ msgstr "技術ツリーに戻る"
 msgid "IDS_TOOLTIP_BATTLETYPE_INTERFACE"
 msgstr "UI に選択中の戦闘タイプを表示"
 
+msgid "IDS_TOOLTIP_BATTLE_LEVEL_RANGE"
+msgstr "マッチメイカーがこの艦艇を組み込む戦闘 Tier 帯"
+
 msgid "IDS_TOOLTIP_BATTLE_MESSAGES"
 msgstr "戦闘結果に関する報告"
 
@@ -92762,6 +93697,9 @@ msgstr "この艦は一時的にご利用不能です。"
 
 msgid "IDS_UNAVAILABLE_TO_DISPLAY_EVENT"
 msgstr "この艦は特別イベント限定で利用可能です"
+
+msgid "IDS_UNAVAILABLE_TO_DISPLAY_SOON"
+msgstr "この艦は後ほど利用可能です"
 
 msgid "IDS_UNAVAILABLE_TO_DISPLAY_SPECIAL"
 msgstr "この艦はプレミアムショップ限定でご購入頂けます。"
@@ -93401,3 +94339,9 @@ msgstr "ランク %(rank)s から「%(season)s」を開始します。"
 
 msgid "IDS_YOU_WILL_START_SEASON_WITH_STARS"
 msgstr "貴官は、%(stars)s で次のシーズンを開始します。"
+
+msgid "IDS_ZOOM_IN"
+msgstr "近くへ"
+
+msgid "IDS_ZOOM_OUT"
+msgstr "遠くへ"
