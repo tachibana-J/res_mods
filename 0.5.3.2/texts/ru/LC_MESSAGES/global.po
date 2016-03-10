@@ -93696,10 +93696,10 @@ msgid "IDS_UNAVAILABLE_TO_DISPLAY_DISABLED"
 msgstr "この艦は一時的にご利用不能です。"
 
 msgid "IDS_UNAVAILABLE_TO_DISPLAY_EVENT"
-msgstr "この艦は特別イベント限定で利用可能です"
+msgstr "イベント限定"
 
 msgid "IDS_UNAVAILABLE_TO_DISPLAY_SOON"
-msgstr "この艦は後ほど利用可能です"
+msgstr "近日登場"
 
 msgid "IDS_UNAVAILABLE_TO_DISPLAY_SPECIAL"
 msgstr "この艦はプレミアムショップ限定でご購入頂けます。"

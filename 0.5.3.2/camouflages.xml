@@ -350,10 +350,10 @@
         <Textures>
             <Tile>content/gameplay/common/camouflage/textures/IJN_tile_camo_02.dds</Tile>
         </Textures>
-		<color0>0.086 0.082 0.067 0.706</color0>
-		<color1>0.035 0.047 0.012 1.000</color1>
-		<color2>0.125 0.133 0.047 1.000</color2>
-		<color3>0.263 0.275 0.133 1.000</color3>
+		<color0>0.000 0.000 0.000 0.000</color0>
+		<color1>0.060 0.060 0.090 1.000</color1>
+		<color2>0.075 0.075 0.100 1.000</color2>
+		<color3>0.100 0.100 0.100 1.000</color3>
     </camouflage>
 	<!--//tier 3-->
 	<camouflage>
@@ -3160,10 +3160,10 @@
 			<Gun>0.5 0.5</Gun>
         </UV>
         <Textures>
-		    <Bow_Hull>content/gameplay/common/camouflage/textures/JSD017_Kamikaze_1930_camo_01.dds</Bow_Hull>
-            <MidFront_Hull>content/gameplay/common/camouflage/textures/JSD017_Kamikaze_1930_camo_01.dds</MidFront_Hull>
-            <MidBack_Hull>content/gameplay/common/camouflage/textures/JSD017_Kamikaze_1930_camo_01.dds</MidBack_Hull>
-            <Stern_Hull>content/gameplay/common/camouflage/textures/JSD017_Kamikaze_1930_camo_01.dds</Stern_Hull>
+		    <Bow_Hull>content/gameplay/common/camouflage/textures/JSD017_Kamikaze_1930_camo_02.dds</Bow_Hull>
+            <MidFront_Hull>content/gameplay/common/camouflage/textures/JSD017_Kamikaze_1930_camo_02.dds</MidFront_Hull>
+            <MidBack_Hull>content/gameplay/common/camouflage/textures/JSD017_Kamikaze_1930_camo_02.dds</MidBack_Hull>
+            <Stern_Hull>content/gameplay/common/camouflage/textures/JSD017_Kamikaze_1930_camo_02.dds</Stern_Hull>
 			<Gun>content/gameplay/common/camouflage/textures/IJN_tile_camo_02.dds</Gun>
         </Textures>
 		<color0>0.000 0.000 0.000 0.000</color0>
