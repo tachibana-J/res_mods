@@ -1,5 +1,10 @@
 # Changelog of _implemented_ aka _compiled_ (i.e. not WIP or minute changes in texts) features
 
+20160311 Small changes to texts and camo
+---
+* Shortened チャンネル text
+* Recolored the new Type 5 and 6 camo on IJN ships
+
 20160310 Small changes to texts and camo
 ---
 * Reworded a few UI texts to fit the display
