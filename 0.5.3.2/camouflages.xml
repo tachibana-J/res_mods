@@ -241,9 +241,9 @@
             <Tile>content/gameplay/common/camouflage/textures/IJN_tile_camo_02.dds</Tile>
         </Textures>
 		<color0>0.000 0.000 0.000 0.000</color0>
-		<color1>0.060 0.060 0.090 1.000</color1>
-		<color2>0.075 0.075 0.100 1.000</color2>
-		<color3>0.100 0.100 0.100 1.000</color3>
+		<color1>0.090 0.090 0.150 1.000</color1>
+		<color2>0.065 0.065 0.050 0.000</color2>
+		<color3>0.100 0.100 0.150 1.000</color3>
     </camouflage>
 	<camouflage>
 		<annotation>Блок тайленых японских камуфляжей для кораблей с квадратной текстурой корпуса и прямоугольной текстурой надстройки</annotation>
@@ -263,9 +263,9 @@
             <Tile>content/gameplay/common/camouflage/textures/IJN_tile_camo_02.dds</Tile>
         </Textures>
 		<color0>0.000 0.000 0.000 0.000</color0>
-		<color1>0.060 0.060 0.090 1.000</color1>
-		<color2>0.075 0.075 0.100 1.000</color2>
-		<color3>0.100 0.100 0.100 1.000</color3>
+		<color1>0.090 0.090 0.150 1.000</color1>
+		<color2>0.065 0.065 0.050 0.000</color2>
+		<color3>0.100 0.100 0.150 1.000</color3>
     </camouflage>
 	<camouflage>
 		<annotation>Блок тайленых японских камуфляжей для кораблей с квадратной текстурой корпуса и малой текстурой надстройки</annotation>
@@ -285,9 +285,9 @@
             <Tile>content/gameplay/common/camouflage/textures/IJN_tile_camo_02.dds</Tile>
         </Textures>
 		<color0>0.000 0.000 0.000 0.000</color0>
-		<color1>0.060 0.060 0.090 1.000</color1>
-		<color2>0.075 0.075 0.100 1.000</color2>
-		<color3>0.100 0.100 0.100 1.000</color3>
+		<color1>0.090 0.090 0.150 1.000</color1>
+		<color2>0.065 0.065 0.050 0.000</color2>
+		<color3>0.100 0.100 0.150 1.000</color3>
     </camouflage>
 	<camouflage>
 		<annotation>Блок тайленых японских камуфляжей для кораблей с квадратной текстурой корпуса и большой текстурой надстройки</annotation>
@@ -307,9 +307,9 @@
             <Tile>content/gameplay/common/camouflage/textures/IJN_tile_camo_02.dds</Tile>
         </Textures>
 		<color0>0.000 0.000 0.000 0.000</color0>
-		<color1>0.060 0.060 0.090 1.000</color1>
-		<color2>0.075 0.075 0.100 1.000</color2>
-		<color3>0.100 0.100 0.100 1.000</color3>
+		<color1>0.090 0.090 0.150 1.000</color1>
+		<color2>0.065 0.065 0.050 0.000</color2>
+		<color3>0.100 0.100 0.150 1.000</color3>
     </camouflage>
 	<camouflage>
 		<annotation>Блок тайленых японских камуфляжей для кораблей с прямоугольной текстурой</annotation>
@@ -329,9 +329,9 @@
             <Tile>content/gameplay/common/camouflage/textures/IJN_tile_camo_02.dds</Tile>
         </Textures>
 		<color0>0.000 0.000 0.000 0.000</color0>
-		<color1>0.080 0.080 0.090 1.000</color1>
-		<color2>0.075 0.075 0.100 1.000</color2>
-		<color3>0.100 0.100 0.100 1.000</color3>
+		<color1>0.090 0.090 0.150 1.000</color1>
+		<color2>0.065 0.065 0.050 0.000</color2>
+		<color3>0.100 0.100 0.150 1.000</color3>
     </camouflage>
 	<camouflage>
 		<annotation>Блок тайленых японских камуфляжей для крейсеров с квадратной текстурой</annotation>
@@ -351,9 +351,9 @@
             <Tile>content/gameplay/common/camouflage/textures/IJN_tile_camo_02.dds</Tile>
         </Textures>
 		<color0>0.000 0.000 0.000 0.000</color0>
-		<color1>0.060 0.060 0.090 1.000</color1>
-		<color2>0.075 0.075 0.100 1.000</color2>
-		<color3>0.100 0.100 0.100 1.000</color3>
+		<color1>0.090 0.090 0.150 1.000</color1>
+		<color2>0.065 0.065 0.050 0.000</color2>
+		<color3>0.100 0.100 0.150 1.000</color3>
     </camouflage>
 	<!--//tier 3-->
 	<camouflage>
@@ -373,10 +373,10 @@
         <Textures>
             <Tile>content/gameplay/common/camouflage/textures/Dazzle_tile_camo_03.dds</Tile>
         </Textures>
-		<color0>0.035 0.047 0.012 1.000</color0>
-		<color1>0.125 0.133 0.047 1.000</color1>
-		<color2>0.263 0.275 0.133 1.000</color2>
-		<color3>0.086 0.082 0.067 0.706</color3>
+		<color0>0.000 0.000 0.000 0.000</color0>
+		<color1>0.100 0.100 0.110 1.000</color1>
+		<color2>0.060 0.060 0.090 1.000</color2>
+		<color3>0.100 0.100 0.150 1.000</color3>
     </camouflage>
 	<camouflage>
 		<annotation>Блок тайленых японских камуфляжей для кораблей с квадратной текстурой корпуса и прямоугольной текстурой надстройки</annotation>
@@ -395,10 +395,10 @@
         <Textures>
             <Tile>content/gameplay/common/camouflage/textures/Dazzle_tile_camo_03.dds</Tile>
         </Textures>
-		<color0>0.035 0.047 0.012 1.000</color0>
-		<color1>0.125 0.133 0.047 1.000</color1>
-		<color2>0.263 0.275 0.133 1.000</color2>
-		<color3>0.086 0.082 0.067 0.706</color3>
+		<color0>0.000 0.000 0.000 0.000</color0>
+		<color1>0.100 0.100 0.110 1.000</color1>
+		<color2>0.060 0.060 0.090 1.000</color2>
+		<color3>0.100 0.100 0.150 1.000</color3>
     </camouflage>
 	<camouflage>
 		<annotation>Блок тайленых японских камуфляжей для кораблей с квадратной текстурой корпуса и малой текстурой надстройки</annotation>
@@ -417,10 +417,10 @@
         <Textures>
             <Tile>content/gameplay/common/camouflage/textures/Dazzle_tile_camo_03.dds</Tile>
         </Textures>
-		<color0>0.035 0.047 0.012 1.000</color0>
-		<color1>0.125 0.133 0.047 1.000</color1>
-		<color2>0.263 0.275 0.133 1.000</color2>
-		<color3>0.086 0.082 0.067 0.706</color3>
+		<color0>0.000 0.000 0.000 0.000</color0>
+		<color1>0.100 0.100 0.110 1.000</color1>
+		<color2>0.060 0.060 0.090 1.000</color2>
+		<color3>0.100 0.100 0.150 1.000</color3>
     </camouflage>
 	<camouflage>
 		<annotation>Блок тайленых японских камуфляжей для кораблей с квадратной текстурой корпуса и большой текстурой надстройки</annotation>
@@ -439,10 +439,10 @@
         <Textures>
             <Tile>content/gameplay/common/camouflage/textures/Dazzle_tile_camo_03.dds</Tile>
         </Textures>
-		<color0>0.035 0.047 0.012 1.000</color0>
-		<color1>0.125 0.133 0.047 1.000</color1>
-		<color2>0.263 0.275 0.133 1.000</color2>
-		<color3>0.086 0.082 0.067 0.706</color3>
+		<color0>0.000 0.000 0.000 0.000</color0>
+		<color1>0.100 0.100 0.110 1.000</color1>
+		<color2>0.060 0.060 0.090 1.000</color2>
+		<color3>0.100 0.100 0.150 1.000</color3>
     </camouflage>
 	<camouflage>
 		<annotation>Блок тайленых японских камуфляжей для кораблей с прямоугольной текстурой</annotation>
@@ -461,10 +461,10 @@
         <Textures>
             <Tile>content/gameplay/common/camouflage/textures/Dazzle_tile_camo_03.dds</Tile>
         </Textures>
-		<color0>0.035 0.047 0.012 1.000</color0>
-		<color1>0.125 0.133 0.047 1.000</color1>
-		<color2>0.263 0.275 0.133 1.000</color2>
-		<color3>0.086 0.082 0.067 0.706</color3>
+		<color0>0.000 0.000 0.000 0.000</color0>
+		<color1>0.100 0.100 0.110 1.000</color1>
+		<color2>0.060 0.060 0.090 1.000</color2>
+		<color3>0.100 0.100 0.150 1.000</color3>
     </camouflage>
 	<camouflage>
 		<annotation>Блок тайленых японских камуфляжей для крейсеров с квадратной текстурой</annotation>
@@ -483,10 +483,10 @@
         <Textures>
             <Tile>content/gameplay/common/camouflage/textures/Dazzle_tile_camo_03.dds</Tile>
         </Textures>
-		<color0>0.035 0.047 0.012 1.000</color0>
-		<color1>0.125 0.133 0.047 1.000</color1>
-		<color2>0.263 0.275 0.133 1.000</color2>
-		<color3>0.086 0.082 0.067 0.706</color3>
+		<color0>0.000 0.000 0.000 0.000</color0>
+		<color1>0.100 0.100 0.110 1.000</color1>
+		<color2>0.060 0.060 0.090 1.000</color2>
+		<color3>0.100 0.100 0.150 1.000</color3>
     </camouflage>
 	<!--//Economic camouflage-->
 	<camouflage>
@@ -506,10 +506,10 @@
         <Textures>
             <Tile>content/gameplay/common/camouflage/textures/Dazzle_tile_camo_04.dds</Tile>
         </Textures>
-		<color0>0.035 0.047 0.012 1.000</color0>
-		<color1>0.263 0.275 0.133 1.000</color1>
-		<color2>0.125 0.133 0.047 1.000</color2>
-		<color3>0.000 0.000 0.000 0.000</color3>
+		<color0>0.000 0.000 0.000 0.000</color0>
+		<color1>0.100 0.100 0.110 1.000</color1>
+		<color2>0.060 0.060 0.090 1.000</color2>
+		<color3>0.100 0.100 0.150 1.000</color3>
     </camouflage>
 	<camouflage>
 		<annotation>Блок тайленых экномических японских камуфляжей для кораблей с квадратной текстурой корпуса и прямоугольной текстурой надстройки</annotation>
@@ -528,10 +528,10 @@
         <Textures>
             <Tile>content/gameplay/common/camouflage/textures/Dazzle_tile_camo_04.dds</Tile>
         </Textures>
-		<color0>0.035 0.047 0.012 1.000</color0>
-		<color1>0.263 0.275 0.133 1.000</color1>
-		<color2>0.125 0.133 0.047 1.000</color2>
-		<color3>0.000 0.000 0.000 0.000</color3>
+		<color0>0.000 0.000 0.000 0.000</color0>
+		<color1>0.100 0.100 0.110 1.000</color1>
+		<color2>0.060 0.060 0.090 1.000</color2>
+		<color3>0.100 0.100 0.150 1.000</color3>
     </camouflage>
 	<camouflage>
 		<annotation>Блок тайленых экномических японских камуфляжей для кораблей с квадратной текстурой корпуса и малой текстурой надстройки</annotation>
@@ -550,10 +550,10 @@
         <Textures>
             <Tile>content/gameplay/common/camouflage/textures/Dazzle_tile_camo_04.dds</Tile>
         </Textures>
-		<color0>0.035 0.047 0.012 1.000</color0>
-		<color1>0.263 0.275 0.133 1.000</color1>
-		<color2>0.125 0.133 0.047 1.000</color2>
-		<color3>0.000 0.000 0.000 0.000</color3>
+		<color0>0.000 0.000 0.000 0.000</color0>
+		<color1>0.100 0.100 0.110 1.000</color1>
+		<color2>0.060 0.060 0.090 1.000</color2>
+		<color3>0.100 0.100 0.150 1.000</color3>
     </camouflage>
 	<camouflage>
 		<annotation>Блок тайленых экномических японских камуфляжей для кораблей с квадратной текстурой корпуса и большой текстурой надстройки</annotation>
@@ -572,10 +572,10 @@
         <Textures>
             <Tile>content/gameplay/common/camouflage/textures/Dazzle_tile_camo_04.dds</Tile>
         </Textures>
-		<color0>0.035 0.047 0.012 1.000</color0>
-		<color1>0.263 0.275 0.133 1.000</color1>
-		<color2>0.125 0.133 0.047 1.000</color2>
-		<color3>0.000 0.000 0.000 0.000</color3>
+		<color0>0.000 0.000 0.000 0.000</color0>
+		<color1>0.100 0.100 0.110 1.000</color1>
+		<color2>0.060 0.060 0.090 1.000</color2>
+		<color3>0.100 0.100 0.150 1.000</color3>
     </camouflage>
 	<camouflage>
 		<annotation>Блок тайленых экномических японских камуфляжей для кораблей с прямоугольной текстурой</annotation>
@@ -594,10 +594,10 @@
         <Textures>
             <Tile>content/gameplay/common/camouflage/textures/Dazzle_tile_camo_04.dds</Tile>
         </Textures>
-		<color0>0.035 0.047 0.012 1.000</color0>
-		<color1>0.263 0.275 0.133 1.000</color1>
-		<color2>0.125 0.133 0.047 1.000</color2>
-		<color3>0.000 0.000 0.000 0.000</color3>
+		<color0>0.000 0.000 0.000 0.000</color0>
+		<color1>0.100 0.100 0.110 1.000</color1>
+		<color2>0.060 0.060 0.090 1.000</color2>
+		<color3>0.100 0.100 0.150 1.000</color3>
     </camouflage>
 	<camouflage>
 		<annotation>Блок тайленых экномических японских камуфляжей для крейсеров с квадратной текстурой</annotation>
@@ -616,10 +616,10 @@
         <Textures>
             <Tile>content/gameplay/common/camouflage/textures/Dazzle_tile_camo_04.dds</Tile>
         </Textures>
-		<color0>0.035 0.047 0.012 1.000</color0>
-		<color1>0.263 0.275 0.133 1.000</color1>
-		<color2>0.125 0.133 0.047 1.000</color2>
-		<color3>0.000 0.000 0.000 0.000</color3>
+		<color0>0.000 0.000 0.000 0.000</color0>
+		<color1>0.100 0.100 0.110 1.000</color1>
+		<color2>0.060 0.060 0.090 1.000</color2>
+		<color3>0.100 0.100 0.150 1.000</color3>
     </camouflage>
 <!--//American ships tile camouflage-->
 	<!--//tier 1-->
@@ -4049,10 +4049,10 @@
 			<Stern_Hull>content/gameplay/common/camouflage/textures/ZSD001_Anshan_camo_01.dds</Stern_Hull>
 			<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
 		</Textures>
-		<color0>0.040 0.070 0.150 0.900</color0>
-		<color1>0.050 0.090 0.180 0.900</color1>
-		<color2>0.160 0.160 0.170 1.000</color2>
-		<color3>0.070 0.100 0.210 0.900</color3>
+		<color0>0.134 0.223 0.248 0.784</color0>
+		<color1>0.000 0.020 0.028 0.900</color1>
+		<color2>0.050 0.090 0.180 0.900</color2>
+		<color3>0.485 0.525 0.425 0.700</color3>
 	</camouflage>
 	<camouflage>
 		<annotation>Блок пермофляжа для паназиатского эсминца Ло-Янг</annotation>

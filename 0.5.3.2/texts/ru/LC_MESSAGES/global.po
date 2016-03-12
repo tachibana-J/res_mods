@@ -1730,7 +1730,7 @@ msgid "IDS_CHANGE_PORT_HINT_PARTY"
 msgstr "港を変更するには、艦隊戦でステータスを「準備中」に設定してください。"
 
 msgid "IDS_CHANNELS"
-msgstr "チャンネルに追加"
+msgstr "チャンネル"
 
 msgid "IDS_CHANNELS_GROUP_NAME_FAVORITES"
 msgstr "お気に入りに追加"
