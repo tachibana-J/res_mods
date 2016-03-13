@@ -20102,10 +20102,10 @@ msgid "IDS_SOUND_VOLUME"
 msgstr "SFX 音量"
 
 msgid "IDS_SPACES/00_CO_OCEAN"
-msgstr "大海原"
+msgstr "太平洋上 (Ocean)"
 
 msgid "IDS_SPACES/00_CO_OCEAN_DESCR"
-msgstr "大西洋のどこか。"
+msgstr "太平洋の広い海のどこか。"
 
 msgid "IDS_SPACES/00_PURE_GAMEPLAY"
 msgstr "空マップ"
@@ -20116,10 +20116,10 @@ msgstr ""
 "ゲームプレイ検証用の何もない海域です。"
 
 msgid "IDS_SPACES/01_DIAG_MAP"
-msgstr "新たなる夜明け"
+msgstr "レイテ湾 (New Dawn)"
 
 msgid "IDS_SPACES/01_DIAG_MAP_DESCR"
-msgstr "IDS_SPACES/01_DIAG_MAP_DESCR"
+msgstr "多くの島々が遮って霧の立つ海域。"
 
 msgid "IDS_SPACES/01_NA_ESCORT"
 msgstr "反航船団"
@@ -20134,10 +20134,10 @@ msgid "IDS_SPACES/01_NA_ESCORT_DESCR"
 msgstr "IDS_SPACES/01_NA_ESCORT_DESCR"
 
 msgid "IDS_SPACES/01_SOLOMON_ISLANDS"
-msgstr "ソロモン諸島"
+msgstr "ソロモン諸島 (Solomon Islands)"
 
 msgid "IDS_SPACES/01_SOLOMON_ISLANDS_BIG"
-msgstr "ソロモン諸島"
+msgstr "ソロモン諸島 (Solomon Islands)"
 
 msgid "IDS_SPACES/01_SOLOMON_ISLANDS_BIG_DESCR"
 msgstr "活火山を有するこの常夏のパラダイスは、太平洋における最も重要な戦略的飛行場です。"
@@ -20188,12 +20188,11 @@ msgid "IDS_SPACES/07_OC_NA_KUKAILIMOKU_DESCR"
 msgstr "非情な軍神に支配された美しいポリネシアの列島です。"
 
 msgid "IDS_SPACES/08_NE_PASSAGE"
-msgstr "海峡"
+msgstr "ジブラルタル海峡 (Northeast Passage)"
 
 msgid "IDS_SPACES/08_NE_PASSAGE_DESCR"
 msgstr ""
-"嵐により散り散りとなった "
-"2 つの部隊は、今や前後両方からの攻撃の危険に晒されながら、曲がりくねった海峡で立ち往生しています。"
+"海峡を越えて合流を図る二つに分かれた艦隊"
 
 msgid "IDS_SPACES/09_OC_CRATER"
 msgstr "クレーター"
@@ -20218,10 +20217,10 @@ msgstr ""
 "最小限の水域、最大限の陸地。"
 
 msgid "IDS_SPACES/10_NE_BIG_RACE"
-msgstr "ビッグレース"
+msgstr "北海 (Big Race)"
 
 msgid "IDS_SPACES/10_NE_BIG_RACE_DESCR"
-msgstr "レースを始めましょう!"
+msgstr "島から北海へ出よ。"
 
 msgid "IDS_SPACES/11_NE_BANK"
 msgstr "砂州"
@@ -20242,10 +20241,10 @@ msgid "IDS_SPACES/13_NA_AMBUSH_DESCR"
 msgstr "IDS_SPACES/13_NA_AMBUSH_DESCR"
 
 msgid "IDS_SPACES/13_OC_NEW_DAWN"
-msgstr "新たなる夜明け"
+msgstr "レイテ湾 (New Dawn)"
 
 msgid "IDS_SPACES/13_OC_NEW_DAWN_DESCR"
-msgstr "IDS_SPACES/13_OC_NEW_DAWN_DESCR"
+msgstr "多くの島々が遮って霧の立つ海域。"
 
 msgid "IDS_SPACES/14_AS_TRAP_FOR_A_TIGER"
 msgstr "タイガートラップ"
@@ -20254,52 +20253,52 @@ msgid "IDS_SPACES/14_AS_TRAP_FOR_A_TIGER_DESCR"
 msgstr "IDS_SPACES/14_AS_TRAP_FOR_A_TIGER_DESCR"
 
 msgid "IDS_SPACES/14_ATLANTIC"
-msgstr "大西洋"
+msgstr "大西洋 (Atlantic)"
 
 msgid "IDS_SPACES/14_ATLANTIC_DESCR"
-msgstr "大西洋の沿岸部"
+msgstr "大西洋の沿岸部。"
 
 msgid "IDS_SPACES/15_NE_NORTH"
-msgstr "北方"
+msgstr "アリューシャン列島 (North)"
 
 msgid "IDS_SPACES/15_NE_NORTH_DESCR"
-msgstr "酷寒の北方海域"
+msgstr "酷寒の北方海域。"
 
 msgid "IDS_SPACES/16_OC_BEES_TO_HONEY"
-msgstr "ホットスポット"
+msgstr "珊瑚海 (Hot Spot)"
 
 msgid "IDS_SPACES/16_OC_BEES_TO_HONEY_01"
-msgstr "ホットスポット 2"
+msgstr "珊瑚海 (Hot Spot)"
 
 msgid "IDS_SPACES/16_OC_BEES_TO_HONEY_DESCR"
-msgstr "IDS_SPACES/16_OC_BEES_TO_HONEY_DESCR"
+msgstr "四つの群島と広い海を有する海域。"
 
 msgid "IDS_SPACES/16_OC_BEES_TO_HONEY_DESCR_01"
-msgstr "IDS_SPACES/16_OC_BEES_TO_HONEY_DESCR_01"
+msgstr "四つの群島と広い海を有する海域。"
 
 msgid "IDS_SPACES/17_NA_FAULT_LINE"
-msgstr "断層線"
+msgstr "ジャワ海 (Fault Line)"
 
 msgid "IDS_SPACES/17_NA_FAULT_LINE_DESCR"
-msgstr "IDS_SPACES/17_NA_FAULT_LINE_DESCR"
+msgstr "横二つの列島に塞がれる海域。"
 
 msgid "IDS_SPACES/18_NE_ICE_ISLANDS"
-msgstr "氷の群島"
+msgstr "北極 (Ice Islands)"
 
 msgid "IDS_SPACES/18_NE_ICE_ISLANDS_DESCR"
-msgstr "IDS_SPACES/18_NE_ICE_ISLANDS_DESCR"
+msgstr "氷山が浮かぶ極寒の海域。"
 
 msgid "IDS_SPACES/19_OC_PREY"
-msgstr "罠"
+msgstr "マーシャル諸島 (Trap)"
 
 msgid "IDS_SPACES/19_OC_PREY_DESCR"
-msgstr "IDS_SPACES/19_OC_PREY_DESCR"
+msgstr "邀撃を誘う群島の海域。"
 
 msgid "IDS_SPACES/20_NE_TWO_BROTHERS"
-msgstr "二人の兄弟"
+msgstr "沖縄 (Two Brothers)"
 
 msgid "IDS_SPACES/20_NE_TWO_BROTHERS_DESCR"
-msgstr "IDS_SPACES/20_NE_TWO_BROTHERS_DESCR"
+msgstr "中央に水道を持つ二つの島からなる海域。"
 
 msgid "IDS_SPACES/21_AS_FLOWER"
 msgstr "華"
@@ -20314,10 +20313,10 @@ msgid "IDS_SPACES/22_OC_WIND_ROSE_DESCR"
 msgstr "IDS_SPACES/22_OC_WIND_ROSE_DESCR"
 
 msgid "IDS_SPACES/22_TIERRA_DEL_FUEGO"
-msgstr "火の地"
+msgstr "カリブ海 (Land of Fire)"
 
 msgid "IDS_SPACES/22_TIERRA_DEL_FUEGO_DESCR"
-msgstr "金色の水面に浮かぶ火の地!"
+msgstr "熱帯を思わせる金色に輝く海と列島の海域。"
 
 msgid "IDS_SPACES/23_CO_ISLANDS_RANGUNUTU"
 msgstr "ラングヌトゥー諸島"
@@ -20350,10 +20349,10 @@ msgid "IDS_SPACES/27_AS_HONOR_AND_GLORY_DESCR"
 msgstr "IDS_SPACES/27_AS_HONOR_AND_GLORY_DESCR"
 
 msgid "IDS_SPACES/28_NAVAL_MISSION"
-msgstr "砂漠の涙"
+msgstr "紅海 (Tears of the Desert)"
 
 msgid "IDS_SPACES/28_NAVAL_MISSION_DESCR"
-msgstr "紅海のどこかです。"
+msgstr "中東の紅海のどこか。"
 
 msgid "IDS_SPACES/28_NE_GRAND_ARCHIPELAGO"
 msgstr "大列島"
@@ -20380,37 +20379,37 @@ msgid "IDS_SPACES/32_AS_ARTFUL_ROCKS_DESCR"
 msgstr "IDS_SPACES/32_AS_artful_rocks_DESCR"
 
 msgid "IDS_SPACES/34_OC_ISLANDS"
-msgstr "群島"
+msgstr "地中海 (Islands)"
 
 msgid "IDS_SPACES/34_OC_ISLANDS2"
-msgstr "群島 2"
+msgstr "地中海 (Islands)"
 
 msgid "IDS_SPACES/34_OC_ISLANDS2_DESCR"
-msgstr "IDS_SPACES/34_OC_ISLANDS2_DESCR"
+msgstr "地中海の列島がある狭苦しい海域。"
 
 msgid "IDS_SPACES/34_OC_ISLANDS_DESCR"
-msgstr "IDS_SPACES/34_OC_ISLANDS_DESCR"
+msgstr "地中海の列島がある狭苦しい海域。"
 
 msgid "IDS_SPACES/35_NE_NORTH_WINTER"
-msgstr "北極光"
+msgstr "アリューシャン海夜戦 (Northern Lights)"
 
 msgid "IDS_SPACES/35_NE_NORTH_WINTER_DESCR"
-msgstr "極地方の夜間戦闘。"
+msgstr "北方海域の夜間戦闘。"
 
 msgid "IDS_SPACES/38_CANADA"
-msgstr "カナダ"
+msgstr "カナダ離島 (Shatter)"
 
 msgid "IDS_SPACES/38_CANADA_DESCR"
 msgstr "北方にある岩だらけの島々"
 
 msgid "IDS_SPACES/98_JACUZZI"
-msgstr "ジャクージーのルインベルク"
+msgstr "お風呂"
 
 msgid "IDS_SPACES/98_JACUZZI_DESCR"
 msgstr "ポケットサイズの戦艦同士による壮大な戦闘"
 
 msgid "IDS_SPACES/99_DEEP_SPACE"
-msgstr "宙のルインベルク"
+msgstr "銀河系"
 
 msgid "IDS_SPACES/99_DEEP_SPACE_DESCR"
 msgstr "外宇宙の神秘なる深淵"
