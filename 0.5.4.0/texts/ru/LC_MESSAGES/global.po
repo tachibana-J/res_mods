@@ -1,10 +1,5 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
-"POT-Creation-Date: 2015-09-03 12:23+0900\n"
-"PO-Revision-Date: 2015-12-04 22:20-0500\n"
-"Last-Translator: \n"
-"Language-Team: \n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -12,9 +7,6 @@ msgstr ""
 
 msgid "#PluralForms"
 msgstr "nplurals=1; plural=0;"
-
-msgid "DIVISION"
-msgstr "戦隊"
 
 msgid "ID"
 msgstr "Japanese"
@@ -75,7 +67,7 @@ msgid "IDS_ACCOUNT"
 msgstr "現在の名前:"
 
 msgid "IDS_ACCOUNT_DEFAULT"
-msgstr "一般人"
+msgstr "滄海遺珠"
 
 msgid "IDS_ACCOUNT_GOLD_EXCHANGE_HEADING"
 msgstr "クレジットの変換"
@@ -90,7 +82,7 @@ msgid "IDS_ACCOUNT_NEW_LEVEL"
 msgstr "任務記録レベルアップ"
 
 msgid "IDS_ACCOUNT_PREMIUM"
-msgstr "プレミアム"
+msgstr "春風得意"
 
 msgid "IDS_ACCURACY"
 msgstr "命中率"
@@ -1640,7 +1632,7 @@ msgid "IDS_CAMO_REPLENISH_AUTOMATICALLY_HINT_3"
 msgstr "クレジット不足により迷彩を補給できない場合、迷彩なしでの戦闘参加をご検討ください。"
 
 msgid "IDS_CAMO_REPLENISH_AUTOMATICALLY_HINT_4"
-msgstr "戦闘後、クレジット不足により迷彩を補給できない場合、自動補給は自動的に無効化されます。"
+msgstr "クレジット不足により迷彩を補給できない場合、自動補給は自動的に無効化されます。"
 
 msgid "IDS_CANCEL"
 msgstr "キャンセル"
@@ -1977,7 +1969,7 @@ msgid "IDS_CLUB_BATTLES_COUNT"
 msgstr "参加戦闘数"
 
 msgid "IDS_CLUB_BATTLES_ENDED"
-msgstr "艦隊戦の現セッションは終了しました"
+msgstr "艦隊戦の現セッションは終了しました。"
 
 msgid "IDS_CLUB_BATTLES_SEASON_OFF"
 msgstr "艦隊戦は現在ご利用頂けません。"
@@ -3241,37 +3233,37 @@ msgid "IDS_CR_CHANGE"
 msgstr "適用"
 
 msgid "IDS_CURRENT_LEAGUE_0"
-msgstr "この艦隊はプレミアリーグ所属です。"
+msgstr "この艦隊はプレミアリーグ所属です"
 
 msgid "IDS_CURRENT_LEAGUE_1"
-msgstr "この艦隊は第 1 リーグ所属です。"
+msgstr "この艦隊は第 1 リーグ所属です"
 
 msgid "IDS_CURRENT_LEAGUE_10"
-msgstr "この艦隊は第 10 リーグ所属です。"
+msgstr "この艦隊は第 10 リーグ所属です"
 
 msgid "IDS_CURRENT_LEAGUE_2"
-msgstr "この艦隊は第 2 リーグ所属です。"
+msgstr "この艦隊は第 2 リーグ所属です"
 
 msgid "IDS_CURRENT_LEAGUE_3"
-msgstr "この艦隊は第 3 リーグ所属です。"
+msgstr "この艦隊は第 3 リーグ所属です"
 
 msgid "IDS_CURRENT_LEAGUE_4"
-msgstr "この艦隊は第 4 リーグ所属です。"
+msgstr "この艦隊は第 4 リーグ所属です"
 
 msgid "IDS_CURRENT_LEAGUE_5"
-msgstr "この艦隊は第 5 リーグ所属です。"
+msgstr "この艦隊は第 5 リーグ所属です"
 
 msgid "IDS_CURRENT_LEAGUE_6"
-msgstr "この艦隊は第 6 リーグ所属です。"
+msgstr "この艦隊は第 6 リーグ所属です"
 
 msgid "IDS_CURRENT_LEAGUE_7"
-msgstr "この艦隊は第 7 リーグ所属です。"
+msgstr "この艦隊は第 7 リーグ所属です"
 
 msgid "IDS_CURRENT_LEAGUE_8"
-msgstr "この艦隊は第 8 リーグ所属です。"
+msgstr "この艦隊は第 8 リーグ所属です"
 
 msgid "IDS_CURRENT_LEAGUE_9"
-msgstr "この艦隊は第 9 リーグ所属です。"
+msgstr "この艦隊は第 9 リーグ所属です"
 
 msgid "IDS_CURRENT_PROGRESS"
 msgstr "現在の進捗"
@@ -3808,7 +3800,7 @@ msgstr ""
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PCY008_SONARSEARCH"
 msgstr ""
 "敵艦艇および敵魚雷の強制捕捉範囲 "
-"(煙幕の範囲内も含む) を向上させます。\n"
+"(煙幕内を含む) を向上させます。\n"
 "魚雷捕捉 - {distTorpedo}\n"
 "敵艦艇捕捉 - {distShip}"
 
@@ -3842,7 +3834,7 @@ msgstr ""
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PCY016_SONARSEARCHPREMIUM"
 msgstr ""
 "敵艦艇および敵魚雷の強制捕捉範囲 "
-"(煙幕の範囲内も含む) を向上させます。\n"
+"(煙幕内を含む) を向上させます。\n"
 "魚雷捕捉 - {distTorpedo}\n"
 "敵艦艇捕捉 - {distShip}"
 
@@ -3855,14 +3847,14 @@ msgstr "魚雷発射管の装填時間を {torpedoReloadTime} に短縮"
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PCY019_RLSSEARCH"
 msgstr ""
 "敵艦艇の強制捕捉範囲 "
-"(煙幕の範囲内も含む) を大幅に向上させます。\n"
-"敵艦艇捕捉 - {distShip}"
+"(煙幕内を含む) を大幅に向上させます。\n"
+"敵艦捕捉 - {distShip}"
 
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PCY020_RLSSEARCHPREMIUM"
 msgstr ""
 "敵艦艇の強制捕捉範囲 "
-"(煙幕の範囲内も含む) を大幅に向上させます。\n"
-"敵艦艇捕捉 - {distShip}"
+"(煙幕内を含む) を大幅に向上させます。\n"
+"敵艦捕捉 - {distShip}"
 
 msgid "IDS_DOCK_CONSUME_TITLE_PCY001_CRASHCREW"
 msgstr "応急工作班 I"
@@ -4247,7 +4239,7 @@ msgid "IDS_EXTERIOR"
 msgstr "外装"
 
 msgid "IDS_EXTRADAMAGE"
-msgstr "甚大な被害"
+msgstr "甚大な損害"
 
 msgid "IDS_FAR"
 msgstr "遠"
@@ -4842,7 +4834,7 @@ msgstr "軽度の損傷を修理し、艦の HP を一部回復します。"
 msgid "IDS_HELP_CONSUME_DESCRIPTION_RLSSEARCH"
 msgstr ""
 "敵艦艇の強制捕捉範囲 "
-"(煙幕の範囲内も含む) を大幅に向上させます。"
+"(煙幕内を含む) を大幅に向上させます。"
 
 msgid "IDS_HELP_CONSUME_DESCRIPTION_SMOKEGENERATOR"
 msgstr "艦の後方に、敵の視界を遮る煙幕を展開します。"
@@ -4850,7 +4842,7 @@ msgstr "艦の後方に、敵の視界を遮る煙幕を展開します。"
 msgid "IDS_HELP_CONSUME_DESCRIPTION_SONARSEARCH"
 msgstr ""
 "敵艦艇および敵魚雷の強制捕捉範囲 "
-"(煙幕の範囲内も含む) を向上させます。"
+"(煙幕内を含む) を向上させます。"
 
 msgid "IDS_HELP_CONSUME_DESCRIPTION_SPEEDBOOSTER"
 msgstr "艦の最大速度を一時的に向上させます。"
@@ -5825,7 +5817,7 @@ msgid "IDS_INFO_ENEMY_TURRET_IS_DESTRUCTED"
 msgstr "敵艦艇の主砲塔が大破"
 
 msgid "IDS_INFO_EXTENSIVE_DAMAGE"
-msgstr "甚大な被害"
+msgstr "甚大な損害"
 
 msgid "IDS_INFO_EXTENSIVE_FLOOD"
 msgstr "大浸水"
@@ -6400,6 +6392,9 @@ msgstr " km"
 msgid "IDS_KIRISHIMA"
 msgstr "キリシマ"
 
+msgid "IDS_KIRISHIMA_BEAR"
+msgstr "キリシマ（ヨタロウ）"
+
 msgid "IDS_KONGOU"
 msgstr "コンゴウ"
 
@@ -6526,7 +6521,7 @@ msgid "IDS_LINK_SUPPORT_HINT"
 msgstr "カスタマーサービスセンターにリダイレクトされます"
 
 msgid "IDS_LOADING"
-msgstr "ゲーム読込中..."
+msgstr "人生意気に感ず、功名誰か復た論ぜん"
 
 msgid "IDS_LOADING_PORT"
 msgstr "港を読込中"
@@ -8882,7 +8877,7 @@ msgid "IDS_PAAF001_GRUMMAN_F3F"
 msgstr "Grumman F3F Flying Barrel"
 
 msgid "IDS_PAAF002_GRUMMAN_F6F"
-msgstr "Grumman F6F Hellcat"
+msgstr "Grumman F6F-5 Hellcat"
 
 msgid "IDS_PAAF003_BOEING_XF7B"
 msgstr "Boeing XF7B"
@@ -8903,7 +8898,7 @@ msgid "IDS_PAAF008_F2A"
 msgstr "Brewster F2A Buffalo"
 
 msgid "IDS_PAAF009_GRUMMAN_F4F"
-msgstr "Grumman F4F3 Wildcat"
+msgstr "Grumman F4F-3 Wildcat"
 
 msgid "IDS_PAAF010_F8F_BEARCAT"
 msgstr "Grumman F8F Bearcat"
@@ -8912,7 +8907,7 @@ msgid "IDS_PAAF011_CURTISS_TS1"
 msgstr "Curtiss TS-1"
 
 msgid "IDS_PAAF012_VOUGHT_F4U"
-msgstr "Vought F4U Corsair"
+msgstr "Vought F4U-4 Corsair"
 
 msgid "IDS_PAAF013_CURTISS_F6C_1"
 msgstr "Curtiss F6C-1 Hawk"
@@ -8930,7 +8925,7 @@ msgid "IDS_PAAF017_BOEING_F4B"
 msgstr "Boeing F4B"
 
 msgid "IDS_PAAF018_GRUMMAN_F4F_5"
-msgstr "Grumman F4F Wildcat"
+msgstr "Grumman F4F-5 Wildcat"
 
 msgid "IDS_PAAF020_GRUMMAN_F9F_2"
 msgstr "Grumman F9F-2 Panther"
@@ -9865,7 +9860,7 @@ msgid "IDS_PARTIES_ARE_NOT_ALLOWED_IN_RANDOM_BATTLES"
 msgstr "艦隊はランダム戦には参加できません"
 
 msgid "IDS_PARTIES_ARE_NOT_ALLOWED_IN_RANK_BATTLES"
-msgstr "ランク戦は艦隊では参加できません。"
+msgstr "ランク戦は艦隊では参加できません"
 
 msgid "IDS_PARTY_COMMANDER"
 msgstr "指揮官"
@@ -10114,7 +10109,8 @@ msgstr "Arizona"
 
 msgid "IDS_PASB506_DESCR"
 msgstr ""
-"戦艦アリゾナは、アメリカ海軍の「標準型戦艦」の一隻であり、主砲塔を艦首と艦尾に集中配置し、装甲は、長距離砲戦を前提として、重要区画に限定して重装甲を施す集中防御方式 "
+"戦艦アリゾナは、アメリカ海軍としては標準的なレイアウトの戦艦であり、長距離での交戦を前提として、艦首および艦尾に各 "
+"2 基の主砲塔を配置し、装甲は重要区画に限定して重装甲を施す集中防御方式 "
 "(All or "
 "nothing) を採用していました。二次大戦の勃発までに対水雷防御の強化が図られましたが、これは機動性の大幅な低下を招きました。"
 
@@ -10798,7 +10794,7 @@ msgid "IDS_PAUD007_MARTIN_BM2"
 msgstr "Martin BM2"
 
 msgid "IDS_PAUD008_DOUGLAS_AD2"
-msgstr "Douglas AD-2 Skyshark"
+msgstr "Douglas A2D Skyshark"
 
 msgid "IDS_PAUD009_DOUGLAS_XTB2D"
 msgstr "Douglas XTB2D Skypirate"
@@ -12051,7 +12047,9 @@ msgstr ""
 "ランク 1 を再達成することで授与される記念旗です。"
 
 msgid "IDS_PCEE015_JOLLY_ROGER_2_EXTRA_DESCRIPTION"
-msgstr "  "
+msgstr ""
+"この種の旗を "
+"2 枚入手すると、褒賞艦艇へと自動的に交換されます。"
 
 msgid "IDS_PCEE016_FLAG_DEVELOPER"
 msgstr "開発者旗"
@@ -12120,7 +12118,7 @@ msgid "IDS_PCEE023_SEASONFLAG00"
 msgstr "1st Season"
 
 msgid "IDS_PCEE023_SEASONFLAG00_DESCRIPTION"
-msgstr "  "
+msgstr "Памятный флаг за участие в первом ранговом сезоне."
 
 msgid "IDS_PCEE023_SEASONFLAG00_EXTRA_DESCRIPTION"
 msgstr "  "
@@ -14044,6 +14042,15 @@ msgstr "305 mm 下瀬火薬 榴弾"
 msgid "IDS_PJPA062_SHELL_152MM_HE_TYPE_0"
 msgstr "152 mm 零式 通常弾"
 
+msgid "IDS_PJPA997_USELESS_ATBA"
+msgstr "Test secondary shell"
+
+msgid "IDS_PJPA998_USELESS_HE_SPECIAL"
+msgstr "Test HE shell"
+
+msgid "IDS_PJPA999_USELESS_AP_SPECIAL"
+msgstr "Test AP shell"
+
 msgid "IDS_PJPB002_TYPE99_N25_MOD1"
 msgstr "九九式 二五番通常爆弾 一型"
 
@@ -14109,6 +14116,9 @@ msgstr "九一式 魚雷 改一"
 
 msgid "IDS_PJPT024_TYPE_91_MOD_2A"
 msgstr "九一式 魚雷 改二"
+
+msgid "IDS_PJPT999_USELESS_SPECIAL"
+msgstr "Test Torpedo"
 
 msgid "IDS_PJSA002"
 msgstr "鳳翔"
@@ -14387,6 +14397,9 @@ msgstr " "
 
 msgid "IDS_PJSB708_YEAR"
 msgstr " "
+
+msgid "IDS_PJSB799"
+msgstr "霧 キリシマ"
 
 msgid "IDS_PJSB801"
 msgstr "河内"
@@ -14678,6 +14691,18 @@ msgstr "橋立"
 
 msgid "IDS_PJSC838_DESCR"
 msgstr "入門ミッションで使用される巡洋艦 橋立"
+
+msgid "IDS_PJSC999"
+msgstr "Test Ship"
+
+msgid "IDS_PJSC999_DESCR"
+msgstr "Test"
+
+msgid "IDS_PJSC999_NUMBER"
+msgstr "1"
+
+msgid "IDS_PJSC999_YEAR"
+msgstr "2014"
 
 msgid "IDS_PJSD001"
 msgstr "桜"
@@ -15928,7 +15953,7 @@ msgid "IDS_PLAYERS_WAITING"
 msgstr "待機中のプレイヤー:"
 
 msgid "IDS_PLAYER_ACCEPTED_YOUR_INVITATION"
-msgstr "殿が貴官の招待を承諾しました。"
+msgstr "殿が貴官の招待を承諾しました"
 
 msgid "IDS_PLAYER_ACCEPTED_YOUR_INVITATION_TO_CLUB"
 msgstr ""
@@ -15936,7 +15961,7 @@ msgstr ""
 "s への招待を承諾しました"
 
 msgid "IDS_PLAYER_ALREADY_IN_DIVISION"
-msgstr "殿は既に戦隊に参加中です。"
+msgstr "殿は既に戦隊に参加中です"
 
 msgid "IDS_PLAYER_ALREADY_IN_PARTY"
 msgstr "殿は既に集結中の艦隊に参加中です"
@@ -15972,7 +15997,7 @@ msgstr ""
 "s の司令官になりました"
 
 msgid "IDS_PLAYER_IS_OFFLINE"
-msgstr "殿はオフラインです。"
+msgstr "殿はオフラインです"
 
 msgid "IDS_PLAYER_IS_OFFLINE_C"
 msgstr "オフライン"
@@ -15982,7 +16007,7 @@ msgstr ""
 "%(playerName)s 殿を艦隊 %(clubName)s から除外しました"
 
 msgid "IDS_PLAYER_IS_OUT_OF_DIVISION"
-msgstr "殿を戦隊から除外しました。"
+msgstr "殿を戦隊から除外しました"
 
 msgid "IDS_PLAYER_IS_OUT_OF_PARTY"
 msgstr "殿を艦隊戦から除外しました"
@@ -15991,7 +16016,7 @@ msgid "IDS_PLAYER_JOINED_CLUB"
 msgstr "%(playerName)s 殿が艦隊 %(clubName)s に参加しました"
 
 msgid "IDS_PLAYER_JOINED_DIVISION"
-msgstr "殿が戦隊に参加しました。"
+msgstr "殿が戦隊に参加しました"
 
 msgid "IDS_PLAYER_JOINED_PARTY"
 msgstr "殿が艦隊戦に参加しました"
@@ -16004,7 +16029,7 @@ msgstr ""
 "%(playerName)s 殿が艦隊 %(clubName)s から脱退しました"
 
 msgid "IDS_PLAYER_LEFT_DIVISION"
-msgstr "殿が戦隊から脱退しました。"
+msgstr "殿が戦隊から脱退しました"
 
 msgid "IDS_PLAYER_LEFT_PARTY"
 msgstr "殿が艦隊戦から離脱しました"
@@ -16097,7 +16122,7 @@ msgstr[0] "ノット"
 
 msgid "IDS_PL_KNOTS_SPACE"
 msgid_plural "IDS_PL_KNOTS_SPACE"
-msgstr[0] "ノット"
+msgstr[0] " ノット"
 
 msgid "IDS_PL_MINUTES_COUNT"
 msgid_plural "IDS_PL_MINUTES_COUNT"
@@ -17174,7 +17199,7 @@ msgid "IDS_PRSC102"
 msgstr "Novik"
 
 msgid "IDS_PRSC102_DESCR"
-msgstr "ノヴィクは、偵察巡洋艦という艦種の草分けであり、速射砲を搭載する一方で、装甲は脆弱でした。就役期間中には、全期間を通じて世界最速の巡洋艦であり続けました。"
+msgstr "ノヴィークは、偵察巡洋艦という艦種の草分けであり、速射砲を搭載する一方で、装甲は脆弱でした。就役期間中には、全期間を通じて世界最速の巡洋艦であり続けました。"
 
 msgid "IDS_PRSC102_NUMBER"
 msgstr "1"
@@ -17186,7 +17211,7 @@ msgid "IDS_PRSC103"
 msgstr "Bogatyr"
 
 msgid "IDS_PRSC103_DESCR"
-msgstr "ボガティルは、ロシア海軍における最高の防護巡洋艦として知られています。総合的なバランスの良さと、数多く搭載された主砲に優れた防御を施し、主砲の一部を砲塔に搭載していた点を特徴とする計画案に基づいて建造されました。一次大戦中には、兵装がより長い射程距離とより高い発射速度を有する小口径砲へと変更されました。"
+msgstr "ボガトィーリは、ロシア海軍における最高の防護巡洋艦として知られています。総合的なバランスの良さと、数多く搭載された主砲に優れた防御を施し、主砲の一部を砲塔に搭載していた点を特徴とする計画案に基づいて建造されました。一次大戦中には、兵装がより長い射程距離とより高い発射速度を有する小口径砲へと変更されました。"
 
 msgid "IDS_PRSC103_NUMBER"
 msgstr "2"
@@ -17198,7 +17223,7 @@ msgid "IDS_PRSC104"
 msgstr "Svietlana"
 
 msgid "IDS_PRSC104_DESCR"
-msgstr "スヴェトラーナ級軽巡洋艦は、ロシア帝国海軍用として起工された軽巡洋艦としては初めてタービン機関を採用した艦です。従来の軽巡洋艦に比して大幅に優速であるばかりではなく、装甲防御力も兵装も当時としては極めて優れたものであり、長射程かつ良好な弾道特性を有する主砲は特筆すべき性能でした。"
+msgstr "スヴェトラーナ級軽巡洋艦は、ロシア帝国海軍用として起工された軽巡洋艦としては初めてタービン機関を採用した艦級です。従来の軽巡洋艦に比して大幅に優速であるばかりではなく、装甲防御力も兵装も当時としては極めて優れたものであり、その主砲が長い射程と良好な弾道特性を備えていた点は特筆すべき特長でした。"
 
 msgid "IDS_PRSC104_NUMBER"
 msgstr "4"
@@ -17241,7 +17266,7 @@ msgid "IDS_PRSC107_DESCR"
 msgstr ""
 "ショールスは、「艦隊護衛用」軽巡洋艦 "
 "(プロイェークト "
-"28) として設計されました。高い速力と強力な兵装を備えていましたが、競合国の各種類似艦に比して、装甲防御力の面では劣っていました。"
+"28) として設計されました。高い速力と強力な兵装を備えていましたが、装甲防御力の面では当時の諸外国の競合艦に比して劣っていました。"
 
 msgid "IDS_PRSC107_NUMBER"
 msgstr "0"
@@ -17254,7 +17279,7 @@ msgstr "Chapayev"
 
 msgid "IDS_PRSC108_DESCR"
 msgstr ""
-"強力な兵装を備えたチュパエフ級軽巡洋艦 "
+"強力な兵装を備えたチャパエフ級軽巡洋艦 "
 "(プロイェークト "
 "68) は、「大艦隊」計画に基づいて建造されました。速力は前級に比して若干低下していたものの、装甲防御力が大幅に強化されていました。改装により対空能力の大幅強化が図られました。"
 
@@ -17269,8 +17294,8 @@ msgstr "Dmitri Donskoi"
 
 msgid "IDS_PRSC109_DESCR"
 msgstr ""
-"ドミートリィ・ダンスコイ (プロイェークト "
-"65) は、チュパエフ級軽巡洋艦の発展型であり、兵装および推進機関の強化が図られていました。原型に比して、大きさ、速力、砲力、対空能力、雷装という、あらゆる主要性能が向上していました。"
+"ドミートリィ・ドンスコイ (プロイェークト "
+"65) は、チャパエフ級軽巡洋艦の発展型であり、兵装および推進機関の強化が図られていました。原型に比して、大きさ、速力、砲力、対空能力、雷装という、あらゆる主要性能が向上していました。"
 
 msgid "IDS_PRSC109_NUMBER"
 msgstr "0"
@@ -17283,8 +17308,8 @@ msgstr "Moskva"
 
 msgid "IDS_PRSC110_DESCR"
 msgstr ""
-"マスクワ (プロイェークト "
-"66) は、敵軽巡洋艦を撃破し、重巡洋艦に対抗するための巡洋艦として設計されました。競合国の各種類似艦に比して大型であり、より優れた装甲防御力を備えていました。主砲は競合艦に比して最大射程および威力で上回っていたものの、発射速度では劣っていました。"
+"モスコヴァ (プロイェークト "
+"66) は、敵軽巡洋艦を撃破し、重巡洋艦に対抗するための巡洋艦として設計されました。諸外国の競合艦に比して大型であり、より優れた装甲防御力を備えていました。主砲は競合艦に比して最大射程および威力で上回っていたものの、発射速度では劣っていました。"
 
 msgid "IDS_PRSC110_NUMBER"
 msgstr "0"
@@ -17346,7 +17371,7 @@ msgid "IDS_PRSD102"
 msgstr "Storozhevoi"
 
 msgid "IDS_PRSD102_DESCR"
-msgstr "ストロジェヴォイは「中型」駆逐艦として設計され、偵察任務から敵艦艇との水雷戦および砲戦まで、幅広い任務を考慮していました。高い技術水準で開発された主機により、極めて高い速力を実現していました。"
+msgstr "ストロジェヴォイは「中型」駆逐艦として設計され、偵察任務から敵艦との水雷戦および砲戦まで、幅広い任務を考慮していました。高い技術水準で開発された主機により、極めて高い速力を実現していました。"
 
 msgid "IDS_PRSD102_NUMBER"
 msgstr "0"
@@ -17370,7 +17395,7 @@ msgid "IDS_PRSD104"
 msgstr "Izyaslav"
 
 msgid "IDS_PRSD104_DESCR"
-msgstr "イズィヤスラフ級駆逐艦は、伝説的なノヴィク級駆逐艦の改良型であり、ロシア海軍における最大・最強の駆逐艦のひとつです。前級に比して砲力が強化されいました。魚雷の口径は当時の外国製駆逐艦より劣っていたものの、舷側に斉射可能な魚雷数は多めでした。"
+msgstr "イズィヤスラフ級駆逐艦は、伝説的なノヴィーク級駆逐艦の改良型であり、ロシア海軍における最大・最強の駆逐艦のひとつです。前級に比して砲力が強化されいました。魚雷の口径は当時の外国製駆逐艦より劣っていたものの、舷側に斉射可能な魚雷数は多めでした。"
 
 msgid "IDS_PRSD104_NUMBER"
 msgstr "5"
@@ -17384,7 +17409,7 @@ msgstr "Gnevny"
 msgid "IDS_PRSD105_DESCR"
 msgstr ""
 "グネヴヌイは、プロイェークト "
-"7 として開発された駆逐艦級のネームシップです。高性能であり、非常に高い速力を誇りました。ロシア革命前の時期のノヴィク級駆逐艦に比して強力な雷装を備え、砲力においては諸外国の大半の駆逐艦を凌駕していました。"
+"7 として開発された駆逐艦級のネームシップです。高性能であり、非常に高い速力を誇りました。ロシア革命前の時期のノヴィーク級駆逐艦に比して強力な雷装を備え、砲力においては諸外国の大半の駆逐艦を凌駕していました。"
 
 msgid "IDS_PRSD105_NUMBER"
 msgstr "35"
@@ -18152,7 +18177,7 @@ msgstr "鞍山"
 
 msgid "IDS_PZSD506_DESCR"
 msgstr ""
-"プロジェークト "
+"プロイェークト "
 "7 において建造されたソ連製駆逐艦のうちの "
 "1 隻であり、高い速力と素晴らしい砲力を備えていました。"
 "1955 年に中国人民解放軍海軍へと引き渡され、鞍山 "
@@ -18455,10 +18480,10 @@ msgid "IDS_RATING_HINT_1"
 msgstr "敵艦隊のレーティングが高いほど、勝利した際に取得できるレーティングポイントが多くなります。"
 
 msgid "IDS_RATING_UP"
-msgstr "艦隊のレーティングが向上しました"
+msgstr "艦隊のレーティングが向上"
 
 msgid "IDS_RATING_UP_LB"
-msgstr "先の戦いで艦隊のレーティングが向上しました"
+msgstr "先の戦いで艦隊のレーティングが向上"
 
 msgid "IDS_REACH_LEAGUE_0"
 msgstr "艦隊がプレミアリーグに加わりました"
@@ -18828,7 +18853,7 @@ msgid "IDS_RICOCHET_HIT_TYPE"
 msgstr "跳弾!"
 
 msgid "IDS_RIGHTS_RESERVED"
-msgstr "© Wargaming.net 2012-2016. All rights reserved."
+msgstr "© Wargaming.net 2012–2016. All rights reserved."
 
 msgid "IDS_RIGHT_QUOTE"
 msgstr "」"
@@ -19095,7 +19120,7 @@ msgid "IDS_SERVICE_IS_UNAVAILABLE_CHAT"
 msgstr "チャットサーバーは利用不能です"
 
 msgid "IDS_SERVICE_IS_UNAVAILABLE_CLUB"
-msgstr "艦隊サービスご利用不能"
+msgstr "艦隊機能はご利用不能"
 
 msgid "IDS_SERVICE_NOT_COMPLETED"
 msgstr "修理・補給不能"
@@ -20409,7 +20434,7 @@ msgid "IDS_SPACES/98_JACUZZI_DESCR"
 msgstr "ポケットサイズの戦艦同士による壮大な戦闘"
 
 msgid "IDS_SPACES/99_DEEP_SPACE"
-msgstr "銀河系"
+msgstr "天の川"
 
 msgid "IDS_SPACES/99_DEEP_SPACE_DESCR"
 msgstr "外宇宙の神秘なる深淵"
@@ -21110,7 +21135,7 @@ msgstr "ミッション"
 msgid "IDS_TASKS_WINDOW_INSTRUCTION"
 msgstr ""
 "各ミッションは "
-"1 回のみ達成可能であり、複数のステージが含まれる場合があります。褒賞は、ミッション全体が対象になるものもあれば、個々のステージが対象になるものもあります。"
+"1 回のみ達成可能であり、複数ステージ構成のものもあります。褒賞はミッション全体またはステージ毎に与えられます。"
 
 msgid "IDS_TASK_ARPEGGIO"
 msgstr "アルペジオ・ミッション"
@@ -93097,7 +93122,7 @@ msgid "IDS_TILL_END"
 msgstr "終了まで"
 
 msgid "IDS_TILL_SEASON_ENDS"
-msgstr "シーズン終了まで"
+msgstr "現シーズン終了まで"
 
 msgid "IDS_TILL_START"
 msgstr "開始まで"
@@ -93674,7 +93699,7 @@ msgid "IDS_UNABLE_TO_CREATE_TRAINING_WHEN_IN_DIVISION"
 msgstr "戦隊への参加中はトレーニングルームを作成できません。"
 
 msgid "IDS_UNABLE_TO_CREATE_TRAINING_WHEN_IN_PARTY"
-msgstr "艦隊戦に参加しようとしている際には、トレーニングルームは作成できません。"
+msgstr "艦隊戦に備え集結中の場合には、トレーニングルームは作成できません。"
 
 msgid "IDS_UNABLE_TO_EXCLUDE_PLAYER_OUT_OF_PARTY"
 msgstr "艦隊戦が終了するまではプレイヤーを除外できません。"

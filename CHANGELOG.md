@@ -1,5 +1,9 @@
 # Changelog of _implemented_ aka _compiled_ (i.e. not WIP or minute changes in texts) features
 
+20160323 Update for 0.5.4
+---
+* New texts are added
+
 20160313 Small changes to texts are compiled
 ---
 * Reworded all live map names and their descriptions
