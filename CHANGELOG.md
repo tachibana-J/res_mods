@@ -1,5 +1,11 @@
 # Changelog of _implemented_ aka _compiled_ (i.e. not WIP or minute changes in texts) features
 
+20160401 Update for 0.5.4.1
+---
+* New texts are added
+* Flag mod is renewed
+* Camo mod is renewed to include the NA basketball camo
+
 20160323 Update for 0.5.4
 ---
 * New texts are added
