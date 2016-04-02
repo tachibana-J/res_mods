@@ -4527,6 +4527,12 @@ msgstr "敵艦艇を殲滅するか、陣地を占領せよ!"
 msgid "IDS_GAMEMODE_STANDART_TITLE"
 msgstr "通常戦"
 
+msgid "IDS_GAMEMODE_TARGET_DESCRIPTION"
+msgstr "キーエリアの占領し、敵艦艇を撃沈して、敵チームより先にポイントを稼げ"
+
+msgid "IDS_GAMEMODE_TARGET_TITLE"
+msgstr "Target"
+
 msgid "IDS_GAMEMODE_TEST_DESCRIPTION"
 msgstr "敵艦艇を殲滅せよ。"
 
@@ -11969,6 +11975,38 @@ msgstr ""
 "艦の被発見性を低減し、敵の射撃精度を低下させ、"
 "艦および艦長の取得 EXP を向上させる。"
 
+msgid "IDS_PCEC009_CAMO_BASKETBALL_TILE_1"
+msgstr "Nothing But Net"
+
+msgid "IDS_PCEC009_CAMO_BASKETBALL_TILE_1_DESCRIPTION"
+msgstr " "
+
+msgid "IDS_PCEC010_CAMO_BASKETBALL_TILE_2"
+msgstr "Salty Slam Dunk"
+
+msgid "IDS_PCEC010_CAMO_BASKETBALL_TILE_2_DESCRIPTION"
+msgstr " "
+
+msgid "IDS_PCEC011_CAMO_BASKETBALL_TILE_3"
+msgstr "Anchors Aweigh Alley-Oop"
+
+msgid "IDS_PCEC011_CAMO_BASKETBALL_TILE_3_DESCRIPTION"
+msgstr " "
+
+msgid "IDS_PCEC012_CAMO_BASKETBALL_TILE_4"
+msgstr "Leeward Layup"
+
+msgid "IDS_PCEC012_CAMO_BASKETBALL_TILE_4_DESCRIPTION"
+msgstr " "
+
+msgid "IDS_PCEC013_CAMO_MGT"
+msgstr "MGT-20"
+
+msgid "IDS_PCEC013_CAMO_MGT_DESCRIPTION"
+msgstr ""
+"Camouflage granted for encountering the MGT-20 during an official offline "
+"event."
+
 msgid "IDS_PCEE008_RANK20"
 msgstr "第 2 リーグ"
 
@@ -12122,6 +12160,16 @@ msgstr "Памятный флаг за участие в первом ранго
 
 msgid "IDS_PCEE023_SEASONFLAG00_EXTRA_DESCRIPTION"
 msgstr "  "
+
+msgid "IDS_PCEE024_MGT_20"
+msgstr "MGT-20"
+
+msgid "IDS_PCEE024_MGT_20_DESCRIPTION"
+msgstr ""
+"Flag granted for encountering the MGT-20 during an official offline event."
+
+msgid "IDS_PCEE024_MGT_20_EXTRA_DESCRIPTION"
+msgstr " "
 
 msgid "IDS_PCEE999_SECRETSANTA"
 msgstr "秘密のサンタ"
@@ -18986,6 +19034,9 @@ msgstr "キーエリアの占領し、敵艦艇を撃沈して、敵チームよ
 
 msgid "IDS_SCHEDULLE"
 msgstr "スケジュール"
+
+msgid "IDS_SEAL_FISH"
+msgstr "Fishling"
 
 msgid "IDS_SEARCH_GROUP_IN_FRIENDS"
 msgstr "友達"
