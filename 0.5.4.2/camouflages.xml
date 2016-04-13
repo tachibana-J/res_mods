@@ -626,7 +626,7 @@
 	<camouflage>
 		<annotation>Блок тайленых американских камуфляжей для крейсеров с квадратной текстурой</annotation>
         <name>camo_1_tile</name>
-        <targetShip>PASC001_Erie_1936 PASC024_Phoenix_1917 PASC005_Omaha_1923 PASC007_Cleveland_1945 PASC012_Pensacola_1944 PASC014_New_Orlean_1944 PASC017_Baltimore_1944 PASC020_Des_Moines_1948 PASB001 PASC006_Atlanta_1942 PASC044_Marblehead_1924 PASC045_Marblehead_1924_Asus PASC019_Burlington_1944 PASC003_Albany_1898</targetShip>
+        <targetShip>PASC001_Erie_1936 PASC024_Phoenix_1917 PASC005_Omaha_1923 PASC007_Cleveland_1945 PASC012_Pensacola_1944 PASC014_New_Orlean_1944 PASC017_Baltimore_1944 PASC020_Des_Moines_1948 PASB001 PASC006_Atlanta_1942 PASC044_Marblehead_1924 PASC045_Marblehead_1924_Asus PASC019_Burlington_1944 PASC003_Albany_1898 PASC016_Worcester_1948</targetShip>
         <tiled>true</tiled>
         <UV>
 			<Tile>2.9 2.9</Tile>
@@ -670,7 +670,7 @@
 	<camouflage>
 		<annotation>Блок тайленых американских камуфляжей для большинства кораблей с квадратной текстурой</annotation>
         <name>camo_1_tile</name>
-        <targetShip>PASA004_Langley_1929 PASA002_Bogue_1942 PASA006_Independence_1945 PASA010_Ranger_1944 PASA012_Lexington_1944 PASA013_Essex_1945 PASA008_Saipan_1943 PASB001_Michigan_1916 PASB004_Arkansas_1912 PASB006_New_York_1934 PASB034_New_Mexico_1941 PASB008_Colorado_1945 PASB012_North_Carolina_1945 PASB018_Iowa_1944 PASB017_Montana_1945 PASB013_Arkansas_1912 PASD002_Sampson_1917 PASD027_Wickes_1918 PASD019_Clemson_1920 PASD014_Leader_1919 PASD005_Farragut_1944 PASD006_Mahan_1936 PASD008_Benson_1945 PASD021_Fletcher_1943 PASD013_Gearing_1945 PASD029_Sims_1941 PASD502_Smith PASA507_Saipan_1946</targetShip>
+        <targetShip>PASA004_Langley_1929 PASA002_Bogue_1942 PASA006_Independence_1945 PASA010_Ranger_1944 PASA012_Lexington_1944 PASA013_Essex_1945 PASA008_Saipan_1943 PASB001_Michigan_1916 PASB004_Arkansas_1912 PASB006_New_York_1934 PASB034_New_Mexico_1941 PASB008_Colorado_1945 PASB012_North_Carolina_1945 PASB018_Iowa_1944 PASB017_Montana_1945 PASB013_Arkansas_1912 PASD002_Sampson_1917 PASD027_Wickes_1918 PASD019_Clemson_1920 PASD014_Leader_1919 PASD005_Farragut_1944 PASD006_Mahan_1936 PASD008_Benson_1945 PASD021_Fletcher_1943 PASD013_Gearing_1945 PASD029_Sims_1941 PASD502_Smith PASA507_Saipan_1946 PASB705_Texas_1944</targetShip>
         <tiled>true</tiled>
         <UV>
 			<Tile>3.5 3.5</Tile>
@@ -711,33 +711,11 @@
 		<color2>0.047 0.090 0.122 1.000</color2>
 		<color3>0.475 0.604 0.686 0.784</color3>
 	</camouflage>
-	<camouflage>
-		<annotation>Блок тайленых американских камуфляжей для кораблей с двумя текстурами 4096_4096px для корпуса и 4096_2048px для надстройки</annotation>
-        <name>camo_1_tile</name>
-        <targetShip>PASB506_Arizona_1941</targetShip>
-        <tiled>true</tiled>
-        <UV>
-			<Tile>3.0 3.0</Tile>
-			<Bow_DeckHouse>3.0 1.5</Bow_DeckHouse>
-			<MidFront_DeckHouse>3.0 1.5</MidFront_DeckHouse>
-			<MidBack_DeckHouse>3.0 1.5</MidBack_DeckHouse>
-			<Stern_DeckHouse>3.0 1.5</Stern_DeckHouse>
-			<Gun>0.6 0.6</Gun>
-			<Bulge>1.5 1.5</Bulge>
-        </UV>
-        <Textures>
-            <Tile>content/gameplay/common/camouflage/textures/USN_tile_camo_01.dds</Tile>
-        </Textures>
-		<color0>0.184 0.212 0.231 0.784</color0>
-		<color1>0.004 0.012 0.020 1.000</color1>
-		<color2>0.047 0.090 0.122 1.000</color2>
-		<color3>0.475 0.604 0.686 0.784</color3>
-	</camouflage>
 	<!--//tier 2-->
 	<camouflage>
 		<annotation>Блок тайленых американских камуфляжей для крейсеров с квадратной текстурой</annotation>
         <name>camo_2_tile</name>
-        <targetShip>PASC001_Erie_1936 PASC024_Phoenix_1917 PASC005_Omaha_1923 PASC007_Cleveland_1945 PASC012_Pensacola_1944 PASC014_New_Orlean_1944 PASC017_Baltimore_1944 PASC020_Des_Moines_1948 PASB001 PASC006_Atlanta_1942 PASC044_Marblehead_1924 PASC045_Marblehead_1924_Asus PASC019_Burlington_1944 PASC003_Albany_1898</targetShip>
+        <targetShip>PASC001_Erie_1936 PASC024_Phoenix_1917 PASC005_Omaha_1923 PASC007_Cleveland_1945 PASC012_Pensacola_1944 PASC014_New_Orlean_1944 PASC017_Baltimore_1944 PASC020_Des_Moines_1948 PASB001 PASC006_Atlanta_1942 PASC044_Marblehead_1924 PASC045_Marblehead_1924_Asus PASC019_Burlington_1944 PASC003_Albany_1898 PASC016_Worcester_1948</targetShip>
         <tiled>true</tiled>
         <UV>
 			<Tile>2.5 2.5</Tile>
@@ -781,7 +759,7 @@
 	<camouflage>
 		<annotation>Блок тайленых американских камуфляжей для большинства кораблей с квадратной текстурой</annotation>
         <name>camo_2_tile</name>
-        <targetShip>PASA004_Langley_1929 PASA002_Bogue_1942 PASA006_Independence_1945 PASA010_Ranger_1944 PASA012_Lexington_1944 PASA013_Essex_1945 PASA008_Saipan_1943 PASB001_Michigan_1916 PASB004_Arkansas_1912 PASB006_New_York_1934 PASB034_New_Mexico_1941 PASB008_Colorado_1945 PASB012_North_Carolina_1945 PASB018_Iowa_1944 PASB017_Montana_1945 PASB013_Arkansas_1912 PASD002_Sampson_1917 PASD027_Wickes_1918 PASD019_Clemson_1920 PASD014_Leader_1919 PASD005_Farragut_1944 PASD006_Mahan_1936 PASD008_Benson_1945 PASD021_Fletcher_1943 PASD013_Gearing_1945 PASD029_Sims_1941 PASD502_Smith PASA507_Saipan_1946</targetShip>
+        <targetShip>PASA004_Langley_1929 PASA002_Bogue_1942 PASA006_Independence_1945 PASA010_Ranger_1944 PASA012_Lexington_1944 PASA013_Essex_1945 PASA008_Saipan_1943 PASB001_Michigan_1916 PASB004_Arkansas_1912 PASB006_New_York_1934 PASB034_New_Mexico_1941 PASB008_Colorado_1945 PASB012_North_Carolina_1945 PASB018_Iowa_1944 PASB017_Montana_1945 PASB013_Arkansas_1912 PASD002_Sampson_1917 PASD027_Wickes_1918 PASD019_Clemson_1920 PASD014_Leader_1919 PASD005_Farragut_1944 PASD006_Mahan_1936 PASD008_Benson_1945 PASD021_Fletcher_1943 PASD013_Gearing_1945 PASD029_Sims_1941 PASD502_Smith PASA507_Saipan_1946 PASB705_Texas_1944</targetShip>
         <tiled>true</tiled>
         <UV>
 			<Tile>3 3</Tile>
@@ -822,33 +800,11 @@
 		<color2>0.047 0.090 0.122 1.000</color2>
 		<color3>0.475 0.604 0.686 0.784</color3>
 	</camouflage>
-	<camouflage>
-		<annotation>Блок тайленых американских камуфляжей для кораблей с двумя текстурами 4096_4096px для корпуса и 4096_2048px для надстройки</annotation>
-        <name>camo_2_tile</name>
-        <targetShip>PASB506_Arizona_1941</targetShip>
-        <tiled>true</tiled>
-        <UV>
-			<Tile>3.0 3.0</Tile>
-			<Bow_DeckHouse>3.0 1.5</Bow_DeckHouse>
-			<MidFront_DeckHouse>3.0 1.5</MidFront_DeckHouse>
-			<MidBack_DeckHouse>3.0 1.5</MidBack_DeckHouse>
-			<Stern_DeckHouse>3.0 1.5</Stern_DeckHouse>
-			<Gun>0.5 0.5</Gun>
-			<Bulge>1.5 1.5</Bulge>
-        </UV>
-        <Textures>
-            <Tile>content/gameplay/common/camouflage/textures/USN_tile_camo_02.dds</Tile>
-        </Textures>
-		<color0>0.184 0.212 0.231 0.784</color0>
-		<color1>0.004 0.012 0.020 1.000</color1>
-		<color2>0.047 0.090 0.122 1.000</color2>
-		<color3>0.475 0.604 0.686 0.784</color3>
-	</camouflage>
 	<!--//tier 3-->
 	<camouflage>
 		<annotation>Блок тайленых американских камуфляжей для крейсеров с квадратной текстурой</annotation>
         <name>camo_3_tile</name>
-        <targetShip>PASC001_Erie_1936 PASC024_Phoenix_1917 PASC005_Omaha_1923 PASC007_Cleveland_1945 PASC012_Pensacola_1944 PASC014_New_Orlean_1944 PASC017_Baltimore_1944 PASC020_Des_Moines_1948 PASB001 PASC006_Atlanta_1942 PASC044_Marblehead_1924 PASC045_Marblehead_1924_Asus PASC019_Burlington_1944 PASC003_Albany_1898</targetShip>
+        <targetShip>PASC001_Erie_1936 PASC024_Phoenix_1917 PASC005_Omaha_1923 PASC007_Cleveland_1945 PASC012_Pensacola_1944 PASC014_New_Orlean_1944 PASC017_Baltimore_1944 PASC020_Des_Moines_1948 PASB001 PASC006_Atlanta_1942 PASC044_Marblehead_1924 PASC045_Marblehead_1924_Asus PASC019_Burlington_1944 PASC003_Albany_1898 PASC016_Worcester_1948</targetShip>
         <tiled>true</tiled>
         <UV>
 			<Tile>2.9 2.9</Tile>
@@ -892,7 +848,7 @@
 	<camouflage>
 		<annotation>Блок тайленых американских камуфляжей для большинства кораблей с квадратной текстурой</annotation>
         <name>camo_3_tile</name>
-        <targetShip>PASA004_Langley_1929 PASA002_Bogue_1942 PASA006_Independence_1945 PASA010_Ranger_1944 PASA012_Lexington_1944 PASA013_Essex_1945 PASA008_Saipan_1943 PASB001_Michigan_1916 PASB004_Arkansas_1912 PASB006_New_York_1934 PASB034_New_Mexico_1941 PASB008_Colorado_1945 PASB012_North_Carolina_1945 PASB018_Iowa_1944 PASB017_Montana_1945 PASB013_Arkansas_1912 PASD002_Sampson_1917 PASD027_Wickes_1918 PASD019_Clemson_1920 PASD014_Leader_1919 PASD005_Farragut_1944 PASD006_Mahan_1936 PASD008_Benson_1945 PASD021_Fletcher_1943 PASD013_Gearing_1945 PASD029_Sims_1941 PASD502_Smith PASA507_Saipan_1946</targetShip>
+        <targetShip>PASA004_Langley_1929 PASA002_Bogue_1942 PASA006_Independence_1945 PASA010_Ranger_1944 PASA012_Lexington_1944 PASA013_Essex_1945 PASA008_Saipan_1943 PASB001_Michigan_1916 PASB004_Arkansas_1912 PASB006_New_York_1934 PASB034_New_Mexico_1941 PASB008_Colorado_1945 PASB012_North_Carolina_1945 PASB018_Iowa_1944 PASB017_Montana_1945 PASB013_Arkansas_1912 PASD002_Sampson_1917 PASD027_Wickes_1918 PASD019_Clemson_1920 PASD014_Leader_1919 PASD005_Farragut_1944 PASD006_Mahan_1936 PASD008_Benson_1945 PASD021_Fletcher_1943 PASD013_Gearing_1945 PASD029_Sims_1941 PASD502_Smith PASA507_Saipan_1946 PASB705_Texas_1944</targetShip>
         <tiled>true</tiled>
         <UV>
 			<Tile>3.5 3.5</Tile>
@@ -933,33 +889,11 @@
 		<color2>0.047 0.090 0.122 1.000</color2>
 		<color3>0.184 0.212 0.231 0.784</color3>
 	</camouflage>
-	<camouflage>
-		<annotation>Блок тайленых американских камуфляжей для кораблей с двумя текстурами 4096_4096px для корпуса и 4096_2048px для надстройки</annotation>
-        <name>camo_3_tile</name>
-        <targetShip>PASB506_Arizona_1941</targetShip>
-        <tiled>true</tiled>
-        <UV>
-			<Tile>3.2 3.2</Tile>
-			<Bow_DeckHouse>3.0 1.5</Bow_DeckHouse>
-			<MidFront_DeckHouse>3.0 1.5</MidFront_DeckHouse>
-			<MidBack_DeckHouse>3.0 1.5</MidBack_DeckHouse>
-			<Stern_DeckHouse>3.0 1.5</Stern_DeckHouse>
-			<Gun>0.6 0.6</Gun>
-			<Bulge>1.5 1.5</Bulge>
-        </UV>
-        <Textures>
-            <Tile>content/gameplay/common/camouflage/textures/Dazzle_tile_camo_03.dds</Tile>
-        </Textures>
-		<color0>0.475 0.604 0.686 0.784</color0>
-		<color1>0.004 0.012 0.020 1.000</color1>
-		<color2>0.047 0.090 0.122 1.000</color2>
-		<color3>0.184 0.212 0.231 0.784</color3>
-	</camouflage>
 	<!--//Economic camouflage-->
 	<camouflage>
 		<annotation>Блок тайленых американских экномических камуфляжей для крейсеров с квадратной текстурой</annotation>
         <name>camo_economic_tile</name>
-        <targetShip>PASC001_Erie_1936 PASC024_Phoenix_1917 PASC005_Omaha_1923 PASC007_Cleveland_1945 PASC012_Pensacola_1944 PASC014_New_Orlean_1944 PASC017_Baltimore_1944 PASC020_Des_Moines_1948 PASB001 PASC006_Atlanta_1942 PASC044_Marblehead_1924 PASC045_Marblehead_1924_Asus PASC019_Burlington_1944 PASC003_Albany_1898</targetShip>
+        <targetShip>PASC001_Erie_1936 PASC024_Phoenix_1917 PASC005_Omaha_1923 PASC007_Cleveland_1945 PASC012_Pensacola_1944 PASC014_New_Orlean_1944 PASC017_Baltimore_1944 PASC020_Des_Moines_1948 PASB001 PASC006_Atlanta_1942 PASC044_Marblehead_1924 PASC045_Marblehead_1924_Asus PASC019_Burlington_1944 PASC003_Albany_1898 PASC016_Worcester_1948</targetShip>
         <tiled>true</tiled>
         <UV>
 			<Tile>2.9 2.9</Tile>
@@ -1003,7 +937,7 @@
 	<camouflage>
 		<annotation>Блок тайленых американских экномических камуфляжей для большинства кораблей с квадратной текстурой</annotation>
         <name>camo_economic_tile</name>
-        <targetShip>PASA004_Langley_1929 PASA002_Bogue_1942 PASA006_Independence_1945 PASA010_Ranger_1944 PASA012_Lexington_1944 PASA013_Essex_1945 PASA008_Saipan_1943 PASB001_Michigan_1916 PASB004_Arkansas_1912 PASB006_New_York_1934 PASB034_New_Mexico_1941 PASB008_Colorado_1945 PASB012_North_Carolina_1945 PASB018_Iowa_1944 PASB017_Montana_1945 PASB013_Arkansas_1912 PASD002_Sampson_1917 PASD027_Wickes_1918 PASD019_Clemson_1920 PASD014_Leader_1919 PASD005_Farragut_1944 PASD006_Mahan_1936 PASD008_Benson_1945 PASD021_Fletcher_1943 PASD013_Gearing_1945 PASD029_Sims_1941 PASD502_Smith PASA507_Saipan_1946</targetShip>
+        <targetShip>PASA004_Langley_1929 PASA002_Bogue_1942 PASA006_Independence_1945 PASA010_Ranger_1944 PASA012_Lexington_1944 PASA013_Essex_1945 PASA008_Saipan_1943 PASB001_Michigan_1916 PASB004_Arkansas_1912 PASB006_New_York_1934 PASB034_New_Mexico_1941 PASB008_Colorado_1945 PASB012_North_Carolina_1945 PASB018_Iowa_1944 PASB017_Montana_1945 PASB013_Arkansas_1912 PASD002_Sampson_1917 PASD027_Wickes_1918 PASD019_Clemson_1920 PASD014_Leader_1919 PASD005_Farragut_1944 PASD006_Mahan_1936 PASD008_Benson_1945 PASD021_Fletcher_1943 PASD013_Gearing_1945 PASD029_Sims_1941 PASD502_Smith PASA507_Saipan_1946 PASB705_Texas_1944</targetShip>
         <tiled>true</tiled>
         <UV>
 			<Tile>3.5 3.5</Tile>
@@ -1044,34 +978,12 @@
 		<color2>0.047 0.090 0.122 1.000</color2>
 		<color3>0.000 0.000 0.000 0.000</color3>
 	</camouflage>
-	<camouflage>
-		<annotation>Блок тайленых американских экномических камуфляжей для кораблей с двумя текстурами 4096_4096px для корпуса и 4096_2048px для надстройки</annotation>
-        <name>camo_economic_tile</name>
-        <targetShip>PASB506_Arizona_1941</targetShip>
-        <tiled>true</tiled>
-        <UV>
-			<Tile>3.2 3.2</Tile>
-			<Bow_DeckHouse>3.0 1.5</Bow_DeckHouse>
-			<MidFront_DeckHouse>3.0 1.5</MidFront_DeckHouse>
-			<MidBack_DeckHouse>3.0 1.5</MidBack_DeckHouse>
-			<Stern_DeckHouse>3.0 1.5</Stern_DeckHouse>
-			<Gun>0.6 0.6</Gun>
-			<Bulge>1.5 1.5</Bulge>
-        </UV>
-        <Textures>
-            <Tile>content/gameplay/common/camouflage/textures/Dazzle_tile_camo_04.dds</Tile>
-        </Textures>
-		<color0>0.004 0.012 0.020 1.000</color0>
-		<color1>0.475 0.604 0.686 0.784</color1>
-		<color2>0.047 0.090 0.122 1.000</color2>
-		<color3>0.000 0.000 0.000 0.000</color3>
-	</camouflage>
 <!--//Russian ships tile camouflage-->
 	<!--//tier 1-->
 	<camouflage>
 		<annotation>Блок тайленых русских камуфляжей для больших кораблей с квадратной текстурой 4k</annotation>
         <name>camo_1_tile</name>
-        <targetShip>PRSB001_Nikolay_I PRSC001_Avrora_1917 PRSC002_Diana_1905 PRSC003_Murmansk_1944 PRSC010_Diana_1905_Asus PRSC508_Kutuzov_1952 PRSC105_Kirov PRSC106_Pr_94_Budeny PRSC107_Schors PRSC108_Pr_68_Chapaev PRSC109_Dmitry_Donskoy PRSC110_Pr_66_Moskva</targetShip>
+        <targetShip>PRSB001_Nikolay_I PRSC001_Avrora_1917 PRSC002_Diana_1905 PRSC003_Murmansk_1944 PRSC010_Diana_1905_Asus PRSC508_Kutuzov_1952 PRSC105_Kirov PRSC106_Pr_94_Budeny PRSC107_Schors PRSC108_Pr_68_Chapaev PRSC109_Dmitry_Donskoy PRSC110_Pr_66_Moskva PRSC506_Molotov_1943</targetShip>
         <tiled>true</tiled>
         <UV>
 			<Tile>3.7 3.7</Tile>
@@ -1160,7 +1072,7 @@
 	<camouflage>
 		<annotation>Блок тайленых русских камуфляжей для больших кораблей с квадратной текстурой 4k</annotation>
         <name>camo_2_tile</name>
-        <targetShip>PRSB001_Nikolay_I PRSC001_Avrora_1917 PRSC002_Diana_1905 PRSC003_Murmansk_1944 PRSC010_Diana_1905_Asus PRSC508_Kutuzov_1952 PRSC105_Kirov PRSC106_Pr_94_Budeny PRSC107_Schors PRSC108_Pr_68_Chapaev PRSC109_Dmitry_Donskoy PRSC110_Pr_66_Moskva</targetShip>
+        <targetShip>PRSB001_Nikolay_I PRSC001_Avrora_1917 PRSC002_Diana_1905 PRSC003_Murmansk_1944 PRSC010_Diana_1905_Asus PRSC508_Kutuzov_1952 PRSC105_Kirov PRSC106_Pr_94_Budeny PRSC107_Schors PRSC108_Pr_68_Chapaev PRSC109_Dmitry_Donskoy PRSC110_Pr_66_Moskva PRSC506_Molotov_1943</targetShip>
         <tiled>true</tiled>
         <UV>
 			<Tile>3 3</Tile>
@@ -1249,7 +1161,7 @@
 	<camouflage>
 		<annotation>Блок тайленых русских камуфляжей для больших кораблей с квадратной текстурой 4k</annotation>
         <name>camo_3_tile</name>
-        <targetShip>PRSB001_Nikolay_I PRSC001_Avrora_1917 PRSC002_Diana_1905 PRSC003_Murmansk_1944 PRSC010_Diana_1905_Asus PRSC508_Kutuzov_1952 PRSC105_Kirov PRSC106_Pr_94_Budeny PRSC107_Schors PRSC108_Pr_68_Chapaev PRSC109_Dmitry_Donskoy PRSC110_Pr_66_Moskva</targetShip>
+        <targetShip>PRSB001_Nikolay_I PRSC001_Avrora_1917 PRSC002_Diana_1905 PRSC003_Murmansk_1944 PRSC010_Diana_1905_Asus PRSC508_Kutuzov_1952 PRSC105_Kirov PRSC106_Pr_94_Budeny PRSC107_Schors PRSC108_Pr_68_Chapaev PRSC109_Dmitry_Donskoy PRSC110_Pr_66_Moskva PRSC506_Molotov_1943</targetShip>
         <tiled>true</tiled>
         <UV>
 			<Tile>3.7 3.7</Tile>
@@ -1338,7 +1250,7 @@
 	<camouflage>
 		<annotation>Блок тайленых русских экономических камуфляжей для больших кораблей с квадратной текстурой 4k</annotation>
         <name>camo_economic_tile</name>
-        <targetShip>PRSB001_Nikolay_I PRSC001_Avrora_1917 PRSC002_Diana_1905 PRSC003_Murmansk_1944 PRSC010_Diana_1905_Asus PRSC508_Kutuzov_1952 PRSC105_Kirov PRSC106_Pr_94_Budeny PRSC107_Schors PRSC108_Pr_68_Chapaev PRSC109_Dmitry_Donskoy PRSC110_Pr_66_Moskva</targetShip>
+        <targetShip>PRSB001_Nikolay_I PRSC001_Avrora_1917 PRSC002_Diana_1905 PRSC003_Murmansk_1944 PRSC010_Diana_1905_Asus PRSC508_Kutuzov_1952 PRSC105_Kirov PRSC106_Pr_94_Budeny PRSC107_Schors PRSC108_Pr_68_Chapaev PRSC109_Dmitry_Donskoy PRSC110_Pr_66_Moskva PRSC506_Molotov_1943</targetShip>
         <tiled>true</tiled>
         <UV>
 			<Tile>3.7 3.7</Tile>
@@ -2314,28 +2226,6 @@
 		<color2>0.000 0.142 0.161 0.750</color2>
 		<color3>0.631 0.616 0.522 0.700</color3>
     </camouflage>
-	<camouflage>
-		<annotation>Блок тайленого камуфляжа для ранговых боев на корабли с двумя текстурами 4096_4096px для корпуса и 4096_2048px для надстройки Аризона</annotation>
-        <name>camo_ranked_tile</name>
-        <targetShip>PASB506_Arizona_1941</targetShip>
-        <tiled>true</tiled>
-        <UV>
-			<Tile>3.5 3.5</Tile>
-			<Bow_DeckHouse>3.4 1.7</Bow_DeckHouse>
-			<MidFront_DeckHouse>3.4 1.7</MidFront_DeckHouse>
-			<MidBack_DeckHouse>3.4 1.7</MidBack_DeckHouse>
-			<Stern_DeckHouse>3.4 1.7</Stern_DeckHouse>
-			<Gun>0.65 0.65</Gun>
-			<Bulge>1.5 1.5</Bulge>
-        </UV>
-        <Textures>
-            <Tile>content/gameplay/common/camouflage/textures/Dazzle_tile_camo_01.dds</Tile>
-        </Textures>
-		<color0>0.154 0.182 0.201 0.650</color0>
-		<color1>0.008 0.008 0.008 0.900</color1>
-		<color2>0.000 0.142 0.161 0.750</color2>
-		<color3>0.631 0.616 0.522 0.700</color3>
-	</camouflage>
 	<!--//World of Warships Super Test camouflage-->
 	<camouflage>
 		<annotation>Блок тайленого камуфляжа для супер тестеров на корабли с квадратной текстурой</annotation>
@@ -2480,28 +2370,6 @@
 		<color2>0.045 0.080 0.200 0.820</color2>
 		<color3>0.154 0.182 0.201 0.650</color3>
     </camouflage>
-	<camouflage>
-		<annotation>Блок тайленого камуфляжа для супер тестеров линкора Аризона</annotation>
-        <name>camo_supertest_tile</name>
-        <targetShip>PASB506_Arizona_1941</targetShip>
-        <tiled>true</tiled>
-        <UV>
-			<Tile>3.8 3.8</Tile>
-			<Bow_DeckHouse>3.8 1.9</Bow_DeckHouse>
-			<MidFront_DeckHouse>3.8 1.9</MidFront_DeckHouse>
-			<MidBack_DeckHouse>3.8 1.9</MidBack_DeckHouse>
-			<Stern_DeckHouse>3.8 1.9</Stern_DeckHouse>
-			<Gun>0.6 0.6</Gun>
-			<Bulge>1.5 1.5</Bulge>
-        </UV>
-        <Textures>
-            <Tile>content/gameplay/common/camouflage/textures/Dazzle_tile_camo_03.dds</Tile>
-        </Textures>
-		<color0>0.008 0.008 0.008 0.900</color0>
-		<color1>0.631 0.616 0.522 0.700</color1>
-		<color2>0.045 0.080 0.200 0.820</color2>
-		<color3>0.154 0.182 0.201 0.650</color3>
-	</camouflage>
 <!--//Event camouflage-->
 	<!--//Halloween tile camouflage-->
 	<camouflage>
@@ -3169,29 +3037,7 @@
 		<color1>0.025 0.055 0.135 1.000</color1>
 		<color2>0.631 0.616 0.522 0.700</color2>
 		<color3>0.078 0.215 0.217 1.000</color3>
-    </camouflage>
-	<camouflage>
-		<annotation>Блок тайленого камуфляжа для американского баскетбольного ивента на корабли с двумя текстурами 4096_4096px для корпуса и 4096_2048px для надстройки Аризона</annotation>
-        <name>camo_basketball_tile_1</name>
-        <targetShip>PASB506_Arizona_1941</targetShip>
-        <tiled>true</tiled>
-        <UV>
-			<Tile>3.5 3.5</Tile>
-			<Bow_DeckHouse>3.4 1.7</Bow_DeckHouse>
-			<MidFront_DeckHouse>3.4 1.7</MidFront_DeckHouse>
-			<MidBack_DeckHouse>3.4 1.7</MidBack_DeckHouse>
-			<Stern_DeckHouse>3.4 1.7</Stern_DeckHouse>
-			<Gun>0.65 0.65</Gun>
-			<Bulge>1.5 1.5</Bulge>
-        </UV>
-        <Textures>
-            <Tile>content/gameplay/common/camouflage/textures/Dazzle_tile_camo_01.dds</Tile>
-        </Textures>
-		<color0>0.025 0.055 0.135 1.000</color0>
-		<color1>0.025 0.055 0.135 1.000</color1>
-		<color2>0.631 0.616 0.522 0.700</color2>
-		<color3>0.078 0.215 0.217 1.000</color3>
-	</camouflage>	
+    </camouflage>	
 	<!--//Oklahoma Sooners Team 2-->
 	<camouflage>
 		<annotation>Блок тайленого камуфляжа для американского баскетбольного ивента на корабли с квадратной текстурой</annotation>
@@ -3402,28 +3248,6 @@
 		<color2>0.631 0.616 0.522 0.700</color2>
 		<color3>0.004 0.004 0.004 0.750</color3>
     </camouflage>
-	<camouflage>
-		<annotation>Блок тайленого камуфляжа для американского баскетбольного ивента на корабли с двумя текстурами 4096_4096px для корпуса и 4096_2048px для надстройки Аризона</annotation>
-        <name>camo_basketball_tile_2</name>
-        <targetShip>PASB506_Arizona_1941</targetShip>
-        <tiled>true</tiled>
-        <UV>
-			<Tile>3.5 3.5</Tile>
-			<Bow_DeckHouse>3.4 1.7</Bow_DeckHouse>
-			<MidFront_DeckHouse>3.4 1.7</MidFront_DeckHouse>
-			<MidBack_DeckHouse>3.4 1.7</MidBack_DeckHouse>
-			<Stern_DeckHouse>3.4 1.7</Stern_DeckHouse>
-			<Gun>0.65 0.65</Gun>
-			<Bulge>1.5 1.5</Bulge>
-        </UV>
-        <Textures>
-            <Tile>content/gameplay/common/camouflage/textures/Dazzle_tile_camo_01.dds</Tile>
-        </Textures>
-		<color0>0.205 0.004 0.015 0.950</color0>
-		<color1>0.205 0.004 0.015 0.950</color1>
-		<color2>0.631 0.616 0.522 0.700</color2>
-		<color3>0.004 0.004 0.004 0.750</color3>
-	</camouflage>
 	<!--//North Carolina Tar Heels Team 3-->
 	<camouflage>
 		<annotation>Блок тайленого камуфляжа для американского баскетбольного ивента на корабли с квадратной текстурой</annotation>
@@ -3634,28 +3458,6 @@
 		<color2>0.631 0.616 0.522 0.700</color2>
 		<color3>0.025 0.055 0.135 1.000</color3>
     </camouflage>
-	<camouflage>
-		<annotation>Блок тайленого камуфляжа для американского баскетбольного ивента на корабли с двумя текстурами 4096_4096px для корпуса и 4096_2048px для надстройки Аризона</annotation>
-        <name>camo_basketball_tile_3</name>
-        <targetShip>PASB506_Arizona_1941</targetShip>
-        <tiled>true</tiled>
-        <UV>
-			<Tile>3.5 3.5</Tile>
-			<Bow_DeckHouse>3.4 1.7</Bow_DeckHouse>
-			<MidFront_DeckHouse>3.4 1.7</MidFront_DeckHouse>
-			<MidBack_DeckHouse>3.4 1.7</MidBack_DeckHouse>
-			<Stern_DeckHouse>3.4 1.7</Stern_DeckHouse>
-			<Gun>0.65 0.65</Gun>
-			<Bulge>1.5 1.5</Bulge>
-        </UV>
-        <Textures>
-            <Tile>content/gameplay/common/camouflage/textures/Dazzle_tile_camo_01.dds</Tile>
-        </Textures>
-		<color0>0.145 0.250 0.357 1.000</color0>
-		<color1>0.145 0.250 0.357 1.000</color1>
-		<color2>0.631 0.616 0.522 0.700</color2>
-		<color3>0.025 0.055 0.135 1.000</color3>
-	</camouflage>
 	<!--//Syracuse Orange Team 4-->
 	<camouflage>
 		<annotation>Блок тайленого камуфляжа для американского баскетбольного ивента на корабли с квадратной текстурой</annotation>
@@ -3866,28 +3668,6 @@
 		<color2>0.631 0.616 0.522 0.700</color2>
 		<color3>0.025 0.055 0.135 1.000</color3>
     </camouflage>
-	<camouflage>
-		<annotation>Блок тайленого камуфляжа для американского баскетбольного ивента на корабли с двумя текстурами 4096_4096px для корпуса и 4096_2048px для надстройки Аризона</annotation>
-        <name>camo_basketball_tile_4</name>
-        <targetShip>PASB506_Arizona_1941</targetShip>
-        <tiled>true</tiled>
-        <UV>
-			<Tile>3.5 3.5</Tile>
-			<Bow_DeckHouse>3.4 1.7</Bow_DeckHouse>
-			<MidFront_DeckHouse>3.4 1.7</MidFront_DeckHouse>
-			<MidBack_DeckHouse>3.4 1.7</MidBack_DeckHouse>
-			<Stern_DeckHouse>3.4 1.7</Stern_DeckHouse>
-			<Gun>0.65 0.65</Gun>
-			<Bulge>1.5 1.5</Bulge>
-        </UV>
-        <Textures>
-            <Tile>content/gameplay/common/camouflage/textures/Dazzle_tile_camo_01.dds</Tile>
-        </Textures>
-		<color0>0.394 0.090 0.012 1.000</color0>
-		<color1>0.394 0.090 0.012 1.000</color1>
-		<color2>0.631 0.616 0.522 0.700</color2>
-		<color3>0.025 0.055 0.135 1.000</color3>
-	</camouflage>
 	<!--//MGT-20_tiled_camo-->
 	<camouflage>
 		<annotation>Блок тайленого камуфляжа для ивента MGT-20 на корабли с квадратной текстурой</annotation>
@@ -4098,28 +3878,6 @@
 		<color2>0.066 0.075 0.087 1.000</color2>
 		<color3>0.014 0.015 0.018 0.900</color3>
     </camouflage>
-	<camouflage>
-		<annotation>Блок тайленого камуфляжа для ивента MGT-20 на корабли с двумя текстурами 4096_4096px для корпуса и 4096_2048px для надстройки Аризона</annotation>
-        <name>camo_mgt_20_tile</name>
-        <targetShip>PASB506_Arizona_1941</targetShip>
-        <tiled>true</tiled>
-        <UV>
-			<Tile>3.5 3.5</Tile>
-			<Bow_DeckHouse>3.4 1.7</Bow_DeckHouse>
-			<MidFront_DeckHouse>3.4 1.7</MidFront_DeckHouse>
-			<MidBack_DeckHouse>3.4 1.7</MidBack_DeckHouse>
-			<Stern_DeckHouse>3.4 1.7</Stern_DeckHouse>
-			<Gun>0.65 0.65</Gun>
-			<Bulge>1.5 1.5</Bulge>
-        </UV>
-        <Textures>
-            <Tile>content/gameplay/common/camouflage/textures/Dazzle_tile_camo_01.dds</Tile>
-        </Textures>
-		<color0>0.010 0.008 0.008 1.000</color0>
-		<color1>0.130 0.130 0.145 1.000</color1>
-		<color2>0.066 0.075 0.087 1.000</color2>
-		<color3>0.014 0.015 0.018 0.900</color3>
-	</camouflage>
 <!--//Unique camouflage and colors block-->
 	<!--//Japanese premium ships camouflage-->
 	<camouflage>
@@ -4243,10 +4001,10 @@
 			<Stern_Hull>content/gameplay/common/camouflage/textures/JSB008_Ishizuchi_1921_camo_01.dds</Stern_Hull>
 			<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
 		</Textures>
-		<color0>0.035 0.047 0.012 0.784</color0>
-		<color1>0.667 0.702 0.604 0.784</color1>
-		<color2>0.263 0.275 0.133 1.000</color2>
-		<color3>0.000 0.000 0.000 0.000</color3>
+		<color0>0.000 0.000 0.000 0.000</color0>
+		<color1>0.095 0.095 0.110 1.000</color1>
+		<color2>0.045 0.045 0.050 0.000</color2>
+		<color3>0.120 0.120 0.150 1.000</color3>
 	</camouflage>
 	<camouflage>
 		<annotation>Блок уникального дефолтного камуфляжа для японского крейсера Тоне</annotation>
@@ -4600,10 +4358,10 @@
 			<Gun>0.57 0.57</Gun>
 		</UV>
 		<Textures>
-			<Bow_Hull>content/gameplay/common/camouflage/textures/ASC006_Atlanta_1942_a_camo_01.dds</Bow_Hull>
-			<MidFront_Hull>content/gameplay/common/camouflage/textures/ASC006_Atlanta_1942_a_camo_01.dds</MidFront_Hull>
-			<MidBack_Hull>content/gameplay/common/camouflage/textures/ASC006_Atlanta_1942_a_camo_01.dds</MidBack_Hull>
-			<Stern_Hull>content/gameplay/common/camouflage/textures/ASC006_Atlanta_1942_a_camo_01.dds</Stern_Hull>
+			<Bow_Hull>content/gameplay/common/camouflage/textures/ASC006_Atlanta_1942_camo_01.dds</Bow_Hull>
+			<MidFront_Hull>content/gameplay/common/camouflage/textures/ASC006_Atlanta_1942_camo_01.dds</MidFront_Hull>
+			<MidBack_Hull>content/gameplay/common/camouflage/textures/ASC006_Atlanta_1942_camo_01.dds</MidBack_Hull>
+			<Stern_Hull>content/gameplay/common/camouflage/textures/ASC006_Atlanta_1942_camo_01.dds</Stern_Hull>
 			<Gun>content/gameplay/common/camouflage/textures/Dazzle_tile_camo_01.dds</Gun>
 		</Textures>
 		<color0>0.184 0.212 0.231 0.784</color0>
@@ -4654,31 +4412,6 @@
 		<color3>0.000 0.000 0.000 0.000</color3>
 	</camouflage>
 	<camouflage>
-		<annotation>Блок уникального дефолтного камуфляжа для американского линкора Аризона</annotation>
-		<name>camo_permanent_1</name>
-		<targetShip>PASB506_Arizona_1941</targetShip>
-		<tiled>false</tiled>
-		<UV>
-			<Tile>1 1</Tile>
-			<Gun>1 1</Gun>
-		</UV>
-		<Textures>
-			<Bow_Hull>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Bow_Hull>
-			<Bow_DeckHouse>content/gameplay/common/camouflage/textures/ASB035_Arizona_1941_DeckHouse_camo_01.dds</Bow_DeckHouse>
-			<MidFront_Hull>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</MidFront_Hull>
-			<MidFront_DeckHouse>content/gameplay/common/camouflage/textures/ASB035_Arizona_1941_DeckHouse_camo_01.dds</MidFront_DeckHouse>
-			<MidBack_Hull>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</MidBack_Hull>
-			<MidBack_DeckHouse>content/gameplay/common/camouflage/textures/ASB035_Arizona_1941_DeckHouse_camo_01.dds</MidBack_DeckHouse>
-			<Stern_Hull>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Stern_Hull>
-			<Stern_DeckHouse>content/gameplay/common/camouflage/textures/ASB035_Arizona_1941_DeckHouse_camo_01.dds</Stern_DeckHouse>
-			<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
-		</Textures>
-		<color0>0.022 0.060 0.090 0.950</color0>
-		<color1>0.495 0.564 0.646 0.784</color1>
-		<color2>0.000 0.000 0.000 0.000</color2>
-		<color3>0.000 0.000 0.000 0.000</color3>
-	</camouflage>
-	<camouflage>
 		<annotation>Блок уникального дефолтного камуфляжа для американского авианосца Сайпан</annotation>
 		<name>camo_permanent_1</name>
 		<targetShip>PASA507_Saipan_1946</targetShip>
@@ -4703,9 +4436,33 @@
 		<color2>0.004 0.012 0.020 1.000</color2>
 		<color3>0.000 0.000 0.000 0.000</color3>
 	</camouflage>
+	<camouflage>
+		<annotation>Блок уникального дефолтного камуфляжа для американского линкора Техас</annotation>
+		<name>camo_permanent_1</name>
+		<targetShip>PASB705_Texas_1944</targetShip>
+		<tiled>false</tiled>
+		<UV>
+			<Tile>1 1</Tile>
+			<Gun>1 1</Gun>
+		</UV>
+		<Textures>
+			<Bow_Hull>content/gameplay/common/camouflage/textures/ASB007_Texas_1944_Hull_camo_02.dds</Bow_Hull>
+			<MidFront_Hull>content/gameplay/common/camouflage/textures/ASB007_Texas_1944_Hull_camo_02.dds</MidFront_Hull>
+			<MidFront_DeckHouse>content/gameplay/common/camouflage/textures/ASB007_Texas_1944_Deckhouse_camo_02.dds</MidFront_DeckHouse>
+			<MidBack_Hull>content/gameplay/common/camouflage/textures/ASB007_Texas_1944_Hull_camo_02.dds</MidBack_Hull>
+			<MidBack_DeckHouse>content/gameplay/common/camouflage/textures/ASB007_Texas_1944_Deckhouse_camo_02.dds</MidBack_DeckHouse>
+			<Stern_Hull>content/gameplay/common/camouflage/textures/ASB007_Texas_1944_Hull_camo_02.dds</Stern_Hull>
+			<Stern_DeckHouse>content/gameplay/common/camouflage/textures/ASB007_Texas_1944_Deckhouse_camo_02.dds</Stern_DeckHouse>
+			<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
+		</Textures>
+		<color0>0.184 0.212 0.231 0.784</color0>
+		<color1>0.047 0.090 0.122 1.000</color1>
+		<color2>0.014 0.028 0.043 1.000</color2>
+		<color3>0.475 0.604 0.686 0.784</color3>
+	</camouflage>
 	<!--//American tech tree ships camouflage-->
 	<camouflage>
-		<annotation>Блок новогоднего камуфляжа для американского крейсера Кливленд</annotation>
+		<annotation>Блок новогоднего камуфляжа для американского крейсера 6 уровня Кливленд</annotation>
 		<name>camo_new_year_1</name>
 		<targetShip>PASC007_Cleveland_1945</targetShip>
 		<tiled>false</tiled>
@@ -4861,27 +4618,6 @@
 		<color1>0.400 0.040 0.020 1.000</color1>
 		<color2>0.431 0.431 0.431 1.000</color2>
 		<color3>0.225 0.145 0.070 1.000</color3>
-	</camouflage>
-	<camouflage>
-		<annotation>Блок новогоднего камуфляжа для немецкого крейсера Нюрнберг</annotation>
-		<name>camo_new_year_1</name>
-		<targetShip>PGSC106_Nurnberg</targetShip>
-		<tiled>false</tiled>
-		<UV>
-			<Tile>1 1</Tile>
-			<Gun>0.6 0.6</Gun>
-		</UV>
-		<Textures>
-			<Bow_Hull>content/gameplay/common/camouflage/textures/GSC009_Nurnberg_1935_camo_01.dds</Bow_Hull>
-			<MidFront_Hull>content/gameplay/common/camouflage/textures/GSC009_Nurnberg_1935_camo_01.dds</MidFront_Hull>
-			<MidBack_Hull>content/gameplay/common/camouflage/textures/GSC009_Nurnberg_1935_camo_01.dds</MidBack_Hull>
-			<Stern_Hull>content/gameplay/common/camouflage/textures/GSC009_Nurnberg_1935_camo_01.dds</Stern_Hull>
-			<Gun>content/gameplay/common/camouflage/textures/IJN_tile_camo_02.dds</Gun>
-		</Textures>
-		<color0>0.015 0.027 0.002 0.950</color0>
-		<color1>0.225 0.004 0.004 0.950</color1>
-		<color2>0.631 0.616 0.522 0.700</color2>
-		<color3>0.020 0.115 0.030 0.950</color3>
 	</camouflage>
 	<!--//German tech tree ships camouflage-->
 	<camouflage>
@@ -5078,6 +4814,27 @@
 		<color0>0.012 0.012 0.012 1.000</color0>
 		<color1>0.631 0.616 0.522 0.700</color1>
 		<color2>0.240 0.320 0.250 1.000</color2>
+		<color3>0.195 0.105 0.060 0.750</color3>
+	</camouflage>
+	<camouflage>
+		<annotation>Блок уникального дефолтного камуфляжа для крейсера Молотов</annotation>
+		<name>camo_permanent_1</name>
+		<targetShip>PRSC506_Molotov_1943</targetShip>
+		<tiled>false</tiled>
+		<UV>
+			<Tile>1 1</Tile>
+			<Gun>0.75 0.75</Gun>
+		</UV>
+		<Textures>
+			<Bow_Hull>content/gameplay/common/camouflage/textures/RSC026_Molotov_1943_camo_01.dds</Bow_Hull>
+			<MidFront_Hull>content/gameplay/common/camouflage/textures/RSC026_Molotov_1943_camo_01.dds</MidFront_Hull>
+			<MidBack_Hull>content/gameplay/common/camouflage/textures/RSC026_Molotov_1943_camo_01.dds</MidBack_Hull>
+			<Stern_Hull>content/gameplay/common/camouflage/textures/RSC026_Molotov_1943_camo_01.dds</Stern_Hull>
+			<Gun>content/gameplay/common/camouflage/textures/Dazzle_tile_camo_01.dds</Gun>
+		</Textures>
+		<color0>0.002 0.002 0.002 0.550</color0>
+		<color1>0.631 0.616 0.522 0.450</color1>
+		<color2>0.240 0.390 0.260 1.000</color2>
 		<color3>0.195 0.105 0.060 0.750</color3>
 	</camouflage>
 	<!--//Russian tech tree ships camouflage-->

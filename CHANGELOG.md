@@ -1,5 +1,10 @@
 # Changelog of _implemented_ aka _compiled_ (i.e. not WIP or minute changes in texts) features
 
+20160411 Update for 0.5.4.2
+---
+* New texts are added
+* Camo mod is updated to remove basketball camo and add Texas and Molotov to standard camo lists
+
 20160401 Update for 0.5.4.1
 ---
 * New texts are added

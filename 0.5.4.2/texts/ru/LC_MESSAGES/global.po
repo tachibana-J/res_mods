@@ -9018,10 +9018,26 @@ msgstr ""
 "艦の被発見性を低減し、艦および艦長の取得 "
 "EXP を向上させる。"
 
+msgid "IDS_PAEC305_TEXAS"
+msgstr "タイプ 9 – Texas"
+
+msgid "IDS_PAEC305_TEXAS_DESCRIPTION"
+msgstr ""
+"敵の射撃精度を低下させ、艦および艦長の取得 "
+"EXP を向上させる。"
+
 msgid "IDS_PAEC306_ARIZONA"
 msgstr "タイプ 9 – Arizona"
 
 msgid "IDS_PAEC306_ARIZONA_DESCRIPTION"
+msgstr ""
+"敵の射撃精度を低下させ、艦および艦長の取得 "
+"EXP を向上させる。"
+
+msgid "IDS_PAEC307_TEXAS"
+msgstr "タイプ 9 – Texas"
+
+msgid "IDS_PAEC307_TEXAS_DESCRIPTION"
 msgstr ""
 "敵の射撃精度を低下させ、艦および艦長の取得 "
 "EXP を向上させる。"
@@ -9358,6 +9374,9 @@ msgstr "305 mm/50 Mk7"
 msgid "IDS_PAGM125_14IN_45_MK8"
 msgstr "356 mm/45 Mk8"
 
+msgid "IDS_PAGM126_14IN_45_MK8"
+msgstr "356 mm/45 Mk8"
+
 msgid "IDS_PAGM130_4IN50_TWIN_MOUNT"
 msgstr "102 mm/50 Mk14"
 
@@ -9417,6 +9436,9 @@ msgstr "356 mm/45 Mk9"
 
 msgid "IDS_PAGM163_14IN45_TRIPLE"
 msgstr "356 mm/45 Mk9"
+
+msgid "IDS_PAGM164_5IN38_MK32_MOD12"
+msgstr "127 mm/38 Mk32"
 
 msgid "IDS_PAGS001_5IN38_MK30_MOD0"
 msgstr "127 mm/38 Mk30 mod. 0"
@@ -9749,6 +9771,12 @@ msgid "IDS_PAPA062_SHELL_356MM_AP_MK_16_ARIZONA"
 msgstr "356 mm AP Mk16"
 
 msgid "IDS_PAPA063_SHELL_356MM_HE_MK_22_ARIZONA"
+msgstr "356 mm HE/HC Mk22"
+
+msgid "IDS_PAPA066_SHELL_356MM_AP_MK_16_TEXAS"
+msgstr "356 mm AP Mk16"
+
+msgid "IDS_PAPA067_SHELL_356MM_HE_MK_22_TEXAS"
 msgstr "356 mm HE/HC Mk22"
 
 msgid "IDS_PAPB001_BOMB_6"
@@ -10125,6 +10153,18 @@ msgstr "2"
 
 msgid "IDS_PASB506_YEAR"
 msgstr "1916"
+
+msgid "IDS_PASB705"
+msgstr "Texas"
+
+msgid "IDS_PASB705_DESCR"
+msgstr "戦艦テキサスは、アメリカ海軍初の超弩級戦艦でした。大幅な改装により、対水雷防御力および水平装甲の強化が図られました。二次大戦中には、強力な対空兵装が追加されました。"
+
+msgid "IDS_PASB705_NUMBER"
+msgstr "2"
+
+msgid "IDS_PASB705_YEAR"
+msgstr "1914"
 
 msgid "IDS_PASB801"
 msgstr "South Carolina"
@@ -10595,7 +10635,13 @@ msgstr "152 mm/50 Mk6"
 msgid "IDS_PAUA211_102_50_MK12"
 msgstr "102 mm/50 Mk12"
 
+msgid "IDS_PAUA212_102_50_MK12_CS"
+msgstr "102 mm/50 Mk12"
+
 msgid "IDS_PAUA221_305_45_MK5"
+msgstr "305 mm/45 Mk5"
+
+msgid "IDS_PAUA222_305_45_MK5_CS"
 msgstr "305 mm/45 Mk5"
 
 msgid "IDS_PAUA301_152_50_MK8"
@@ -10636,6 +10682,9 @@ msgstr "152 mm/53 Mk13/Mk16"
 
 msgid "IDS_PAUA431_152_53_MK16_MK13_CINCINNATI"
 msgstr "152 mm/53 Mk13/Mk16"
+
+msgid "IDS_PAUA441_356_45_MK8_TEXAS"
+msgstr "356 mm/45 Mk8"
 
 msgid "IDS_PAUA501_152_47_CL55"
 msgstr "152 mm/47 Mk16"
@@ -10769,6 +10818,12 @@ msgstr "Douglas XSB2D"
 msgid "IDS_PAUB509_DOUGLAS_AD1_SAIPAN"
 msgstr "Douglas AD-1 Skyraider"
 
+msgid "IDS_PAUB551_DOUGLAS_BTD_1_0"
+msgstr "Douglas BTD-1 Destroyer"
+
+msgid "IDS_PAUB552_GRUMMAN_TBM3_0"
+msgstr "Grumman TBM-3 Avenger"
+
 msgid "IDS_PAUB553_DOUGLAS_XSB2D_SAIPAN"
 msgstr "Douglas XSB2D Destroyer"
 
@@ -10817,6 +10872,12 @@ msgstr "Douglas SBD-3 Dauntless"
 msgid "IDS_PAUD013_DOUGLAS_SBD5"
 msgstr "Douglas SBD-5 Dauntless"
 
+msgid "IDS_PAUD501_CURTISS_SB2C_0"
+msgstr "Curtiss SB2C Helldiver"
+
+msgid "IDS_PAUD510_DOUGLAS_BTD_1_0"
+msgstr "Douglas BTD-1 Destroyer"
+
 msgid "IDS_PAUE000_ENGINE_DEFAULT"
 msgstr "推力 (標準)"
 
@@ -10832,6 +10893,9 @@ msgstr "推力: 16,000 馬力"
 msgid "IDS_PAUE102_ENGINE_20000"
 msgstr "推力: 20,000 馬力"
 
+msgid "IDS_PAUE103_ENGINE_16000_CS"
+msgstr "推力: 16,000 馬力"
+
 msgid "IDS_PAUE111_ENGINE_7500"
 msgstr "推力: 7,500 馬力"
 
@@ -10842,6 +10906,9 @@ msgid "IDS_PAUE201_ENGINE_24000"
 msgstr "推力: 24,000 馬力"
 
 msgid "IDS_PAUE211_ENGINE_18000"
+msgstr "推力: 18,000 馬力"
+
+msgid "IDS_PAUE212_ENGINE_18000_CS"
 msgstr "推力: 18,000 馬力"
 
 msgid "IDS_PAUE221_ENGINE_17600"
@@ -10879,6 +10946,9 @@ msgstr "推力: 90,000 馬力"
 
 msgid "IDS_PAUE441_ENGINE_90000_CINCINNATI"
 msgstr "推力: 90,000 馬力"
+
+msgid "IDS_PAUE451_ENGINE_TEXAS"
+msgstr "推力: 28,100 馬力"
 
 msgid "IDS_PAUE501_ENGINE_100000"
 msgstr "推力: 100,000 馬力"
@@ -11114,6 +11184,9 @@ msgstr "Sampson (A)"
 msgid "IDS_PAUH112_SAMPSON_1931"
 msgstr "Sampson (B)"
 
+msgid "IDS_PAUH113_SAMPSON_1917_CS"
+msgstr "Sampson (A)"
+
 msgid "IDS_PAUH121_ALBANY_1898"
 msgstr "Albany"
 
@@ -11137,6 +11210,9 @@ msgstr "South Carolina (A)"
 
 msgid "IDS_PAUH222_MICHIGAN_1919"
 msgstr "South Carolina (B)"
+
+msgid "IDS_PAUH223_MICHIGAN_1916_CS"
+msgstr "South Carolina (A)"
 
 msgid "IDS_PAUH301_PHOENIX_1917"
 msgstr "Phoenix (A)"
@@ -11212,6 +11288,9 @@ msgstr "Marblehead"
 
 msgid "IDS_PAUH461_CINCINNATI"
 msgstr "Marblehead"
+
+msgid "IDS_PAUH471_TEXAS"
+msgstr "Texas"
 
 msgid "IDS_PAUH501_CLEVELAND_1943"
 msgstr "Cleveland (A)"
@@ -11420,11 +11499,26 @@ msgstr "Grumman F4F-4 Wildcat"
 msgid "IDS_PAUI031_FM_2"
 msgstr "GM FM-2 Wildcat"
 
+msgid "IDS_PAUI502_GRUMMAN_F6F_0"
+msgstr "Grumman F6F-5 Hellcat"
+
 msgid "IDS_PAUI510_F8F_SAIPAN"
 msgstr "Grumman F8F Bearcat"
 
 msgid "IDS_PAUI512_VOUGHT_F4U_SAIPAN"
 msgstr "Vought F4U-4 Corsair"
+
+msgid "IDS_PAUI513_VOUGHT_F4U_0"
+msgstr "Vought F4U-4 Corsair"
+
+msgid "IDS_PAUI528_GRUMMAN_F6F_3_0"
+msgstr "Grumman F6F-3 Hellcat"
+
+msgid "IDS_PAUI529_VOUGHT_F4U_1A_0"
+msgstr "Vought F4U-1 Corsair"
+
+msgid "IDS_PAUI530_F4F_4_0"
+msgstr "Grumman F4F-4 Wildcat"
 
 msgid "IDS_PAUP301_TS1_T3M"
 msgstr "4x (TS1, T3M)"
@@ -11495,6 +11589,9 @@ msgstr "Mk3 mod. 1"
 msgid "IDS_PAUS212_SUO"
 msgstr "Mk3 mod. 2"
 
+msgid "IDS_PAUS213_SUO_CS"
+msgstr "Mk3 mod. 1"
+
 msgid "IDS_PAUS221_SUO"
 msgstr "Mk3 mod. 1"
 
@@ -11506,6 +11603,9 @@ msgstr "Mk3 mod. 1"
 
 msgid "IDS_PAUS232_SUO"
 msgstr "Mk3 mod. 2"
+
+msgid "IDS_PAUS233_SUO_CS"
+msgstr "Mk3 mod. 1"
 
 msgid "IDS_PAUS301_SUO"
 msgstr "Mk4 mod. 1"
@@ -11550,6 +11650,9 @@ msgid "IDS_PAUS422_SUO"
 msgstr "Mk5 mod. 2"
 
 msgid "IDS_PAUS431_SUO_CINCINNATI"
+msgstr "Mk5 mod. 1"
+
+msgid "IDS_PAUS441_SUO_TEXAS"
 msgstr "Mk5 mod. 1"
 
 msgid "IDS_PAUS501_SUO"
@@ -11669,6 +11772,9 @@ msgstr "Whitehead Mk5"
 msgid "IDS_PAUT103_457_BLISS_LEAVITT_MARK_7"
 msgstr "Bliss Leavitt Mk7"
 
+msgid "IDS_PAUT104_457_WHITEHEAD_MK5_CS"
+msgstr "Whitehead Mk5"
+
 msgid "IDS_PAUT111_457_SMITH"
 msgstr "Bliss Leavitt Mk7"
 
@@ -11680,6 +11786,9 @@ msgstr "Bliss Leavitt Mk3"
 
 msgid "IDS_PAUT203_533_BLISS_LEAVITT_MARK_9"
 msgstr "Bliss Leavitt Mk9"
+
+msgid "IDS_PAUT204_533_BLISS_LEAVITT_MARK_9_0"
+msgstr "Bliss Leavitt Mk9 mod. 1"
 
 msgid "IDS_PAUT301_533_2_APT001"
 msgstr "533 mm (2x Mk14)"
@@ -11702,11 +11811,17 @@ msgstr "533 mm (3x Mk8)"
 msgid "IDS_PAUT402_533_MARK_15_MOD_0"
 msgstr "Mk15 mod. 0"
 
+msgid "IDS_PAUT403_533_MARK_15_MOD_1_0"
+msgstr "Mk15 mod. 1"
+
 msgid "IDS_PAUT502_533_MARK_15_MOD_3"
 msgstr "Mk15 mod. 3"
 
 msgid "IDS_PAUT503_533_MARK_15_MOD_3_ATLANTA"
 msgstr "Mk15 mod. 3"
+
+msgid "IDS_PAUT505_533_MARK_15_MOD_4_0"
+msgstr "Mk15 mod. 4"
 
 msgid "IDS_PAUT521_533_4_APT017"
 msgstr "533 mm (4x Mk14)"
@@ -11725,6 +11840,9 @@ msgstr "533 mm (4x Mk17)"
 
 msgid "IDS_PAUT602_533_MARK_12"
 msgstr "Mark 12"
+
+msgid "IDS_PAUT603_533_MARK_12_0"
+msgstr "Mark 12 mod. 1"
 
 msgid "IDS_PAUT611_533_4_APT001"
 msgstr "533 mm (4x Mk14)"
@@ -17085,6 +17203,12 @@ msgstr "HE-54"
 msgid "IDS_PRPA045_130_AP_PROFINTERN"
 msgstr "SAP-46"
 
+msgid "IDS_PRPA046_180_HE_MOLOTOV"
+msgstr "HE-32"
+
+msgid "IDS_PRPA047_180_AP_MOLOTOV"
+msgstr "AP-32"
+
 msgid "IDS_PRPA601_1ST_AP_APRIL"
 msgstr "BANG"
 
@@ -17159,6 +17283,9 @@ msgstr "53-39 mod. 3"
 
 msgid "IDS_PRPT023_53_51"
 msgstr "53-51"
+
+msgid "IDS_PRPT024_MOLOTOV"
+msgstr "53-38"
 
 msgid "IDS_PRPT901_PLOP"
 msgstr "Plopplop"
@@ -17379,6 +17506,21 @@ msgstr "4"
 msgid "IDS_PRSC505_YEAR"
 msgstr "1928"
 
+msgid "IDS_PRSC506"
+msgstr "Molotov"
+
+msgid "IDS_PRSC506_DESCR"
+msgstr ""
+"巡洋艦モロトフは、キーロフ級巡洋艦に類似していますが、その設計は改良されていました "
+"(プロイェークト 26-"
+"bis)。原型艦に比べて装甲の大幅強化が図られた一方で、極めて強力な兵装と高い速力は維持されていました。"
+
+msgid "IDS_PRSC506_NUMBER"
+msgstr "4"
+
+msgid "IDS_PRSC506_YEAR"
+msgstr "1941"
+
 msgid "IDS_PRSC508"
 msgstr "Mikhail Kutuzov"
 
@@ -17560,6 +17702,9 @@ msgstr "130 mm/55 Model 1913"
 msgid "IDS_PRUA302_130_55_MOD_1928"
 msgstr "130 mm/55 B-7"
 
+msgid "IDS_PRUA303_130_55_MOD_1911_0"
+msgstr "130 mm/55 Model 1913"
+
 msgid "IDS_PRUA401_152_53_MK16_MK13"
 msgstr "152 mm/53 Мк16/Мк13"
 
@@ -17581,6 +17726,9 @@ msgstr "130 mm/55 B-7"
 msgid "IDS_PRUA501_152_MK5"
 msgstr "152 mm/57 MK-5"
 
+msgid "IDS_PRUA511_180_MK3_MOLOTOV"
+msgstr "180 mm/57 MK-3-180"
+
 msgid "IDS_PRUA691_1ST_APRIL"
 msgstr "Pewpew"
 
@@ -17591,6 +17739,9 @@ msgid "IDS_PRUA801_130_B2LM"
 msgstr "130 mm/50 B-2LM"
 
 msgid "IDS_PRUA811_130_B2U"
+msgstr "130 mm/55 B-2-U"
+
+msgid "IDS_PRUA812_130_B2U_0"
 msgstr "130 mm/55 B-2-U"
 
 msgid "IDS_PRUA821_180_MK3"
@@ -17655,6 +17806,9 @@ msgstr "推力: 52,200 馬力"
 
 msgid "IDS_PRUE511_ENGINE_130000"
 msgstr "推力: 130,000 馬力"
+
+msgid "IDS_PRUE521_ENGINE_110000_MOLOTOV"
+msgstr "推力: 110,000 馬力"
 
 msgid "IDS_PRUE601_ENGINE_84500"
 msgstr "推力: 84,500 馬力"
@@ -17772,6 +17926,9 @@ msgstr "Budyonny (A)"
 
 msgid "IDS_PRUH512_BUDENY_B"
 msgstr "Budyonny (B)"
+
+msgid "IDS_PRUH521_MOLOTOV"
+msgstr "Molotov"
 
 msgid "IDS_PRUH601_UDALOY_A"
 msgstr "Udaloi (A)"
@@ -17905,6 +18062,9 @@ msgstr "GFCS VI mod. 1"
 msgid "IDS_PRUS512_SUO"
 msgstr "GFCS VI mod. 2"
 
+msgid "IDS_PRUS521_SUO_MOLOTOV"
+msgstr "GFCS VI mod. 1"
+
 msgid "IDS_PRUS601_SUO"
 msgstr "GFCS VII mod. 1"
 
@@ -17971,6 +18131,9 @@ msgstr "Torpedo Model 1908"
 msgid "IDS_PRUT102_456_PAT_10"
 msgstr "Torpedo Model 1910"
 
+msgid "IDS_PRUT103_456_PAT_10_0"
+msgstr "Torpedo Model 1910 mod. 2"
+
 msgid "IDS_PRUT201_45_36N"
 msgstr "45-36N"
 
@@ -17989,6 +18152,9 @@ msgstr "45-36U"
 msgid "IDS_PRUT321_PAT_1912"
 msgstr "Torpedo Model 1912"
 
+msgid "IDS_PRUT322_PAT_1912_0"
+msgstr "Torpedo Model 1912 mod. 2"
+
 msgid "IDS_PRUT331_53_27"
 msgstr "53-27"
 
@@ -17998,20 +18164,35 @@ msgstr "Mark 11"
 msgid "IDS_PRUT411_533_3_39U"
 msgstr "53-39"
 
+msgid "IDS_PRUT412_533_3_39U_MURM"
+msgstr "53-39"
+
 msgid "IDS_PRUT421_53_36"
 msgstr "53-36 mod. 1"
 
 msgid "IDS_PRUT422_53_38"
 msgstr "53-38"
 
+msgid "IDS_PRUT423_53_38_0"
+msgstr "53-38 mod. 1"
+
 msgid "IDS_PRUT431_PROFINTERN"
 msgstr "53-27"
+
+msgid "IDS_PRUT501_MOLOTOV"
+msgstr "53-38"
 
 msgid "IDS_PRUT601_53_39_MOD1"
 msgstr "53-39 mod. 1"
 
 msgid "IDS_PRUT602_53_38I"
 msgstr "53-38U"
+
+msgid "IDS_PRUT603_53_39_MOD4_0"
+msgstr "53-39 mod. 4"
+
+msgid "IDS_PRUT604_53_38I_0"
+msgstr "53-38U mod. 2"
 
 msgid "IDS_PRUT691_1ST_APRIL"
 msgstr "Plopplop"
@@ -18030,6 +18211,9 @@ msgstr "53-36 mod. 2"
 
 msgid "IDS_PRUT802_53_39_MOD2"
 msgstr "53-39 mod. 2"
+
+msgid "IDS_PRUT803_53_36_MOD3_0"
+msgstr "53-36 mod. 3"
 
 msgid "IDS_PRUT901_53_39_MOD3"
 msgstr "53-39 mod. 3"
