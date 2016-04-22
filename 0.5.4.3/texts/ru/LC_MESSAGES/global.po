@@ -12094,25 +12094,25 @@ msgstr ""
 "艦および艦長の取得 EXP を向上させる。"
 
 msgid "IDS_PCEC009_CAMO_BASKETBALL_TILE_1"
-msgstr "Nothing But Net"
+msgstr "German Layup "
 
 msgid "IDS_PCEC009_CAMO_BASKETBALL_TILE_1_DESCRIPTION"
 msgstr " "
 
 msgid "IDS_PCEC010_CAMO_BASKETBALL_TILE_2"
-msgstr "Salty Slam Dunk"
+msgstr "American Alley-Oop"
 
 msgid "IDS_PCEC010_CAMO_BASKETBALL_TILE_2_DESCRIPTION"
 msgstr " "
 
 msgid "IDS_PCEC011_CAMO_BASKETBALL_TILE_3"
-msgstr "Anchors Aweigh Alley-Oop"
+msgstr "Russian Nothing but Net"
 
 msgid "IDS_PCEC011_CAMO_BASKETBALL_TILE_3_DESCRIPTION"
 msgstr " "
 
 msgid "IDS_PCEC012_CAMO_BASKETBALL_TILE_4"
-msgstr "Leeward Layup"
+msgstr "Japanese Slam Dunk"
 
 msgid "IDS_PCEC012_CAMO_BASKETBALL_TILE_4_DESCRIPTION"
 msgstr " "
@@ -16517,6 +16517,14 @@ msgstr ""
 "敵の射撃精度を低下させ、艦および艦長の取得 "
 "EXP を向上させる。"
 
+msgid "IDS_PREC406_MOLOTOV"
+msgstr "タイプ 10 – Molotov"
+
+msgid "IDS_PREC406_MOLOTOV_DESCRIPTION"
+msgstr ""
+"敵の射撃精度を低下させ、艦および艦長の取得 "
+"EXP を向上させる。"
+
 msgid "IDS_PREC408_KUTUZOV_1952"
 msgstr "タイプ 10 – Mikhail Kutuzov"
 
@@ -16744,6 +16752,9 @@ msgstr "76.2 mm Lender gun"
 msgid "IDS_PRGA066_45MM_SM_20_ZIF"
 msgstr "45 mm SM-20-ZIF"
 
+msgid "IDS_PRGA081_12MM62_HI"
+msgstr "12.7 mm Vickers"
+
 msgid "IDS_PRGA086_DSHKM_2B_12_7MM_NO_LAMP"
 msgstr "12.7 mm DschKM-2B"
 
@@ -16928,7 +16939,7 @@ msgid "IDS_PRMP_DISCOUNT"
 msgstr "割引"
 
 msgid "IDS_PRMP_FOR_YOU"
-msgstr "以下の艦艇を所持するため"
+msgstr "お得:"
 
 msgid "IDS_PRMP_RECEIVE"
 msgstr "取得する"
