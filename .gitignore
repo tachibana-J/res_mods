@@ -1,16 +1,22 @@
 # Public mods not to track:
 */audio
-*/camerasConsumer.xml
-*/content/gameplay/japan
+*/banks
+*/content/*
 */gui/*
-!*/gui/flash/
+*/maps
+*/spaces
+*/system
+*/*.xml
+!*/content/gameplay
+*/content/gameplay/*
+!*/content/gameplay/common
+*/content/gameplay/common/*
+!*/content/gameplay/common/flags
+!*/gui/flash
 */gui/flash/*
 !*/gui/flash/fonts_all.swf
-*/postfx_animations.xml
-*/scripts
-*/spaces/*
-!*/spaces/Dock_ocean
-*/windows_consumer.xml
+!*/camouflages.xml
+!*/fontconfig.xml
 
 # Backup files
 *.o
