@@ -2,7 +2,7 @@
 
 ####*<p align="center">Read the [changelog](./CHANGELOG.md) today!</p>*
 
-1. Japanese text mod `/texts`  (only `global.mo` is necessary) AND `fontconfig.xml` AND an SEA-client `fonts_all.swf` (or see item 6):
+1. Japanese text mod `/texts`  (only `global.mo` is necessary) AND `fontconfig.xml` AND an SEA-client `fonts_all.swf` (or see item 5):
     
     &nbsp;&nbsp;A. HUD UI elements (pulled from SEA client text file) are in Japanese;
     
