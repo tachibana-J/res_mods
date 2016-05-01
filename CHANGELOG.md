@@ -1,5 +1,8 @@
 # Changelog of _implemented_ aka _compiled_ (i.e. not WIP or minute changes in texts) features
 
+20160501 Small change to texts
+---
+
 20160427 Update for 0.5.5.0
 ---
 * Flag mod is updated
