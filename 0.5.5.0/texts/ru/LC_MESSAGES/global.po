@@ -12890,6 +12890,15 @@ msgstr ""
 msgid "IDS_PCEE024_MGT_20_EXTRA_DESCRIPTION"
 msgstr " "
 
+msgid "IDS_PCEE025_MILITARY_MONTH_CONTRIBUTOR_FLAG"
+msgstr "Military Month Contributor"
+
+msgid "IDS_PCEE025_MILITARY_MONTH_CONTRIBUTOR_FLAG_DESCRIPTION"
+msgstr "ミリタリー月間におけるチャリティーの金額向上のために例外的な貢献を果たした人々に授与される記念旗です。"
+
+msgid "IDS_PCEE025_MILITARY_MONTH_CONTRIBUTOR_FLAG_EXTRA_DESCRIPTION"
+msgstr " "
+
 msgid "IDS_PCEE999_SECRETSANTA"
 msgstr "秘密のサンタ"
 
