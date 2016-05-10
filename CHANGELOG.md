@@ -1,5 +1,9 @@
 # Changelog of _implemented_ aka _compiled_ (i.e. not WIP or minute changes in texts) features
 
+20160509 Update flag mod
+---
+* The "Military Month Contributer" flag is remapped to the 大将旗 of the IJN
+
 20160501 Small change to texts
 ---
 
