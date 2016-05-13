@@ -1918,7 +1918,7 @@ msgid "IDS_CHAT_GROUP_FRIENDS"
 msgstr "全て"
 
 msgid "IDS_CHAT_SWITCH_ON"
-msgstr "チャットを有効化してメッセージを送信"
+msgstr "チャット有効化"
 
 msgid "IDS_CHAT_UNBANNED"
 msgstr "チャットのロックが解除されました。メッセージを送信可能です。"
@@ -1939,7 +1939,7 @@ msgid "IDS_CHOOSE_BATTLETYPE_STATS"
 msgstr "戦績を表示する戦闘タイプを選択"
 
 msgid "IDS_CHOOSE_BG_FOR_CROSSHAIR_PREVIEW"
-msgstr "照準器プレビュー用背景を変更"
+msgstr "照準器プレビュー用の背景を変更"
 
 msgid "IDS_CHOOSE_CONSUMABLE"
 msgstr "消耗品の選択"
@@ -4823,6 +4823,9 @@ msgstr "殿が実績を取得:"
 msgid "IDS_GO_TO_MY_CLUBS"
 msgstr "貴官の艦隊リストへ移動"
 
+msgid "IDS_GRAND_NAVAL_BATTLES"
+msgstr "大海戦"
+
 msgid "IDS_GRAPHICS_OPTIONS"
 msgstr "グラフィック"
 
@@ -6543,6 +6546,9 @@ msgstr "右 MB"
 msgid "IDS_KEY_MOUSE2"
 msgstr "中央 MB"
 
+msgid "IDS_KEY_MOUSE3"
+msgstr "MB3"
+
 msgid "IDS_KEY_MOUSE4"
 msgstr "MB4"
 
@@ -6797,7 +6803,7 @@ msgid "IDS_LINK_SUPPORT_HINT"
 msgstr "カスタマーサービスセンターにリダイレクトされます"
 
 msgid "IDS_LOADING"
-msgstr "憂う心烈々たり、載ち飢え載ち渇く"
+msgstr "四十九年一睡夢、一期栄華一盃酒"
 
 msgid "IDS_LOADING_PORT"
 msgstr "港を読込中"
@@ -8662,7 +8668,7 @@ msgid "IDS_NEW_RANK"
 msgstr "新ランク"
 
 msgid "IDS_NEW_TASK"
-msgstr "新しいミッション"
+msgstr "新ミッション"
 
 msgid "IDS_NEXT_ALLIED_VEHICLE"
 msgstr "次の味方艦"
@@ -12871,7 +12877,7 @@ msgid "IDS_PCEE022_FLAG_WG_EXTRA_DESCRIPTION"
 msgstr "Wargaming 従業員用の特別旗です。"
 
 msgid "IDS_PCEE023_SEASONFLAG00"
-msgstr "1st Season"
+msgstr "ファーストシーズン"
 
 msgid "IDS_PCEE023_SEASONFLAG00_DESCRIPTION"
 msgstr "ランク戦ファーストシーズン参加記念旗です。"
@@ -12898,6 +12904,38 @@ msgstr "ミリタリー月間におけるチャリティーの金額向上のた
 
 msgid "IDS_PCEE025_MILITARY_MONTH_CONTRIBUTOR_FLAG_EXTRA_DESCRIPTION"
 msgstr " "
+
+msgid "IDS_PCEE026_SEA_DOG"
+msgstr "GNB May 2016 - Sea Dog"
+
+msgid "IDS_PCEE026_SEA_DOG_DESCRIPTION"
+msgstr "記念旗"
+
+msgid "IDS_PCEE026_SEA_DOG_EXTRA_DESCRIPTION"
+msgstr ""
+"This flag was granted for actively taking part in the Great Naval Battles "
+"activities in May, 2016."
+
+msgid "IDS_PCEE027_SEA_LION"
+msgstr "GNB May 2016 - Sea Lion"
+
+msgid "IDS_PCEE027_SEA_LION_DESCRIPTION"
+msgstr "記念旗"
+
+msgid "IDS_PCEE027_SEA_LION_EXTRA_DESCRIPTION"
+msgstr ""
+"This flag is testimony to the great effort put into rocking the high seas, "
+"and running out of rum, during the Great Naval Battles event, run in May "
+"2016."
+
+msgid "IDS_PCEE599_FLAG_ASIA"
+msgstr "アジア・コミュニティ旗"
+
+msgid "IDS_PCEE599_FLAG_ASIA_DESCRIPTION"
+msgstr "特別"
+
+msgid "IDS_PCEE599_FLAG_ASIA_EXTRA_DESCRIPTION"
+msgstr "アジア・コミュニティの特別旗です。"
 
 msgid "IDS_PCEE999_SECRETSANTA"
 msgstr "秘密のサンタ"
