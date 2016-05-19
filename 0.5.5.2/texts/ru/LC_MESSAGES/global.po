@@ -12733,6 +12733,22 @@ msgstr ""
 "公式オフラインイベントにおける "
 "MGT-20 との遭遇によって取得した迷彩"
 
+msgid "IDS_PCEC014_CAMO_GNB_MAY_2016"
+msgstr "GNB May 2016 Camouflage"
+
+msgid "IDS_PCEC014_CAMO_GNB_MAY_2016_DESCRIPTION"
+msgstr ""
+"Captain? Captain! Why would you do this to your ship? Now everyone can see "
+"we're ruthless sea dogs! We're sure to be targeted!"
+
+msgid "IDS_PCEC015_CAMO_CN_SPECIAL"
+msgstr "Ocean soul"
+
+msgid "IDS_PCEC015_CAMO_CN_SPECIAL_DESCRIPTION"
+msgstr ""
+"Reduces ship detectability and increases the amount of XP earned by the ship "
+"and the Commander"
+
 msgid "IDS_PCEE008_RANK20"
 msgstr "第 2 リーグ"
 

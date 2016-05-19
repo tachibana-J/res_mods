@@ -2742,91 +2742,6 @@
 		<color2>0.631 0.616 0.522 0.700</color2>
 		<color3>0.020 0.115 0.030 0.950</color3>
     </camouflage>
-	<!--//1st April camouflage-->
-	<camouflage>
-		<annotation>Блок специального камуфляжного окраса для первоапрельского корабля ЯПОНИЯ</annotation>
-		<name>camo_1_april</name>
-		<targetShip>PJSC692_Seal</targetShip>
-		<tiled>false</tiled>
-		<UV>
-			<Tile>1 1</Tile>
-			<Gun>1 1</Gun>
-		</UV>
-		<Textures>
-			<Bow_Hull>content/gameplay/common/camouflage/textures/RSC501_April_camo_01.dds</Bow_Hull>
-			<MidFront_Hull>content/gameplay/common/camouflage/textures/RSC501_April_camo_01.dds</MidFront_Hull>
-			<MidBack_Hull>content/gameplay/common/camouflage/textures/RSC501_April_camo_01.dds</MidBack_Hull>
-			<Stern_Hull>content/gameplay/common/camouflage/textures/RSC501_April_camo_01.dds</Stern_Hull>
-			<Gun>content/gameplay/common/camouflage/textures/B_gun_camo_01.dds</Gun>
-		</Textures>
-		<color0>0.340 0.290 0.055 0.800</color0>
-		<color1>0.073 0.120 0.022 1.000</color1>
-		<color2>0.430 0.047 0.019 1.000</color2>
-		<color3>0.450 0.480 0.300 1.000</color3>
-	</camouflage>
-	<camouflage>
-		<annotation>Блок специального камуфляжного окраса для первоапрельского корабля США</annotation>
-		<name>camo_1_april</name>
-		<targetShip>PASC692_Seal</targetShip>
-		<tiled>false</tiled>
-		<UV>
-			<Tile>1 1</Tile>
-			<Gun>1 1</Gun>
-		</UV>
-		<Textures>
-			<Bow_Hull>content/gameplay/common/camouflage/textures/RSC501_April_camo_01.dds</Bow_Hull>
-			<MidFront_Hull>content/gameplay/common/camouflage/textures/RSC501_April_camo_01.dds</MidFront_Hull>
-			<MidBack_Hull>content/gameplay/common/camouflage/textures/RSC501_April_camo_01.dds</MidBack_Hull>
-			<Stern_Hull>content/gameplay/common/camouflage/textures/RSC501_April_camo_01.dds</Stern_Hull>
-			<Gun>content/gameplay/common/camouflage/textures/B_gun_camo_01.dds</Gun>
-		</Textures>
-		<color0>0.340 0.430 0.510 0.900</color0>
-		<color1>0.004 0.085 0.165 1.000</color1>
-		<color2>0.013 0.019 0.025 1.000</color2>
-		<color3>0.030 0.135 0.440 0.000</color3>
-	</camouflage>
-	<camouflage>
-		<annotation>Блок специального камуфляжного окраса для первоапрельского корабля РОССИЯ</annotation>
-		<name>camo_1_april</name>
-		<targetShip>PRSC692_Seal</targetShip>
-		<tiled>false</tiled>
-		<UV>
-			<Tile>1 1</Tile>
-			<Gun>1 1</Gun>
-		</UV>
-		<Textures>
-			<Bow_Hull>content/gameplay/common/camouflage/textures/RSC501_April_camo_01.dds</Bow_Hull>
-			<MidFront_Hull>content/gameplay/common/camouflage/textures/RSC501_April_camo_01.dds</MidFront_Hull>
-			<MidBack_Hull>content/gameplay/common/camouflage/textures/RSC501_April_camo_01.dds</MidBack_Hull>
-			<Stern_Hull>content/gameplay/common/camouflage/textures/RSC501_April_camo_01.dds</Stern_Hull>
-			<Gun>content/gameplay/common/camouflage/textures/B_gun_camo_01.dds</Gun>
-		</Textures>
-		<color0>0.025 0.145 0.340 1.000</color0>
-		<color1>0.000 0.034 0.185 1.000</color1>
-		<color2>0.360 0.050 0.030 0.850</color2>
-		<color3>0.631 0.616 0.522 0.700</color3>
-	</camouflage>
-	<camouflage>
-		<annotation>Блок специального камуфляжного окраса для первоапрельского корабля ГЕРМАНИЯ</annotation>
-		<name>camo_1_april</name>
-		<targetShip>PGSC692_Seal</targetShip>
-		<tiled>false</tiled>
-		<UV>
-			<Tile>1 1</Tile>
-			<Gun>1 1</Gun>
-		</UV>
-		<Textures>
-			<Bow_Hull>content/gameplay/common/camouflage/textures/RSC501_April_camo_01.dds</Bow_Hull>
-			<MidFront_Hull>content/gameplay/common/camouflage/textures/RSC501_April_camo_01.dds</MidFront_Hull>
-			<MidBack_Hull>content/gameplay/common/camouflage/textures/RSC501_April_camo_01.dds</MidBack_Hull>
-			<Stern_Hull>content/gameplay/common/camouflage/textures/RSC501_April_camo_01.dds</Stern_Hull>
-			<Gun>content/gameplay/common/camouflage/textures/B_gun_camo_01.dds</Gun>
-		</Textures>
-		<color0>0.020 0.015 0.025 1.000</color0>
-		<color1>0.350 0.450 0.500 0.900</color1>
-		<color2>0.460 0.260 0.110 1.000</color2>
-		<color3>0.740 0.325 0.075 0.850</color3>
-	</camouflage>
 	<!--//March Madness basketball camouflage-->
 	<!--//Villanova Wildcats Team 1-->
 	<camouflage>
@@ -3878,6 +3793,426 @@
 		<color2>0.066 0.075 0.087 1.000</color2>
 		<color3>0.014 0.015 0.018 0.900</color3>
     </camouflage>
+	<!--//GNB_tiled_camo-->
+	<camouflage>
+		<annotation>Блок тайленого камуфляжа GNB на корабли с квадратной текстурой</annotation>
+        <name>camo_GNB_tile</name>
+        <tiled>true</tiled>
+        <UV>
+            <Tile>3.8 3.8</Tile>
+			<Bow_DeckHouse>1.9 1.9</Bow_DeckHouse>
+			<MidFront_DeckHouse>1.9 1.9</MidFront_DeckHouse>
+			<MidBack_DeckHouse>1.9 1.9</MidBack_DeckHouse>
+			<Stern_DeckHouse>1.9 1.9</Stern_DeckHouse>
+			<Gun>0.6 0.6</Gun>
+			<Bulge>1.9 1.9</Bulge>
+        </UV>
+        <Textures>
+                <Tile>content/gameplay/common/camouflage/textures/Dazzle_tile_camo_05.dds</Tile>
+        </Textures>
+		<color0>0.010 0.008 0.008 1.000</color0>
+		<color1>0.521 0.506 0.482 0.700</color1>
+		<color2>0.184 0.212 0.231 0.784</color2>
+		<color3>0.020 0.037 0.073 0.850</color3>
+    </camouflage>
+	<camouflage>
+		<annotation>Блок тайленого камуфляжа GNB на корабли с прямоугольной текстурой</annotation>
+        <name>camo_GNB_tile</name>
+		<targetShip>PJSC035_Chikuma_1912 PJSC015_Tatsuta_1919 PJSC026_Iwaki_1944 PRSD001_Gremyashchy_1942 PRSD105_Pr_7_Gnevny PRSD106_Pr_30_Ognevoy PRSD107_Pr_35_Udaloy PRSD108_Pr_20i_Tashkent PRSD109_Pr_48_Kiev PRSD110_Pr_24_Khabarovsk PGSC001_Hermelin_1940 PGSC103_Kolberg PGSC104_Karlsruhe PWSD501_Blyskawica PZSD506_Anshan PRSC102_Novik PRSC103_Bogatyr PRSC104_Svetlana</targetShip>
+        <tiled>true</tiled>
+        <UV>
+            <Tile>3.8 3</Tile>
+			<Bow_DeckHouse>1.9 1.4</Bow_DeckHouse>
+			<MidFront_DeckHouse>1.9 1.4</MidFront_DeckHouse>
+			<MidBack_DeckHouse>1.9 1.4</MidBack_DeckHouse>
+			<Stern_DeckHouse>1.9 1.4</Stern_DeckHouse>
+			<Gun>0.6 0.6</Gun>
+			<Bulge>1.9 1.9</Bulge>
+        </UV>
+        <Textures>
+                <Tile>content/gameplay/common/camouflage/textures/Dazzle_tile_camo_01.dds</Tile>
+        </Textures>
+		<color0>0.010 0.008 0.008 1.000</color0>
+		<color1>0.521 0.506 0.482 0.700</color1>
+		<color2>0.184 0.212 0.231 0.784</color2>
+		<color3>0.020 0.037 0.073 0.850</color3>
+    </camouflage>
+	<camouflage>
+		<annotation>Блок тайленого камуфляжа GNB эсминца Сторожевой</annotation>
+        <name>camo_GNB_tile</name>
+		<targetShip>PRSD102_SM_Storojevoy</targetShip>
+        <tiled>true</tiled>
+        <UV>
+            <Tile>3.8 1.9</Tile>
+			<Bow_DeckHouse>1.9 1.9</Bow_DeckHouse>
+			<MidFront_DeckHouse>1.9 1.9</MidFront_DeckHouse>
+			<MidBack_DeckHouse>1.9 1.9</MidBack_DeckHouse>
+			<Stern_DeckHouse>1.9 1.9</Stern_DeckHouse>
+			<Gun>0.6 0.6</Gun>
+			<Bulge>1.9 1.9</Bulge>
+        </UV>
+        <Textures>
+                <Tile>content/gameplay/common/camouflage/textures/Dazzle_tile_camo_01.dds</Tile>
+        </Textures>
+		<color0>0.010 0.008 0.008 1.000</color0>
+		<color1>0.521 0.506 0.482 0.700</color1>
+		<color2>0.184 0.212 0.231 0.784</color2>
+		<color3>0.020 0.037 0.073 0.850</color3>
+    </camouflage>
+	<camouflage>
+		<annotation>Блок тайленого камуфляжа GNB авианосца Мидвэй</annotation>
+        <name>camo_GNB_tile</name>
+		<targetShip>PASA015_Midway_1945</targetShip>
+        <tiled>true</tiled>
+        <UV>
+            <Tile>3.8 3.8</Tile>
+			<Bow_DeckHouse>3.8 3.8</Bow_DeckHouse>
+			<MidFront_DeckHouse>3.8 3.8</MidFront_DeckHouse>
+			<MidBack_DeckHouse>3.8 3.8</MidBack_DeckHouse>
+			<Stern_DeckHouse>3.8 3.8</Stern_DeckHouse>
+			<Gun>0.6 0.6</Gun>
+			<Bulge>3.8 3.8</Bulge>
+        </UV>
+        <Textures>
+                <Tile>content/gameplay/common/camouflage/textures/Dazzle_tile_camo_01.dds</Tile>
+        </Textures>
+		<color0>0.010 0.008 0.008 1.000</color0>
+		<color1>0.521 0.506 0.482 0.700</color1>
+		<color2>0.184 0.212 0.231 0.784</color2>
+		<color3>0.020 0.037 0.073 0.850</color3>
+    </camouflage>
+	<camouflage>
+		<annotation>Блок тайленого камуфляжа GNB фикс проблем с камуфляжем на орудиях Дрездена</annotation>
+        <name>camo_GNB_tile</name>
+		<targetShip>PGSC002_Drezden_1908</targetShip>
+        <tiled>true</tiled>
+        <UV>
+            <Tile>3.8 3</Tile>
+			<Gun>0.45 0.45</Gun>
+        </UV>
+        <Textures>
+                <Tile>content/gameplay/common/camouflage/textures/Dazzle_tile_camo_01.dds</Tile>
+        </Textures>
+		<color0>0.010 0.008 0.008 1.000</color0>
+		<color1>0.521 0.506 0.482 0.700</color1>
+		<color2>0.184 0.212 0.231 0.784</color2>
+		<color3>0.020 0.037 0.073 0.850</color3>
+    </camouflage>
+	<camouflage>
+		<annotation>Блок тайленого камуфляжа GNB на корабли с квадратной текстурой Йорк</annotation>
+        <name>camo_GNB_tile</name>
+		<targetShip>PGSC107_Yorck</targetShip>
+        <tiled>true</tiled>
+        <UV>
+            <Tile>3.8 3.8</Tile>
+			<Bow_DeckHouse>1.9 1.9</Bow_DeckHouse>
+			<MidFront_DeckHouse>1.9 1.9</MidFront_DeckHouse>
+			<MidBack_DeckHouse>1.9 1.9</MidBack_DeckHouse>
+			<Stern_DeckHouse>1.9 1.9</Stern_DeckHouse>
+			<Gun>0.47 0.47</Gun>
+			<Bulge>1.9 1.9</Bulge>
+        </UV>
+        <Textures>
+                <Tile>content/gameplay/common/camouflage/textures/Dazzle_tile_camo_01.dds</Tile>
+        </Textures>
+		<color0>0.010 0.008 0.008 1.000</color0>
+		<color1>0.521 0.506 0.482 0.700</color1>
+		<color2>0.184 0.212 0.231 0.784</color2>
+		<color3>0.020 0.037 0.073 0.850</color3>
+    </camouflage>
+	<camouflage>
+		<annotation>Блок тайленого камуфляжа GNB на корабли с квадратной текстурой Кавачи</annotation>
+        <name>camo_GNB_tile</name>
+		<targetShip>PJSB001_Kawachi_1912</targetShip>
+        <tiled>true</tiled>
+        <UV>
+            <Tile>3.8 3.8</Tile>
+			<Bow_DeckHouse>1.9 1.9</Bow_DeckHouse>
+			<MidFront_DeckHouse>1.9 1.9</MidFront_DeckHouse>
+			<MidBack_DeckHouse>1.9 1.9</MidBack_DeckHouse>
+			<Stern_DeckHouse>1.9 1.9</Stern_DeckHouse>
+			<Gun>0.4 0.4</Gun>
+			<Bulge>1.9 1.9</Bulge>
+        </UV>
+        <Textures>
+                <Tile>content/gameplay/common/camouflage/textures/Dazzle_tile_camo_01.dds</Tile>
+        </Textures>
+		<color0>0.010 0.008 0.008 1.000</color0>
+		<color1>0.521 0.506 0.482 0.700</color1>
+		<color2>0.184 0.212 0.231 0.784</color2>
+		<color3>0.020 0.037 0.073 0.850</color3>
+    </camouflage>
+	<camouflage>
+		<annotation>Блок тайленого камуфляжа GNB на корабли с квадратной текстурой Могами, Нью-Йорк</annotation>
+        <name>camo_GNB_tile</name>
+		<targetShip>PJSC009_Mogami_1935 PASB006_New_York_1934</targetShip>
+        <tiled>true</tiled>
+        <UV>
+            <Tile>3.8 3.8</Tile>
+			<Bow_DeckHouse>1.9 1.9</Bow_DeckHouse>
+			<MidFront_DeckHouse>1.9 1.9</MidFront_DeckHouse>
+			<MidBack_DeckHouse>1.9 1.9</MidBack_DeckHouse>
+			<Stern_DeckHouse>1.9 1.9</Stern_DeckHouse>
+			<Gun>0.44 0.44</Gun>
+			<Bulge>1.9 1.9</Bulge>
+        </UV>
+        <Textures>
+                <Tile>content/gameplay/common/camouflage/textures/Dazzle_tile_camo_01.dds</Tile>
+        </Textures>
+		<color0>0.010 0.008 0.008 1.000</color0>
+		<color1>0.521 0.506 0.482 0.700</color1>
+		<color2>0.184 0.212 0.231 0.784</color2>
+		<color3>0.020 0.037 0.073 0.850</color3>
+    </camouflage>
+	<camouflage>
+		<annotation>Блок тайленого камуфляжа GNB на корабли с квадратной текстурой Нью-Мехико</annotation>
+        <name>camo_GNB_tile</name>
+		<targetShip>PASB034_New_Mexico_1941</targetShip>
+        <tiled>true</tiled>
+        <UV>
+            <Tile>3.8 3.8</Tile>
+			<Bow_DeckHouse>1.9 1.9</Bow_DeckHouse>
+			<MidFront_DeckHouse>1.9 1.9</MidFront_DeckHouse>
+			<MidBack_DeckHouse>1.9 1.9</MidBack_DeckHouse>
+			<Stern_DeckHouse>1.9 1.9</Stern_DeckHouse>
+			<Gun>0.4 0.4</Gun>
+			<Bulge>1.9 1.9</Bulge>
+        </UV>
+        <Textures>
+                <Tile>content/gameplay/common/camouflage/textures/Dazzle_tile_camo_01.dds</Tile>
+        </Textures>
+		<color0>0.010 0.008 0.008 1.000</color0>
+		<color1>0.521 0.506 0.482 0.700</color1>
+		<color2>0.184 0.212 0.231 0.784</color2>
+		<color3>0.020 0.037 0.073 0.850</color3>
+    </camouflage>
+	<camouflage>
+		<annotation>Блок тайленого камуфляжа GNB на корабли с квадратной текстурой Изяслав</annotation>
+        <name>camo_GNB_tile</name>
+		<targetShip>PRSD104_Izyaslav</targetShip>
+        <tiled>true</tiled>
+        <UV>
+            <Tile>2.7 2.7</Tile>
+			<Gun>0.6 0.6</Gun>
+        </UV>
+        <Textures>
+                <Tile>content/gameplay/common/camouflage/textures/Dazzle_tile_camo_01.dds</Tile>
+        </Textures>
+		<color0>0.010 0.008 0.008 1.000</color0>
+		<color1>0.521 0.506 0.482 0.700</color1>
+		<color2>0.184 0.212 0.231 0.784</color2>
+		<color3>0.020 0.037 0.073 0.850</color3>
+    </camouflage>
+	<!--//CN special tiled camo-->
+	<camouflage>
+		<annotation>Блок тайленого специального камуфляжа для азиатского ивента на корабли с квадратной текстурой</annotation>
+        <name>camo_cn_special_tile</name>
+        <tiled>true</tiled>
+        <UV>
+            <Tile>3.8 3.8</Tile>
+			<Bow_DeckHouse>1.9 1.9</Bow_DeckHouse>
+			<MidFront_DeckHouse>1.9 1.9</MidFront_DeckHouse>
+			<MidBack_DeckHouse>1.9 1.9</MidBack_DeckHouse>
+			<Stern_DeckHouse>1.9 1.9</Stern_DeckHouse>
+			<Gun>0.6 0.6</Gun>
+			<Bulge>1.9 1.9</Bulge>
+        </UV>
+        <Textures>
+                <Tile>content/gameplay/common/camouflage/textures/Dazzle_tile_camo_06.dds</Tile>
+        </Textures>
+		<color0>0.621 0.606 0.542 0.700</color0>
+		<color1>0.018 0.057 0.113 0.850</color1>
+		<color2>0.018 0.057 0.113 0.850</color2>
+		<color3>0.621 0.606 0.542 0.700</color3>
+    </camouflage>
+	<camouflage>
+		<annotation>Блок тайленого специального камуфляжа для азиатского ивента на корабли с прямоугольной текстурой</annotation>
+        <name>camo_cn_special_tile</name>
+		<targetShip>PJSC035_Chikuma_1912 PJSC015_Tatsuta_1919 PJSC026_Iwaki_1944 PRSD001_Gremyashchy_1942 PRSD105_Pr_7_Gnevny PRSD106_Pr_30_Ognevoy PRSD107_Pr_35_Udaloy PRSD108_Pr_20i_Tashkent PRSD109_Pr_48_Kiev PRSD110_Pr_24_Khabarovsk PGSC001_Hermelin_1940 PGSC103_Kolberg PGSC104_Karlsruhe PWSD501_Blyskawica PZSD506_Anshan PRSC102_Novik PRSC103_Bogatyr PRSC104_Svetlana</targetShip>
+        <tiled>true</tiled>
+        <UV>
+            <Tile>3.8 3</Tile>
+			<Bow_DeckHouse>1.9 1.4</Bow_DeckHouse>
+			<MidFront_DeckHouse>1.9 1.4</MidFront_DeckHouse>
+			<MidBack_DeckHouse>1.9 1.4</MidBack_DeckHouse>
+			<Stern_DeckHouse>1.9 1.4</Stern_DeckHouse>
+			<Gun>0.6 0.6</Gun>
+			<Bulge>1.9 1.9</Bulge>
+        </UV>
+        <Textures>
+                <Tile>content/gameplay/common/camouflage/textures/Dazzle_tile_camo_06.dds</Tile>
+        </Textures>
+		<color0>0.621 0.606 0.542 0.700</color0>
+		<color1>0.018 0.057 0.113 0.850</color1>
+		<color2>0.018 0.057 0.113 0.850</color2>
+		<color3>0.621 0.606 0.542 0.700</color3>
+    </camouflage>
+	<camouflage>
+		<annotation>Блок тайленого специального камуфляжа для азиатского ивента эсминца Сторожевой</annotation>
+        <name>camo_cn_special_tile</name>
+		<targetShip>PRSD102_SM_Storojevoy</targetShip>
+        <tiled>true</tiled>
+        <UV>
+            <Tile>3.8 1.9</Tile>
+			<Bow_DeckHouse>1.9 1.9</Bow_DeckHouse>
+			<MidFront_DeckHouse>1.9 1.9</MidFront_DeckHouse>
+			<MidBack_DeckHouse>1.9 1.9</MidBack_DeckHouse>
+			<Stern_DeckHouse>1.9 1.9</Stern_DeckHouse>
+			<Gun>0.6 0.6</Gun>
+			<Bulge>1.9 1.9</Bulge>
+        </UV>
+        <Textures>
+                <Tile>content/gameplay/common/camouflage/textures/Dazzle_tile_camo_06.dds</Tile>
+        </Textures>
+		<color0>0.621 0.606 0.542 0.700</color0>
+		<color1>0.018 0.057 0.113 0.850</color1>
+		<color2>0.018 0.057 0.113 0.850</color2>
+		<color3>0.621 0.606 0.542 0.700</color3>
+    </camouflage>
+	<camouflage>
+		<annotation>Блок тайленого специального камуфляжа для азиатского ивента авианосца Мидвэй</annotation>
+        <name>camo_cn_special_tile</name>
+		<targetShip>PASA015_Midway_1945</targetShip>
+        <tiled>true</tiled>
+        <UV>
+            <Tile>3.8 3.8</Tile>
+			<Bow_DeckHouse>3.8 3.8</Bow_DeckHouse>
+			<MidFront_DeckHouse>3.8 3.8</MidFront_DeckHouse>
+			<MidBack_DeckHouse>3.8 3.8</MidBack_DeckHouse>
+			<Stern_DeckHouse>3.8 3.8</Stern_DeckHouse>
+			<Gun>0.6 0.6</Gun>
+			<Bulge>3.8 3.8</Bulge>
+        </UV>
+        <Textures>
+                <Tile>content/gameplay/common/camouflage/textures/Dazzle_tile_camo_06.dds</Tile>
+        </Textures>
+		<color0>0.621 0.606 0.542 0.700</color0>
+		<color1>0.018 0.057 0.113 0.850</color1>
+		<color2>0.018 0.057 0.113 0.850</color2>
+		<color3>0.621 0.606 0.542 0.700</color3>
+    </camouflage>
+	<camouflage>
+		<annotation>Блок тайленого специального камуфляжа для азиатского ивента фикс проблем с камуфляжем на орудиях Дрездена</annotation>
+        <name>camo_cn_special_tile</name>
+		<targetShip>PGSC002_Drezden_1908</targetShip>
+        <tiled>true</tiled>
+        <UV>
+            <Tile>3.8 3</Tile>
+			<Gun>0.45 0.45</Gun>
+        </UV>
+        <Textures>
+                <Tile>content/gameplay/common/camouflage/textures/Dazzle_tile_camo_06.dds</Tile>
+        </Textures>
+		<color0>0.621 0.606 0.542 0.700</color0>
+		<color1>0.018 0.057 0.113 0.850</color1>
+		<color2>0.018 0.057 0.113 0.850</color2>
+		<color3>0.621 0.606 0.542 0.700</color3>
+    </camouflage>
+	<camouflage>
+		<annotation>Блок тайленого специального камуфляжа для азиатского ивента на корабли с квадратной текстурой Йорк</annotation>
+        <name>camo_cn_special_tile</name>
+		<targetShip>PGSC107_Yorck</targetShip>
+        <tiled>true</tiled>
+        <UV>
+            <Tile>3.8 3.8</Tile>
+			<Bow_DeckHouse>1.9 1.9</Bow_DeckHouse>
+			<MidFront_DeckHouse>1.9 1.9</MidFront_DeckHouse>
+			<MidBack_DeckHouse>1.9 1.9</MidBack_DeckHouse>
+			<Stern_DeckHouse>1.9 1.9</Stern_DeckHouse>
+			<Gun>0.47 0.47</Gun>
+			<Bulge>1.9 1.9</Bulge>
+        </UV>
+        <Textures>
+                <Tile>content/gameplay/common/camouflage/textures/Dazzle_tile_camo_06.dds</Tile>
+        </Textures>
+		<color0>0.621 0.606 0.542 0.700</color0>
+		<color1>0.018 0.057 0.113 0.850</color1>
+		<color2>0.018 0.057 0.113 0.850</color2>
+		<color3>0.621 0.606 0.542 0.700</color3>
+    </camouflage>
+	<camouflage>
+		<annotation>Блок тайленого специального камуфляжа для азиатского ивента на корабли с квадратной текстурой Кавачи</annotation>
+        <name>camo_cn_special_tile</name>
+		<targetShip>PJSB001_Kawachi_1912</targetShip>
+        <tiled>true</tiled>
+        <UV>
+            <Tile>3.8 3.8</Tile>
+			<Bow_DeckHouse>1.9 1.9</Bow_DeckHouse>
+			<MidFront_DeckHouse>1.9 1.9</MidFront_DeckHouse>
+			<MidBack_DeckHouse>1.9 1.9</MidBack_DeckHouse>
+			<Stern_DeckHouse>1.9 1.9</Stern_DeckHouse>
+			<Gun>0.4 0.4</Gun>
+			<Bulge>1.9 1.9</Bulge>
+        </UV>
+        <Textures>
+                <Tile>content/gameplay/common/camouflage/textures/Dazzle_tile_camo_06.dds</Tile>
+        </Textures>
+		<color0>0.621 0.606 0.542 0.700</color0>
+		<color1>0.018 0.057 0.113 0.850</color1>
+		<color2>0.018 0.057 0.113 0.850</color2>
+		<color3>0.621 0.606 0.542 0.700</color3>
+    </camouflage>
+	<camouflage>
+		<annotation>Блок тайленого специального камуфляжа для азиатского ивента на корабли с квадратной текстурой Могами, Нью-Йорк</annotation>
+        <name>camo_cn_special_tile</name>
+		<targetShip>PJSC009_Mogami_1935 PASB006_New_York_1934</targetShip>
+        <tiled>true</tiled>
+        <UV>
+            <Tile>3.8 3.8</Tile>
+			<Bow_DeckHouse>1.9 1.9</Bow_DeckHouse>
+			<MidFront_DeckHouse>1.9 1.9</MidFront_DeckHouse>
+			<MidBack_DeckHouse>1.9 1.9</MidBack_DeckHouse>
+			<Stern_DeckHouse>1.9 1.9</Stern_DeckHouse>
+			<Gun>0.44 0.44</Gun>
+			<Bulge>1.9 1.9</Bulge>
+        </UV>
+        <Textures>
+                <Tile>content/gameplay/common/camouflage/textures/Dazzle_tile_camo_06.dds</Tile>
+        </Textures>
+		<color0>0.621 0.606 0.542 0.700</color0>
+		<color1>0.018 0.057 0.113 0.850</color1>
+		<color2>0.018 0.057 0.113 0.850</color2>
+		<color3>0.621 0.606 0.542 0.700</color3>
+    </camouflage>
+	<camouflage>
+		<annotation>Блок тайленого специального камуфляжа для азиатского ивента на корабли с квадратной текстурой Нью-Мехико</annotation>
+        <name>camo_cn_special_tile</name>
+		<targetShip>PASB034_New_Mexico_1941</targetShip>
+        <tiled>true</tiled>
+        <UV>
+            <Tile>3.8 3.8</Tile>
+			<Bow_DeckHouse>1.9 1.9</Bow_DeckHouse>
+			<MidFront_DeckHouse>1.9 1.9</MidFront_DeckHouse>
+			<MidBack_DeckHouse>1.9 1.9</MidBack_DeckHouse>
+			<Stern_DeckHouse>1.9 1.9</Stern_DeckHouse>
+			<Gun>0.4 0.4</Gun>
+			<Bulge>1.9 1.9</Bulge>
+        </UV>
+        <Textures>
+                <Tile>content/gameplay/common/camouflage/textures/Dazzle_tile_camo_06.dds</Tile>
+        </Textures>
+		<color0>0.621 0.606 0.542 0.700</color0>
+		<color1>0.018 0.057 0.113 0.850</color1>
+		<color2>0.018 0.057 0.113 0.850</color2>
+		<color3>0.621 0.606 0.542 0.700</color3>
+    </camouflage>
+	<camouflage>
+		<annotation>Блок тайленого специального камуфляжа для азиатского ивента на корабли с квадратной текстурой Изяслав</annotation>
+        <name>camo_cn_special_tile</name>
+		<targetShip>PRSD104_Izyaslav</targetShip>
+        <tiled>true</tiled>
+        <UV>
+            <Tile>2.7 2.7</Tile>
+			<Gun>0.6 0.6</Gun>
+        </UV>
+        <Textures>
+                <Tile>content/gameplay/common/camouflage/textures/Dazzle_tile_camo_06.dds</Tile>
+        </Textures>
+		<color0>0.621 0.606 0.542 0.700</color0>
+		<color1>0.018 0.057 0.113 0.850</color1>
+		<color2>0.018 0.057 0.113 0.850</color2>
+		<color3>0.621 0.606 0.542 0.700</color3>
+    </camouflage>
 <!--//Unique camouflage and colors block-->
 	<!--//Japanese premium ships camouflage-->
 	<camouflage>
@@ -4459,6 +4794,27 @@
 		<color1>0.047 0.090 0.122 1.000</color1>
 		<color2>0.014 0.028 0.043 1.000</color2>
 		<color3>0.475 0.604 0.686 0.784</color3>
+	</camouflage>
+	<camouflage>
+		<annotation>Блок уникального дефолтного камуфляжа для американского крейсера Индианаполис</annotation>
+		<name>camo_permanent_1</name>
+		<targetShip>PASC507_Indianapolis_1945</targetShip>
+		<tiled>false</tiled>
+		<UV>
+			<Tile>1 1</Tile>
+			<Gun>1 1</Gun>
+		</UV>
+		<Textures>
+			<Bow_Hull>content/gameplay/common/camouflage/textures/ASC008_Indianapolis_1945_camo_01.dds</Bow_Hull>
+			<MidFront_Hull>content/gameplay/common/camouflage/textures/ASC008_Indianapolis_1945_camo_01.dds</MidFront_Hull>
+			<MidBack_Hull>content/gameplay/common/camouflage/textures/ASC008_Indianapolis_1945_camo_01.dds</MidBack_Hull>
+			<Stern_Hull>content/gameplay/common/camouflage/textures/ASC008_Indianapolis_1945_camo_01.dds</Stern_Hull>
+			<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
+		</Textures>
+		<color0>0.184 0.212 0.231 0.784</color0>
+		<color1>0.047 0.090 0.122 1.000</color1>
+		<color2>0.004 0.012 0.020 1.000</color2>
+		<color3>0.000 0.000 0.000 0.000</color3>
 	</camouflage>
 	<!--//American tech tree ships camouflage-->
 	<camouflage>
