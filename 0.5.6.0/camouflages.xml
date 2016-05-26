@@ -4598,6 +4598,72 @@
 		<color2>0.263 0.275 0.133 0.850</color2>
 		<color3>0.667 0.702 0.604 0.700</color3>
 	</camouflage>
+	<camouflage>
+		<annotation>Блок пермофляжа для японского эсминца 7 уровня тип Хатсухару</annotation>
+		<name>camo_permanent_1</name>
+		<targetShip>PJSD006_Hatsuharu_1945</targetShip>
+		<tiled>false</tiled>
+		<UV>
+			<Tile>1 1</Tile>
+			<Gun>1 1</Gun>
+		</UV>
+		<Textures>
+			<Bow_Hull>content/gameplay/common/camouflage/textures/JSD006_Hatsuharu_1945_camo_01.dds</Bow_Hull>
+			<MidFront_Hull>content/gameplay/common/camouflage/textures/JSD006_Hatsuharu_1945_camo_01.dds</MidFront_Hull>
+			<MidBack_Hull>content/gameplay/common/camouflage/textures/JSD006_Hatsuharu_1945_camo_01.dds</MidBack_Hull>
+			<Stern_Hull>content/gameplay/common/camouflage/textures/JSD006_Hatsuharu_1945_camo_01.dds</Stern_Hull>
+			<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
+		</Textures>
+		<color0>0.000 0.000 0.000 0.000</color0>
+		<color1>0.088 0.088 0.110 1.000</color1>
+		<color2>0.060 0.060 0.090 1.000</color2>
+		<color3>0.100 0.100 0.150 1.000</color3>
+	</camouflage>
+	<camouflage>
+		<annotation>Блок пермофляжа для японского крейсера 7 уровня Миоко</annotation>
+		<name>camo_permanent_1</name>
+		<targetShip>PJSC008_Myoko_1945</targetShip>
+		<tiled>false</tiled>
+		<UV>
+			<Tile>1 1</Tile>
+			<Gun>0.6 0.6</Gun>
+		</UV>
+		<Textures>
+			<Bow_Hull>content/gameplay/common/camouflage/textures/JSC008_Myoko_1945_camo_01.dds</Bow_Hull>
+			<MidFront_Hull>content/gameplay/common/camouflage/textures/JSC008_Myoko_1945_camo_01.dds</MidFront_Hull>
+			<MidBack_Hull>content/gameplay/common/camouflage/textures/JSC008_Myoko_1945_camo_01.dds</MidBack_Hull>
+			<Stern_Hull>content/gameplay/common/camouflage/textures/JSC008_Myoko_1945_camo_01.dds</Stern_Hull>
+			<Bulge>content/gameplay/common/camouflage/textures/JSC032_Myoko_1941_bools_camo_01.dds</Bulge>
+			<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
+		</Textures>
+		<color0>0.156 0.152 0.137 1.000</color0>
+		<color1>0.015 0.027 0.002 0.950</color1>
+		<color2>0.027 0.015 0.002 0.950</color2>
+		<color3>0.000 0.000 0.000 0.000</color3>
+	</camouflage>
+	<camouflage>
+		<annotation>Блок пермофляжа для японского авианосца 7 уровня Хирю</annotation>
+		<name>camo_permanent_1</name>
+		<targetShip>PJSA011_Hiryu_1942</targetShip>
+		<tiled>false</tiled>
+		<UV>
+			<Tile>1 1</Tile>
+			<Gun>1 1</Gun>
+		</UV>
+		<Textures>
+			<Bow_Hull>content/gameplay/common/camouflage/textures/JSA011_Hiryu_1942_Hull_camo_01.dds</Bow_Hull>
+			<MidFront_Hull>content/gameplay/common/camouflage/textures/JSA011_Hiryu_1942_Hull_camo_01.dds</MidFront_Hull>
+			<MidFront_DeckHouse>content/gameplay/common/camouflage/textures/JSA011_Hiryu_1942_Side_camo_01.dds</MidFront_DeckHouse>
+			<MidBack_Hull>content/gameplay/common/camouflage/textures/JSA011_Hiryu_1942_Hull_camo_01.dds</MidBack_Hull>
+			<MidBack_DeckHouse>content/gameplay/common/camouflage/textures/JSA011_Hiryu_1942_Side_camo_01.dds</MidBack_DeckHouse>
+			<Stern_Hull>content/gameplay/common/camouflage/textures/JSA011_Hiryu_1942_Hull_camo_01.dds</Stern_Hull>
+			<Gun>content/gameplay/common/camouflage/textures/R_gun_camo_01.dds</Gun>
+		</Textures>
+		<color0>0.135 0.147 0.112 1.000</color0>
+		<color1>0.002 0.002 0.002 1.200</color1>
+		<color2>0.015 0.027 0.008 1.000</color2>
+		<color3>0.105 0.040 0.034 1.000</color3>
+	</camouflage>
 	<!--//American premium ships camouflage-->
 	<camouflage>
 		<annotation>Блок уникального дефолтного камуфляжа для американского крейсера Марблхед</annotation>
@@ -4772,6 +4838,27 @@
 		<color3>0.000 0.000 0.000 0.000</color3>
 	</camouflage>
 	<camouflage>
+		<annotation>Блок уникального дефолтного камуфляжа для американского крейсера Индианаполис</annotation>
+		<name>camo_permanent_1</name>
+		<targetShip>PASC507_Indianapolis_1945</targetShip>
+		<tiled>false</tiled>
+		<UV>
+			<Tile>1 1</Tile>
+			<Gun>1 1</Gun>
+		</UV>
+		<Textures>
+			<Bow_Hull>content/gameplay/common/camouflage/textures/ASC008_Indianapolis_1945_camo_01.dds</Bow_Hull>
+			<MidFront_Hull>content/gameplay/common/camouflage/textures/ASC008_Indianapolis_1945_camo_01.dds</MidFront_Hull>
+			<MidBack_Hull>content/gameplay/common/camouflage/textures/ASC008_Indianapolis_1945_camo_01.dds</MidBack_Hull>
+			<Stern_Hull>content/gameplay/common/camouflage/textures/ASC008_Indianapolis_1945_camo_01.dds</Stern_Hull>
+			<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
+		</Textures>
+		<color0>0.184 0.212 0.231 0.784</color0>
+		<color1>0.047 0.090 0.122 1.000</color1>
+		<color2>0.004 0.012 0.020 1.000</color2>
+		<color3>0.000 0.000 0.000 0.000</color3>
+	</camouflage>
+	<camouflage>
 		<annotation>Блок уникального дефолтного камуфляжа для американского линкора Техас</annotation>
 		<name>camo_permanent_1</name>
 		<targetShip>PASB705_Texas_1944</targetShip>
@@ -4796,25 +4883,28 @@
 		<color3>0.475 0.604 0.686 0.784</color3>
 	</camouflage>
 	<camouflage>
-		<annotation>Блок уникального дефолтного камуфляжа для американского крейсера Индианаполис</annotation>
-		<name>camo_permanent_1</name>
-		<targetShip>PASC507_Indianapolis_1945</targetShip>
+		<annotation>Блок уникального национального камуфляжа для американского линкора Техас</annotation>
+		<name>camo_permanent_usa_flag</name>
+		<targetShip>PASB705_Texas_1944</targetShip>
 		<tiled>false</tiled>
 		<UV>
 			<Tile>1 1</Tile>
-			<Gun>1 1</Gun>
+			<Gun>0.6 0.75</Gun>
 		</UV>
 		<Textures>
-			<Bow_Hull>content/gameplay/common/camouflage/textures/ASC008_Indianapolis_1945_camo_01.dds</Bow_Hull>
-			<MidFront_Hull>content/gameplay/common/camouflage/textures/ASC008_Indianapolis_1945_camo_01.dds</MidFront_Hull>
-			<MidBack_Hull>content/gameplay/common/camouflage/textures/ASC008_Indianapolis_1945_camo_01.dds</MidBack_Hull>
-			<Stern_Hull>content/gameplay/common/camouflage/textures/ASC008_Indianapolis_1945_camo_01.dds</Stern_Hull>
-			<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
+			<Bow_Hull>content/gameplay/common/camouflage/textures/ASB007_Texas_1944_Hull_camo_01.dds</Bow_Hull>
+			<MidFront_Hull>content/gameplay/common/camouflage/textures/ASB007_Texas_1944_Hull_camo_01.dds</MidFront_Hull>
+			<MidFront_DeckHouse>content/gameplay/common/camouflage/textures/ASB007_Texas_1944_Deckhouse_camo_01.dds</MidFront_DeckHouse>
+			<MidBack_Hull>content/gameplay/common/camouflage/textures/ASB007_Texas_1944_Hull_camo_01.dds</MidBack_Hull>
+			<MidBack_DeckHouse>content/gameplay/common/camouflage/textures/ASB007_Texas_1944_Deckhouse_camo_01.dds</MidBack_DeckHouse>
+			<Stern_Hull>content/gameplay/common/camouflage/textures/ASB007_Texas_1944_Hull_camo_01.dds</Stern_Hull>
+			<Stern_DeckHouse>content/gameplay/common/camouflage/textures/ASB007_Texas_1944_Deckhouse_camo_01.dds</Stern_DeckHouse>
+			<Gun>content/gameplay/common/camouflage/textures/Dazzle_tile_camo_04.dds</Gun>
 		</Textures>
-		<color0>0.184 0.212 0.231 0.784</color0>
-		<color1>0.047 0.090 0.122 1.000</color1>
-		<color2>0.004 0.012 0.020 1.000</color2>
-		<color3>0.000 0.000 0.000 0.000</color3>
+		<color0>0.475 0.604 0.686 0.650</color0>
+		<color1>0.180 0.004 0.004 0.950</color1>
+		<color2>0.014 0.028 0.075 1.000</color2>
+		<color3>0.475 0.604 0.686 0.650</color3>
 	</camouflage>
 	<!--//American tech tree ships camouflage-->
 	<camouflage>
@@ -4837,6 +4927,27 @@
 		<color1>0.225 0.004 0.004 0.950</color1>
 		<color2>0.631 0.616 0.522 0.700</color2>
 		<color3>0.020 0.115 0.030 0.950</color3>
+	</camouflage>
+	<camouflage>
+		<annotation>Блок пермофляжа для американского крейсера 6 уровня Кливленд</annotation>
+		<name>camo_permanent_1</name>
+		<targetShip>PASC007_Cleveland_1945</targetShip>
+		<tiled>false</tiled>
+		<UV>
+			<Tile>1 1</Tile>
+			<Gun>0.8 0.5</Gun>
+		</UV>
+		<Textures>
+			<Bow_Hull>content/gameplay/common/camouflage/textures/ASC007_Cleveland_1945_camo_02.dds</Bow_Hull>
+			<MidFront_Hull>content/gameplay/common/camouflage/textures/ASC007_Cleveland_1945_camo_02.dds</MidFront_Hull>
+			<MidBack_Hull>content/gameplay/common/camouflage/textures/ASC007_Cleveland_1945_camo_02.dds</MidBack_Hull>
+			<Stern_Hull>content/gameplay/common/camouflage/textures/ASC007_Cleveland_1945_camo_02.dds</Stern_Hull>
+			<Gun>content/gameplay/common/camouflage/textures/Dazzle_tile_camo_03.dds</Gun>
+		</Textures>
+		<color0>0.184 0.212 0.231 0.784</color0>
+		<color1>0.047 0.090 0.122 1.000</color1>
+		<color2>0.004 0.012 0.020 1.000</color2>
+		<color3>0.004 0.012 0.020 1.000</color3>
 	</camouflage>
 	<camouflage>
 		<annotation>Блок пермофляжа для американского авианосца 8 уровня Лексингтон</annotation>
@@ -4927,6 +5038,78 @@
 		<color1>0.047 0.090 0.122 1.000</color1>
 		<color2>0.184 0.212 0.231 0.784</color2>
 		<color3>0.184 0.212 0.231 0.784</color3>
+	</camouflage>
+	<camouflage>
+		<annotation>Блок пермофляжа для американского авианосца 7 уровня Рейнджер</annotation>
+		<name>camo_permanent_1</name>
+		<targetShip>PASA010_Ranger_1944</targetShip>
+		<tiled>false</tiled>
+		<UV>
+			<Tile>1 1</Tile>
+			<Gun>1 1</Gun>
+		</UV>
+		<Textures>
+			<Bow_Hull>content/gameplay/common/camouflage/textures/ASA010_Ranger_1944_hull_camo_01.dds</Bow_Hull>
+			<MidFront_Hull>content/gameplay/common/camouflage/textures/ASA010_Ranger_1944_hull_camo_01.dds</MidFront_Hull>
+			<MidFront_DeckHouse>content/gameplay/common/camouflage/textures/ASA010_Ranger_1944_deck_camo_01.dds</MidFront_DeckHouse>
+			<MidBack_Hull>content/gameplay/common/camouflage/textures/ASA010_Ranger_1944_hull_camo_01.dds</MidBack_Hull>
+			<MidBack_DeckHouse>content/gameplay/common/camouflage/textures/ASA010_Ranger_1944_deck_camo_01.dds</MidBack_DeckHouse>
+			<Stern_Hull>content/gameplay/common/camouflage/textures/ASA010_Ranger_1944_hull_camo_01.dds</Stern_Hull>
+			<Stern_DeckHouse>content/gameplay/common/camouflage/textures/ASA010_Ranger_1944_deck_camo_01.dds</Stern_DeckHouse>
+			<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
+		</Textures>
+		<color0>0.184 0.212 0.231 0.784</color0>
+		<color1>0.004 0.012 0.020 1.000</color1>
+		<color2>0.475 0.604 0.686 0.784</color2>
+		<color3>0.047 0.090 0.122 1.000</color3>
+	</camouflage>
+	<camouflage>
+		<annotation>Блок пермофляжа для американского линкора 5 уровня Нью-Йорк</annotation>
+		<name>camo_permanent_1</name>
+		<targetShip>PASB006_New_York_1934</targetShip>
+		<tiled>false</tiled>
+		<UV>
+			<Tile>1 1</Tile>
+			<Gun>1 1</Gun>
+		</UV>
+		<Textures>
+			<Bow_Hull>content/gameplay/common/camouflage/textures/ASB006_New_York_1934_camo_01.dds</Bow_Hull>
+			<MidFront_Hull>content/gameplay/common/camouflage/textures/ASB006_New_York_1934_camo_01.dds</MidFront_Hull>
+			<MidFront_DeckHouse>content/gameplay/common/camouflage/textures/ASB022_New_York_1942_DeckHouse_camo_01.dds</MidFront_DeckHouse>
+			<MidBack_Hull>content/gameplay/common/camouflage/textures/ASB006_New_York_1934_camo_01.dds</MidBack_Hull>
+			<MidBack_DeckHouse>content/gameplay/common/camouflage/textures/ASB022_New_York_1942_DeckHouse_camo_01.dds</MidBack_DeckHouse>
+			<Stern_Hull>content/gameplay/common/camouflage/textures/ASB006_New_York_1934_camo_01.dds</Stern_Hull>
+			<Stern_DeckHouse>content/gameplay/common/camouflage/textures/ASB022_New_York_1942_DeckHouse_camo_01.dds</Stern_DeckHouse>
+			<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
+		</Textures>
+		<color0>0.184 0.212 0.231 0.784</color0>
+		<color1>0.475 0.604 0.686 0.784</color1>
+		<color2>0.004 0.012 0.020 1.000</color2>
+		<color3>0.000 0.000 0.000 0.000</color3>
+	</camouflage>
+	<camouflage>
+		<annotation>Блок пермофляжа-победителя конкурса камуфляжей североамериканского региона линкора 5 уровня Нью-Йорк</annotation>
+		<name>camo_permanent_skull</name>
+		<targetShip>PASB006_New_York_1934</targetShip>
+		<tiled>false</tiled>
+		<UV>
+			<Tile>1 1</Tile>
+			<Gun>1 1</Gun>
+		</UV>
+		<Textures>
+			<Bow_Hull>content/gameplay/common/camouflage/textures/ASB006_New_York_1934_camo_02.dds</Bow_Hull>
+			<MidFront_Hull>content/gameplay/common/camouflage/textures/ASB006_New_York_1934_camo_02.dds</MidFront_Hull>
+			<MidFront_DeckHouse>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</MidFront_DeckHouse>
+			<MidBack_Hull>content/gameplay/common/camouflage/textures/ASB006_New_York_1934_camo_02.dds</MidBack_Hull>
+			<MidBack_DeckHouse>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</MidBack_DeckHouse>
+			<Stern_Hull>content/gameplay/common/camouflage/textures/ASB006_New_York_1934_camo_02.dds</Stern_Hull>
+			<Stern_DeckHouse>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Stern_DeckHouse>
+			<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
+		</Textures>
+		<color0>0.004 0.012 0.020 1.000</color0>
+		<color1>0.475 0.604 0.686 0.784</color1>
+		<color2>0.180 0.180 0.215 0.850</color2>
+		<color3>0.000 0.000 0.000 0.000</color3>
 	</camouflage>
 	<!--//German premium ships camouflage-->
 	<camouflage>
@@ -5019,6 +5202,50 @@
 		<color1>0.032 0.040 0.043 1.000</color1>
 		<color2>0.035 0.047 0.012 0.784</color2>
 		<color3>0.150 0.170 0.162 0.750</color3>
+	</camouflage>
+	<camouflage>
+		<annotation>Блок пермофляжа для немецкого крейсера 9 уровня Роон</annotation>
+		<name>camo_permanent_1</name>
+		<targetShip>PGSC109_Roon</targetShip>
+		<tiled>false</tiled>
+		<UV>
+			<Tile>1 1</Tile>
+			<Gun>0.75 0.55</Gun>
+		</UV>
+		<Textures>
+			<Bow_Hull>content/gameplay/common/camouflage/textures/GSC016_Roon_1945_camo_01.dds</Bow_Hull>
+			<MidFront_Hull>content/gameplay/common/camouflage/textures/GSC016_Roon_1945_camo_01.dds</MidFront_Hull>
+			<MidFront_DeckHouse>content/gameplay/common/camouflage/textures/GSC016_Roon_1945_deckhouse_camo_01.dds</MidFront_DeckHouse>
+			<MidBack_Hull>content/gameplay/common/camouflage/textures/GSC016_Roon_1945_camo_01.dds</MidBack_Hull>
+			<MidBack_DeckHouse>content/gameplay/common/camouflage/textures/GSC016_Roon_1945_deckhouse_camo_01.dds</MidBack_DeckHouse>
+			<Stern_Hull>content/gameplay/common/camouflage/textures/GSC016_Roon_1945_camo_01.dds</Stern_Hull>
+			<Gun>content/gameplay/common/camouflage/textures/R_gun_camo_01.dds</Gun>
+		</Textures>
+		<color0>0.447 0.431 0.431 0.750</color0>
+		<color1>0.032 0.040 0.043 1.000</color1>
+		<color2>0.000 0.000 0.000 0.000</color2>
+		<color3>0.000 0.000 0.000 0.000</color3>
+	</camouflage>
+	<camouflage>
+		<annotation>Блок пермофляжа для немецкого крейсера 7 уровня Йорк</annotation>
+		<name>camo_permanent_1</name>
+		<targetShip>PGSC107_Yorck</targetShip>
+		<tiled>false</tiled>
+		<UV>
+			<Tile>1 1</Tile>
+			<Gun>0.75 0.55</Gun>
+		</UV>
+		<Textures>
+			<Bow_Hull>content/gameplay/common/camouflage/textures/GSC010_Yorck_1942_camo_01.dds</Bow_Hull>
+			<MidFront_Hull>content/gameplay/common/camouflage/textures/GSC010_Yorck_1942_camo_01.dds</MidFront_Hull>
+			<MidBack_Hull>content/gameplay/common/camouflage/textures/GSC010_Yorck_1942_camo_01.dds</MidBack_Hull>
+			<Stern_Hull>content/gameplay/common/camouflage/textures/GSC010_Yorck_1942_camo_01.dds</Stern_Hull>
+			<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
+		</Textures>
+		<color0>0.447 0.431 0.431 0.750</color0>
+		<color1>0.032 0.040 0.043 1.000</color1>
+		<color2>0.032 0.055 0.100 1.000</color2>
+		<color3>0.000 0.000 0.000 0.000</color3>
 	</camouflage>
 	<!--//Russian premium ships camouflage-->
 	<camouflage>
@@ -5237,6 +5464,71 @@
 		<color2>0.000 0.000 0.000 0.000</color2>
 		<color3>0.000 0.000 0.000 0.000</color3>
 	</camouflage>
+	<camouflage>
+		<annotation>Блок пермофляжа для эсминца Киев</annotation>
+		<name>camo_permanent_1</name>
+		<targetShip>PRSD109_Pr_48_Kiev</targetShip>
+		<tiled>false</tiled>
+		<UV>
+			<Tile>1 1</Tile>
+			<Gun>0.5 0.5</Gun>
+		</UV>
+		<Textures>
+			<Bow_Hull>content/gameplay/common/camouflage/textures/RSD012_Pr_48_Kiev_1939_camo_01.dds</Bow_Hull>
+			<MidFront_Hull>content/gameplay/common/camouflage/textures/RSD012_Pr_48_Kiev_1939_camo_01.dds</MidFront_Hull>
+			<MidBack_Hull>content/gameplay/common/camouflage/textures/RSD012_Pr_48_Kiev_1939_camo_01.dds</MidBack_Hull>
+			<Stern_Hull>content/gameplay/common/camouflage/textures/RSD012_Pr_48_Kiev_1939_camo_01.dds</Stern_Hull>
+			<Gun>content/gameplay/common/camouflage/textures/Dazzle_tile_camo_01.dds</Gun>
+		</Textures>
+		<color0>0.045 0.070 0.095 0.750</color0>
+		<color1>0.002 0.002 0.002 0.784</color1>
+		<color2>0.082 0.157 0.243 0.784</color2>
+		<color3>0.631 0.616 0.522 0.500</color3>
+	</camouflage>
+	<camouflage>
+		<annotation>Блок пермофляжа для крейсера Щорс</annotation>
+		<name>camo_permanent_1</name>
+		<targetShip>PRSC107_Schors</targetShip>
+		<tiled>false</tiled>
+		<UV>
+			<Tile>1 1</Tile>
+			<Gun>0.5 0.5</Gun>
+		</UV>
+		<Textures>
+			<Bow_Hull>content/gameplay/common/camouflage/textures/RSC020_Schors_1943_camo_01.dds</Bow_Hull>
+			<MidFront_Hull>content/gameplay/common/camouflage/textures/RSC020_Schors_1943_camo_01.dds</MidFront_Hull>
+			<MidBack_Hull>content/gameplay/common/camouflage/textures/RSC020_Schors_1943_camo_01.dds</MidBack_Hull>
+			<Stern_Hull>content/gameplay/common/camouflage/textures/RSC020_Schors_1943_camo_01.dds</Stern_Hull>
+			<Gun>content/gameplay/common/camouflage/textures/IJN_tile_camo_01.dds</Gun>
+		</Textures>
+		<color0>0.005 0.030 0.055 0.850</color0>
+		<color1>0.082 0.157 0.243 0.854</color1>
+		<color2>0.631 0.616 0.522 0.500</color2>
+		<color3>0.045 0.070 0.095 0.750</color3>
+	</camouflage>
+	<camouflage>
+		<annotation>Блок пермофляжа для крейсера 9 уровня Дмитрий Донской</annotation>
+		<name>camo_permanent_1</name>
+		<targetShip>PRSC109_Dmitry_Donskoy</targetShip>
+		<tiled>false</tiled>
+		<UV>
+			<Tile>1 1</Tile>
+			<Gun>0.5 0.5</Gun>
+		</UV>
+		<Textures>
+			<Bow_Hull>content/gameplay/common/camouflage/textures/RSC013_Donskoy_1946_Hull_camo_01.dds</Bow_Hull>
+			<MidFront_Hull>content/gameplay/common/camouflage/textures/RSC013_Donskoy_1946_Hull_camo_01.dds</MidFront_Hull>
+			<MidFront_DeckHouse>content/gameplay/common/camouflage/textures/RSC013_Donskoy_1946_DeckHouse_camo_01.dds</MidFront_DeckHouse>
+			<MidBack_Hull>content/gameplay/common/camouflage/textures/RSC013_Donskoy_1946_Hull_camo_01.dds</MidBack_Hull>
+			<MidBack_DeckHouse>content/gameplay/common/camouflage/textures/RSC013_Donskoy_1946_DeckHouse_camo_01.dds</MidBack_DeckHouse>
+			<Stern_Hull>content/gameplay/common/camouflage/textures/RSC013_Donskoy_1946_Hull_camo_01.dds</Stern_Hull>
+			<Gun>content/gameplay/common/camouflage/textures/Dazzle_tile_camo_03.dds</Gun>
+		</Textures>
+		<color0>0.045 0.070 0.095 0.750</color0>
+		<color1>0.002 0.002 0.002 0.800</color1>
+		<color2>0.631 0.616 0.522 0.550</color2>
+		<color3>0.631 0.616 0.522 0.550</color3>
+	</camouflage>
 	<!--//Polish premium ships camouflage-->
 	<camouflage>
 		<annotation>Блок уникального дефолтного камуфляжа для польского эсминца Блыскавица</annotation>
@@ -5270,13 +5562,13 @@
 			<Gun>1 1</Gun>
 		</UV>
 		<Textures>
-			<Bow_Hull>content/gameplay/common/camouflage/textures/BSB002_Warspite_1941_hull_camo_01.dds</Bow_Hull>
+			<Bow_Hull>content/gameplay/common/camouflage/textures/BSB002_Warspite_1941_Hull_camo_01.dds</Bow_Hull>
 			<Bow_DeckHouse>content/gameplay/common/camouflage/textures/BSB002_Warspite_1941_Deck_House_camo_01.dds</Bow_DeckHouse>
-			<MidFront_Hull>content/gameplay/common/camouflage/textures/BSB002_Warspite_1941_hull_camo_01.dds</MidFront_Hull>
+			<MidFront_Hull>content/gameplay/common/camouflage/textures/BSB002_Warspite_1941_Hull_camo_01.dds</MidFront_Hull>
 			<MidFront_DeckHouse>content/gameplay/common/camouflage/textures/BSB002_Warspite_1941_Deck_House_camo_01.dds</MidFront_DeckHouse>
-			<MidBack_Hull>content/gameplay/common/camouflage/textures/BSB002_Warspite_1941_hull_camo_01.dds</MidBack_Hull>
+			<MidBack_Hull>content/gameplay/common/camouflage/textures/BSB002_Warspite_1941_Hull_camo_01.dds</MidBack_Hull>
 			<MidBack_DeckHouse>content/gameplay/common/camouflage/textures/BSB002_Warspite_1941_Deck_House_camo_01.dds</MidBack_DeckHouse>
-			<Stern_Hull>content/gameplay/common/camouflage/textures/BSB002_Warspite_1941_hull_camo_01.dds</Stern_Hull>
+			<Stern_Hull>content/gameplay/common/camouflage/textures/BSB002_Warspite_1941_Hull_camo_01.dds</Stern_Hull>
 			<Stern_DeckHouse>content/gameplay/common/camouflage/textures/BSB002_Warspite_1941_Deck_House_camo_01.dds</Stern_DeckHouse>
 			<Gun>content/gameplay/common/camouflage/textures/R_gun_camo_01.dds</Gun>
 		</Textures>

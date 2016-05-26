@@ -51,13 +51,25 @@ msgid "IDS_4X4"
 msgstr "4X4"
 
 msgid "IDS_AAAURA"
-msgstr ": 対空砲座の有効性"
+msgstr ": 対空砲座の秒間平均ダメージ"
 
 msgid "IDS_AAMAXDIST"
 msgstr ": 対空砲座の最大射程"
 
 msgid "IDS_AAPASSIVEAURA"
-msgstr "後部銃座を持つ航空機の防御兵装有効性"
+msgstr "後部銃座を持つ航空機の防御兵装の秒間平均ダメージ"
+
+msgid "IDS_AA_ATBA_STATE_LABEL"
+msgstr "副砲/対空砲のステータス"
+
+msgid "IDS_AA_FAR_STATE"
+msgstr "長射程対空砲によるダメージ"
+
+msgid "IDS_AA_MID_STATE"
+msgstr "中射程対空砲によるダメージ"
+
+msgid "IDS_AA_NEAR_STATE"
+msgstr "短射程対空砲によるダメージ"
 
 msgid "IDS_ABILITIES_MAX_REPLENISHMENT_HINT"
 msgstr "搭載中の消耗品がひとつもない場合は、最大費用が消費されます。"
@@ -92,6 +104,11 @@ msgstr "クレジットの変換"
 
 msgid "IDS_ACCOUNT_LEVELING_POINTS"
 msgstr "任務記録 EXP"
+
+msgid "IDS_ACCOUNT_LEVELING_POINTS_HINT"
+msgstr ""
+"補償の支払いと受け取りを含む、戦闘中のアクションによる任務記録 "
+"EXP 加算"
 
 msgid "IDS_ACCOUNT_LEVEL_GAINED_REASON"
 msgstr "任務記録レベル %(level)d を達成しました。"
@@ -735,22 +752,28 @@ msgid "IDS_AIRCRAFT"
 msgstr "航空機"
 
 msgid "IDS_AIRPLANESANTIAIRAURA"
-msgstr ": 航空機銃の有効性"
+msgstr ": 航空機銃の秒間平均ダメージ"
 
 msgid "IDS_AIRPLANESBOMBERVITALITYTIME"
-msgstr ": 攻撃機の抗堪性"
+msgstr ": 攻撃機の HP"
 
 msgid "IDS_AIRPLANESCONTROLS"
 msgstr "航空機"
 
 msgid "IDS_AIRPLANESFIGHTERVITALITYTIME"
-msgstr ": 戦闘機の抗堪性"
+msgstr ": 戦闘機の HP"
 
 msgid "IDS_AIRPLANESPREPARETIME"
 msgstr ": 航空機の整備時間"
 
 msgid "IDS_AIRPLANESSPEED"
 msgstr ": 航空機の最大速度"
+
+msgid "IDS_AIR_DEFENSE"
+msgstr "対空砲"
+
+msgid "IDS_AIR_DEFENSE_HELP_SCREEN"
+msgstr "対空砲"
 
 msgid "IDS_ALLIED_FRAGS"
 msgstr "味方"
@@ -820,6 +843,9 @@ msgstr "AP"
 msgid "IDS_AMMOTYPE_HE"
 msgstr "HE"
 
+msgid "IDS_AMMO_SPENT"
+msgstr "砲弾消費"
+
 msgid "IDS_AMMUNITION"
 msgstr "弾薬"
 
@@ -857,7 +883,7 @@ msgid "IDS_ANISOTROPIC_8X"
 msgstr "異方性 8x"
 
 msgid "IDS_ANTIAIRAURAFACTOR"
-msgstr ": 対空砲の有効性"
+msgstr ": 対空砲の秒間平均ダメージ"
 
 msgid "IDS_ANTIAIRCRAFT"
 msgstr "対空砲"
@@ -873,6 +899,13 @@ msgid "IDS_AOGAS_CREDITS_EXP_PENALTY"
 msgstr ""
 "各戦での取得クレジットおよび EXP の量が %(penalty)s%"
 "% 低下しました"
+
+msgid "IDS_AOGAS_FACTOR"
+msgstr "AOGAS"
+
+msgid "IDS_AOGAS_FACTOR_HINT"
+msgstr ""
+"戦闘で取得した EXP とクレジットが差し引かれました。"
 
 msgid "IDS_AOGAS_RESET_PENALTY"
 msgid_plural "IDS_AOGAS_RESET_PENALTY"
@@ -943,6 +976,9 @@ msgstr "主力艦に指定"
 
 msgid "IDS_ASSIGN_TO"
 msgstr "配属させる:"
+
+msgid "IDS_ATBA_STATE"
+msgstr "副砲塔"
 
 msgid "IDS_ATTACK_TARGET"
 msgstr "目標をハイライト"
@@ -1020,6 +1056,12 @@ msgstr "迷彩の自動補給"
 
 msgid "IDS_AUTOREPLENISHMENT_SIGNALS"
 msgstr "信号旗の自動補給"
+
+msgid "IDS_AUTO_SERVICE"
+msgstr "修理・補給"
+
+msgid "IDS_AUTO_SERVICE_HINT"
+msgstr "修理・補給によるクレジット消費"
 
 msgid "IDS_AUTO_SETTINGS"
 msgstr "グラフィック品質"
@@ -1256,6 +1298,9 @@ msgstr "開催中"
 msgid "IDS_BATTLES_PER_LEVEL"
 msgstr "%s (Tier %s 艦艇)"
 
+msgid "IDS_BATTLES_TO_LEFT_TEAMKILLER_STATUS"
+msgstr "TKステータス解除までの戦闘数"
+
 msgid "IDS_BATTLE_CHAT_GENERAL"
 msgstr "全員宛"
 
@@ -1301,6 +1346,9 @@ msgstr "魚雷命中"
 msgid "IDS_BATTLE_STATS_ALIVE_TIME"
 msgstr "継戦時間"
 
+msgid "IDS_BATTLE_STATS_ALIVE_TIME_HINT"
+msgstr "継戦時間"
+
 msgid "IDS_BATTLE_STATS_ALLIES_CAPTURED_BASE"
 msgstr "味方艦隊が陣地を占領"
 
@@ -1312,6 +1360,12 @@ msgstr "ポイント優勢により味方艦隊勝利"
 
 msgid "IDS_BATTLE_STATS_ALLIES_SUNK"
 msgstr "味方艦艇全滅"
+
+msgid "IDS_BATTLE_STATS_AMMO_HE"
+msgstr "榴弾"
+
+msgid "IDS_BATTLE_STATS_APPLIED_CREW"
+msgstr "この艦に配属中の艦長"
 
 msgid "IDS_BATTLE_STATS_ATBA_AMMO0"
 msgstr "第 1 種砲弾"
@@ -1337,11 +1391,29 @@ msgstr "陣地占領ポイント"
 msgid "IDS_BATTLE_STATS_BATTLE_STARTED"
 msgstr "開始時間"
 
+msgid "IDS_BATTLE_STATS_BATTLE_STARTED_HINT"
+msgstr "戦闘開始日時"
+
 msgid "IDS_BATTLE_STATS_BATTLE_TIME"
+msgstr "戦闘時間"
+
+msgid "IDS_BATTLE_STATS_BATTLE_TIME_HINT"
 msgstr "戦闘時間"
 
 msgid "IDS_BATTLE_STATS_CAUSED_DAMAGE"
 msgstr "与ダメージ"
+
+msgid "IDS_BATTLE_STATS_CAUSED_DAMAGE_HINT"
+msgstr "この戦闘での敵艦艇への合計与ダメージ"
+
+msgid "IDS_BATTLE_STATS_CAUSED_FIRES_HINT"
+msgstr "引き起こした火災数 / 与ダメージ"
+
+msgid "IDS_BATTLE_STATS_CAUSED_FLOODS_HINT"
+msgstr "引き起こした浸水数 / 与ダメージ"
+
+msgid "IDS_BATTLE_STATS_CAUSED_RAMS_HINT"
+msgstr "体当たりによる与ダメージ"
 
 msgid "IDS_BATTLE_STATS_COUNT_DAMAGED_SHIPS"
 msgid_plural "IDS_BATTLE_STATS_COUNT_DAMAGED_SHIPS"
@@ -1373,11 +1445,28 @@ msgstr "クレジット"
 msgid "IDS_BATTLE_STATS_CREDITS_AND_EXP"
 msgstr "クレジット/EXP"
 
+msgid "IDS_BATTLE_STATS_CREDITS_HINT"
+msgstr "主要なゲーム内通貨"
+
+msgid "IDS_BATTLE_STATS_CREW_EXP_HINT"
+msgstr ""
+"艦長 "
+"EXP は、艦のパラメータを高める艦長スキルを習得し使用するために利用できます。"
+
+msgid "IDS_BATTLE_STATS_CREW_POINTS"
+msgstr "艦長 EXP 加算"
+
+msgid "IDS_BATTLE_STATS_CREW_POINTS_HINT"
+msgstr "戦闘中のアクションによる艦長 EXP 加算"
+
 msgid "IDS_BATTLE_STATS_DAMAGED_BY"
 msgstr "を撃沈:"
 
 msgid "IDS_BATTLE_STATS_DAMAGED_BY_FORT"
 msgstr "を撃沈: 要塞 [icon_fort]"
+
+msgid "IDS_BATTLE_STATS_DAMAGE_HINT"
+msgstr "自艦がこの艦に与えたダメージ"
 
 msgid "IDS_BATTLE_STATS_DAMAGE_RAM"
 msgstr "体当たりによる与ダメージ"
@@ -1387,6 +1476,9 @@ msgstr "詳細報告"
 
 msgid "IDS_BATTLE_STATS_DISTANCE"
 msgstr "航行距離"
+
+msgid "IDS_BATTLE_STATS_DISTANCE_HINT"
+msgstr "この戦闘における艦の航行距離"
 
 msgid "IDS_BATTLE_STATS_ENEMIES"
 msgstr "敵"
@@ -1409,11 +1501,26 @@ msgstr "敵"
 msgid "IDS_BATTLE_STATS_EXPIRIENCE"
 msgstr "EXP"
 
+msgid "IDS_BATTLE_STATS_EXPIRIENCE_HINT"
+msgstr "研究のための主要リソース"
+
 msgid "IDS_BATTLE_STATS_FINE_FOR_DAMAGE"
 msgstr "同士討ちの補償"
 
 msgid "IDS_BATTLE_STATS_FINE_OF_DAMAGE"
 msgstr "同士討ちの懲罰"
+
+msgid "IDS_BATTLE_STATS_FIRES"
+msgstr "火災"
+
+msgid "IDS_BATTLE_STATS_FIRES_HINT"
+msgstr "火災発生数 / 被ダメージ"
+
+msgid "IDS_BATTLE_STATS_FLOODS"
+msgstr "浸水"
+
+msgid "IDS_BATTLE_STATS_FLOODS_HINT"
+msgstr "浸水発生数 / 被ダメージ"
 
 msgid "IDS_BATTLE_STATS_FUTURE_REWARDS"
 msgstr "後続勲章"
@@ -1421,23 +1528,26 @@ msgstr "後続勲章"
 msgid "IDS_BATTLE_STATS_IS_CREDITED"
 msgstr "支給"
 
-msgid "IDS_BATTLE_STATS_MAIN_GUN_AMMO0"
+msgid "IDS_BATTLE_STATS_KILL_HINT"
+msgstr "自艦がこの艦を撃沈"
+
+msgid "IDS_BATTLE_STATS_MAIN_GUN_AMMO_AP"
 msgstr "AP 弾命中"
 
-msgid "IDS_BATTLE_STATS_MAIN_GUN_AMMO1"
+msgid "IDS_BATTLE_STATS_MAIN_GUN_AMMO_HE"
 msgstr "HE 弾命中"
 
 msgid "IDS_BATTLE_STATS_MAIN_GUN_BREAK_ARMOR"
 msgstr "貫通弾数"
 
-msgid "IDS_BATTLE_STATS_MAIN_GUN_FIRES"
-msgstr "火災を引き起こした"
-
-msgid "IDS_BATTLE_STATS_MAIN_GUN_FLOODS"
-msgstr "浸水を引き起こした"
-
 msgid "IDS_BATTLE_STATS_MAIN_GUN_SHOTS"
 msgstr "主砲射撃弾数"
+
+msgid "IDS_BATTLE_STATS_MIRROR_DAMAGE"
+msgstr "チームキル・ペナルティ"
+
+msgid "IDS_BATTLE_STATS_MIRROR_DAMAGE_HINT"
+msgstr "味方への同士討ちペナルティとしての被ダメージ"
 
 msgid "IDS_BATTLE_STATS_NEITHER_SIDE_PREVAILED"
 msgstr "勝者なし"
@@ -1448,11 +1558,17 @@ msgstr "個別戦果"
 msgid "IDS_BATTLE_STATS_PLANES_DESTROYED"
 msgstr "航空機撃墜"
 
+msgid "IDS_BATTLE_STATS_PLANE_HINT"
+msgstr "自艦が撃墜したこの艦の航空機"
+
 msgid "IDS_BATTLE_STATS_PRESS"
 msgstr "押す:"
 
 msgid "IDS_BATTLE_STATS_RAMS"
 msgstr "体当たり"
+
+msgid "IDS_BATTLE_STATS_RAMS_HINT"
+msgstr "体当たり回数 / 被ダメージ"
 
 msgid "IDS_BATTLE_STATS_REAMMUNITION"
 msgstr "弾薬の補給費用"
@@ -1460,11 +1576,14 @@ msgstr "弾薬の補給費用"
 msgid "IDS_BATTLE_STATS_RECEIVED_AIRPLANES_BOMBS_HITS"
 msgstr "爆弾命中"
 
-msgid "IDS_BATTLE_STATS_RECEIVED_AIRPLANES_KILLED"
-msgstr "航空機損失"
-
 msgid "IDS_BATTLE_STATS_RECEIVED_DAMAGED_ALLIES"
 msgstr "味方への与ダメージ"
+
+msgid "IDS_BATTLE_STATS_RECEIVED_DAMAGED_ALLIES_HINT"
+msgstr ""
+"味方への与ダメージ\n"
+"味方へダメージを与えた場合、補償としてクレジットと "
+"EXP が差し引かれます。また、チームキラー・ステータスが付与される場合もあります。"
 
 msgid "IDS_BATTLE_STATS_RECEIVED_MAIN_GUN_AMMO0"
 msgstr "AP 弾命中"
@@ -1473,7 +1592,7 @@ msgid "IDS_BATTLE_STATS_RECEIVED_MAIN_GUN_AMMO1"
 msgstr "HE 弾命中"
 
 msgid "IDS_BATTLE_STATS_RECEIVED_RAMS"
-msgstr "衝突による被ダメージ"
+msgstr "体当たり"
 
 msgid "IDS_BATTLE_STATS_RECEIVED_TORPEDO_HITS"
 msgstr "魚雷命中"
@@ -1484,11 +1603,25 @@ msgstr "(記録)"
 msgid "IDS_BATTLE_STATS_REEQUIP"
 msgstr "消耗品の自動補給"
 
+msgid "IDS_BATTLE_STATS_SERVICE_RECORD_EXP_HINT"
+msgstr "任務記録 EXP"
+
 msgid "IDS_BATTLE_STATS_TAKEN_DAMAGE"
 msgstr "被ダメージ"
 
+msgid "IDS_BATTLE_STATS_TAKEN_DAMAGE_HINT"
+msgstr "この戦闘での合計被ダメージ"
+
 msgid "IDS_BATTLE_STATS_TAKEN_TILL_BATTLE"
-msgstr "取得"
+msgstr "収入"
+
+msgid "IDS_BATTLE_STATS_TAKEN_TILL_BATTLE_CREDITS_HINT"
+msgstr "補償の支払いと受け取りを含む、戦闘中のアクションによるクレジット収入"
+
+msgid "IDS_BATTLE_STATS_TAKEN_TILL_BATTLE_EXPIRIENCE_HINT"
+msgstr ""
+"補償の支払いと受け取りを含む、戦闘中のアクションによる "
+"EXP 取得"
 
 msgid "IDS_BATTLE_STATS_TEAMMATES"
 msgstr "味方"
@@ -1499,17 +1632,41 @@ msgstr "艦隊戦果"
 msgid "IDS_BATTLE_STATS_TIME_AND_SPACE"
 msgstr "時間と距離"
 
+msgid "IDS_BATTLE_STATS_TIME_AND_SPACE_HINT"
+msgstr "戦闘時間と航行距離の情報"
+
+msgid "IDS_BATTLE_STATS_TORPEDOES_RELEASED"
+msgstr "魚雷投下数"
+
+msgid "IDS_BATTLE_STATS_TORPEDOES_SHOTS"
+msgstr "魚雷発射数"
+
 msgid "IDS_BATTLE_STATS_TORPEDO_HITS"
 msgstr "命中"
-
-msgid "IDS_BATTLE_STATS_TORPEDO_SHOTS"
-msgstr "魚雷発射数"
 
 msgid "IDS_BATTLE_STATS_TOTAL"
 msgstr "合計:"
 
+msgid "IDS_BATTLE_STATS_TOTAL_CREDITS_COUNT_HINT"
+msgstr "合計クレジット"
+
+msgid "IDS_BATTLE_STATS_TOTAL_CREDITS_HINT"
+msgstr "この戦闘で取得したクレジットとダブロンの合計"
+
+msgid "IDS_BATTLE_STATS_TOTAL_EXP_COUNT_HINT"
+msgstr "合計 EXP"
+
+msgid "IDS_BATTLE_STATS_TOTAL_EXP_HINT"
+msgstr "この戦闘で取得した EXP およびフリー EXP の合計"
+
+msgid "IDS_BATTLE_STATS_TOTAL_GOLD_COUNT_HINT"
+msgstr "合計ダブロン"
+
 msgid "IDS_BATTLE_STATS_TO_GO_TO_DOCK"
 msgstr "で港に戻る"
+
+msgid "IDS_BATTLE_STATS_WARNING_ICON_HINT"
+msgstr "注意! 不完全です"
 
 msgid "IDS_BATTLE_STATS_WITH_PREMIUM"
 msgstr "プレミアム"
@@ -1519,6 +1676,15 @@ msgstr "ミッション:"
 
 msgid "IDS_BATTLE_TASKS"
 msgstr "ミッション"
+
+msgid "IDS_BATTLE_TASKS_CREDITS_HINT"
+msgstr "ミッション達成によるクレジット収入"
+
+msgid "IDS_BATTLE_TASKS_EXPIRIENCE_HINT"
+msgstr "ミッション達成による EXP 取得"
+
+msgid "IDS_BATTLE_TASKS_EXP_HINT"
+msgstr "ミッション達成による EXP 取得"
 
 msgid "IDS_BATTLE_TASK_TEXT_I00_AV"
 msgstr "敵戦艦を撃沈せよ"
@@ -1572,6 +1738,15 @@ msgstr "エンジン出力復旧"
 
 msgid "IDS_BLUELINE_ON"
 msgstr "戦場に戻れ、エンジン出力低下"
+
+msgid "IDS_BOMBER"
+msgstr "爆撃機"
+
+msgid "IDS_BOMBS"
+msgstr "爆弾"
+
+msgid "IDS_BOMBS_RELEASED"
+msgstr "爆弾投下数"
 
 msgid "IDS_BOT"
 msgstr "ボット"
@@ -1777,6 +1952,45 @@ msgstr "航空母艦"
 msgid "IDS_CARRIER_SELECT"
 msgstr "航空母艦を選択"
 
+msgid "IDS_CAUSED_AIRPLANES_HINT"
+msgstr "航空機による命中数 / 与ダメージ"
+
+msgid "IDS_CAUSED_AMMO_AP_HINT"
+msgstr "AP 弾の命中弾数 / 与ダメージ"
+
+msgid "IDS_CAUSED_AMMO_AP_SHOTS_HINT"
+msgstr "AP 弾の射撃弾数"
+
+msgid "IDS_CAUSED_AMMO_HE_HINT"
+msgstr "HE 弾の命中弾数 / 与ダメージ"
+
+msgid "IDS_CAUSED_AMMO_HE_SHOTS_HINT"
+msgstr "HE 弾の射撃弾数"
+
+msgid "IDS_CAUSED_BOMBS_HINT"
+msgstr "爆弾の命中数 / 与ダメージ"
+
+msgid "IDS_CAUSED_BOMBS_RELEASED_HINT"
+msgstr "爆弾投下数"
+
+msgid "IDS_CAUSED_MAIN_CALIBER_HINT"
+msgstr "主砲の命中弾数 / 与ダメージ"
+
+msgid "IDS_CAUSED_OTHER_HINT"
+msgstr "火災、浸水、体当たりによる敵艦への与ダメージ"
+
+msgid "IDS_CAUSED_SECONDARY_CALIBER_HINT"
+msgstr "副砲の命中弾数 / 与ダメージ"
+
+msgid "IDS_CAUSED_TORPEDOES_HINT"
+msgstr "魚雷の命中数 / 与ダメージ"
+
+msgid "IDS_CAUSED_TORPEDOES_RELEASED_HINT"
+msgstr "投下した魚雷の数"
+
+msgid "IDS_CAUSED_TORPEDOES_SHOTS_HINT"
+msgstr "発射した魚雷の数"
+
 msgid "IDS_CENTERCAMERAONSHIP"
 msgstr "艦にカメラを戻す"
 
@@ -1839,6 +2053,21 @@ msgstr "チャンネルの改名"
 
 msgid "IDS_CHARGED"
 msgstr "追加:"
+
+msgid "IDS_CHARGED_AFTER_BATTLE"
+msgstr "収入"
+
+msgid "IDS_CHARGED_AFTER_BATTLE_ACCOUNT_LEVELING_HINT"
+msgstr "戦闘での活躍による任務記録 EXP 加算"
+
+msgid "IDS_CHARGED_AFTER_BATTLE_CREDITS_HINT"
+msgstr "戦闘での活躍によるクレジット収入"
+
+msgid "IDS_CHARGED_AFTER_BATTLE_CREW_HINT"
+msgstr "戦闘での活躍による艦長 EXP 加算"
+
+msgid "IDS_CHARGED_AFTER_BATTLE_EXPIRIENCE_HINT"
+msgstr "戦闘での活躍による EXP 取得"
 
 msgid "IDS_CHARGE_REASON"
 msgstr "追加理由:"
@@ -2284,6 +2513,12 @@ msgstr "達成条件に記載されているミッションを全て達成して
 msgid "IDS_COMPLETE_SERVICE_FIRST"
 msgstr "このモジュールを購入するには、艦の修理・補給が必要"
 
+msgid "IDS_COMSUME_BOMBER"
+msgstr "水上爆撃機"
+
+msgid "IDS_COMSUME_TITLE_BOMBER"
+msgstr "水上爆撃機"
+
 msgid "IDS_CONDITION_DAMAGE"
 msgstr "%s%s %s を取得: %s %s を与える"
 
@@ -2350,6 +2585,9 @@ msgstr "消耗品 3"
 msgid "IDS_CONSUMABLE_4"
 msgstr "消耗品 4"
 
+msgid "IDS_CONSUMABLE_5"
+msgstr "消耗品 5"
+
 msgid "IDS_CONSUMABLE_HANGAR_BOOSTER_NO_AMMO"
 msgstr "ありません"
 
@@ -2400,6 +2638,18 @@ msgstr "準備中"
 
 msgid "IDS_CONSUMABLE_UNMOUNTED"
 msgstr "消耗品の解除完了"
+
+msgid "IDS_CONSUME_FIGHTER"
+msgstr "水上戦闘機"
+
+msgid "IDS_CONSUME_FIGHTERS"
+msgstr "水上戦闘機"
+
+msgid "IDS_CONSUME_SCOUT"
+msgstr "着弾観測機"
+
+msgid "IDS_CONSUME_SCOUTS"
+msgstr "着弾観測機"
 
 msgid "IDS_CONTACTS"
 msgstr "連絡先"
@@ -3312,6 +3562,9 @@ msgstr[0] "フリーポイント"
 msgid "IDS_CREW_TRAINING_GOLD"
 msgstr "精鋭育成"
 
+msgid "IDS_CROSSHAIR"
+msgstr "照準"
+
 msgid "IDS_CROSSHAIR_0"
 msgstr "タイプ 1"
 
@@ -3554,6 +3807,9 @@ msgstr "スナイパー"
 msgid "IDS_DAILY_TITLE_400"
 msgstr "守護者"
 
+msgid "IDS_DAMAGED_MODULES"
+msgstr "モジュール被害"
+
 msgid "IDS_DATE"
 msgstr "日付"
 
@@ -3642,7 +3898,7 @@ msgid "IDS_DESC_PCM009_FLIGHTCONTROL_MOD_I"
 msgstr "航空機の整備を促進"
 
 msgid "IDS_DESC_PCM010_AIRPLANES_MOD_II"
-msgstr "戦闘機の抗堪性を向上"
+msgstr "戦闘機の HP を向上"
 
 msgid "IDS_DESC_PCM011_AIRDEFENSE_MOD_II"
 msgstr "対空砲座の射程を向上"
@@ -3663,7 +3919,7 @@ msgid "IDS_DESC_PCM016_FLIGHTCONTROL_MOD_II"
 msgstr "航空機の速度を向上"
 
 msgid "IDS_DESC_PCM017_AIRPLANES_MOD_III"
-msgstr "攻撃機の抗堪性を向上"
+msgstr "攻撃機の HP を向上"
 
 msgid "IDS_DESC_PCM018_AIRDEFENSE_MOD_III"
 msgstr "対空砲の有効性を向上"
@@ -3711,10 +3967,10 @@ msgid "IDS_DESTROYED"
 msgstr "撃破:"
 
 msgid "IDS_DESTROYED_BY_AG"
-msgstr "副兵装"
+msgstr "副砲"
 
 msgid "IDS_DESTROYED_BY_AG_TOOLTIP_PROFILE"
-msgstr "敵艦艇に対する副兵装命中弾総数"
+msgstr "敵艦艇に対する副砲命中弾総数"
 
 msgid "IDS_DESTROYED_BY_AVIATION"
 msgstr "航空攻撃"
@@ -3767,8 +4023,14 @@ msgstr "艦艇撃沈数"
 msgid "IDS_DESTROYED_ENEMY_SHIPS_AVERAGE_TOOLTIP_PROFILE"
 msgstr "1 戦あたりの平均敵艦艇撃沈数"
 
+msgid "IDS_DESTROYED_ENEMY_SHIPS_HINT"
+msgstr "この戦闘で自艦が撃沈した敵艦艇数"
+
 msgid "IDS_DESTROYED_ENEMY_SHIPS_TOOLTIP_PROFILE"
 msgstr "1 戦あたりの平均敵艦艇撃沈数"
+
+msgid "IDS_DESTROYED_MODULES_HELP_SCREEN"
+msgstr "モジュール機能停止"
 
 msgid "IDS_DESTROYER"
 msgstr "駆逐艦"
@@ -4424,7 +4686,7 @@ msgid "IDS_EXPFACTOR"
 msgstr ": 戦闘での取得 EXP"
 
 msgid "IDS_EXPIRE_DATE"
-msgstr "完了日"
+msgstr "終了日"
 
 msgid "IDS_EXTERIOR"
 msgstr "外装"
@@ -4461,6 +4723,12 @@ msgstr "大火災"
 
 msgid "IDS_FIRE_SMALL"
 msgstr "小火災"
+
+msgid "IDS_FIRST_WIN"
+msgstr "今日の初勝利"
+
+msgid "IDS_FIRST_WIN_HINT"
+msgstr "今日の初勝利で取得した EXP"
 
 msgid "IDS_FIXING_TARGET_POSITION"
 msgstr "照準ロック"
@@ -4666,6 +4934,9 @@ msgstr "未分配ポイント"
 
 msgid "IDS_FREE_SLOTS"
 msgstr "空きスロット:"
+
+msgid "IDS_FREE_XP_DESC"
+msgstr "この戦闘で取得した EXP の一定割合として算出"
 
 msgid "IDS_FROM_BARRACKS"
 msgstr "営舎から"
@@ -5187,7 +5458,7 @@ msgid "IDS_HELP_HEAL_TIME"
 msgstr "復旧時間"
 
 msgid "IDS_HELP_INDICATOR_PMK_AND_HE"
-msgstr "副兵装および対空砲無効"
+msgstr "副砲および対空砲無効"
 
 msgid "IDS_HELP_IT_IS_DESTROYED"
 msgstr "大破"
@@ -5244,7 +5515,7 @@ msgid "IDS_HELP_ONE_BY_ONE_SHOT_DESCRIPTION"
 msgstr "左 MB 長押し"
 
 msgid "IDS_HELP_ON_OFF_AD_AND_HE"
-msgstr "副兵装および対空砲有効/無効"
+msgstr "副砲および対空砲有効/無効"
 
 msgid "IDS_HELP_ON_OFF_AD_AND_HE_DESCR"
 msgstr "P キー"
@@ -5339,6 +5610,9 @@ msgstr "(味方宛 / 全員宛)"
 msgid "IDS_HELP_TEMPORARILY_DISABLED"
 msgstr "行動不能、修理時間"
 
+msgid "IDS_HELP_TERRAIN_HIT"
+msgstr "地形妨害インジケータ"
+
 msgid "IDS_HELP_THE_AVIATION"
 msgstr "航空機"
 
@@ -5418,7 +5692,7 @@ msgid "IDS_HINT_ACHIEVEMENTS_SORT"
 msgstr "実績の表示方法を選択してください"
 
 msgid "IDS_HINT_ACTION_LIFETIME"
-msgstr "スペシャル期間"
+msgstr "残り時間"
 
 msgid "IDS_HINT_ADD_CHANNELS"
 msgstr ""
@@ -6659,6 +6933,12 @@ msgstr ""
 msgid "IDS_KICK_PLAYER_FROM_CLUB"
 msgstr "艦隊から除外"
 
+msgid "IDS_KILLED_BY_PLAYER"
+msgstr "撃沈者:"
+
+msgid "IDS_KILLED_BY_YOURSELF"
+msgstr "自艦が撃沈"
+
 msgid "IDS_KILL_ENEMIES"
 msgstr "敵撃破"
 
@@ -6803,7 +7083,7 @@ msgid "IDS_LINK_SUPPORT_HINT"
 msgstr "カスタマーサービスセンターにリダイレクトされます"
 
 msgid "IDS_LOADING"
-msgstr "四十九年一睡夢、一期栄華一盃酒"
+msgstr "悠悠天地事 鑑照在明神"
 
 msgid "IDS_LOADING_PORT"
 msgstr "港を読込中"
@@ -8304,6 +8584,9 @@ msgstr "戦隊宛"
 msgid "IDS_LOBBY_CHAT_GENERAL"
 msgstr "港"
 
+msgid "IDS_LOCKED"
+msgstr "フリールック"
+
 msgid "IDS_LOCK_DIVISION"
 msgstr "戦隊をロック"
 
@@ -8341,7 +8624,7 @@ msgid "IDS_LUCKY_RANKED_BATTLE"
 msgstr "鎧袖一触"
 
 msgid "IDS_MAIN_CALIBER"
-msgstr "主兵装"
+msgstr "主砲"
 
 msgid "IDS_MAIN_CALIBER_AMMO"
 msgstr "主砲砲弾"
@@ -8504,8 +8787,80 @@ msgstr "mm"
 msgid "IDS_MINIMAPCONTROLS"
 msgstr "ミニマップ"
 
+msgid "IDS_MINIMAP_AA_RANGE"
+msgstr "対空砲射程"
+
+msgid "IDS_MINIMAP_AA_RANGE_CHCK"
+msgstr "対空砲射程を表示"
+
+msgid "IDS_MINIMAP_AA_RANGE_CHCK_NOT_AVAILABLE"
+msgstr "対空砲なし"
+
+msgid "IDS_MINIMAP_AA_RANGE_CHCK_SELECTED"
+msgstr "対空砲射程を非表示"
+
+msgid "IDS_MINIMAP_ATBA_RANGE"
+msgstr "副砲射程"
+
+msgid "IDS_MINIMAP_ATBA_RANGE_CHCK"
+msgstr "副砲射程を表示"
+
+msgid "IDS_MINIMAP_ATBA_RANGE_CHCK_NOT_AVAILABLE"
+msgstr "副砲なし"
+
+msgid "IDS_MINIMAP_ATBA_RANGE_CHCK_SELECTED"
+msgstr "副砲射程を非表示"
+
+msgid "IDS_MINIMAP_LAST_VIS"
+msgstr "失探位置マーカー"
+
+msgid "IDS_MINIMAP_LAST_VIS_CHCK"
+msgstr "敵艦艇を失探した位置を示すマーカーを表示"
+
+msgid "IDS_MINIMAP_LAST_VIS_CHCK_SELECTED"
+msgstr "敵艦艇を失探した位置を示すマーカーを非表示"
+
+msgid "IDS_MINIMAP_MG_RANGE"
+msgstr "主砲射程"
+
+msgid "IDS_MINIMAP_MG_RANGE_CHCK"
+msgstr "主砲射程を表示"
+
+msgid "IDS_MINIMAP_MG_RANGE_CHCK_NOT_AVAILABLE"
+msgstr "主砲なし"
+
+msgid "IDS_MINIMAP_MG_RANGE_CHCK_SELECTED"
+msgstr "主砲射程を非表示"
+
+msgid "IDS_MINIMAP_OPTIONS_HINT"
+msgstr "ミニマップの調節"
+
 msgid "IDS_MINIMAP_ROTATION"
 msgstr "ミニマップ回転"
+
+msgid "IDS_MINIMAP_TA_RANGE"
+msgstr "魚雷射程"
+
+msgid "IDS_MINIMAP_TA_RANGE_CHCK"
+msgstr "魚雷射程を表示"
+
+msgid "IDS_MINIMAP_TA_RANGE_CHCK_NOT_AVAILABLE"
+msgstr "魚雷発射管なし"
+
+msgid "IDS_MINIMAP_TA_RANGE_CHCK_SELECTED"
+msgstr "魚雷射程を非表示"
+
+msgid "IDS_MINIMAP_VIS_PLANE_RANGE_CHCK"
+msgstr "航空発見距離を表示"
+
+msgid "IDS_MINIMAP_VIS_PLANE_RANGE_CHCK_SELECTED"
+msgstr "航空発見距離を非表示"
+
+msgid "IDS_MINIMAP_VIS_RANGE_CHCK"
+msgstr "海面発見距離を表示"
+
+msgid "IDS_MINIMAP_VIS_RANGE_CHCK_SELECTED"
+msgstr "海面発見距離を非表示"
 
 msgid "IDS_MINUTE"
 msgstr " min"
@@ -8540,11 +8895,53 @@ msgstr "アップグレード搭載完了"
 msgid "IDS_MODERNIZATION_QUANTITY"
 msgstr "アップグレード数"
 
+msgid "IDS_MODIFIERS"
+msgstr "係数"
+
+msgid "IDS_MODIFIERS_CREDITS_HINT"
+msgstr "追加係数およびボーナス適用後の取得クレジット"
+
+msgid "IDS_MODIFIERS_EXP_HINT"
+msgstr "追加係数およびボーナス適用後の取得 EXP"
+
 msgid "IDS_MODULES"
 msgstr "モジュール"
 
+msgid "IDS_MODULES_DAMAGED"
+msgstr "モジュール損傷"
+
+msgid "IDS_MODULES_DESTROYED"
+msgstr "モジュール大破"
+
+msgid "IDS_MODULES_WAS_DESTROYED_HELP_SCREEN"
+msgstr "モジュール大破"
+
+msgid "IDS_MODULE_AIR_DEFENSE"
+msgstr "対空砲"
+
+msgid "IDS_MODULE_ATBA_GUN"
+msgstr "副砲"
+
+msgid "IDS_MODULE_ENGINE"
+msgstr "主機"
+
 msgid "IDS_MODULE_INCOMPATIBLE_WITH"
 msgstr "このモジュールは次と非互換:"
+
+msgid "IDS_MODULE_IS_DESTROYED"
+msgstr "モジュール大破"
+
+msgid "IDS_MODULE_IS_OUT_OF_ORDER"
+msgstr "モジュール機能停止"
+
+msgid "IDS_MODULE_MAIN_GUN"
+msgstr "主砲"
+
+msgid "IDS_MODULE_STEERING_GEAR"
+msgstr "操舵装置"
+
+msgid "IDS_MODULE_TORPEDO_TUBE"
+msgstr "魚雷発射管"
 
 msgid "IDS_MONITOR_TYPE"
 msgstr "モニタ"
@@ -8587,6 +8984,9 @@ msgstr "葉月"
 
 msgid "IDS_MONTH_9"
 msgstr "長月"
+
+msgid "IDS_MORE"
+msgstr "あと"
 
 msgid "IDS_MOUSE_INSTRUCTION_SLOT_PURCHASE"
 msgstr "スロット購入に移動"
@@ -8644,6 +9044,9 @@ msgstr "近"
 
 msgid "IDS_NEED_SERVICE"
 msgstr "修理・補給が必要"
+
+msgid "IDS_NEW_ACCOUNT_LEVEL"
+msgstr "新レベル"
 
 msgid "IDS_NEW_BATTLE"
 msgstr "新規戦闘"
@@ -8942,6 +9345,9 @@ msgstr "[C] キーで各主砲への手動切り替えが可能です"
 msgid "IDS_OPTIONS_CAPTION"
 msgstr "設定"
 
+msgid "IDS_OPTIONS_CARRIER_SHIFT_DISABLE"
+msgstr "航空母艦では [SHIFT] を無効化"
+
 msgid "IDS_OPTIONS_CONTRAST_UI"
 msgstr "GUI コントラストを高める"
 
@@ -8952,10 +9358,10 @@ msgid "IDS_OPTIONS_ENABLE_EARES"
 msgstr "艦隊パネル表示"
 
 msgid "IDS_OPTIONS_ENGINES_VOLUME"
-msgstr "機関ノイズ"
+msgstr "機関音"
 
 msgid "IDS_OPTIONS_FOLLOW_TARGET"
-msgstr "選択目標を追跡"
+msgstr "ロック中目標を追跡"
 
 msgid "IDS_OPTIONS_GENERAL"
 msgstr "一般"
@@ -8970,7 +9376,7 @@ msgid "IDS_OPTIONS_HIGH"
 msgstr "高"
 
 msgid "IDS_OPTIONS_HINT_OVERVIEW"
-msgstr "概要 — [右 MB]"
+msgstr "フリールック — [右 MB]"
 
 msgid "IDS_OPTIONS_INSCTRUCTION_CONTROLS_HELP"
 msgstr ""
@@ -9011,7 +9417,7 @@ msgid "IDS_OPTIONS_RESISTANCE_EFFECT"
 msgstr "ズーム端でのフィードバック"
 
 msgid "IDS_OPTIONS_RESTORE_CAMERA_AFTER_OVERVIEW_MODE"
-msgstr "概要モード終了時に最終位置を復旧"
+msgstr "フリールックモード終了時にカメラ位置を復旧"
 
 msgid "IDS_OPTIONS_SENS_X"
 msgstr "マウスの水平感度"
@@ -9032,7 +9438,7 @@ msgid "IDS_OPTIONS_STICKY_ALT_VIEW"
 msgstr "戦闘 UI 詳細モード"
 
 msgid "IDS_OPTIONS_STICKY_ALT_VIEW_HINT"
-msgstr "このオプションにより、フレームレートが低下する場合があります。"
+msgstr "このオプションにより、フレームレートが低下する場合があります"
 
 msgid "IDS_OPTIONS_TORPEDO_CAMERA_LIMIT"
 msgstr "魚雷発射管でのカメラ画角を制限"
@@ -9073,6 +9479,9 @@ msgstr "指令を与える"
 msgid "IDS_ORDER_AIRPLANES_MAP"
 msgstr "ミニマップ上で指令を与える"
 
+msgid "IDS_OTHER"
+msgstr "その他"
+
 msgid "IDS_OTHERCONTROLS"
 msgstr "その他"
 
@@ -9087,6 +9496,9 @@ msgstr "「戦隊に参加希望」リストに貴官の名前を掲載しまし
 
 msgid "IDS_OTHER_PLAYERS_SEE_YOU_PARTY"
 msgstr "「艦隊戦に参加希望」リストに貴官の名前を掲載しました。"
+
+msgid "IDS_OUT_OF_ORDER"
+msgstr "機能停止"
 
 msgid "IDS_OWN_SHIP_IN_COMPARE_OFF"
 msgstr "自艦の表示 OFF"
@@ -9301,206 +9713,6 @@ msgstr "Curtiss SC-2"
 msgid "IDS_PAAS012_VOUGHT_OS2U_2"
 msgstr "Vought OS2U Kingfisher"
 
-msgid "IDS_PAEC001_PERMOFLAGE_TEST"
-msgstr "タイプ 3"
-
-msgid "IDS_PAEC001_PERMOFLAGE_TEST_DESCRIPTION"
-msgstr ""
-"敵の射撃精度を低下させ、艦の被発見性を低減し、艦および艦長の取得 "
-"EXP を向上させる。"
-
-msgid "IDS_PAEC107_INDIANAPOLIS"
-msgstr "タイプ 10 – Indianapolis"
-
-msgid "IDS_PAEC107_INDIANAPOLIS_DESCRIPTION"
-msgstr ""
-"敵の射撃精度を低下させ、艦の被発見性を低減し、艦および艦長の取得 "
-"EXP を向上させる。"
-
-msgid "IDS_PAEC108_SAIPAN"
-msgstr "タイプ 10 – Saipan"
-
-msgid "IDS_PAEC108_SAIPAN_DESCRIPTION"
-msgstr ""
-"敵の射撃精度を低下させ、艦の被発見性を低減し、艦および艦長の取得 "
-"EXP を向上させる。"
-
-msgid "IDS_PAEC110_RANGER_1944"
-msgstr "タイプ 15 – Ranger"
-
-msgid "IDS_PAEC110_RANGER_1944_DESCRIPTION"
-msgstr ""
-"敵の射撃精度を低下させ、艦の被発見性を低減し、艦および艦長の取得 "
-"EXP を向上させる。"
-
-msgid "IDS_PAEC112_LEXINGTON_1944"
-msgstr "タイプ 15 – Lexington"
-
-msgid "IDS_PAEC112_LEXINGTON_1944_DESCRIPTION"
-msgstr ""
-"敵の射撃精度を低下させ、艦の被発見性を低減し、艦および艦長の取得 "
-"EXP を向上させる。"
-
-msgid "IDS_PAEC305_TEXAS"
-msgstr "タイプ 9 – Texas"
-
-msgid "IDS_PAEC305_TEXAS_DESCRIPTION"
-msgstr ""
-"敵の射撃精度を低下させ、艦の被発見性を低減し、艦および艦長の取得 "
-"EXP を向上させる。"
-
-msgid "IDS_PAEC306_ARIZONA"
-msgstr "タイプ 10 – Arizona"
-
-msgid "IDS_PAEC306_ARIZONA_DESCRIPTION"
-msgstr ""
-"敵の射撃精度を低下させ、艦の被発見性を低減し、艦および艦長の取得 "
-"EXP を向上させる。"
-
-msgid "IDS_PAEC307_TEXAS"
-msgstr "Stars and Stripes – Texas"
-
-msgid "IDS_PAEC307_TEXAS_DESCRIPTION"
-msgstr ""
-"敵の射撃精度を低下させ、艦の被発見性を低減し、艦および艦長の取得 "
-"EXP を向上させる。"
-
-msgid "IDS_PAEC308_NEW_YORK_1934"
-msgstr "タイプ 14 – New York"
-
-msgid "IDS_PAEC308_NEW_YORK_1934_DESCRIPTION"
-msgstr ""
-"敵の射撃精度を低下させ、艦の被発見性を低減し、艦および艦長の取得 "
-"EXP を向上させる。"
-
-msgid "IDS_PAEC312_NORTH_CAROLINA_1945"
-msgstr "タイプ 15 – North Carolina"
-
-msgid "IDS_PAEC312_NORTH_CAROLINA_1945_DESCRIPTION"
-msgstr ""
-"敵の射撃精度を低下させ、艦の被発見性を低減し、艦および艦長の取得 "
-"EXP を向上させる。"
-
-msgid "IDS_PAEC313_ARKANSAS_1912"
-msgstr "タイプ 9 – Arkansas"
-
-msgid "IDS_PAEC313_ARKANSAS_1912_DESCRIPTION"
-msgstr ""
-"敵の射撃精度を低下させ、艦の被発見性を低減し、艦および艦長の取得 "
-"EXP を向上させる。"
-
-msgid "IDS_PAEC318_IOWA_1944"
-msgstr "タイプ 16 – Iowa"
-
-msgid "IDS_PAEC318_IOWA_1944_DESCRIPTION"
-msgstr ""
-"敵の射撃精度を低下させ、艦の被発見性を低減し、艦および艦長の取得 "
-"EXP を向上させる。"
-
-msgid "IDS_PAEC403_ALBANY_1898"
-msgstr "タイプ 9 – Albany"
-
-msgid "IDS_PAEC403_ALBANY_1898_DESCRIPTION"
-msgstr ""
-"敵の射撃精度を低下させ、艦の被発見性を低減し、艦および艦長の取得 "
-"EXP を向上させる。"
-
-msgid "IDS_PAEC406_ATLANTA_1942"
-msgstr "タイプ 10 – Atlanta"
-
-msgid "IDS_PAEC406_ATLANTA_1942_DESCRIPTION"
-msgstr ""
-"敵の射撃精度を低下させ、艦の被発見性を低減し、艦および艦長の取得 "
-"EXP を向上させる。"
-
-msgid "IDS_PAEC407_CLEVELAND_1945"
-msgstr "タイプ 12 – Cleveland"
-
-msgid "IDS_PAEC407_CLEVELAND_1945_DESCRIPTION"
-msgstr ""
-"敵の射撃精度を低下させ、艦の被発見性を低減し、艦および艦長の取得 "
-"EXP を向上させる。"
-
-msgid "IDS_PAEC408_FLINT"
-msgstr "タイプ 10 – Flint"
-
-msgid "IDS_PAEC408_FLINT_DESCRIPTION"
-msgstr ""
-"敵の射撃精度を低下させ、艦の被発見性を低減し、艦および艦長の取得 "
-"EXP を向上させる。"
-
-msgid "IDS_PAEC409_CLEVELAND_1945"
-msgstr "タイプ 14 – Cleveland"
-
-msgid "IDS_PAEC409_CLEVELAND_1945_DESCRIPTION"
-msgstr ""
-"敵の射撃精度を低下させ、艦の被発見性を低減し、艦および艦長の取得 "
-"EXP を向上させる。"
-
-msgid "IDS_PAEC414_NEW_ORLEAN_1944"
-msgstr "タイプ 15 – New Orleans"
-
-msgid "IDS_PAEC414_NEW_ORLEAN_1944_DESCRIPTION"
-msgstr ""
-"敵の射撃精度を低下させ、艦の被発見性を低減し、艦および艦長の取得 "
-"EXP を向上させる。"
-
-msgid "IDS_PAEC444_MARBLEHEAD_1924"
-msgstr "タイプ 9 – Marblehead"
-
-msgid "IDS_PAEC444_MARBLEHEAD_1924_DESCRIPTION"
-msgstr ""
-"敵の射撃精度を低下させ、艦の被発見性を低減し、艦および艦長の取得 "
-"EXP を向上させる。"
-
-msgid "IDS_PAEC445_MARBLEHEAD_1924_ASUS"
-msgstr "タイプ 9 – Trenton"
-
-msgid "IDS_PAEC445_MARBLEHEAD_1924_ASUS_DESCRIPTION"
-msgstr ""
-"敵の射撃精度を低下させ、艦の被発見性を低減し、艦および艦長の取得 "
-"EXP を向上させる。"
-
-msgid "IDS_PAEC502_SMITH"
-msgstr "タイプ 9 – Smith"
-
-msgid "IDS_PAEC502_SMITH_DESCRIPTION"
-msgstr ""
-"敵の射撃精度を低下させ、艦の被発見性を低減し、艦および艦長の取得 "
-"EXP を向上させる。"
-
-msgid "IDS_PAEC508_BENSON_1945"
-msgstr "タイプ 15 – Benson"
-
-msgid "IDS_PAEC508_BENSON_1945_DESCRIPTION"
-msgstr ""
-"敵の射撃精度を低下させ、艦の被発見性を低減し、艦および艦長の取得 "
-"EXP を向上させる。"
-
-msgid "IDS_PAEC509_BLACK"
-msgstr "タイプ 10 – Black"
-
-msgid "IDS_PAEC509_BLACK_DESCRIPTION"
-msgstr ""
-"敵の射撃精度を低下させ、艦の被発見性を低減し、艦および艦長の取得 "
-"EXP を向上させる。"
-
-msgid "IDS_PAEC521_FLETCHER_1943"
-msgstr "タイプ 16 – Fletcher"
-
-msgid "IDS_PAEC521_FLETCHER_1943_DESCRIPTION"
-msgstr ""
-"敵の射撃精度を低下させ、艦の被発見性を低減し、艦および艦長の取得 "
-"EXP を向上させる。"
-
-msgid "IDS_PAEC529_SIMS_1941"
-msgstr "タイプ 10 – Sims"
-
-msgid "IDS_PAEC529_SIMS_1941_DESCRIPTION"
-msgstr ""
-"敵の射撃精度を低下させ、艦の被発見性を低減し、艦および艦長の取得 "
-"EXP を向上させる。"
-
 msgid "IDS_PAEE001_USA1908_DESC"
 msgstr ""
 "星条旗の星は州を表しており、その数と配置は時代によって異なっていました。この旗は、アメリカ海軍の国籍旗として "
@@ -9533,6 +9745,190 @@ msgstr "アメリカ海軍の国籍旗"
 
 msgid "IDS_PAEE003_USA1959_YEARS"
 msgstr "1912 – 1959"
+
+msgid "IDS_PAEP001_PERMOFLAGE_TEST"
+msgstr "タイプ 3"
+
+msgid "IDS_PAEP001_PERMOFLAGE_TEST_DESCRIPTION"
+msgstr ""
+"敵の射撃精度を低下させ、艦の被発見性を低減し、艦および艦長の取得 "
+"EXP を向上させる。"
+
+msgid "IDS_PAEP107_INDIANAPOLIS"
+msgstr "タイプ 10 – Indianapolis"
+
+msgid "IDS_PAEP107_INDIANAPOLIS_DESCRIPTION"
+msgstr ""
+"敵の射撃精度を低下させ、艦の被発見性を低減し、艦および艦長の取得 "
+"EXP を向上させる。"
+
+msgid "IDS_PAEP108_SAIPAN"
+msgstr "タイプ 10 – Saipan"
+
+msgid "IDS_PAEP108_SAIPAN_DESCRIPTION"
+msgstr ""
+"敵の射撃精度を低下させ、艦の被発見性を低減し、艦および艦長の取得 "
+"EXP を向上させる。"
+
+msgid "IDS_PAEP110_RANGER_1944"
+msgstr "タイプ 17 – Ranger"
+
+msgid "IDS_PAEP110_RANGER_1944_DESCRIPTION"
+msgstr ""
+"敵の射撃精度を低下させ、艦の被発見性を低減し、艦および艦長の取得 "
+"EXP を向上させる。"
+
+msgid "IDS_PAEP112_LEXINGTON_1944"
+msgstr "タイプ 18 – Lexington"
+
+msgid "IDS_PAEP112_LEXINGTON_1944_DESCRIPTION"
+msgstr ""
+"敵の射撃精度を低下させ、艦の被発見性を低減し、艦および艦長の取得 "
+"EXP を向上させる。"
+
+msgid "IDS_PAEP305_TEXAS"
+msgstr "タイプ 9 – Texas"
+
+msgid "IDS_PAEP305_TEXAS_DESCRIPTION"
+msgstr ""
+"敵の射撃精度を低下させ、艦の被発見性を低減し、艦および艦長の取得 "
+"EXP を向上させる。"
+
+msgid "IDS_PAEP307_TEXAS"
+msgstr "Stars and Stripes – Texas"
+
+msgid "IDS_PAEP307_TEXAS_DESCRIPTION"
+msgstr ""
+"敵の射撃精度を低下させ、艦の被発見性を低減し、艦および艦長の取得 "
+"EXP を向上させる。"
+
+msgid "IDS_PAEP308_NEW_YORK_1934"
+msgstr "タイプ 15 – New York"
+
+msgid "IDS_PAEP308_NEW_YORK_1934_DESCRIPTION"
+msgstr ""
+"敵の射撃精度を低下させ、艦の被発見性を低減し、艦および艦長の取得 "
+"EXP を向上させる。"
+
+msgid "IDS_PAEP309_NEW_YORK_SCULL"
+msgstr "Skull – New York"
+
+msgid "IDS_PAEP309_NEW_YORK_SCULL_DESCRIPTION"
+msgstr ""
+"敵の射撃精度を低下させ、艦の被発見性を低減し、艦および艦長の取得 "
+"EXP を向上させる。"
+
+msgid "IDS_PAEP312_NORTH_CAROLINA_1945"
+msgstr "タイプ 18 – North Carolina"
+
+msgid "IDS_PAEP312_NORTH_CAROLINA_1945_DESCRIPTION"
+msgstr ""
+"敵の射撃精度を低下させ、艦の被発見性を低減し、艦および艦長の取得 "
+"EXP を向上させる。"
+
+msgid "IDS_PAEP313_ARKANSAS_1912"
+msgstr "タイプ 9 – Arkansas"
+
+msgid "IDS_PAEP313_ARKANSAS_1912_DESCRIPTION"
+msgstr ""
+"敵の射撃精度を低下させ、艦の被発見性を低減し、艦および艦長の取得 "
+"EXP を向上させる。"
+
+msgid "IDS_PAEP318_IOWA_1944"
+msgstr "タイプ 19 – Iowa"
+
+msgid "IDS_PAEP318_IOWA_1944_DESCRIPTION"
+msgstr ""
+"敵の射撃精度を低下させ、艦の被発見性を低減し、艦および艦長の取得 "
+"EXP を向上させる。"
+
+msgid "IDS_PAEP403_ALBANY_1898"
+msgstr "タイプ 9 – Albany"
+
+msgid "IDS_PAEP403_ALBANY_1898_DESCRIPTION"
+msgstr ""
+"敵の射撃精度を低下させ、艦の被発見性を低減し、艦および艦長の取得 "
+"EXP を向上させる。"
+
+msgid "IDS_PAEP406_ATLANTA_1942"
+msgstr "タイプ 10 – Atlanta"
+
+msgid "IDS_PAEP406_ATLANTA_1942_DESCRIPTION"
+msgstr ""
+"敵の射撃精度を低下させ、艦の被発見性を低減し、艦および艦長の取得 "
+"EXP を向上させる。"
+
+msgid "IDS_PAEP407_CLEVELAND_1945"
+msgstr "タイプ 12 – Cleveland"
+
+msgid "IDS_PAEP407_CLEVELAND_1945_DESCRIPTION"
+msgstr ""
+"敵の射撃精度を低下させ、艦の被発見性を低減し、艦および艦長の取得 "
+"EXP を向上させる。"
+
+msgid "IDS_PAEP409_CLEVELAND_1945"
+msgstr "タイプ 16 – Cleveland"
+
+msgid "IDS_PAEP409_CLEVELAND_1945_DESCRIPTION"
+msgstr ""
+"敵の射撃精度を低下させ、艦の被発見性を低減し、艦および艦長の取得 "
+"EXP を向上させる。"
+
+msgid "IDS_PAEP414_NEW_ORLEAN_1944"
+msgstr "タイプ 18 – New Orleans"
+
+msgid "IDS_PAEP414_NEW_ORLEAN_1944_DESCRIPTION"
+msgstr ""
+"敵の射撃精度を低下させ、艦の被発見性を低減し、艦および艦長の取得 "
+"EXP を向上させる。"
+
+msgid "IDS_PAEP444_MARBLEHEAD_1924"
+msgstr "タイプ 9 – Marblehead"
+
+msgid "IDS_PAEP444_MARBLEHEAD_1924_DESCRIPTION"
+msgstr ""
+"敵の射撃精度を低下させ、艦の被発見性を低減し、艦および艦長の取得 "
+"EXP を向上させる。"
+
+msgid "IDS_PAEP445_MARBLEHEAD_1924_ASUS"
+msgstr "タイプ 9 – Trenton"
+
+msgid "IDS_PAEP445_MARBLEHEAD_1924_ASUS_DESCRIPTION"
+msgstr ""
+"敵の射撃精度を低下させ、艦の被発見性を低減し、艦および艦長の取得 "
+"EXP を向上させる。"
+
+msgid "IDS_PAEP502_SMITH"
+msgstr "タイプ 9 – Smith"
+
+msgid "IDS_PAEP502_SMITH_DESCRIPTION"
+msgstr ""
+"敵の射撃精度を低下させ、艦の被発見性を低減し、艦および艦長の取得 "
+"EXP を向上させる。"
+
+msgid "IDS_PAEP508_BENSON_1945"
+msgstr "タイプ 18 – Benson"
+
+msgid "IDS_PAEP508_BENSON_1945_DESCRIPTION"
+msgstr ""
+"敵の射撃精度を低下させ、艦の被発見性を低減し、艦および艦長の取得 "
+"EXP を向上させる。"
+
+msgid "IDS_PAEP521_FLETCHER_1943"
+msgstr "タイプ 19 – Fletcher"
+
+msgid "IDS_PAEP521_FLETCHER_1943_DESCRIPTION"
+msgstr ""
+"敵の射撃精度を低下させ、艦の被発見性を低減し、艦および艦長の取得 "
+"EXP を向上させる。"
+
+msgid "IDS_PAEP529_SIMS_1941"
+msgstr "タイプ 10 – Sims"
+
+msgid "IDS_PAEP529_SIMS_1941_DESCRIPTION"
+msgstr ""
+"敵の射撃精度を低下させ、艦の被発見性を低減し、艦および艦長の取得 "
+"EXP を向上させる。"
 
 msgid "IDS_PAGA002_40MM_BOFORS_MK1"
 msgstr "40 mm Bofors Mk1"
@@ -10251,6 +10647,15 @@ msgstr "Mk15 mod. 3"
 msgid "IDS_PAPT777_TORPEDO_457_PROTOTYPE"
 msgstr "魚雷 457 prototype"
 
+msgid "IDS_PARAM_VISIBILITY_ATBA"
+msgstr "対空砲/副砲射撃中"
+
+msgid "IDS_PARAM_VISIBILITY_FIRE"
+msgstr "火災発生中"
+
+msgid "IDS_PARAM_VISIBILITY_GK"
+msgstr "主砲射撃後"
+
 msgid "IDS_PARTICIPATE_IN_RANKED_BATTLES"
 msgstr "ランク戦に参加して記念旗を取得しましょう。"
 
@@ -10318,7 +10723,7 @@ msgid "IDS_PASA004"
 msgstr "Langley"
 
 msgid "IDS_PASA004_DESCR"
-msgstr "ラングレーはアメリカ海軍初の航空母艦であり、給炭艦を改装した艦です。本艦は低速であり、様々な技術的革新の試験と艦載機パイロットの訓練のための実験艦として運用されました。敵駆逐艦に対抗するための副兵装を搭載していました。"
+msgstr "ラングレーはアメリカ海軍初の航空母艦であり、給炭艦を改装した艦です。本艦は低速であり、様々な技術的革新の試験と艦載機パイロットの訓練のための実験艦として運用されました。敵駆逐艦に対抗するための副砲を搭載していました。"
 
 msgid "IDS_PASA004_FULL"
 msgstr "Langley"
@@ -11120,7 +11525,7 @@ msgid "IDS_PASD801_DESCR"
 msgstr "入門ミッションで使用される駆逐艦 Sampson"
 
 msgid "IDS_PASSIVEAURAFACTOR"
-msgstr ": 航空機の防御兵装の有効性"
+msgstr "後部銃座を持つ航空機の防御兵装の秒間平均ダメージ"
 
 msgid "IDS_PASSWORD"
 msgstr "パスワード:"
@@ -12489,22 +12894,6 @@ msgstr "Mk12"
 msgid "IDS_PBAS001_WALRUS"
 msgstr "Supermarine Walrus"
 
-msgid "IDS_PBEC302_WARSPITE_1941"
-msgstr "タイプ 10 – Warspite"
-
-msgid "IDS_PBEC302_WARSPITE_1941_DESCRIPTION"
-msgstr ""
-"敵の射撃精度を低下させ、艦の被発見性を低減し、艦および艦長の取得 "
-"EXP を向上させる。"
-
-msgid "IDS_PBEC503_CAMPBELTOWN"
-msgstr "タイプ 9 – Campbeltown"
-
-msgid "IDS_PBEC503_CAMPBELTOWN_DESCRIPTION"
-msgstr ""
-"敵の射撃精度を低下させ、艦の被発見性を低減し、艦および艦長の取得 "
-"EXP を向上させる。"
-
 msgid "IDS_PBEE001_UK_DESC"
 msgstr ""
 "セント・ジョージ・クロスとイギリス国旗を組み合わせたこの旗は、"
@@ -12515,6 +12904,22 @@ msgstr "イギリス海軍の軍艦旗"
 
 msgid "IDS_PBEE001_UK_YEARS"
 msgstr "1801 年以降"
+
+msgid "IDS_PBEP302_WARSPITE_1941"
+msgstr "タイプ 10 – Warspite"
+
+msgid "IDS_PBEP302_WARSPITE_1941_DESCRIPTION"
+msgstr ""
+"敵の射撃精度を低下させ、艦の被発見性を低減し、艦および艦長の取得 "
+"EXP を向上させる。"
+
+msgid "IDS_PBEP503_CAMPBELTOWN"
+msgstr "タイプ 9 – Campbeltown"
+
+msgid "IDS_PBEP503_CAMPBELTOWN_DESCRIPTION"
+msgstr ""
+"敵の射撃精度を低下させ、艦の被発見性を低減し、艦および艦長の取得 "
+"EXP を向上させる。"
 
 msgid "IDS_PBGA007_20MM_OERLIKON_MK4"
 msgstr "20 mm Oerlikon Mk IV"
@@ -12738,8 +13143,8 @@ msgstr "GNB May 2016 Camouflage"
 
 msgid "IDS_PCEC014_CAMO_GNB_MAY_2016_DESCRIPTION"
 msgstr ""
-"Captain? Captain! Why would you do this to your ship? Now everyone can see "
-"we're ruthless sea dogs! We're sure to be targeted!"
+"Captain? Captain! Why would you do this to your boat? Now everyone can see "
+"we're ruthless sea dogs! We're sure to be primaried!"
 
 msgid "IDS_PCEC015_CAMO_CN_SPECIAL"
 msgstr "Ocean soul"
@@ -12929,8 +13334,8 @@ msgstr "記念旗"
 
 msgid "IDS_PCEE026_SEA_DOG_EXTRA_DESCRIPTION"
 msgstr ""
-"This flag was granted for actively taking part in the Great Naval Battles "
-"activities in May, 2016."
+"The flag was granted for actively taking part in the Great Naval Battles "
+"activities in May, 2016"
 
 msgid "IDS_PCEE027_SEA_LION"
 msgstr "GNB May 2016 - Sea Lion"
@@ -12943,6 +13348,40 @@ msgstr ""
 "This flag is testimony to the great effort put into rocking the high seas, "
 "and running out of rum, during the Great Naval Battles event, run in May "
 "2016."
+
+msgid "IDS_PCEE028_SEASONFLAG04"
+msgstr "ミッドウェイ"
+
+msgid "IDS_PCEE028_SEASONFLAG04_DESCRIPTION"
+msgstr ""
+"ランク戦第 4 シーズンにおいてランク "
+"15 を達成することで授与される記念旗です。"
+
+msgid "IDS_PCEE028_SEASONFLAG04_EXTRA_DESCRIPTION"
+msgstr ""
+"ミッドウェイ海戦は、二次大戦中の太平洋戦線において "
+"1942 年 "
+"6 月に行われた大規模海戦です。この戦いにおいてアメリカ海軍は日本の連合艦隊を相手に決定的勝利を収め、これが太平洋戦争における転換点となりました。"
+
+msgid "IDS_PCEE029_SONGKRAN"
+msgstr "ソンクラーン・フェスティバル 2016"
+
+msgid "IDS_PCEE029_SONGKRAN_DESCRIPTION"
+msgstr "記念旗"
+
+msgid "IDS_PCEE029_SONGKRAN_EXTRA_DESCRIPTION"
+msgstr "タイの正月を祝い、悪運を洗い流しましょう。"
+
+msgid "IDS_PCEE030_BATTLE_OF_JUTLAND"
+msgstr "ユトランド沖海戦"
+
+msgid "IDS_PCEE030_BATTLE_OF_JUTLAND_DESCRIPTION"
+msgstr ""
+"ユトランド沖海戦は、一次大戦中にユトランド半島沖の北海で "
+"1916 年 5 月 31 日から 6 月 1 日に行われました。"
+
+msgid "IDS_PCEE030_BATTLE_OF_JUTLAND_EXTRA_DESCRIPTION"
+msgstr "この戦いは史上最大規模の海戦のひとつとして知られており、この戦争中における戦艦隊同士の決戦は本海戦が唯一でした。"
 
 msgid "IDS_PCEE599_FLAG_ASIA"
 msgstr "アジア・コミュニティ旗"
@@ -13085,6 +13524,9 @@ msgstr "貫通"
 msgid "IDS_PERCENT"
 msgstr "%"
 
+msgid "IDS_PERMOFLAGE"
+msgstr "持久迷彩"
+
 msgid "IDS_PER_BATTLE"
 msgstr "(各戦)"
 
@@ -13135,54 +13577,6 @@ msgstr "Arado Ar.196C"
 msgid "IDS_PGAS006_BV_P126"
 msgstr "Blohm & Voss P. 126"
 
-msgid "IDS_PGEC302_TIRPIZ_1942"
-msgstr "タイプ 10 – Tirpitz"
-
-msgid "IDS_PGEC302_TIRPIZ_1942_DESCRIPTION"
-msgstr ""
-"敵の射撃精度を低下させ、艦の被発見性を低減し、艦および艦長の取得 "
-"EXP を向上させる。"
-
-msgid "IDS_PGEC402_EMDEN_1908"
-msgstr "タイプ 9 – Emden"
-
-msgid "IDS_PGEC402_EMDEN_1908_DESCRIPTION"
-msgstr ""
-"敵の射撃精度を低下させ、艦の被発見性を低減し、艦および艦長の取得 "
-"EXP を向上させる。"
-
-msgid "IDS_PGEC406_NURNBERG"
-msgstr "タイプ 12 – Nürnberg"
-
-msgid "IDS_PGEC406_NURNBERG_DESCRIPTION"
-msgstr ""
-"敵の射撃精度を低下させ、艦の被発見性を低減し、艦および艦長の取得 "
-"EXP を向上させる。"
-
-msgid "IDS_PGEC407_YORCK"
-msgstr "タイプ 15 – Yorck"
-
-msgid "IDS_PGEC407_YORCK_DESCRIPTION"
-msgstr ""
-"敵の射撃精度を低下させ、艦の被発見性を低減し、艦および艦長の取得 "
-"EXP を向上させる。"
-
-msgid "IDS_PGEC408_HIPPER"
-msgstr "タイプ 15 – Admiral Hipper"
-
-msgid "IDS_PGEC408_HIPPER_DESCRIPTION"
-msgstr ""
-"敵の射撃精度を低下させ、艦の被発見性を低減し、艦および艦長の取得 "
-"EXP を向上させる。"
-
-msgid "IDS_PGEC409_ROON"
-msgstr "タイプ 16 – Roon"
-
-msgid "IDS_PGEC409_ROON_DESCRIPTION"
-msgstr ""
-"敵の射撃精度を低下させ、艦の被発見性を低減し、艦および艦長の取得 "
-"EXP を向上させる。"
-
 msgid "IDS_PGEE001_GERMANY1921_DESC"
 msgstr ""
 "プロイセンの鷲、鉄十字勲章、北ドイツ連邦およびドイツ帝国の国旗を組み合わせたこの旗は、"
@@ -13215,6 +13609,54 @@ msgstr "ドイツ国防軍海軍の軍艦旗"
 
 msgid "IDS_PGEE003_GERMANY1945_YEARS"
 msgstr "1934 – 1945"
+
+msgid "IDS_PGEP302_TIRPIZ_1942"
+msgstr "タイプ 10 – Tirpitz"
+
+msgid "IDS_PGEP302_TIRPIZ_1942_DESCRIPTION"
+msgstr ""
+"敵の射撃精度を低下させ、艦の被発見性を低減し、艦および艦長の取得 "
+"EXP を向上させる。"
+
+msgid "IDS_PGEP402_EMDEN_1908"
+msgstr "タイプ 9 – Emden"
+
+msgid "IDS_PGEP402_EMDEN_1908_DESCRIPTION"
+msgstr ""
+"敵の射撃精度を低下させ、艦の被発見性を低減し、艦および艦長の取得 "
+"EXP を向上させる。"
+
+msgid "IDS_PGEP406_NURNBERG"
+msgstr "タイプ 12 – Nürnberg"
+
+msgid "IDS_PGEP406_NURNBERG_DESCRIPTION"
+msgstr ""
+"敵の射撃精度を低下させ、艦の被発見性を低減し、艦および艦長の取得 "
+"EXP を向上させる。"
+
+msgid "IDS_PGEP407_YORCK"
+msgstr "タイプ 17 – Yorck"
+
+msgid "IDS_PGEP407_YORCK_DESCRIPTION"
+msgstr ""
+"敵の射撃精度を低下させ、艦の被発見性を低減し、艦および艦長の取得 "
+"EXP を向上させる。"
+
+msgid "IDS_PGEP408_HIPPER"
+msgstr "タイプ 18 – Admiral Hipper"
+
+msgid "IDS_PGEP408_HIPPER_DESCRIPTION"
+msgstr ""
+"敵の射撃精度を低下させ、艦の被発見性を低減し、艦および艦長の取得 "
+"EXP を向上させる。"
+
+msgid "IDS_PGEP409_ROON"
+msgstr "タイプ 19 – Roon"
+
+msgid "IDS_PGEP409_ROON_DESCRIPTION"
+msgstr ""
+"敵の射撃精度を低下させ、艦の被発見性を低減し、艦および艦長の取得 "
+"EXP を向上させる。"
 
 msgid "IDS_PGGA007_20MM_FLAK_38"
 msgstr "20 mm Flak 38"
@@ -14421,181 +14863,6 @@ msgstr "川西 九四式水上偵察機"
 msgid "IDS_PJAS901"
 msgstr "三菱 零式観測機"
 
-msgid "IDS_PJEC111_HIRYU_1942"
-msgstr "タイプ 15 – 飛龍"
-
-msgid "IDS_PJEC111_HIRYU_1942_DESCRIPTION"
-msgstr ""
-"敵の射撃精度を低下させ、艦の被発見性を低減し、艦および艦長の取得 "
-"EXP を向上させる。"
-
-msgid "IDS_PJEC112_ZUIKAKU_1944"
-msgstr "タイプ 15 – 翔鶴"
-
-msgid "IDS_PJEC112_ZUIKAKU_1944_DESCRIPTION"
-msgstr ""
-"敵の射撃精度を低下させ、艦の被発見性を低減し、艦および艦長の取得 "
-"EXP を向上させる。"
-
-msgid "IDS_PJEC308_ISHIZUCHI_1921"
-msgstr "タイプ 9 – 石鎚"
-
-msgid "IDS_PJEC308_ISHIZUCHI_1921_DESCRIPTION"
-msgstr ""
-"敵の射撃精度を低下させ、艦の被発見性を低減し、艦および艦長の取得 "
-"EXP を向上させる。"
-
-msgid "IDS_PJEC311_MIKASA_1905"
-msgstr "タイプ 9 – 三笠"
-
-msgid "IDS_PJEC311_MIKASA_1905_DESCRIPTION"
-msgstr ""
-"敵の射撃精度を低下させ、艦の被発見性を低減し、艦および艦長の取得 "
-"EXP を向上させる。"
-
-msgid "IDS_PJEC313_AMAGI_1942"
-msgstr "タイプ 15 – 天城"
-
-msgid "IDS_PJEC313_AMAGI_1942_DESCRIPTION"
-msgstr ""
-"敵の射撃精度を低下させ、艦の被発見性を低減し、艦および艦長の取得 "
-"EXP を向上させる。"
-
-msgid "IDS_PJEC321_IZUMO_1938"
-msgstr "タイプ 16 – 出雲"
-
-msgid "IDS_PJEC321_IZUMO_1938_DESCRIPTION"
-msgstr ""
-"敵の射撃精度を低下させ、艦の被発見性を低減し、艦および艦長の取得 "
-"EXP を向上させる。"
-
-msgid "IDS_PJEC403_KATORI"
-msgstr "タイプ 9 – 香取"
-
-msgid "IDS_PJEC403_KATORI_DESCRIPTION"
-msgstr ""
-"敵の射撃精度を低下させ、艦の被発見性を低減し、艦および艦長の取得 "
-"EXP を向上させる。"
-
-msgid "IDS_PJEC404_YUBARI_1944"
-msgstr "タイプ 9 – 夕張"
-
-msgid "IDS_PJEC404_YUBARI_1944_DESCRIPTION"
-msgstr ""
-"敵の射撃精度を低下させ、艦の被発見性を低減し、艦および艦長の取得 "
-"EXP を向上させる。"
-
-msgid "IDS_PJEC408_MYOKO_1945"
-msgstr "タイプ 15 – 妙高"
-
-msgid "IDS_PJEC408_MYOKO_1945_DESCRIPTION"
-msgstr ""
-"敵の射撃精度を低下させ、艦の被発見性を低減し、艦および艦長の取得 "
-"EXP を向上させる。"
-
-msgid "IDS_PJEC409_MOGAMI_1935"
-msgstr "タイプ 15 – 最上"
-
-msgid "IDS_PJEC409_MOGAMI_1935_DESCRIPTION"
-msgstr ""
-"敵の射撃精度を低下させ、艦の被発見性を低減し、艦および艦長の取得 "
-"EXP を向上させる。"
-
-msgid "IDS_PJEC414_KITAKAMI_1945"
-msgstr "タイプ 10 – 北上"
-
-msgid "IDS_PJEC414_KITAKAMI_1945_DESCRIPTION"
-msgstr ""
-"敵の射撃精度を低下させ、艦の被発見性を低減し、艦および艦長の取得 "
-"EXP を向上させる。"
-
-msgid "IDS_PJEC418_TONE"
-msgstr "タイプ 10 – 利根"
-
-msgid "IDS_PJEC418_TONE_DESCRIPTION"
-msgstr ""
-"敵の射撃精度を低下させ、艦の被発見性を低減し、艦および艦長の取得 "
-"EXP を向上させる。"
-
-msgid "IDS_PJEC426_IWAKI_1944"
-msgstr "タイプ 9 – 岩木"
-
-msgid "IDS_PJEC426_IWAKI_1944_DESCRIPTION"
-msgstr ""
-"敵の射撃精度を低下させ、艦の被発見性を低減し、艦および艦長の取得 "
-"EXP を向上させる。"
-
-msgid "IDS_PJEC438_ATAGO_1944"
-msgstr "タイプ 10 – 愛宕"
-
-msgid "IDS_PJEC438_ATAGO_1944_DESCRIPTION"
-msgstr ""
-"敵の射撃精度を低下させ、艦の被発見性を低減し、艦および艦長の取得 "
-"EXP を向上させる。"
-
-msgid "IDS_PJEC501_TACHIBANA_1912"
-msgstr "タイプ 9 – 桜"
-
-msgid "IDS_PJEC501_TACHIBANA_1912_DESCRIPTION"
-msgstr ""
-"敵の射撃精度を低下させ、艦の被発見性を低減し、艦および艦長の取得 "
-"EXP を向上させる。"
-
-msgid "IDS_PJEC504_MINEKADZE_1920"
-msgstr "タイプ 12 – 峯風"
-
-msgid "IDS_PJEC504_MINEKADZE_1920_DESCRIPTION"
-msgstr ""
-"敵の射撃精度を低下させ、艦の被発見性を低減し、艦および艦長の取得 "
-"EXP を向上させる。"
-
-msgid "IDS_PJEC506_HATSUHARU_1945"
-msgstr "タイプ 15 – 初春"
-
-msgid "IDS_PJEC506_HATSUHARU_1945_DESCRIPTION"
-msgstr ""
-"敵の射撃精度を低下させ、艦の被発見性を低減し、艦および艦長の取得 "
-"EXP を向上させる。"
-
-msgid "IDS_PJEC507_FUBUKI_1944"
-msgstr "タイプ 15 – 吹雪"
-
-msgid "IDS_PJEC507_FUBUKI_1944_DESCRIPTION"
-msgstr ""
-"敵の射撃精度を低下させ、艦の被発見性を低減し、艦および艦長の取得 "
-"EXP を向上させる。"
-
-msgid "IDS_PJEC514_TACHIBANA_1912_ASUS"
-msgstr "タイプ 9 – 橘"
-
-msgid "IDS_PJEC514_TACHIBANA_1912_ASUS_DESCRIPTION"
-msgstr ""
-"敵の射撃精度を低下させ、艦の被発見性を低減し、艦および艦長の取得 "
-"EXP を向上させる。"
-
-msgid "IDS_PJEC517_KAMIKAZE_1930"
-msgstr "タイプ 9 – 夕凪"
-
-msgid "IDS_PJEC517_KAMIKAZE_1930_DESCRIPTION"
-msgstr ""
-"敵の射撃精度を低下させ、艦の被発見性を低減し、艦および艦長の取得 "
-"EXP を向上させる。"
-
-msgid "IDS_PJEC525_TRUE_KAMIKAZE"
-msgstr "タイプ 9 – 疾風"
-
-msgid "IDS_PJEC525_TRUE_KAMIKAZE_DESCRIPTION"
-msgstr ""
-"敵の射撃精度を低下させ、艦の被発見性を低減し、艦および艦長の取得 "
-"EXP を向上させる。"
-
-msgid "IDS_PJEC526_CAMO_KAMIKAZE"
-msgstr "タイプ 9 – 朝凪"
-
-msgid "IDS_PJEC526_CAMO_KAMIKAZE_DESCRIPTION"
-msgstr ""
-"敵の射撃精度を低下させ、艦の被発見性を低減し、艦および艦長の取得 "
-"EXP を向上させる。"
 
 msgid "IDS_PJEE001_JAPAN_DESC"
 msgstr "白い布の中央に、日の出を表す赤丸を配したデザインであり、国旗として正式に制定される以前から、長い歴史を有しています。"
@@ -14605,6 +14872,182 @@ msgstr "日本の国旗"
 
 msgid "IDS_PJEE001_JAPAN_YEARS"
 msgstr "1870 年以降"
+
+msgid "IDS_PJEP111_HIRYU_1942"
+msgstr "タイプ 17 – 飛龍"
+
+msgid "IDS_PJEP111_HIRYU_1942_DESCRIPTION"
+msgstr ""
+"敵の射撃精度を低下させ、艦の被発見性を低減し、艦および艦長の取得 "
+"EXP を向上させる。"
+
+msgid "IDS_PJEP112_ZUIKAKU_1944"
+msgstr "タイプ 18 – 翔鶴"
+
+msgid "IDS_PJEP112_ZUIKAKU_1944_DESCRIPTION"
+msgstr ""
+"敵の射撃精度を低下させ、艦の被発見性を低減し、艦および艦長の取得 "
+"EXP を向上させる。"
+
+msgid "IDS_PJEP308_ISHIZUCHI_1921"
+msgstr "タイプ 9 – 石鎚"
+
+msgid "IDS_PJEP308_ISHIZUCHI_1921_DESCRIPTION"
+msgstr ""
+"敵の射撃精度を低下させ、艦の被発見性を低減し、艦および艦長の取得 "
+"EXP を向上させる。"
+
+msgid "IDS_PJEP311_MIKASA_1905"
+msgstr "タイプ 9 – 三笠"
+
+msgid "IDS_PJEP311_MIKASA_1905_DESCRIPTION"
+msgstr ""
+"敵の射撃精度を低下させ、艦の被発見性を低減し、艦および艦長の取得 "
+"EXP を向上させる。"
+
+msgid "IDS_PJEP313_AMAGI_1942"
+msgstr "タイプ 18 – 天城"
+
+msgid "IDS_PJEP313_AMAGI_1942_DESCRIPTION"
+msgstr ""
+"敵の射撃精度を低下させ、艦の被発見性を低減し、艦および艦長の取得 "
+"EXP を向上させる。"
+
+msgid "IDS_PJEP321_IZUMO_1938"
+msgstr "タイプ 19 – 出雲"
+
+msgid "IDS_PJEP321_IZUMO_1938_DESCRIPTION"
+msgstr ""
+"敵の射撃精度を低下させ、艦の被発見性を低減し、艦および艦長の取得 "
+"EXP を向上させる。"
+
+msgid "IDS_PJEP403_KATORI"
+msgstr "タイプ 9 – 香取"
+
+msgid "IDS_PJEP403_KATORI_DESCRIPTION"
+msgstr ""
+"敵の射撃精度を低下させ、艦の被発見性を低減し、艦および艦長の取得 "
+"EXP を向上させる。"
+
+msgid "IDS_PJEP404_YUBARI_1944"
+msgstr "タイプ 9 – 夕張"
+
+msgid "IDS_PJEP404_YUBARI_1944_DESCRIPTION"
+msgstr ""
+"敵の射撃精度を低下させ、艦の被発見性を低減し、艦および艦長の取得 "
+"EXP を向上させる。"
+
+msgid "IDS_PJEP408_MYOKO_1945"
+msgstr "タイプ 17 – 妙高"
+
+msgid "IDS_PJEP408_MYOKO_1945_DESCRIPTION"
+msgstr ""
+"敵の射撃精度を低下させ、艦の被発見性を低減し、艦および艦長の取得 "
+"EXP を向上させる。"
+
+msgid "IDS_PJEP409_MOGAMI_1935"
+msgstr "タイプ 18 – 最上"
+
+msgid "IDS_PJEP409_MOGAMI_1935_DESCRIPTION"
+msgstr ""
+"敵の射撃精度を低下させ、艦の被発見性を低減し、艦および艦長の取得 "
+"EXP を向上させる。"
+
+msgid "IDS_PJEP414_KITAKAMI_1945"
+msgstr "タイプ 10 – 北上"
+
+msgid "IDS_PJEP414_KITAKAMI_1945_DESCRIPTION"
+msgstr ""
+"敵の射撃精度を低下させ、艦の被発見性を低減し、艦および艦長の取得 "
+"EXP を向上させる。"
+
+msgid "IDS_PJEP418_TONE"
+msgstr "タイプ 10 – 利根"
+
+msgid "IDS_PJEP418_TONE_DESCRIPTION"
+msgstr ""
+"敵の射撃精度を低下させ、艦の被発見性を低減し、艦および艦長の取得 "
+"EXP を向上させる。"
+
+msgid "IDS_PJEP426_IWAKI_1944"
+msgstr "タイプ 9 – 岩木"
+
+msgid "IDS_PJEP426_IWAKI_1944_DESCRIPTION"
+msgstr ""
+"敵の射撃精度を低下させ、艦の被発見性を低減し、艦および艦長の取得 "
+"EXP を向上させる。"
+
+msgid "IDS_PJEP438_ATAGO_1944"
+msgstr "タイプ 10 – 愛宕"
+
+msgid "IDS_PJEP438_ATAGO_1944_DESCRIPTION"
+msgstr ""
+"敵の射撃精度を低下させ、艦の被発見性を低減し、艦および艦長の取得 "
+"EXP を向上させる。"
+
+msgid "IDS_PJEP501_TACHIBANA_1912"
+msgstr "タイプ 9 – 桜"
+
+msgid "IDS_PJEP501_TACHIBANA_1912_DESCRIPTION"
+msgstr ""
+"敵の射撃精度を低下させ、艦の被発見性を低減し、艦および艦長の取得 "
+"EXP を向上させる。"
+
+msgid "IDS_PJEP504_MINEKADZE_1920"
+msgstr "タイプ 12 – 峯風"
+
+msgid "IDS_PJEP504_MINEKADZE_1920_DESCRIPTION"
+msgstr ""
+"敵の射撃精度を低下させ、艦の被発見性を低減し、艦および艦長の取得 "
+"EXP を向上させる。"
+
+msgid "IDS_PJEP506_HATSUHARU_1945"
+msgstr "タイプ 17 – 初春"
+
+msgid "IDS_PJEP506_HATSUHARU_1945_DESCRIPTION"
+msgstr ""
+"敵の射撃精度を低下させ、艦の被発見性を低減し、艦および艦長の取得 "
+"EXP を向上させる。"
+
+msgid "IDS_PJEP507_FUBUKI_1944"
+msgstr "タイプ 18 – 吹雪"
+
+msgid "IDS_PJEP507_FUBUKI_1944_DESCRIPTION"
+msgstr ""
+"敵の射撃精度を低下させ、艦の被発見性を低減し、艦および艦長の取得 "
+"EXP を向上させる。"
+
+msgid "IDS_PJEP514_TACHIBANA_1912_ASUS"
+msgstr "タイプ 9 – 橘"
+
+msgid "IDS_PJEP514_TACHIBANA_1912_ASUS_DESCRIPTION"
+msgstr ""
+"敵の射撃精度を低下させ、艦の被発見性を低減し、艦および艦長の取得 "
+"EXP を向上させる。"
+
+msgid "IDS_PJEP517_KAMIKAZE_1930"
+msgstr "タイプ 9 – 夕凪"
+
+msgid "IDS_PJEP517_KAMIKAZE_1930_DESCRIPTION"
+msgstr ""
+"敵の射撃精度を低下させ、艦の被発見性を低減し、艦および艦長の取得 "
+"EXP を向上させる。"
+
+msgid "IDS_PJEP525_TRUE_KAMIKAZE"
+msgstr "タイプ 9 – 疾風"
+
+msgid "IDS_PJEP525_TRUE_KAMIKAZE_DESCRIPTION"
+msgstr ""
+"敵の射撃精度を低下させ、艦の被発見性を低減し、艦および艦長の取得 "
+"EXP を向上させる。"
+
+msgid "IDS_PJEP526_CAMO_KAMIKAZE"
+msgstr "タイプ 9 – 朝凪"
+
+msgid "IDS_PJEP526_CAMO_KAMIKAZE_DESCRIPTION"
+msgstr ""
+"敵の射撃精度を低下させ、艦の被発見性を低減し、艦および艦長の取得 "
+"EXP を向上させる。"
 
 msgid "IDS_PJGA004_25MM_TYPE96_TRIPLE_1"
 msgstr "九六式 25mm 三連装機銃 二型"
@@ -14676,7 +15119,7 @@ msgid "IDS_PJGM011_127MM50_TYPE_C"
 msgstr "50口径 三年式 12.7cm砲 C型"
 
 msgid "IDS_PJGM013_203MM50_TYPE_C"
-msgstr "50口径 三年式 1号 20cm砲 C型"
+msgstr "50口径 三年式 2号 20.3cm砲 E2型"
 
 msgid "IDS_PJGM014_203MM50_TYPE_C_RF"
 msgstr "50口径 三年式 1号 20cm砲 C型"
@@ -14825,6 +15268,18 @@ msgstr "45口径 三年式 12cm砲"
 msgid "IDS_PJGM143_203_50_TYPE_E3"
 msgstr "50口径 三年式 2号 20.3cm砲 E3型"
 
+msgid "IDS_PJGM144_200MM50_TYPE_E_RF"
+msgstr "50口径 三年式 1号 20cm砲 D型"
+
+msgid "IDS_PJGM145_200MM50_TYPE_E"
+msgstr "50口径 三年式 1号 20cm砲 D型"
+
+msgid "IDS_PJGM146_203MM50_TYPE_E"
+msgstr "50口径 三年式 2号 20.3cm砲 E2型"
+
+msgid "IDS_PJGM147_203MM50_TYPE_E_RF"
+msgstr "50口径 三年式 2号 20.3cm砲 E2型"
+
 msgid "IDS_PJGM549_356MM45_TYPE41_TGS"
 msgstr "45口径 四一式 36cm砲 TGS"
 
@@ -14947,6 +15402,12 @@ msgstr "40口径 四一式 8cm砲"
 
 msgid "IDS_PJGS139_127MM40_TYPE89_MOD_A3"
 msgstr "40口径 八九式 12.7cm高角砲 A3型"
+
+msgid "IDS_PJGS148_120MM45_B2C"
+msgstr "45口径 十年式 12cm高角砲 B2型"
+
+msgid "IDS_PJGS149_120MM45_B2C"
+msgstr "45口径 十年式 12cm高角砲 B2型"
 
 msgid "IDS_PJGS508_150MM50_TYPE_41_TGS"
 msgstr "50口径 四一式 15cm砲 TGS"
@@ -16313,7 +16774,7 @@ msgid "IDS_PJUA521_203_50_3RD_YEAR_TYPE"
 msgstr "50口径 三年式 2号 20.3cm砲 E型"
 
 msgid "IDS_PJUA531_203_50_TYPE_C"
-msgstr "50口径 三年式 1号 20cm砲 C型"
+msgstr "50口径 三年式 2号 20.3cm砲 E2型"
 
 msgid "IDS_PJUA532_203_50_TYPE_C_0"
 msgstr "50口径 三年式 1号 20cm砲 C型"
@@ -16331,7 +16792,7 @@ msgid "IDS_PJUA621_155_50_TYPE_91"
 msgstr "50口径 九一式 15.5cm砲"
 
 msgid "IDS_PJUA622_203_50_3RD_YEAR_TYPE"
-msgstr "50口径 三年式 2号 20.3cm砲 E型"
+msgstr "50口径 三年式 2号 20.3cm砲 E3型"
 
 msgid "IDS_PJUA701_127_50_TYPE_B"
 msgstr "50口径 三年式 12.7cm砲 C型"
@@ -17401,6 +17862,12 @@ msgstr "確保済みの枠"
 msgid "IDS_PLANES"
 msgstr "飛行機隊"
 
+msgid "IDS_PLANES_DESTROYED"
+msgstr "航空機撃墜数"
+
+msgid "IDS_PLANES_DESTROYED_HINT"
+msgstr "この戦闘で自艦が撃墜した航空機数"
+
 msgid "IDS_PLAYERSCOUNTLABEL"
 msgstr "合計プレイヤー:"
 
@@ -17701,10 +18168,10 @@ msgid "IDS_POLAND"
 msgstr "波蘭"
 
 msgid "IDS_PORT_ARPEGGIO"
-msgstr "横須賀"
+msgstr "横須賀要塞"
 
 msgid "IDS_PORT_BASIC"
-msgstr "フィリピン"
+msgstr "比律賓"
 
 msgid "IDS_PORT_CLOCK"
 msgstr "港の時計"
@@ -17716,13 +18183,13 @@ msgid "IDS_PORT_NAGASAKI"
 msgstr "長崎"
 
 msgid "IDS_PORT_NEWYORK"
-msgstr "ニューヨーク"
+msgstr "紐育"
 
 msgid "IDS_PORT_OCEAN"
 msgstr "大海原"
 
 msgid "IDS_PORT_PREMIUM"
-msgstr "限定版ハワイ"
+msgstr "限定版・布哇"
 
 msgid "IDS_POST_PROCESSING"
 msgstr "ポストプロセス"
@@ -17797,110 +18264,6 @@ msgstr "Beriyev KL-145"
 
 msgid "IDS_PRAS009_KOR_2_VK_105"
 msgstr "Shavrov KOR-2 (M-105)"
-
-msgid "IDS_PREC301_NIKOLAY_I"
-msgstr "タイプ 9 – Imperator Nikolai I"
-
-msgid "IDS_PREC301_NIKOLAY_I_DESCRIPTION"
-msgstr ""
-"敵の射撃精度を低下させ、艦の被発見性を低減し、艦および艦長の取得 "
-"EXP を向上させる。"
-
-msgid "IDS_PREC401_AVRORA_1917"
-msgstr "タイプ 9 – Aurora"
-
-msgid "IDS_PREC401_AVRORA_1917_DESCRIPTION"
-msgstr ""
-"敵の射撃精度を低下させ、艦の被発見性を低減し、艦および艦長の取得 "
-"EXP を向上させる。"
-
-msgid "IDS_PREC402_DIANA_1905"
-msgstr "タイプ 9 – Diana"
-
-msgid "IDS_PREC402_DIANA_1905_DESCRIPTION"
-msgstr ""
-"敵の射撃精度を低下させ、艦の被発見性を低減し、艦および艦長の取得 "
-"EXP を向上させる。"
-
-msgid "IDS_PREC403_MURMANSK_1944"
-msgstr "タイプ 9 – Murmansk"
-
-msgid "IDS_PREC403_MURMANSK_1944_DESCRIPTION"
-msgstr ""
-"敵の射撃精度を低下させ、艦の被発見性を低減し、艦および艦長の取得 "
-"EXP を向上させる。"
-
-msgid "IDS_PREC406_MOLOTOV"
-msgstr "タイプ 10 – Molotov"
-
-msgid "IDS_PREC406_MOLOTOV_DESCRIPTION"
-msgstr ""
-"敵の射撃精度を低下させ、艦の被発見性を低減し、艦および艦長の取得 "
-"EXP を向上させる。"
-
-msgid "IDS_PREC407_SCHORS"
-msgstr "タイプ 15 – Shchors"
-
-msgid "IDS_PREC407_SCHORS_DESCRIPTION"
-msgstr ""
-"敵の射撃精度を低下させ、艦の被発見性を低減し、艦および艦長の取得 "
-"EXP を向上させる。"
-
-msgid "IDS_PREC408_KUTUZOV_1952"
-msgstr "タイプ 10 – Mikhail Kutuzov"
-
-msgid "IDS_PREC408_KUTUZOV_1952_DESCRIPTION"
-msgstr ""
-"敵の射撃精度を低下させ、艦の被発見性を低減し、艦および艦長の取得 "
-"EXP を向上させる。"
-
-msgid "IDS_PREC409_DMITRY_DONSKOY"
-msgstr "タイプ 16 – Dmitri Donskoi"
-
-msgid "IDS_PREC409_DMITRY_DONSKOY_DESCRIPTION"
-msgstr ""
-"敵の射撃精度を低下させ、艦の被発見性を低減し、艦および艦長の取得 "
-"EXP を向上させる。"
-
-msgid "IDS_PREC410_DIANA_1905_ASUS"
-msgstr "タイプ 9 – Pallada"
-
-msgid "IDS_PREC410_DIANA_1905_ASUS_DESCRIPTION"
-msgstr ""
-"敵の射撃精度を低下させ、艦の被発見性を低減し、艦および艦長の取得 "
-"EXP を向上させる。"
-
-msgid "IDS_PREC501_GREMYASHCHY_1942"
-msgstr "タイプ 9 – Gremyashchy"
-
-msgid "IDS_PREC501_GREMYASHCHY_1942_DESCRIPTION"
-msgstr ""
-"敵の射撃精度を低下させ、艦の被発見性を低減し、艦および艦長の取得 "
-"EXP を向上させる。"
-
-msgid "IDS_PREC505_PR_7_GNEVNY"
-msgstr "タイプ 12 – Gnevny"
-
-msgid "IDS_PREC505_PR_7_GNEVNY_DESCRIPTION"
-msgstr ""
-"敵の射撃精度を低下させ、艦の被発見性を低減し、艦および艦長の取得 "
-"EXP を向上させる。"
-
-msgid "IDS_PREC508_PR_20I_TASHKENT"
-msgstr "タイプ 15 – Tashkent"
-
-msgid "IDS_PREC508_PR_20I_TASHKENT_DESCRIPTION"
-msgstr ""
-"敵の射撃精度を低下させ、艦の被発見性を低減し、艦および艦長の取得 "
-"EXP を向上させる。"
-
-msgid "IDS_PREC509_PR_48_KIEV"
-msgstr "タイプ 15 – Kiev"
-
-msgid "IDS_PREC509_PR_48_KIEV_DESCRIPTION"
-msgstr ""
-"敵の射撃精度を低下させ、艦の被発見性を低減し、艦および艦長の取得 "
-"EXP を向上させる。"
 
 msgid "IDS_PREE001_RUSSIA1918_DESC"
 msgstr ""
@@ -18004,6 +18367,110 @@ msgstr "• エリートステータス：フリー経験値への変換を利�
 
 msgid "IDS_PREMIUM_SHIP_POINT_4"
 msgstr "• 同国籍の他艦艇の艦長を配属した場合、再訓練なしでもペナルティが生じない"
+
+msgid "IDS_PREP301_NIKOLAY_I"
+msgstr "タイプ 9 – Imperator Nikolai I"
+
+msgid "IDS_PREP301_NIKOLAY_I_DESCRIPTION"
+msgstr ""
+"敵の射撃精度を低下させ、艦の被発見性を低減し、艦および艦長の取得 "
+"EXP を向上させる。"
+
+msgid "IDS_PREP401_AVRORA_1917"
+msgstr "タイプ 9 – Aurora"
+
+msgid "IDS_PREP401_AVRORA_1917_DESCRIPTION"
+msgstr ""
+"敵の射撃精度を低下させ、艦の被発見性を低減し、艦および艦長の取得 "
+"EXP を向上させる。"
+
+msgid "IDS_PREP402_DIANA_1905"
+msgstr "タイプ 9 – Diana"
+
+msgid "IDS_PREP402_DIANA_1905_DESCRIPTION"
+msgstr ""
+"敵の射撃精度を低下させ、艦の被発見性を低減し、艦および艦長の取得 "
+"EXP を向上させる。"
+
+msgid "IDS_PREP403_MURMANSK_1944"
+msgstr "タイプ 9 – Murmansk"
+
+msgid "IDS_PREP403_MURMANSK_1944_DESCRIPTION"
+msgstr ""
+"敵の射撃精度を低下させ、艦の被発見性を低減し、艦および艦長の取得 "
+"EXP を向上させる。"
+
+msgid "IDS_PREP406_MOLOTOV"
+msgstr "タイプ 10 – Molotov"
+
+msgid "IDS_PREP406_MOLOTOV_DESCRIPTION"
+msgstr ""
+"敵の射撃精度を低下させ、艦の被発見性を低減し、艦および艦長の取得 "
+"EXP を向上させる。"
+
+msgid "IDS_PREP407_SCHORS"
+msgstr "タイプ 17 – Shchors"
+
+msgid "IDS_PREP407_SCHORS_DESCRIPTION"
+msgstr ""
+"敵の射撃精度を低下させ、艦の被発見性を低減し、艦および艦長の取得 "
+"EXP を向上させる。"
+
+msgid "IDS_PREP408_KUTUZOV_1952"
+msgstr "タイプ 10 – Mikhail Kutuzov"
+
+msgid "IDS_PREP408_KUTUZOV_1952_DESCRIPTION"
+msgstr ""
+"敵の射撃精度を低下させ、艦の被発見性を低減し、艦および艦長の取得 "
+"EXP を向上させる。"
+
+msgid "IDS_PREP409_DMITRY_DONSKOY"
+msgstr "タイプ 19 – Dmitri Donskoi"
+
+msgid "IDS_PREP409_DMITRY_DONSKOY_DESCRIPTION"
+msgstr ""
+"敵の射撃精度を低下させ、艦の被発見性を低減し、艦および艦長の取得 "
+"EXP を向上させる。"
+
+msgid "IDS_PREP410_DIANA_1905_ASUS"
+msgstr "タイプ 9 – Pallada"
+
+msgid "IDS_PREP410_DIANA_1905_ASUS_DESCRIPTION"
+msgstr ""
+"敵の射撃精度を低下させ、艦の被発見性を低減し、艦および艦長の取得 "
+"EXP を向上させる。"
+
+msgid "IDS_PREP501_GREMYASHCHY_1942"
+msgstr "タイプ 9 – Gremyashchy"
+
+msgid "IDS_PREP501_GREMYASHCHY_1942_DESCRIPTION"
+msgstr ""
+"敵の射撃精度を低下させ、艦の被発見性を低減し、艦および艦長の取得 "
+"EXP を向上させる。"
+
+msgid "IDS_PREP505_PR_7_GNEVNY"
+msgstr "タイプ 12 – Gnevny"
+
+msgid "IDS_PREP505_PR_7_GNEVNY_DESCRIPTION"
+msgstr ""
+"敵の射撃精度を低下させ、艦の被発見性を低減し、艦および艦長の取得 "
+"EXP を向上させる。"
+
+msgid "IDS_PREP508_PR_20I_TASHKENT"
+msgstr "タイプ 18 – Tashkent"
+
+msgid "IDS_PREP508_PR_20I_TASHKENT_DESCRIPTION"
+msgstr ""
+"敵の射撃精度を低下させ、艦の被発見性を低減し、艦および艦長の取得 "
+"EXP を向上させる。"
+
+msgid "IDS_PREP509_PR_48_KIEV"
+msgstr "タイプ 17 – Kiev"
+
+msgid "IDS_PREP509_PR_48_KIEV_DESCRIPTION"
+msgstr ""
+"敵の射撃精度を低下させ、艦の被発見性を低減し、艦および艦長の取得 "
+"EXP を向上させる。"
 
 msgid "IDS_PREPARE_BATTLE"
 msgstr "戦闘開始に備えよ:"
@@ -18266,8 +18733,14 @@ msgstr "533 mm 4 連装 N-7 魚雷発射管"
 msgid "IDS_PRGT664_PLOP"
 msgstr "Plopplop"
 
+msgid "IDS_PRICE"
+msgstr "費用"
+
 msgid "IDS_PRICES_CHANGED"
 msgstr "注意! スペシャルの更新に伴い、価格が変更されました。"
+
+msgid "IDS_PRICE_Q"
+msgstr "コスト:"
 
 msgid "IDS_PRIMARYHEADER"
 msgstr "主タスク:"
@@ -18276,10 +18749,10 @@ msgid "IDS_PRMP_DISCOUNT"
 msgstr "割引"
 
 msgid "IDS_PRMP_FOR_YOU"
-msgstr "お得:"
+msgstr "殿へ"
 
 msgid "IDS_PRMP_RECEIVE"
-msgstr "取得する"
+msgstr "入手できる"
 
 msgid "IDS_PRMP_SPECIAL_PROPOSAL"
 msgstr "貴官へのオファー!"
@@ -18304,7 +18777,7 @@ msgid "IDS_PROFILE_ACCOUNT_INSTRUCTION_2"
 msgstr "任務記録レベルが上がる度に、新しいゲーム要素へのアクセスが可能になります。"
 
 msgid "IDS_PROFILE_ACCOUNT_LEVEL"
-msgstr "任務記録レベル"
+msgstr "任務記録レベル %(level)d"
 
 msgid "IDS_PROFILE_ACHIEVEMENTS"
 msgstr "実績"
@@ -18559,6 +19032,12 @@ msgstr "HE-32"
 
 msgid "IDS_PRPA047_180_AP_MOLOTOV"
 msgstr "AP-32"
+
+msgid "IDS_PRPA048_130_AP_P_1917"
+msgstr "130 mm AP Model 1917"
+
+msgid "IDS_PRPA049_130_HE_P_1917"
+msgstr "130 mm HE Model 1917"
 
 msgid "IDS_PRPA601_1ST_AP_APRIL"
 msgstr "BANG"
@@ -19126,7 +19605,7 @@ msgid "IDS_PRUA301_130_55_MOD_1911"
 msgstr "130 mm/55 Model 1913"
 
 msgid "IDS_PRUA302_130_55_MOD_1928"
-msgstr "130 mm/55 B-7"
+msgstr "130 mm/55 Model 1913"
 
 msgid "IDS_PRUA303_130_55_MOD_1911_0"
 msgstr "130 mm/55 Model 1913"
@@ -19701,10 +20180,10 @@ msgstr "モジュールの購入"
 msgid "IDS_PURSHASE_FAILED"
 msgstr "購入エラー"
 
-msgid "IDS_PWEC501_BLYSKAWICA"
+msgid "IDS_PWEP501_BLYSKAWICA"
 msgstr "タイプ 10 – Błyskawica"
 
-msgid "IDS_PWEC501_BLYSKAWICA_DESCRIPTION"
+msgid "IDS_PWEP501_BLYSKAWICA_DESCRIPTION"
 msgstr ""
 "敵の射撃精度を低下させ、艦の被発見性を低減し、艦および艦長の取得 "
 "EXP を向上させる。"
@@ -19763,18 +20242,18 @@ msgstr "SKO Mod. 7"
 msgid "IDS_PWUT601_533_MARK_X"
 msgstr "Mark 10"
 
-msgid "IDS_PZEC506_ANSHAN"
+msgid "IDS_PZEP506_ANSHAN"
 msgstr "タイプ 11 – 鞍山"
 
-msgid "IDS_PZEC506_ANSHAN_DESCRIPTION"
+msgid "IDS_PZEP506_ANSHAN_DESCRIPTION"
 msgstr ""
 "敵の射撃精度を低下させ、艦の被発見性を低減し、艦および艦長の取得 "
 "EXP、およびフリー EXP を向上させる。"
 
-msgid "IDS_PZEC508_LOYANG"
+msgid "IDS_PZEP508_LOYANG"
 msgstr "タイプ 10 – 洛陽"
 
-msgid "IDS_PZEC508_LOYANG_DESCRIPTION"
+msgid "IDS_PZEP508_LOYANG_DESCRIPTION"
 msgstr ""
 "敵の射撃精度を低下させ、艦の被発見性を低減し、艦および艦長の取得 "
 "EXP を向上させる。"
@@ -20030,7 +20509,7 @@ msgid "IDS_QUORUM"
 msgstr "定足数"
 
 msgid "IDS_RANDOMBATTLE_DESCRIPTION"
-msgstr "ランダムなマップと戦闘シナリオ。"
+msgstr "ランダムなマップと戦闘シナリオ"
 
 msgid "IDS_RANDOM_BATTLE"
 msgstr "ランダム戦"
@@ -20100,6 +20579,14 @@ msgid "IDS_RANKED_BATTLE_STAR_LOSS_CONDITION_DEFEAT"
 msgstr ""
 "敗北または引き分けにより、1 スターを喪失します。"
 
+msgid "IDS_RANKED_BATTLE_STAR_LOSS_PLACE_CONDITION"
+msgstr "取得経験値で最高を達成した場合、スターを喪失しません。"
+
+msgid "IDS_RANKED_BATTLE_STAR_LOSS_PLACE_RANGE_CONDITION"
+msgstr ""
+"取得経験値 TOP %(starLossPlace)"
+"s を達成した場合、スターを喪失しません。"
+
 msgid "IDS_RANK_BATTLES_FIRST_RANK_REACHED"
 msgstr "おめでとうございます! 今シーズン中の最高ランクを達成しました。次のシーズンのランク戦をお楽しみに。"
 
@@ -20115,6 +20602,9 @@ msgstr "ランク:"
 msgid "IDS_RANK_RETURN"
 msgstr "ランク降格: %(rank)s"
 
+msgid "IDS_RANK_SEA_WOLF"
+msgstr "飢えた狼"
+
 msgid "IDS_RANK_STAR_EARNED"
 msgstr "スター獲得"
 
@@ -20128,10 +20618,19 @@ msgid "IDS_RANK_X_IN_SEASON_TOOLTIP"
 msgstr "今シーズンのランク %(rank)s"
 
 msgid "IDS_RANK_X_IN_SEASON_Y"
-msgstr "「%(season)s」でのランク %(rank)s"
+msgstr "ランク %(rank)s、\"%(season)s\""
+
+msgid "IDS_RANK_X_SEASON_Y"
+msgstr "%(rank)s、\"%(season)s\""
 
 msgid "IDS_RATE"
 msgstr "比率:"
+
+msgid "IDS_RATES"
+msgstr "サーバーレート"
+
+msgid "IDS_RATES_HINT"
+msgstr "サーバーレート"
 
 msgid "IDS_RATING"
 msgstr "レーティング"
@@ -20235,6 +20734,12 @@ msgstr "プレイヤーが艦隊から脱退しました"
 
 msgid "IDS_RECALL_INVITATION"
 msgstr "招待の取り消し"
+
+msgid "IDS_RECEIVED_AIRPLANES_KILLED"
+msgstr "航空機損失"
+
+msgid "IDS_RECEIVED_AIRPLANES_KILLED_HINT"
+msgstr "この戦闘での航空機損失数"
 
 msgid "IDS_REGENERATIONHPSPEED"
 msgstr ": 消耗品「修理班」使用時の HP 回復量"
@@ -20576,6 +21081,9 @@ msgstr "標準として設定"
 msgid "IDS_SAVE_CHANGES"
 msgstr "変更を保存"
 
+msgid "IDS_SAVE_CHANGES_QUESTION"
+msgstr "変更を保存しますか?"
+
 msgid "IDS_SAVE_PASSWORD"
 msgstr "パスワード保存"
 
@@ -20723,6 +21231,9 @@ msgstr "第 2 シーズン"
 msgid "IDS_SEASON_TITLE_3"
 msgstr "第 3 シーズン"
 
+msgid "IDS_SEASON_TITLE_4"
+msgstr "第 4 シーズン"
+
 msgid "IDS_SEA_REFLECTION_QUALITY"
 msgstr "反射"
 
@@ -20736,7 +21247,7 @@ msgid "IDS_SECONDARYHEADER"
 msgstr "副タスク:"
 
 msgid "IDS_SECONDARY_CALIBER"
-msgstr "副兵装"
+msgstr "副砲"
 
 msgid "IDS_SECOND_CLASS_SKILL"
 msgstr "追加の専門スキル"
@@ -20912,6 +21423,12 @@ msgstr "艦艇"
 msgid "IDS_SHIPS_COMPARISON"
 msgstr "艦艇比較"
 
+msgid "IDS_SHIPS_DAMAGED"
+msgstr "損害敵艦艇数"
+
+msgid "IDS_SHIPS_DAMAGED_HINT"
+msgstr "この戦闘で自艦がダメージを与えた敵艦艇数"
+
 msgid "IDS_SHIPS_IN_SERIES"
 msgstr "同型艦数"
 
@@ -20923,6 +21440,12 @@ msgstr "装甲厚"
 
 msgid "IDS_SHIP_ARMOUR_WHOLE_RANGE"
 msgstr "装甲厚の合計範囲"
+
+msgid "IDS_SHIP_BONUS_XP"
+msgstr "艦のボーナス"
+
+msgid "IDS_SHIP_BONUS_XP_HINT"
+msgstr "この艦のボーナス適用後の追加取得 EXP"
 
 msgid "IDS_SHIP_COMPARISON_HINT"
 msgstr "他のプレイヤーの艦にカーソルを合わせて自艦と比較"
@@ -21080,10 +21603,10 @@ msgid "IDS_SHIP_PARAM_ARTILLERY_TITLE"
 msgstr "兵装"
 
 msgid "IDS_SHIP_PARAM_ATBA"
-msgstr "副兵装"
+msgstr "副砲"
 
 msgid "IDS_SHIP_PARAM_ATBA_GUN"
-msgstr "副兵装"
+msgstr "副砲"
 
 msgid "IDS_SHIP_PARAM_ATBA_GUNS_COUNT"
 msgstr "副砲塔"
@@ -21177,6 +21700,9 @@ msgstr "射程"
 
 msgid "IDS_SHIP_PARAM_MAX_SPEED_TIME"
 msgstr "最大速度到達時間"
+
+msgid "IDS_SHIP_PARAM_MG_MAX_DIST"
+msgstr "主砲射程"
 
 msgid "IDS_SHIP_PARAM_MOBILITY"
 msgstr "機動性"
@@ -21272,7 +21798,7 @@ msgid "IDS_SHIP_PARAM_SQUADRON_TORPEDO_SPEED"
 msgstr "航空魚雷の雷速"
 
 msgid "IDS_SHIP_PARAM_SQUADRON_VITALITY"
-msgstr "抗堪性"
+msgstr "HP"
 
 msgid "IDS_SHIP_PARAM_SUAO"
 msgstr "射撃管制装置"
@@ -21385,6 +21911,9 @@ msgstr "艦を売却"
 msgid "IDS_SHIP_SELL_HINT"
 msgstr "全ての関連モジュールは、艦と共に売却されます。"
 
+msgid "IDS_SHIP_TOOLTIP_VISIBILITY"
+msgstr "被発見距離"
+
 msgid "IDS_SHIP_TYPES"
 msgstr "艦種"
 
@@ -21392,7 +21921,10 @@ msgid "IDS_SHOOT"
 msgstr "砲撃"
 
 msgid "IDS_SHOOTSHIFT"
-msgstr ": 自艦を攻撃中の敵の射撃精度"
+msgstr ": 自艦を攻撃中の敵砲弾の最大散布界"
+
+msgid "IDS_SHOTS"
+msgstr "射撃弾数"
 
 msgid "IDS_SHOT_MINUTE"
 msgid_plural "IDS_SHOT_MINUTE"
@@ -21470,6 +22002,9 @@ msgstr "スキル/消耗品"
 msgid "IDS_SKILLTYPE_ARTILLERY"
 msgstr "砲撃"
 
+msgid "IDS_SKILLTYPE_ARTILLERY_HINT"
+msgstr "砲撃の被弾数 / 被ダメージ"
+
 msgid "IDS_SKILLTYPE_AVIATION"
 msgstr "航空機"
 
@@ -21477,7 +22012,7 @@ msgid "IDS_SKILLTYPE_ENDURANCE"
 msgstr "艦の抗堪性"
 
 msgid "IDS_SKILLTYPE_SECONDARY"
-msgstr "副兵装"
+msgstr "副砲"
 
 msgid "IDS_SKILLTYPE_SPECIAL"
 msgstr "特殊スキル"
@@ -21521,7 +22056,7 @@ msgstr ""
 "{smallGunReloadCoefficient}"
 
 msgid "IDS_SKILL_ATR_AIGUNSEFFICIENCYMODIFIER_1"
-msgstr "対空砲効力 {airDefenceEfficiencyCoefficient}"
+msgstr "対空砲の秒間平均ダメージ {airDefenceEfficiencyCoefficient}"
 
 msgid "IDS_SKILL_ATR_AIGUNSRANGEMODIFIER_0"
 msgstr ""
@@ -21550,21 +22085,23 @@ msgstr "修理、消火、浸水復旧の所要時間 {critTimeCoefficient}"
 
 msgid "IDS_SKILL_ATR_CENTRALAIRDEFENCEMODIFIER_0"
 msgstr ""
-"口径 85 mm 超の対空砲の優先目標に対する効力 "
+"口径 85 "
+"mm 超の対空砲による優先目標に対する秒間平均ダメージ "
 "{airDefenceSelectedTargetCoefficient}"
 
 msgid "IDS_SKILL_ATR_CENTRALATBAMODIFIER_0"
-msgstr "Tier I-VI 艦艇の副兵装の最大散布界 {atbaIdealRadiusLo}"
+msgstr "Tier I-VI 艦艇の副砲の最大散布界 {atbaIdealRadiusLo}"
 
 msgid "IDS_SKILL_ATR_CENTRALATBAMODIFIER_1"
-msgstr "Tier VII-X 艦艇の副兵装の最大散布界 {atbaIdealRadiusHi}"
+msgstr "Tier VII-X 艦艇の副砲の最大散布界 {atbaIdealRadiusHi}"
 
 msgid "IDS_SKILL_ATR_EMERGENCYTEAMCOOLDOWNMODIFIER_0"
 msgstr "消耗品「応急工作班」の準備時間 {reloadCoefficient}"
 
 msgid "IDS_SKILL_ATR_FIGHTEREFFICIENCYMODIFIER_0"
 msgstr ""
-"戦闘機の戦闘力を Tier 差 1 毎に {fightersEfficiencyCoefficient}"
+"戦闘機の秒間平均ダメージを Tier 差 1 段階毎に "
+"{fightersEfficiencyCoefficient}"
 
 msgid "IDS_SKILL_ATR_FIREPROBABILITYMODIFIER_0"
 msgstr ""
@@ -21596,7 +22133,7 @@ msgid "IDS_SKILL_ATR_METICULOUSPREVENTIONMODIFIER_0"
 msgstr "モジュールの機能停止発生率 {critProbCoefficient}"
 
 msgid "IDS_SKILL_ATR_PLANEPREPARINGMODIFIER_0"
-msgstr "艦載機の抗堪性 {vitalityCoefficient}"
+msgstr "艦載機の HP {vitalityCoefficient}"
 
 msgid "IDS_SKILL_ATR_PLANEPREPARINGMODIFIER_1"
 msgstr "全艦載機の整備時間 {fightersPrepareCoefficient}"
@@ -21606,7 +22143,7 @@ msgstr "航空機視認半径 {rangeCoefficient}"
 
 msgid "IDS_SKILL_ATR_PREPARINGONBOARDSHOOTERSMODIFIER_0"
 msgstr ""
-"後部銃座を持つ航空機の防御兵装の効力 "
+"後部銃座を持つ航空機の防御兵装の秒間平均ダメージ "
 "{fightersPassiveEfficiencyCoefficient}"
 
 msgid "IDS_SKILL_ATR_REGENERATIONABILITY_0"
@@ -21664,7 +22201,7 @@ msgid "IDS_SKILL_CENTRALAIRDEFENCEMODIFIER"
 msgstr "対空兵装の手動制御"
 
 msgid "IDS_SKILL_CENTRALATBAMODIFIER"
-msgstr "副兵装の手動制御"
+msgstr "副砲の手動制御"
 
 msgid "IDS_SKILL_DESC_ADDITIONALPLANESINSQUADMODIFIER"
 msgstr "編隊の機数を変更"
@@ -21678,7 +22215,7 @@ msgstr "口径 139 mm 以下の主砲および全副砲の有効射程を向上"
 msgid "IDS_SKILL_DESC_AIRDEFENCEBARRAGEABILITY"
 msgstr ""
 "一定時間、対空能力を向上\n"
-"両用砲 (対空 / 副兵装) を搭載する巡洋艦で使用可能"
+"両用砲 (対空 / 副砲) を搭載する巡洋艦で使用可能"
 
 msgid "IDS_SKILL_DESC_AIRGROUNDATTACKMODIFIER"
 msgstr "攻撃編隊の攻撃地点を手動で指定可能になる"
@@ -21730,7 +22267,7 @@ msgid "IDS_SKILL_DESC_METICULOUSPREVENTIONMODIFIER"
 msgstr "艦の各種モジュールの機能停止の発生率を低減"
 
 msgid "IDS_SKILL_DESC_PLANEPREPARINGMODIFIER"
-msgstr "艦載機の整備速度および抗堪性を向上"
+msgstr "艦載機の整備速度および HP を向上"
 
 msgid "IDS_SKILL_DESC_PLANESVISIONMODIFIER"
 msgstr "着弾観測機を含む全ての航空機の視認半径を向上"
@@ -21911,7 +22448,7 @@ msgid "IDS_SORT_BY_TYPE"
 msgstr "タイプ別"
 
 msgid "IDS_SOUND_OPTIONS"
-msgstr "音量"
+msgstr "音響"
 
 msgid "IDS_SOUND_PARAMS"
 msgstr "音量設定"
@@ -22074,10 +22611,10 @@ msgid "IDS_SPACES/14_AS_TRAP_FOR_A_TIGER_DESCR"
 msgstr "IDS_SPACES/14_AS_TRAP_FOR_A_TIGER_DESCR"
 
 msgid "IDS_SPACES/14_ATLANTIC"
-msgstr "大西洋 (Atlantic)"
+msgstr "東大西洋 (Atlantic)"
 
 msgid "IDS_SPACES/14_ATLANTIC_DESCR"
-msgstr "大西洋の沿岸部。"
+msgstr "東大西洋のポルトガル沿岸部。"
 
 msgid "IDS_SPACES/15_NE_NORTH"
 msgstr "アリューシャン列島 (North)"
@@ -22116,10 +22653,10 @@ msgid "IDS_SPACES/19_OC_PREY_DESCR"
 msgstr "邀撃を誘う群島の海域。"
 
 msgid "IDS_SPACES/20_NE_TWO_BROTHERS"
-msgstr "沖縄 (Two Brothers)"
+msgstr "北海 (Two Brothers)"
 
 msgid "IDS_SPACES/20_NE_TWO_BROTHERS_DESCR"
-msgstr "中央に水道を持つ二つの島からなる海域。"
+msgstr "中央に水道を持つ二つの島からなるイギリス北西海域。"
 
 msgid "IDS_SPACES/21_AS_FLOWER"
 msgstr "華"
@@ -22156,6 +22693,12 @@ msgstr "朝の微風"
 
 msgid "IDS_SPACES/25_NE_MORNING_BREEZE_DESCR"
 msgstr "IDS_SPACES/25_NE_MORNING_BREEZE_DESCR"
+
+msgid "IDS_SPACES/25_SEA_HOPE"
+msgstr "希望の海 (Sea Hope)"
+
+msgid "IDS_SPACES/25_SEA_HOPE_DESCR"
+msgstr "希望の海"
 
 msgid "IDS_SPACES/26_OC_ON_TWO_FRONT"
 msgstr "二正面作戦"
@@ -22199,6 +22742,12 @@ msgstr "巧妙岩群"
 msgid "IDS_SPACES/32_AS_ARTFUL_ROCKS_DESCR"
 msgstr "IDS_SPACES/32_AS_artful_rocks_DESCR"
 
+msgid "IDS_SPACES/33_NEW_TIERRA"
+msgstr "極地 (New Land)"
+
+msgid "IDS_SPACES/33_NEW_TIERRA_DESCR"
+msgstr "流氷の漂う極地。"
+
 msgid "IDS_SPACES/34_OC_ISLANDS"
 msgstr "地中海 (Islands)"
 
@@ -22229,11 +22778,23 @@ msgstr "カナダ離島 (Shatter)"
 msgid "IDS_SPACES/38_CANADA_DESCR"
 msgstr "北方にある岩だらけの島々。"
 
+msgid "IDS_SPACES/40_OKINAWA"
+msgstr "沖縄 (Okinawa)"
+
+msgid "IDS_SPACES/40_OKINAWA_DESCR"
+msgstr "沖縄諸島を巡る海戦。"
+
 msgid "IDS_SPACES/41_CONQUEST"
 msgstr "インド洋 (Trident)"
 
 msgid "IDS_SPACES/41_CONQUEST_DESCR"
 msgstr "季節風が吹くインド洋の諸島。"
+
+msgid "IDS_SPACES/42_NEIGHBORS"
+msgstr "英仏海峡 (Neighbors)"
+
+msgid "IDS_SPACES/33_42_NEIGHBORS_DESCR"
+msgstr "英仏海峡における接近戦。"
 
 msgid "IDS_SPACES/44_PATH_WARRIOR"
 msgstr "武士道"
@@ -22246,6 +22807,18 @@ msgstr "要塞"
 
 msgid "IDS_SPACES/45_RAMPART_DESCR"
 msgstr "我らが要塞。"
+
+msgid "IDS_SPACES/45_ZIGZAG"
+msgstr "ジグザグ"
+
+msgid "IDS_SPACES/45_ZIGZAG_DESCR"
+msgstr "ジグザグ"
+
+msgid "IDS_SPACES/46_ESTUARY"
+msgstr "河口 (Estuary)"
+
+msgid "IDS_SPACES/46_ESTUARY_DESCR"
+msgstr "地形の複雑な河口で起きる衝突。"
 
 msgid "IDS_SPACES/98_JACUZZI"
 msgstr "ジャクージーのルインベルク"
@@ -22306,6 +22879,12 @@ msgstr "減速"
 
 msgid "IDS_SPEED_UP"
 msgstr "増速"
+
+msgid "IDS_SPENT_PER_BATTLE"
+msgstr "消費"
+
+msgid "IDS_SPENT_PER_BATTLE_HINT"
+msgstr "この戦闘で消費したダブロンとクレジット"
 
 msgid "IDS_SPLASH_HIT_TYPE"
 msgstr "爆風損傷!"
@@ -22952,6 +23531,9 @@ msgstr "迷彩の購入完了"
 msgid "IDS_SYS_MESSAGE_HEADER_MS_ACC_BUY_ACTIVATE_EXTERIOR_FLAGS"
 msgstr "信号旗の購入完了"
 
+msgid "IDS_SYS_MESSAGE_HEADER_MS_ACC_BUY_ACTIVATE_EXTERIOR_PERMOFLAGE"
+msgstr "迷彩の購入完了"
+
 msgid "IDS_SYS_MESSAGE_HEADER_MS_ACC_BUY_MODERNIZATION"
 msgstr "アップグレード購入完了"
 
@@ -23111,6 +23693,9 @@ msgstr "旗削除"
 msgid "IDS_SYS_MESSAGE_HEADER_MS_ACC_INVOICE_RECEIVED_6_0_FLAGS"
 msgstr "信号旗削除"
 
+msgid "IDS_SYS_MESSAGE_HEADER_MS_ACC_INVOICE_RECEIVED_6_0_PERMOFLAGE"
+msgstr "迷彩の削除"
+
 msgid "IDS_SYS_MESSAGE_HEADER_MS_ACC_INVOICE_RECEIVED_6_0_SIGNAL"
 msgstr "信号旗削除"
 
@@ -23125,6 +23710,9 @@ msgstr "旗追加"
 
 msgid "IDS_SYS_MESSAGE_HEADER_MS_ACC_INVOICE_RECEIVED_6_1_FLAGS"
 msgstr "信号旗の追加"
+
+msgid "IDS_SYS_MESSAGE_HEADER_MS_ACC_INVOICE_RECEIVED_6_1_PERMOFLAGE"
+msgstr "迷彩の追加"
 
 msgid "IDS_SYS_MESSAGE_HEADER_MS_ACC_INVOICE_RECEIVED_6_1_SIGNAL"
 msgstr "信号旗の追加"
@@ -23185,6 +23773,15 @@ msgstr "信号旗解除完了"
 
 msgid "IDS_SYS_MESSAGE_HEADER_MS_ACC_SET_EXTERIOR_ACTIVITY_FLAGS_31"
 msgstr "信号旗の破棄完了"
+
+msgid "IDS_SYS_MESSAGE_HEADER_MS_ACC_SET_EXTERIOR_ACTIVITY_PERMOFLAGE_29"
+msgstr "迷彩の搭載完了"
+
+msgid "IDS_SYS_MESSAGE_HEADER_MS_ACC_SET_EXTERIOR_ACTIVITY_PERMOFLAGE_30"
+msgstr "迷彩の解除完了"
+
+msgid "IDS_SYS_MESSAGE_HEADER_MS_ACC_SET_EXTERIOR_ACTIVITY_PERMOFLAGE_31"
+msgstr "迷彩の破棄完了"
 
 msgid "IDS_SYS_MESSAGE_HEADER_MS_ACC_SET_MODERNIZATION"
 msgstr "アップグレード搭載完了"
@@ -23343,11 +23940,29 @@ msgstr "戦術マップ"
 msgid "IDS_TACTICS"
 msgstr "戦術"
 
+msgid "IDS_TAKEN_AMMO_AP_HINT"
+msgstr "AP 弾の被弾数 / 被ダメージ"
+
+msgid "IDS_TAKEN_AMMO_HE_HINT"
+msgstr "HE 弾の被弾数 / 被ダメージ"
+
+msgid "IDS_TAKEN_BOMBS_HINT"
+msgstr "爆弾の被弾数 / 被ダメージ"
+
+msgid "IDS_TAKEN_DAMAGED_MODULES_HINT"
+msgstr "機能停止および大破したモジュールの数"
+
+msgid "IDS_TAKEN_OTHER_HINT"
+msgstr "火災、浸水、体当たりによる被ダメージ"
+
+msgid "IDS_TAKEN_TORPEDOES_HINT"
+msgstr "魚雷の被雷数 / 被ダメージ"
+
 msgid "IDS_TAKE_AWAY"
 msgstr "解除"
 
 msgid "IDS_TARGET"
-msgstr "目標ロック"
+msgstr "フリールック有効"
 
 msgid "IDS_TASK"
 msgstr "ミッション"
@@ -23365,6 +23980,33 @@ msgstr "アルペジオ・ミッション"
 
 msgid "IDS_TEAMKILLER_ATTACK_CHAT"
 msgstr "同士討ちに対する警告"
+
+msgid "IDS_TEAMKILLER_ATTACK_CHAT_DETAILED"
+msgstr "%(player)sを味方 %(ally)s への同士討ちに対し警告す"
+
+msgid "IDS_TEAMKILLER_COMPENSATION"
+msgstr "同士討ちの補償"
+
+msgid "IDS_TEAMKILLER_COMPENSATION_HINT"
+msgstr "味方によるダメージに対する補償として取得したクレジット"
+
+msgid "IDS_TEAMKILLER_PENALTY"
+msgstr "同士討ちの罰金"
+
+msgid "IDS_TEAMKILLER_PENALTY_CREDITS_HINT"
+msgstr "味方へのダメージによるクレジット減算"
+
+msgid "IDS_TEAMKILLER_PENALTY_EXP_HINT"
+msgstr "味方へのダメージによる EXP 減算"
+
+msgid "IDS_TEAMKILLER_STATUS"
+msgstr "貴様はチームキラーです"
+
+msgid "IDS_TEAMKILLER_STATUS_TAKEN_OFF"
+msgstr "チームキラー・ステータス解除"
+
+msgid "IDS_TEAMKILLER_STATUS_TAKEN_OFF_HINT"
+msgstr "チームキル・ペナルティ解除"
 
 msgid "IDS_TEAMONELABEL"
 msgstr "第一艦隊"
@@ -23407,6 +24049,18 @@ msgstr "地形ライティング"
 
 msgid "IDS_TERRAIN_LOD"
 msgstr "地形 LOD"
+
+msgid "IDS_TERRAIN_SHOOTING_MODE_0"
+msgstr "On"
+
+msgid "IDS_TERRAIN_SHOOTING_MODE_1"
+msgstr "目標ロック中で On"
+
+msgid "IDS_TERRAIN_SHOOTING_MODE_2"
+msgstr "Off"
+
+msgid "IDS_TERRAIN_SHOOT_INDICATOR"
+msgstr "地形障害インジケータ"
 
 msgid "IDS_TEXTURE_COMPRESSION"
 msgstr "テクスチャ圧縮"
@@ -23603,7 +24257,7 @@ msgid "IDS_TOOLTIP_ARTILLERY_TITLE"
 msgstr "艦の主要な攻撃兵装"
 
 msgid "IDS_TOOLTIP_ATBA"
-msgstr "副兵装 (自動射撃)"
+msgstr "副砲 (自動射撃)"
 
 msgid "IDS_TOOLTIP_ATBA_GUN"
 msgstr "副砲"
@@ -23631,8 +24285,11 @@ msgstr "マッチメイカーがこの艦艇を組み込む戦闘 Tier 帯"
 msgid "IDS_TOOLTIP_BATTLE_MESSAGES"
 msgstr "戦闘結果に関する報告"
 
+msgid "IDS_TOOLTIP_BATTLE_STATS_CREDITS_AND_EXP"
+msgstr "クレジット、EXP"
+
 msgid "IDS_TOOLTIP_BATTLE_STATS_DETAILED_REPORT"
-msgstr "与/被ダメージ、クレジット、EXP"
+msgstr "与/被ダメージ"
 
 msgid "IDS_TOOLTIP_BATTLE_STATS_PERSONAL_REPORT"
 msgstr "個人スコア"
@@ -23961,6 +24618,12 @@ msgstr "魚雷"
 msgid "IDS_TORPEDOES_ANGLE"
 msgstr "魚雷発射角選択"
 
+msgid "IDS_TORPEDOES_SPENT"
+msgstr "魚雷消費数"
+
+msgid "IDS_TORPEDOS_RELEASED"
+msgstr "魚雷発射数"
+
 msgid "IDS_TORPEDO_LAUNCHERS"
 msgstr "魚雷"
 
@@ -23969,6 +24632,9 @@ msgstr "合計"
 
 msgid "IDS_TOTAL_BATTLES"
 msgstr "合計戦闘数"
+
+msgid "IDS_TOTAL_DAMAGE"
+msgstr "総与ダメージ"
 
 msgid "IDS_TOTAL_PLAYERS_HINT"
 msgstr "待機中の合計プレイヤー"
@@ -24452,6 +25118,9 @@ msgstr "プレイヤーを待っています..."
 msgid "IDS_WAITING_PLAYERS"
 msgstr "準備中"
 
+msgid "IDS_WAITING_SCREEN_LOADING_DATA"
+msgstr "データ読込中"
+
 msgid "IDS_WAITING_TIME"
 msgstr "経過時間:"
 
@@ -24467,7 +25136,7 @@ msgid "IDS_WAIT_FOR_INVITATION"
 msgstr "招待が届くのを待つか、自分から他のプレイヤーを招待しましょう。"
 
 msgid "IDS_WAIT_TIMEOUT_TO_JOIN_DIVISION"
-msgstr "間もなく開放される:"
+msgstr "利用可能まで:"
 
 msgid "IDS_WANTED_IN_DIVISION"
 msgstr "殿が戦隊への参加をリクエストしています"
@@ -24571,11 +25240,25 @@ msgstr "艦長なし"
 msgid "IDS_WITHOUT_CREW"
 msgstr "艦長なし"
 
+msgid "IDS_WITHOUT_PREM"
+msgstr "通常"
+
+msgid "IDS_WITHOUT_PREM_DESC"
+msgstr "通常アカウント"
+
 msgid "IDS_WITHOUT_SLOT"
 msgstr "スロットなし"
 
 msgid "IDS_WITH_COMMANDER"
 msgstr "艦長が搭乗中"
+
+msgid "IDS_WITH_PREM"
+msgstr "プレミアム"
+
+msgid "IDS_WITH_PREM_HINT"
+msgstr ""
+"プレミアムアカウントでは、各戦での取得クレジットと "
+"EXP が 50% 増加します。"
 
 msgid "IDS_WITH_PROGRESS"
 msgstr "進捗"
@@ -24703,8 +25386,22 @@ msgstr "貴官は投票不可"
 msgid "IDS_YOU_DECLINED_YOUR_INVITATION_TO_CLUB"
 msgstr "貴官は艦隊 %(clubName)s への招待を辞退しました"
 
+msgid "IDS_YOU_DIDNT_GET_DAMAGE"
+msgstr "本戦闘において被ダメージなし"
+
 msgid "IDS_YOU_DIDNT_SHOW_RESULTS"
 msgstr "何をやっておる！"
+
+msgid "IDS_YOU_GOT_TEAMKILLER_STATUS"
+msgstr "貴様にチームキラー・ステータスが付与されました"
+
+msgid "IDS_YOU_GOT_TEAMKILLER_STATUS_INFO_1"
+msgstr ""
+"チームキル・ペナルティが有効です。味方にダメージを与えた場合、自艦の "
+"HP が減少します。"
+
+msgid "IDS_YOU_GOT_TEAMKILLER_STATUS_INFO_2"
+msgstr "チームキラー・ステータスは、味方にダメージを与えずに一定数の戦闘をプレイすると解除されます。"
 
 msgid "IDS_YOU_HAVE_BEEN_DENUNCATED"
 msgstr "貴様は通報されました!"
