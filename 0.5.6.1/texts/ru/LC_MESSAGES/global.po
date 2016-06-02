@@ -8585,7 +8585,7 @@ msgid "IDS_LOBBY_CHAT_GENERAL"
 msgstr "港"
 
 msgid "IDS_LOCKED"
-msgstr "フリールック"
+msgstr "よそ見"
 
 msgid "IDS_LOCK_DIVISION"
 msgstr "戦隊をロック"
@@ -21424,7 +21424,7 @@ msgid "IDS_SHIPS_COMPARISON"
 msgstr "艦艇比較"
 
 msgid "IDS_SHIPS_DAMAGED"
-msgstr "損害敵艦艇数"
+msgstr "敵艦艇損害数"
 
 msgid "IDS_SHIPS_DAMAGED_HINT"
 msgstr "この戦闘で自艦がダメージを与えた敵艦艇数"
@@ -22743,7 +22743,7 @@ msgid "IDS_SPACES/32_AS_ARTFUL_ROCKS_DESCR"
 msgstr "IDS_SPACES/32_AS_artful_rocks_DESCR"
 
 msgid "IDS_SPACES/33_NEW_TIERRA"
-msgstr "極地 (New Land)"
+msgstr "南極海 (New Land)"
 
 msgid "IDS_SPACES/33_NEW_TIERRA_DESCR"
 msgstr "流氷の漂う極地。"

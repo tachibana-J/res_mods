@@ -1,5 +1,10 @@
 # Changelog of _implemented_ aka _compiled_ (i.e. not WIP or minute changes in texts) features
 
+20160601 Update for 0.5.6.1
+---
+* Seemlessly compatible with 0.5.6.1
+* Reworded a few UI texts
+
 20160525 Update for 0.5.6.0
 ---
 * New texts are added
