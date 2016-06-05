@@ -123,7 +123,7 @@ msgid "IDS_ACCURACY"
 msgstr "命中率"
 
 msgid "IDS_ACCURACY_ATBA"
-msgstr "副兵装命中率"
+msgstr "副砲命中率"
 
 msgid "IDS_ACCURACY_ATBA_TOOLTIP_PROFILE"
 msgstr "副砲弾命中率"
@@ -545,43 +545,43 @@ msgid "IDS_ACTION_LOG_ALL_AIR_DESTRUCTED"
 msgstr "全ての対空砲が大破"
 
 msgid "IDS_ACTION_LOG_ALL_ATBA_DESTRUCTED"
-msgstr "全ての副兵装が大破"
+msgstr "全ての副砲が大破"
 
 msgid "IDS_ACTION_LOG_ALL_ATBA_GUN_DESTRUCTED"
-msgstr "全ての副兵装が大破"
+msgstr "全ての副砲が大破"
 
 msgid "IDS_ACTION_LOG_ALL_MAIN_CALIBER_DESTRUCTED"
-msgstr "全ての主兵装が大破"
+msgstr "全ての主砲が大破"
 
 msgid "IDS_ACTION_LOG_ALL_TORPEDO_DESTRUCTED"
-msgstr "全ての魚雷兵装が大破"
+msgstr "全ての魚雷発射管が大破"
 
 msgid "IDS_ACTION_LOG_ALL_TORPEDO_TUBE_DESTRUCTED"
 msgstr "全ての魚雷発射管が大破"
 
 msgid "IDS_ACTION_LOG_ARTILLERY_CRIT"
-msgstr "主砲塔損傷"
+msgstr "主砲塔、機能停止"
 
 msgid "IDS_ACTION_LOG_ARTILLERY_DESTRUCTED"
 msgstr "主砲塔大破"
 
 msgid "IDS_ACTION_LOG_ARTILLERY_GUN_CRIT"
-msgstr "主砲塔損傷"
+msgstr "主砲塔、機能停止"
 
 msgid "IDS_ACTION_LOG_ARTILLERY_GUN_DESTRUCTED"
 msgstr "主砲塔大破"
 
 msgid "IDS_ACTION_LOG_ATBA_CRIT"
-msgstr "副兵装、機能停止"
+msgstr "副砲、機能停止"
 
 msgid "IDS_ACTION_LOG_ATBA_DESTRUCTED"
-msgstr "副兵装大破"
+msgstr "副砲大破"
 
 msgid "IDS_ACTION_LOG_ATBA_GUN_CRIT"
-msgstr "副兵装、機能停止"
+msgstr "副砲、機能停止"
 
 msgid "IDS_ACTION_LOG_ATBA_GUN_DESTRUCTED"
-msgstr "副兵装大破"
+msgstr "副砲大破"
 
 msgid "IDS_ACTION_LOG_AVIATION_CRIT"
 msgstr "航空機、使用不能"
@@ -596,7 +596,7 @@ msgid "IDS_ACTION_LOG_ENGINE_DAMAGED"
 msgstr "主機損傷"
 
 msgid "IDS_ACTION_LOG_ENGINE_DESTRUCTED"
-msgstr "主機大破"
+msgstr "主機、機能停止"
 
 msgid "IDS_ACTION_LOG_FAR_AURA_DESTRUCTED"
 msgstr "大口径対空砲大破"
@@ -638,16 +638,16 @@ msgid "IDS_ACTION_LOG_NEAR_AURA_DESTRUCTED"
 msgstr "小口径対空砲大破"
 
 msgid "IDS_ACTION_LOG_OBSERVATION_CRIT"
-msgstr "目標測距装置損傷"
+msgstr "目標測距装置、機能停止"
 
 msgid "IDS_ACTION_LOG_OBSERVATION_DESTRUCTED"
 msgstr "目標測距装置大破"
 
 msgid "IDS_ACTION_LOG_PORT_ATBA_DESTRUCTED"
-msgstr "左舷副兵装大破"
+msgstr "左舷副砲大破"
 
 msgid "IDS_ACTION_LOG_PORT_ATBA_GUN_DESTRUCTED"
-msgstr "左舷副兵装大破"
+msgstr "左舷副砲大破"
 
 msgid "IDS_ACTION_LOG_POWDER_MAGAZINE_CRIT"
 msgstr "弾薬庫、機能停止"
@@ -656,22 +656,22 @@ msgid "IDS_ACTION_LOG_POWDER_MAGAZINE_DAMAGED"
 msgstr "弾薬庫損傷"
 
 msgid "IDS_ACTION_LOG_STAR_ATBA_DESTRUCTED"
-msgstr "右舷副兵装大破"
+msgstr "右舷副砲大破"
 
 msgid "IDS_ACTION_LOG_STAR_ATBA_GUN_DESTRUCTED"
-msgstr "右舷副兵装大破"
+msgstr "右舷副砲大破"
 
 msgid "IDS_ACTION_LOG_STEERING_GEAR_CRIT"
 msgstr "操舵装置損傷"
 
 msgid "IDS_ACTION_LOG_TORPEDOES_CRIT"
-msgstr "魚雷兵装損傷"
+msgstr "魚雷兵装、機能停止"
 
 msgid "IDS_ACTION_LOG_TORPEDOES_DESTRUCTED"
 msgstr "魚雷兵装大破"
 
 msgid "IDS_ACTION_LOG_TORPEDO_TUBE_CRIT"
-msgstr "魚雷発射管損傷"
+msgstr "魚雷兵装、機能停止"
 
 msgid "IDS_ACTION_LOG_TORPEDO_TUBE_DESTRUCTED"
 msgstr "魚雷発射管大破"
@@ -1224,7 +1224,7 @@ msgid "IDS_BATTLEHINT_USAGE_CONSUMABLE_SMOKEGENERATOR"
 msgstr "駆逐艦および一部の巡洋艦で使用可能。"
 
 msgid "IDS_BATTLEHINT_USAGE_DIVE"
-msgstr "敵艦艇の前方・後方から攻撃を仕掛けると最も効果的です。"
+msgstr "敵艦艇の前方/後方から攻撃を仕掛けると最も効果的です。"
 
 msgid "IDS_BATTLEHINT_USAGE_FIGHTER"
 msgstr "戦闘機は、偵察任務にも使用可能です。"
@@ -1299,7 +1299,7 @@ msgid "IDS_BATTLES_PER_LEVEL"
 msgstr "%s (Tier %s 艦艇)"
 
 msgid "IDS_BATTLES_TO_LEFT_TEAMKILLER_STATUS"
-msgstr "TKステータス解除までの戦闘数"
+msgstr "ステータス解除までの戦闘数"
 
 msgid "IDS_BATTLE_CHAT_GENERAL"
 msgstr "全員宛"
@@ -1353,7 +1353,7 @@ msgid "IDS_BATTLE_STATS_ALLIES_CAPTURED_BASE"
 msgstr "味方艦隊が陣地を占領"
 
 msgid "IDS_BATTLE_STATS_ALLIES_MISSION_COMPLETE"
-msgstr "味方艦隊がミッションを達成。"
+msgstr "味方艦隊がミッションを達成"
 
 msgid "IDS_BATTLE_STATS_ALLIES_MISSION_COMPLETE_ON_TIMEOUT"
 msgstr "ポイント優勢により味方艦隊勝利"
@@ -1977,7 +1977,7 @@ msgid "IDS_CAUSED_MAIN_CALIBER_HINT"
 msgstr "主砲の命中弾数 / 与ダメージ"
 
 msgid "IDS_CAUSED_OTHER_HINT"
-msgstr "火災、浸水、体当たりによる敵艦への与ダメージ"
+msgstr "火災、浸水、体当たりによる敵艦艇への与ダメージ"
 
 msgid "IDS_CAUSED_SECONDARY_CALIBER_HINT"
 msgstr "副砲の命中弾数 / 与ダメージ"
@@ -4060,7 +4060,7 @@ msgid "IDS_DETONATIONCHANCEFACTOR"
 msgstr ": 弾薬庫誘爆率"
 
 msgid "IDS_DISABLING_AA_AND_ATBA"
-msgstr "対空、副兵装無効"
+msgstr "対空砲/副砲無効"
 
 msgid "IDS_DISMISS_DIVISION"
 msgstr "戦隊を解散"
@@ -4746,7 +4746,7 @@ msgid "IDS_FLOODCHANCEFACTOR"
 msgstr ": 浸水を引き起こす確率"
 
 msgid "IDS_FLOODPROB"
-msgstr ": 浸水発生率"
+msgstr ": 浸水発生率及び被雷ダメージ"
 
 msgid "IDS_FLOODTIME"
 msgstr ": 浸水復旧時間"
@@ -14862,7 +14862,6 @@ msgstr "川西 九四式水上偵察機"
 
 msgid "IDS_PJAS901"
 msgstr "三菱 零式観測機"
-
 
 msgid "IDS_PJEE001_JAPAN_DESC"
 msgstr "白い布の中央に、日の出を表す赤丸を配したデザインであり、国旗として正式に制定される以前から、長い歴史を有しています。"
