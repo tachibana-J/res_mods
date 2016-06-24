@@ -862,10 +862,10 @@ msgid "IDS_AND"
 msgstr "および"
 
 msgid "IDS_ANGLE_LEFT"
-msgstr "取舵"
+msgstr "取舵 (左)"
 
 msgid "IDS_ANGLE_RIGHT"
-msgstr "面舵"
+msgstr "面舵 (右)"
 
 msgid "IDS_ANGLE_ZERO"
 msgstr "進路そのまま"
@@ -904,8 +904,7 @@ msgid "IDS_AOGAS_FACTOR"
 msgstr "AOGAS"
 
 msgid "IDS_AOGAS_FACTOR_HINT"
-msgstr ""
-"戦闘で取得した EXP とクレジットが差し引かれました。"
+msgstr "戦闘で取得した EXP とクレジットの減少"
 
 msgid "IDS_AOGAS_RESET_PENALTY"
 msgid_plural "IDS_AOGAS_RESET_PENALTY"
@@ -964,6 +963,9 @@ msgstr "主砲 AP 弾"
 
 msgid "IDS_ART_CAMERA"
 msgstr "砲撃カメラ"
+
+msgid "IDS_ASHIGARA"
+msgstr "アシガラ"
 
 msgid "IDS_ASPECT_RATIO"
 msgstr "アスペクト比"
@@ -1353,10 +1355,16 @@ msgid "IDS_BATTLE_STATS_ALLIES_CAPTURED_BASE"
 msgstr "味方艦隊が陣地を占領"
 
 msgid "IDS_BATTLE_STATS_ALLIES_MISSION_COMPLETE"
-msgstr "味方艦隊がミッションを達成"
+msgstr "味方艦隊が作戦任務を達成"
 
 msgid "IDS_BATTLE_STATS_ALLIES_MISSION_COMPLETE_ON_TIMEOUT"
 msgstr "ポイント優勢により味方艦隊勝利"
+
+msgid "IDS_BATTLE_STATS_ALLIES_PLANES_KILLED"
+msgstr "味方航空機撃墜"
+
+msgid "IDS_BATTLE_STATS_ALLIES_PLANES_KILLED_HINT"
+msgstr "この戦闘で自艦が撃墜した味方機数"
 
 msgid "IDS_BATTLE_STATS_ALLIES_SUNK"
 msgstr "味方艦艇全滅"
@@ -1407,10 +1415,10 @@ msgid "IDS_BATTLE_STATS_CAUSED_DAMAGE_HINT"
 msgstr "この戦闘での敵艦艇への合計与ダメージ"
 
 msgid "IDS_BATTLE_STATS_CAUSED_FIRES_HINT"
-msgstr "引き起こした火災数 / 与ダメージ"
+msgstr "引き起こした火災数と与ダメージ"
 
 msgid "IDS_BATTLE_STATS_CAUSED_FLOODS_HINT"
-msgstr "引き起こした浸水数 / 与ダメージ"
+msgstr "引き起こした浸水数と与ダメージ"
 
 msgid "IDS_BATTLE_STATS_CAUSED_RAMS_HINT"
 msgstr "体当たりによる与ダメージ"
@@ -1454,10 +1462,10 @@ msgstr ""
 "EXP は、艦のパラメータを高める艦長スキルを習得し使用するために利用できます。"
 
 msgid "IDS_BATTLE_STATS_CREW_POINTS"
-msgstr "艦長 EXP 加算"
+msgstr "艦長 EXP"
 
 msgid "IDS_BATTLE_STATS_CREW_POINTS_HINT"
-msgstr "戦闘中のアクションによる艦長 EXP 加算"
+msgstr "戦闘中の行動による艦長 EXP 加算"
 
 msgid "IDS_BATTLE_STATS_DAMAGED_BY"
 msgstr "を撃沈:"
@@ -1487,7 +1495,7 @@ msgid "IDS_BATTLE_STATS_ENEMIES_CAPTURED_BASE"
 msgstr "敵艦隊が陣地を占領"
 
 msgid "IDS_BATTLE_STATS_ENEMIES_MISSION_COMPLETE"
-msgstr "敵艦隊がミッションを達成"
+msgstr "敵艦隊が作戦任務を達成"
 
 msgid "IDS_BATTLE_STATS_ENEMIES_MISSION_COMPLETE_ON_TIMEOUT"
 msgstr "ポイント優勢により敵艦隊勝利"
@@ -1514,13 +1522,13 @@ msgid "IDS_BATTLE_STATS_FIRES"
 msgstr "火災"
 
 msgid "IDS_BATTLE_STATS_FIRES_HINT"
-msgstr "火災発生数 / 被ダメージ"
+msgstr "火災発生数と被ダメージ"
 
 msgid "IDS_BATTLE_STATS_FLOODS"
 msgstr "浸水"
 
 msgid "IDS_BATTLE_STATS_FLOODS_HINT"
-msgstr "浸水発生数 / 被ダメージ"
+msgstr "浸水発生数と被ダメージ"
 
 msgid "IDS_BATTLE_STATS_FUTURE_REWARDS"
 msgstr "後続勲章"
@@ -1568,7 +1576,7 @@ msgid "IDS_BATTLE_STATS_RAMS"
 msgstr "体当たり"
 
 msgid "IDS_BATTLE_STATS_RAMS_HINT"
-msgstr "体当たり回数 / 被ダメージ"
+msgstr "体当たりによる被ダメージ"
 
 msgid "IDS_BATTLE_STATS_REAMMUNITION"
 msgstr "弾薬の補給費用"
@@ -1606,21 +1614,33 @@ msgstr "消耗品の自動補給"
 msgid "IDS_BATTLE_STATS_SERVICE_RECORD_EXP_HINT"
 msgstr "任務記録 EXP"
 
+msgid "IDS_BATTLE_STATS_TAKEN_ATBA_AP_SHORT"
+msgstr "副砲 AP"
+
+msgid "IDS_BATTLE_STATS_TAKEN_ATBA_HE_SHORT"
+msgstr "副砲 HE"
+
 msgid "IDS_BATTLE_STATS_TAKEN_DAMAGE"
 msgstr "被ダメージ"
 
 msgid "IDS_BATTLE_STATS_TAKEN_DAMAGE_HINT"
 msgstr "この戦闘での合計被ダメージ"
 
+msgid "IDS_BATTLE_STATS_TAKEN_MAIN_AP_SHORT"
+msgstr "主砲 AP"
+
+msgid "IDS_BATTLE_STATS_TAKEN_MAIN_HE_SHORT"
+msgstr "主砲 HE"
+
 msgid "IDS_BATTLE_STATS_TAKEN_TILL_BATTLE"
 msgstr "収入"
 
 msgid "IDS_BATTLE_STATS_TAKEN_TILL_BATTLE_CREDITS_HINT"
-msgstr "補償の支払いと受け取りを含む、戦闘中のアクションによるクレジット収入"
+msgstr "補償の支払いと受け取りを含む、戦闘中の行動によるクレジット収入"
 
 msgid "IDS_BATTLE_STATS_TAKEN_TILL_BATTLE_EXPIRIENCE_HINT"
 msgstr ""
-"補償の支払いと受け取りを含む、戦闘中のアクションによる "
+"補償の支払いと受け取りを含む、戦闘中の行動による "
 "EXP 取得"
 
 msgid "IDS_BATTLE_STATS_TEAMMATES"
@@ -1746,6 +1766,9 @@ msgid "IDS_BOMBS"
 msgstr "爆弾"
 
 msgid "IDS_BOMBS_RELEASED"
+msgstr "爆弾投下数"
+
+msgid "IDS_BOMBS_SHOTS_HINT"
 msgstr "爆弾投下数"
 
 msgid "IDS_BOT"
@@ -1953,37 +1976,46 @@ msgid "IDS_CARRIER_SELECT"
 msgstr "航空母艦を選択"
 
 msgid "IDS_CAUSED_AIRPLANES_HINT"
-msgstr "航空機による命中数 / 与ダメージ"
+msgstr "航空機による命中数と与ダメージ"
 
 msgid "IDS_CAUSED_AMMO_AP_HINT"
-msgstr "AP 弾の命中弾数 / 与ダメージ"
+msgstr "AP 弾の命中弾数と与ダメージ"
 
 msgid "IDS_CAUSED_AMMO_AP_SHOTS_HINT"
 msgstr "AP 弾の射撃弾数"
 
 msgid "IDS_CAUSED_AMMO_HE_HINT"
-msgstr "HE 弾の命中弾数 / 与ダメージ"
+msgstr "HE 弾の命中弾数と与ダメージ"
 
 msgid "IDS_CAUSED_AMMO_HE_SHOTS_HINT"
 msgstr "HE 弾の射撃弾数"
 
 msgid "IDS_CAUSED_BOMBS_HINT"
-msgstr "爆弾の命中数 / 与ダメージ"
+msgstr "爆弾の命中数と与ダメージ"
 
 msgid "IDS_CAUSED_BOMBS_RELEASED_HINT"
 msgstr "爆弾投下数"
 
+msgid "IDS_CAUSED_DAMAGE_HINT"
+msgstr "与ダメージ"
+
+msgid "IDS_CAUSED_FIRES_COUNT_HINT"
+msgstr "引き起こした火災数"
+
+msgid "IDS_CAUSED_FLOODS_COUNT_HINT"
+msgstr "引き起こした浸水数"
+
 msgid "IDS_CAUSED_MAIN_CALIBER_HINT"
-msgstr "主砲の命中弾数 / 与ダメージ"
+msgstr "主砲の命中弾数と与ダメージ"
 
 msgid "IDS_CAUSED_OTHER_HINT"
 msgstr "火災、浸水、体当たりによる敵艦艇への与ダメージ"
 
 msgid "IDS_CAUSED_SECONDARY_CALIBER_HINT"
-msgstr "副砲の命中弾数 / 与ダメージ"
+msgstr "副砲の命中弾数と与ダメージ"
 
 msgid "IDS_CAUSED_TORPEDOES_HINT"
-msgstr "魚雷の命中数 / 与ダメージ"
+msgstr "魚雷の命中数と与ダメージ"
 
 msgid "IDS_CAUSED_TORPEDOES_RELEASED_HINT"
 msgstr "投下した魚雷の数"
@@ -2805,8 +2837,68 @@ msgstr "Heinrich"
 msgid "IDS_CREW_FIRSTNAME_GERMANY_1"
 msgstr "Kristian"
 
+msgid "IDS_CREW_FIRSTNAME_GERMANY_10"
+msgstr "Alfred"
+
+msgid "IDS_CREW_FIRSTNAME_GERMANY_11"
+msgstr "Adalbert"
+
+msgid "IDS_CREW_FIRSTNAME_GERMANY_12"
+msgstr "Erich"
+
+msgid "IDS_CREW_FIRSTNAME_GERMANY_13"
+msgstr "Franz"
+
+msgid "IDS_CREW_FIRSTNAME_GERMANY_14"
+msgstr "Friedrich"
+
+msgid "IDS_CREW_FIRSTNAME_GERMANY_15"
+msgstr "Gerhard"
+
+msgid "IDS_CREW_FIRSTNAME_GERMANY_16"
+msgstr "Gustav"
+
+msgid "IDS_CREW_FIRSTNAME_GERMANY_17"
+msgstr "Gottfried"
+
+msgid "IDS_CREW_FIRSTNAME_GERMANY_18"
+msgstr "Hans"
+
+msgid "IDS_CREW_FIRSTNAME_GERMANY_19"
+msgstr "Helmuth"
+
 msgid "IDS_CREW_FIRSTNAME_GERMANY_2"
 msgstr "Johannes"
+
+msgid "IDS_CREW_FIRSTNAME_GERMANY_20"
+msgstr "Herbert"
+
+msgid "IDS_CREW_FIRSTNAME_GERMANY_21"
+msgstr "Jakob"
+
+msgid "IDS_CREW_FIRSTNAME_GERMANY_22"
+msgstr "Konrad"
+
+msgid "IDS_CREW_FIRSTNAME_GERMANY_23"
+msgstr "Martin"
+
+msgid "IDS_CREW_FIRSTNAME_GERMANY_24"
+msgstr "Otto"
+
+msgid "IDS_CREW_FIRSTNAME_GERMANY_25"
+msgstr "Paul"
+
+msgid "IDS_CREW_FIRSTNAME_GERMANY_26"
+msgstr "Roderich"
+
+msgid "IDS_CREW_FIRSTNAME_GERMANY_27"
+msgstr "Ulrich"
+
+msgid "IDS_CREW_FIRSTNAME_GERMANY_28"
+msgstr "Walter"
+
+msgid "IDS_CREW_FIRSTNAME_GERMANY_29"
+msgstr "Ewald"
 
 msgid "IDS_CREW_FIRSTNAME_GERMANY_3"
 msgstr "Eduard"
@@ -2835,8 +2927,68 @@ msgstr "南雲"
 msgid "IDS_CREW_FIRSTNAME_JAPAN_1"
 msgstr "遠藤"
 
+msgid "IDS_CREW_FIRSTNAME_JAPAN_10"
+msgstr "永野"
+
+msgid "IDS_CREW_FIRSTNAME_JAPAN_11"
+msgstr "高須"
+
+msgid "IDS_CREW_FIRSTNAME_JAPAN_12"
+msgstr "角田"
+
+msgid "IDS_CREW_FIRSTNAME_JAPAN_13"
+msgstr "高橋"
+
+msgid "IDS_CREW_FIRSTNAME_JAPAN_14"
+msgstr "山口"
+
+msgid "IDS_CREW_FIRSTNAME_JAPAN_15"
+msgstr "栗田"
+
+msgid "IDS_CREW_FIRSTNAME_JAPAN_16"
+msgstr "嶋田"
+
+msgid "IDS_CREW_FIRSTNAME_JAPAN_17"
+msgstr "近藤"
+
+msgid "IDS_CREW_FIRSTNAME_JAPAN_18"
+msgstr "志摩"
+
+msgid "IDS_CREW_FIRSTNAME_JAPAN_19"
+msgstr "伊藤"
+
 msgid "IDS_CREW_FIRSTNAME_JAPAN_2"
 msgstr "沢本"
+
+msgid "IDS_CREW_FIRSTNAME_JAPAN_20"
+msgstr "三川"
+
+msgid "IDS_CREW_FIRSTNAME_JAPAN_21"
+msgstr "高木"
+
+msgid "IDS_CREW_FIRSTNAME_JAPAN_22"
+msgstr "阿部"
+
+msgid "IDS_CREW_FIRSTNAME_JAPAN_23"
+msgstr "原"
+
+msgid "IDS_CREW_FIRSTNAME_JAPAN_24"
+msgstr "鮫島"
+
+msgid "IDS_CREW_FIRSTNAME_JAPAN_25"
+msgstr "草鹿"
+
+msgid "IDS_CREW_FIRSTNAME_JAPAN_26"
+msgstr "秋山"
+
+msgid "IDS_CREW_FIRSTNAME_JAPAN_27"
+msgstr "有馬"
+
+msgid "IDS_CREW_FIRSTNAME_JAPAN_28"
+msgstr "細萱"
+
+msgid "IDS_CREW_FIRSTNAME_JAPAN_29"
+msgstr "豊田"
 
 msgid "IDS_CREW_FIRSTNAME_JAPAN_3"
 msgstr "野村"
@@ -2865,8 +3017,68 @@ msgstr "陳"
 msgid "IDS_CREW_FIRSTNAME_PAN_ASIA_1"
 msgstr "丁"
 
+msgid "IDS_CREW_FIRSTNAME_PAN_ASIA_10"
+msgstr "葉"
+
+msgid "IDS_CREW_FIRSTNAME_PAN_ASIA_11"
+msgstr "黄"
+
+msgid "IDS_CREW_FIRSTNAME_PAN_ASIA_12"
+msgstr "丘"
+
+msgid "IDS_CREW_FIRSTNAME_PAN_ASIA_13"
+msgstr "呉"
+
+msgid "IDS_CREW_FIRSTNAME_PAN_ASIA_14"
+msgstr "方"
+
+msgid "IDS_CREW_FIRSTNAME_PAN_ASIA_15"
+msgstr "李"
+
+msgid "IDS_CREW_FIRSTNAME_PAN_ASIA_16"
+msgstr "程"
+
+msgid "IDS_CREW_FIRSTNAME_PAN_ASIA_17"
+msgstr "蔡"
+
+msgid "IDS_CREW_FIRSTNAME_PAN_ASIA_18"
+msgstr "楊"
+
+msgid "IDS_CREW_FIRSTNAME_PAN_ASIA_19"
+msgstr "杜"
+
 msgid "IDS_CREW_FIRSTNAME_PAN_ASIA_2"
 msgstr "林"
+
+msgid "IDS_CREW_FIRSTNAME_PAN_ASIA_20"
+msgstr "沈"
+
+msgid "IDS_CREW_FIRSTNAME_PAN_ASIA_21"
+msgstr "葛"
+
+msgid "IDS_CREW_FIRSTNAME_PAN_ASIA_22"
+msgstr "蒋"
+
+msgid "IDS_CREW_FIRSTNAME_PAN_ASIA_23"
+msgstr "王"
+
+msgid "IDS_CREW_FIRSTNAME_PAN_ASIA_24"
+msgstr "藍"
+
+msgid "IDS_CREW_FIRSTNAME_PAN_ASIA_25"
+msgstr "欧陽"
+
+msgid "IDS_CREW_FIRSTNAME_PAN_ASIA_26"
+msgstr "蕭"
+
+msgid "IDS_CREW_FIRSTNAME_PAN_ASIA_27"
+msgstr "蘇"
+
+msgid "IDS_CREW_FIRSTNAME_PAN_ASIA_28"
+msgstr "趙"
+
+msgid "IDS_CREW_FIRSTNAME_PAN_ASIA_29"
+msgstr "張"
 
 msgid "IDS_CREW_FIRSTNAME_PAN_ASIA_3"
 msgstr "鄧"
@@ -2895,8 +3107,68 @@ msgstr "Stanislaw"
 msgid "IDS_CREW_FIRSTNAME_POLAND_1"
 msgstr "Jan"
 
+msgid "IDS_CREW_FIRSTNAME_POLAND_10"
+msgstr "Adam"
+
+msgid "IDS_CREW_FIRSTNAME_POLAND_11"
+msgstr "Andrzej"
+
+msgid "IDS_CREW_FIRSTNAME_POLAND_12"
+msgstr "Bronisław"
+
+msgid "IDS_CREW_FIRSTNAME_POLAND_13"
+msgstr "Czesław"
+
+msgid "IDS_CREW_FIRSTNAME_POLAND_14"
+msgstr "Franciszek"
+
+msgid "IDS_CREW_FIRSTNAME_POLAND_15"
+msgstr "Henryk"
+
+msgid "IDS_CREW_FIRSTNAME_POLAND_16"
+msgstr "Ignacy"
+
+msgid "IDS_CREW_FIRSTNAME_POLAND_17"
+msgstr "Janusz"
+
+msgid "IDS_CREW_FIRSTNAME_POLAND_18"
+msgstr "Jerzy"
+
+msgid "IDS_CREW_FIRSTNAME_POLAND_19"
+msgstr "Józef"
+
 msgid "IDS_CREW_FIRSTNAME_POLAND_2"
 msgstr "Mikolaj"
+
+msgid "IDS_CREW_FIRSTNAME_POLAND_20"
+msgstr "Kazimierz"
+
+msgid "IDS_CREW_FIRSTNAME_POLAND_21"
+msgstr "Ludwik"
+
+msgid "IDS_CREW_FIRSTNAME_POLAND_22"
+msgstr "Marek"
+
+msgid "IDS_CREW_FIRSTNAME_POLAND_23"
+msgstr "Mieczysław"
+
+msgid "IDS_CREW_FIRSTNAME_POLAND_24"
+msgstr "Tadeusz"
+
+msgid "IDS_CREW_FIRSTNAME_POLAND_25"
+msgstr "Tomasz"
+
+msgid "IDS_CREW_FIRSTNAME_POLAND_26"
+msgstr "Wacław"
+
+msgid "IDS_CREW_FIRSTNAME_POLAND_27"
+msgstr "Wincenty"
+
+msgid "IDS_CREW_FIRSTNAME_POLAND_28"
+msgstr "Witold"
+
+msgid "IDS_CREW_FIRSTNAME_POLAND_29"
+msgstr "Zbigniew"
 
 msgid "IDS_CREW_FIRSTNAME_POLAND_3"
 msgstr "Ksawery"
@@ -2925,8 +3197,68 @@ msgstr "Vladimir"
 msgid "IDS_CREW_FIRSTNAME_RUSSIA_1"
 msgstr "Aleksandr"
 
+msgid "IDS_CREW_FIRSTNAME_RUSSIA_10"
+msgstr "Anton"
+
+msgid "IDS_CREW_FIRSTNAME_RUSSIA_11"
+msgstr "Arseniy"
+
+msgid "IDS_CREW_FIRSTNAME_RUSSIA_12"
+msgstr "Vsevolod"
+
+msgid "IDS_CREW_FIRSTNAME_RUSSIA_13"
+msgstr "Dmitriy"
+
+msgid "IDS_CREW_FIRSTNAME_RUSSIA_14"
+msgstr "Yevgeniy"
+
+msgid "IDS_CREW_FIRSTNAME_RUSSIA_15"
+msgstr "Igor"
+
+msgid "IDS_CREW_FIRSTNAME_RUSSIA_16"
+msgstr "Kirill"
+
+msgid "IDS_CREW_FIRSTNAME_RUSSIA_17"
+msgstr "Konstantin"
+
+msgid "IDS_CREW_FIRSTNAME_RUSSIA_18"
+msgstr "Lev"
+
+msgid "IDS_CREW_FIRSTNAME_RUSSIA_19"
+msgstr "Leonid"
+
 msgid "IDS_CREW_FIRSTNAME_RUSSIA_2"
 msgstr "Oleg"
+
+msgid "IDS_CREW_FIRSTNAME_RUSSIA_20"
+msgstr "Matvey"
+
+msgid "IDS_CREW_FIRSTNAME_RUSSIA_21"
+msgstr "Mikhail"
+
+msgid "IDS_CREW_FIRSTNAME_RUSSIA_22"
+msgstr "Nikolay"
+
+msgid "IDS_CREW_FIRSTNAME_RUSSIA_23"
+msgstr "Pavel"
+
+msgid "IDS_CREW_FIRSTNAME_RUSSIA_24"
+msgstr "Rostislav"
+
+msgid "IDS_CREW_FIRSTNAME_RUSSIA_25"
+msgstr "Saveliy"
+
+msgid "IDS_CREW_FIRSTNAME_RUSSIA_26"
+msgstr "Sergey"
+
+msgid "IDS_CREW_FIRSTNAME_RUSSIA_27"
+msgstr "Fyodor"
+
+msgid "IDS_CREW_FIRSTNAME_RUSSIA_28"
+msgstr "Yuriy"
+
+msgid "IDS_CREW_FIRSTNAME_RUSSIA_29"
+msgstr "Yaroslav"
 
 msgid "IDS_CREW_FIRSTNAME_RUSSIA_3"
 msgstr "Stanislav"
@@ -2955,8 +3287,68 @@ msgstr "Edward"
 msgid "IDS_CREW_FIRSTNAME_UNITED_KINGDOM_1"
 msgstr "Matthew"
 
+msgid "IDS_CREW_FIRSTNAME_UNITED_KINGDOM_10"
+msgstr "Adrian"
+
+msgid "IDS_CREW_FIRSTNAME_UNITED_KINGDOM_11"
+msgstr "Bernard"
+
+msgid "IDS_CREW_FIRSTNAME_UNITED_KINGDOM_12"
+msgstr "Brian"
+
+msgid "IDS_CREW_FIRSTNAME_UNITED_KINGDOM_13"
+msgstr "Christopher"
+
+msgid "IDS_CREW_FIRSTNAME_UNITED_KINGDOM_14"
+msgstr "Daniel"
+
+msgid "IDS_CREW_FIRSTNAME_UNITED_KINGDOM_15"
+msgstr "Robert"
+
+msgid "IDS_CREW_FIRSTNAME_UNITED_KINGDOM_16"
+msgstr "Frank"
+
+msgid "IDS_CREW_FIRSTNAME_UNITED_KINGDOM_17"
+msgstr "George"
+
+msgid "IDS_CREW_FIRSTNAME_UNITED_KINGDOM_18"
+msgstr "Graham"
+
+msgid "IDS_CREW_FIRSTNAME_UNITED_KINGDOM_19"
+msgstr "Harold"
+
 msgid "IDS_CREW_FIRSTNAME_UNITED_KINGDOM_2"
 msgstr "Maurice"
+
+msgid "IDS_CREW_FIRSTNAME_UNITED_KINGDOM_20"
+msgstr "Henry"
+
+msgid "IDS_CREW_FIRSTNAME_UNITED_KINGDOM_21"
+msgstr "John"
+
+msgid "IDS_CREW_FIRSTNAME_UNITED_KINGDOM_22"
+msgstr "Lawrence"
+
+msgid "IDS_CREW_FIRSTNAME_UNITED_KINGDOM_23"
+msgstr "Nigel"
+
+msgid "IDS_CREW_FIRSTNAME_UNITED_KINGDOM_24"
+msgstr "Oliver"
+
+msgid "IDS_CREW_FIRSTNAME_UNITED_KINGDOM_25"
+msgstr "Patrick"
+
+msgid "IDS_CREW_FIRSTNAME_UNITED_KINGDOM_26"
+msgstr "Richard"
+
+msgid "IDS_CREW_FIRSTNAME_UNITED_KINGDOM_27"
+msgstr "Steven"
+
+msgid "IDS_CREW_FIRSTNAME_UNITED_KINGDOM_28"
+msgstr "Wilfred"
+
+msgid "IDS_CREW_FIRSTNAME_UNITED_KINGDOM_29"
+msgstr "William"
 
 msgid "IDS_CREW_FIRSTNAME_UNITED_KINGDOM_3"
 msgstr "Peter"
@@ -2985,8 +3377,68 @@ msgstr "Edward"
 msgid "IDS_CREW_FIRSTNAME_USA_1"
 msgstr "Matthew"
 
+msgid "IDS_CREW_FIRSTNAME_USA_10"
+msgstr "Andrew"
+
+msgid "IDS_CREW_FIRSTNAME_USA_11"
+msgstr "Benjamin"
+
+msgid "IDS_CREW_FIRSTNAME_USA_12"
+msgstr "Brian"
+
+msgid "IDS_CREW_FIRSTNAME_USA_13"
+msgstr "Christopher"
+
+msgid "IDS_CREW_FIRSTNAME_USA_14"
+msgstr "Daniel"
+
+msgid "IDS_CREW_FIRSTNAME_USA_15"
+msgstr "David"
+
+msgid "IDS_CREW_FIRSTNAME_USA_16"
+msgstr "Frank"
+
+msgid "IDS_CREW_FIRSTNAME_USA_17"
+msgstr "George"
+
+msgid "IDS_CREW_FIRSTNAME_USA_18"
+msgstr "Graham"
+
+msgid "IDS_CREW_FIRSTNAME_USA_19"
+msgstr "Harold"
+
 msgid "IDS_CREW_FIRSTNAME_USA_2"
 msgstr "Maurice"
+
+msgid "IDS_CREW_FIRSTNAME_USA_20"
+msgstr "Henry"
+
+msgid "IDS_CREW_FIRSTNAME_USA_21"
+msgstr "John"
+
+msgid "IDS_CREW_FIRSTNAME_USA_22"
+msgstr "Lawrence"
+
+msgid "IDS_CREW_FIRSTNAME_USA_23"
+msgstr "Frederick"
+
+msgid "IDS_CREW_FIRSTNAME_USA_24"
+msgstr "Robert"
+
+msgid "IDS_CREW_FIRSTNAME_USA_25"
+msgstr "Patrick"
+
+msgid "IDS_CREW_FIRSTNAME_USA_26"
+msgstr "Richard"
+
+msgid "IDS_CREW_FIRSTNAME_USA_27"
+msgstr "Stanley"
+
+msgid "IDS_CREW_FIRSTNAME_USA_28"
+msgstr "Wilfred"
+
+msgid "IDS_CREW_FIRSTNAME_USA_29"
+msgstr "William"
 
 msgid "IDS_CREW_FIRSTNAME_USA_3"
 msgstr "Peter"
@@ -3039,8 +3491,68 @@ msgstr "Kohler"
 msgid "IDS_CREW_LASTNAME_GERMANY_1"
 msgstr "Böhler"
 
+msgid "IDS_CREW_LASTNAME_GERMANY_10"
+msgstr "Beckhauer"
+
+msgid "IDS_CREW_LASTNAME_GERMANY_11"
+msgstr "Eberhard"
+
+msgid "IDS_CREW_LASTNAME_GERMANY_12"
+msgstr "Eckolt"
+
+msgid "IDS_CREW_LASTNAME_GERMANY_13"
+msgstr "Giersch"
+
+msgid "IDS_CREW_LASTNAME_GERMANY_14"
+msgstr "Hanenfeldt"
+
+msgid "IDS_CREW_LASTNAME_GERMANY_15"
+msgstr "Hohnstedt"
+
+msgid "IDS_CREW_LASTNAME_GERMANY_16"
+msgstr "Krause"
+
+msgid "IDS_CREW_LASTNAME_GERMANY_17"
+msgstr "Laue"
+
+msgid "IDS_CREW_LASTNAME_GERMANY_18"
+msgstr "Lilienwald"
+
+msgid "IDS_CREW_LASTNAME_GERMANY_19"
+msgstr "Meyer"
+
 msgid "IDS_CREW_LASTNAME_GERMANY_2"
 msgstr "Biermann"
+
+msgid "IDS_CREW_LASTNAME_GERMANY_20"
+msgstr "Oettinger"
+
+msgid "IDS_CREW_LASTNAME_GERMANY_21"
+msgstr "Reinhold"
+
+msgid "IDS_CREW_LASTNAME_GERMANY_22"
+msgstr "Richter"
+
+msgid "IDS_CREW_LASTNAME_GERMANY_23"
+msgstr "Scharnberg"
+
+msgid "IDS_CREW_LASTNAME_GERMANY_24"
+msgstr "Schonert"
+
+msgid "IDS_CREW_LASTNAME_GERMANY_25"
+msgstr "Vogt"
+
+msgid "IDS_CREW_LASTNAME_GERMANY_26"
+msgstr "Wentzel"
+
+msgid "IDS_CREW_LASTNAME_GERMANY_27"
+msgstr "Werner"
+
+msgid "IDS_CREW_LASTNAME_GERMANY_28"
+msgstr "Wittenberg"
+
+msgid "IDS_CREW_LASTNAME_GERMANY_29"
+msgstr "Zimmer"
 
 msgid "IDS_CREW_LASTNAME_GERMANY_3"
 msgstr "Fertig"
@@ -3069,8 +3581,68 @@ msgstr "忠一"
 msgid "IDS_CREW_LASTNAME_JAPAN_1"
 msgstr "祥治"
 
+msgid "IDS_CREW_LASTNAME_JAPAN_10"
+msgstr "修身"
+
+msgid "IDS_CREW_LASTNAME_JAPAN_11"
+msgstr "四郎"
+
+msgid "IDS_CREW_LASTNAME_JAPAN_12"
+msgstr "覚治"
+
+msgid "IDS_CREW_LASTNAME_JAPAN_13"
+msgstr "伊望"
+
+msgid "IDS_CREW_LASTNAME_JAPAN_14"
+msgstr "多聞"
+
+msgid "IDS_CREW_LASTNAME_JAPAN_15"
+msgstr "健男"
+
+msgid "IDS_CREW_LASTNAME_JAPAN_16"
+msgstr "繁太郎"
+
+msgid "IDS_CREW_LASTNAME_JAPAN_17"
+msgstr "信竹"
+
+msgid "IDS_CREW_LASTNAME_JAPAN_18"
+msgstr "清英"
+
+msgid "IDS_CREW_LASTNAME_JAPAN_19"
+msgstr "整一"
+
 msgid "IDS_CREW_LASTNAME_JAPAN_2"
 msgstr "頼雄"
+
+msgid "IDS_CREW_LASTNAME_JAPAN_20"
+msgstr "軍一"
+
+msgid "IDS_CREW_LASTNAME_JAPAN_21"
+msgstr "武雄"
+
+msgid "IDS_CREW_LASTNAME_JAPAN_22"
+msgstr "弘毅"
+
+msgid "IDS_CREW_LASTNAME_JAPAN_23"
+msgstr "光美"
+
+msgid "IDS_CREW_LASTNAME_JAPAN_24"
+msgstr "具重"
+
+msgid "IDS_CREW_LASTNAME_JAPAN_25"
+msgstr "龍之介"
+
+msgid "IDS_CREW_LASTNAME_JAPAN_26"
+msgstr "眞之"
+
+msgid "IDS_CREW_LASTNAME_JAPAN_27"
+msgstr "正文"
+
+msgid "IDS_CREW_LASTNAME_JAPAN_28"
+msgstr "戊子郎"
+
+msgid "IDS_CREW_LASTNAME_JAPAN_29"
+msgstr "副武"
 
 msgid "IDS_CREW_LASTNAME_JAPAN_3"
 msgstr "直邦"
@@ -3082,7 +3654,7 @@ msgid "IDS_CREW_LASTNAME_JAPAN_5"
 msgstr "峯一"
 
 msgid "IDS_CREW_LASTNAME_JAPAN_6"
-msgstr "副武"
+msgstr "平八郎"
 
 msgid "IDS_CREW_LASTNAME_JAPAN_7"
 msgstr "治三郎"
@@ -3099,8 +3671,68 @@ msgstr "紹寛"
 msgid "IDS_CREW_LASTNAME_PAN_ASIA_1"
 msgstr "汝昌"
 
+msgid "IDS_CREW_LASTNAME_PAN_ASIA_10"
+msgstr "祖珪"
+
+msgid "IDS_CREW_LASTNAME_PAN_ASIA_11"
+msgstr "建勲"
+
+msgid "IDS_CREW_LASTNAME_PAN_ASIA_12"
+msgstr "宝仁"
+
+msgid "IDS_CREW_LASTNAME_PAN_ASIA_13"
+msgstr "敬栄"
+
+msgid "IDS_CREW_LASTNAME_PAN_ASIA_14"
+msgstr "伯謙"
+
+msgid "IDS_CREW_LASTNAME_PAN_ASIA_15"
+msgstr "和"
+
+msgid "IDS_CREW_LASTNAME_PAN_ASIA_16"
+msgstr "璧光"
+
+msgid "IDS_CREW_LASTNAME_PAN_ASIA_17"
+msgstr "廷幹"
+
+msgid "IDS_CREW_LASTNAME_PAN_ASIA_18"
+msgstr "樹荘"
+
+msgid "IDS_CREW_LASTNAME_PAN_ASIA_19"
+msgstr "錫珪"
+
 msgid "IDS_CREW_LASTNAME_PAN_ASIA_2"
 msgstr "泰曽"
+
+msgid "IDS_CREW_LASTNAME_PAN_ASIA_20"
+msgstr "葆楨"
+
+msgid "IDS_CREW_LASTNAME_PAN_ASIA_21"
+msgstr "敦華"
+
+msgid "IDS_CREW_LASTNAME_PAN_ASIA_22"
+msgstr "拯"
+
+msgid "IDS_CREW_LASTNAME_PAN_ASIA_23"
+msgstr "崇文"
+
+msgid "IDS_CREW_LASTNAME_PAN_ASIA_24"
+msgstr "建枢"
+
+msgid "IDS_CREW_LASTNAME_PAN_ASIA_25"
+msgstr "格"
+
+msgid "IDS_CREW_LASTNAME_PAN_ASIA_26"
+msgstr "勁光"
+
+msgid "IDS_CREW_LASTNAME_PAN_ASIA_27"
+msgstr "愛萍"
+
+msgid "IDS_CREW_LASTNAME_PAN_ASIA_28"
+msgstr "啓民"
+
+msgid "IDS_CREW_LASTNAME_PAN_ASIA_29"
+msgstr "作霖"
 
 msgid "IDS_CREW_LASTNAME_PAN_ASIA_3"
 msgstr "世昌"
@@ -3129,8 +3761,68 @@ msgstr "Piotrowski"
 msgid "IDS_CREW_LASTNAME_POLAND_1"
 msgstr "Kamienski"
 
+msgid "IDS_CREW_LASTNAME_POLAND_10"
+msgstr "Czaszyński"
+
+msgid "IDS_CREW_LASTNAME_POLAND_11"
+msgstr "Dwernicki"
+
+msgid "IDS_CREW_LASTNAME_POLAND_12"
+msgstr "Dworak"
+
+msgid "IDS_CREW_LASTNAME_POLAND_13"
+msgstr "Grabowski"
+
+msgid "IDS_CREW_LASTNAME_POLAND_14"
+msgstr "Grodzicki"
+
+msgid "IDS_CREW_LASTNAME_POLAND_15"
+msgstr "Jarosz"
+
+msgid "IDS_CREW_LASTNAME_POLAND_16"
+msgstr "Kniaziewicz"
+
+msgid "IDS_CREW_LASTNAME_POLAND_17"
+msgstr "Kowalewski"
+
+msgid "IDS_CREW_LASTNAME_POLAND_18"
+msgstr "Łagoda"
+
+msgid "IDS_CREW_LASTNAME_POLAND_19"
+msgstr "Lubomirski"
+
 msgid "IDS_CREW_LASTNAME_POLAND_2"
 msgstr "Kaczmarek"
+
+msgid "IDS_CREW_LASTNAME_POLAND_20"
+msgstr "Olszewski"
+
+msgid "IDS_CREW_LASTNAME_POLAND_21"
+msgstr "Ożarowski"
+
+msgid "IDS_CREW_LASTNAME_POLAND_22"
+msgstr "Przecławski"
+
+msgid "IDS_CREW_LASTNAME_POLAND_23"
+msgstr "Seweryn"
+
+msgid "IDS_CREW_LASTNAME_POLAND_24"
+msgstr "Świetlik"
+
+msgid "IDS_CREW_LASTNAME_POLAND_25"
+msgstr "Tyszkiewicz"
+
+msgid "IDS_CREW_LASTNAME_POLAND_26"
+msgstr "Wersocki"
+
+msgid "IDS_CREW_LASTNAME_POLAND_27"
+msgstr "Wołkowicki"
+
+msgid "IDS_CREW_LASTNAME_POLAND_28"
+msgstr "Woyna"
+
+msgid "IDS_CREW_LASTNAME_POLAND_29"
+msgstr "Zborowski"
 
 msgid "IDS_CREW_LASTNAME_POLAND_3"
 msgstr "Przysiecki"
@@ -3159,8 +3851,68 @@ msgstr "Romanov"
 msgid "IDS_CREW_LASTNAME_RUSSIA_1"
 msgstr "Radionov"
 
+msgid "IDS_CREW_LASTNAME_RUSSIA_10"
+msgstr "Artemyev"
+
+msgid "IDS_CREW_LASTNAME_RUSSIA_11"
+msgstr "Astafyev"
+
+msgid "IDS_CREW_LASTNAME_RUSSIA_12"
+msgstr "Beletskiy"
+
+msgid "IDS_CREW_LASTNAME_RUSSIA_13"
+msgstr "Belov"
+
+msgid "IDS_CREW_LASTNAME_RUSSIA_14"
+msgstr "Voronin"
+
+msgid "IDS_CREW_LASTNAME_RUSSIA_15"
+msgstr "Gerasimov"
+
+msgid "IDS_CREW_LASTNAME_RUSSIA_16"
+msgstr "Danilov"
+
+msgid "IDS_CREW_LASTNAME_RUSSIA_17"
+msgstr "Druzhinin"
+
+msgid "IDS_CREW_LASTNAME_RUSSIA_18"
+msgstr "Zotov"
+
+msgid "IDS_CREW_LASTNAME_RUSSIA_19"
+msgstr "Korsakov"
+
 msgid "IDS_CREW_LASTNAME_RUSSIA_2"
 msgstr "Vyazemskiy"
+
+msgid "IDS_CREW_LASTNAME_RUSSIA_20"
+msgstr "Lebedev"
+
+msgid "IDS_CREW_LASTNAME_RUSSIA_21"
+msgstr "Loginov"
+
+msgid "IDS_CREW_LASTNAME_RUSSIA_22"
+msgstr "Markov"
+
+msgid "IDS_CREW_LASTNAME_RUSSIA_23"
+msgstr "Nikolskiy"
+
+msgid "IDS_CREW_LASTNAME_RUSSIA_24"
+msgstr "Olkhovskiy"
+
+msgid "IDS_CREW_LASTNAME_RUSSIA_25"
+msgstr "Skvortsov"
+
+msgid "IDS_CREW_LASTNAME_RUSSIA_26"
+msgstr "Sobolev"
+
+msgid "IDS_CREW_LASTNAME_RUSSIA_27"
+msgstr "Tikhonov"
+
+msgid "IDS_CREW_LASTNAME_RUSSIA_28"
+msgstr "Cherkasov"
+
+msgid "IDS_CREW_LASTNAME_RUSSIA_29"
+msgstr "Shevelev"
 
 msgid "IDS_CREW_LASTNAME_RUSSIA_3"
 msgstr "Grigoryev"
@@ -3189,8 +3941,68 @@ msgstr "Ward"
 msgid "IDS_CREW_LASTNAME_UNITED_KINGDOM_1"
 msgstr "Riley"
 
+msgid "IDS_CREW_LASTNAME_UNITED_KINGDOM_10"
+msgstr "Allen"
+
+msgid "IDS_CREW_LASTNAME_UNITED_KINGDOM_11"
+msgstr "Attwood"
+
+msgid "IDS_CREW_LASTNAME_UNITED_KINGDOM_12"
+msgstr "Bell"
+
+msgid "IDS_CREW_LASTNAME_UNITED_KINGDOM_13"
+msgstr "Walsh"
+
+msgid "IDS_CREW_LASTNAME_UNITED_KINGDOM_14"
+msgstr "Clayton"
+
+msgid "IDS_CREW_LASTNAME_UNITED_KINGDOM_15"
+msgstr "Cooper"
+
+msgid "IDS_CREW_LASTNAME_UNITED_KINGDOM_16"
+msgstr "Dale"
+
+msgid "IDS_CREW_LASTNAME_UNITED_KINGDOM_17"
+msgstr "Doherty"
+
+msgid "IDS_CREW_LASTNAME_UNITED_KINGDOM_18"
+msgstr "Griffiths"
+
+msgid "IDS_CREW_LASTNAME_UNITED_KINGDOM_19"
+msgstr "Gordon"
+
 msgid "IDS_CREW_LASTNAME_UNITED_KINGDOM_2"
 msgstr "James"
+
+msgid "IDS_CREW_LASTNAME_UNITED_KINGDOM_20"
+msgstr "Hardy"
+
+msgid "IDS_CREW_LASTNAME_UNITED_KINGDOM_21"
+msgstr "Howard"
+
+msgid "IDS_CREW_LASTNAME_UNITED_KINGDOM_22"
+msgstr "Johnston"
+
+msgid "IDS_CREW_LASTNAME_UNITED_KINGDOM_23"
+msgstr "Macnee"
+
+msgid "IDS_CREW_LASTNAME_UNITED_KINGDOM_24"
+msgstr "Mansfield"
+
+msgid "IDS_CREW_LASTNAME_UNITED_KINGDOM_25"
+msgstr "Moore"
+
+msgid "IDS_CREW_LASTNAME_UNITED_KINGDOM_26"
+msgstr "Oldham"
+
+msgid "IDS_CREW_LASTNAME_UNITED_KINGDOM_27"
+msgstr "Taylor"
+
+msgid "IDS_CREW_LASTNAME_UNITED_KINGDOM_28"
+msgstr "Tucker"
+
+msgid "IDS_CREW_LASTNAME_UNITED_KINGDOM_29"
+msgstr "Whiting"
 
 msgid "IDS_CREW_LASTNAME_UNITED_KINGDOM_3"
 msgstr "Reed"
@@ -3219,8 +4031,68 @@ msgstr "Ward"
 msgid "IDS_CREW_LASTNAME_USA_1"
 msgstr "Riley"
 
+msgid "IDS_CREW_LASTNAME_USA_10"
+msgstr "Alderson"
+
+msgid "IDS_CREW_LASTNAME_USA_11"
+msgstr "Bailey"
+
+msgid "IDS_CREW_LASTNAME_USA_12"
+msgstr "Blackwell"
+
+msgid "IDS_CREW_LASTNAME_USA_13"
+msgstr "Bragg"
+
+msgid "IDS_CREW_LASTNAME_USA_14"
+msgstr "Connolly"
+
+msgid "IDS_CREW_LASTNAME_USA_15"
+msgstr "Dickinson"
+
+msgid "IDS_CREW_LASTNAME_USA_16"
+msgstr "Elliott"
+
+msgid "IDS_CREW_LASTNAME_USA_17"
+msgstr "Franklin"
+
+msgid "IDS_CREW_LASTNAME_USA_18"
+msgstr "Radcliffe"
+
+msgid "IDS_CREW_LASTNAME_USA_19"
+msgstr "Hall"
+
 msgid "IDS_CREW_LASTNAME_USA_2"
 msgstr "James"
+
+msgid "IDS_CREW_LASTNAME_USA_20"
+msgstr "Lane"
+
+msgid "IDS_CREW_LASTNAME_USA_21"
+msgstr "Lawford"
+
+msgid "IDS_CREW_LASTNAME_USA_22"
+msgstr "McDougall"
+
+msgid "IDS_CREW_LASTNAME_USA_23"
+msgstr "Murray"
+
+msgid "IDS_CREW_LASTNAME_USA_24"
+msgstr "Nash"
+
+msgid "IDS_CREW_LASTNAME_USA_25"
+msgstr "Oakley"
+
+msgid "IDS_CREW_LASTNAME_USA_26"
+msgstr "Randall"
+
+msgid "IDS_CREW_LASTNAME_USA_27"
+msgstr "Shelton"
+
+msgid "IDS_CREW_LASTNAME_USA_28"
+msgstr "Warren"
+
+msgid "IDS_CREW_LASTNAME_USA_29"
+msgstr "Wheeler"
 
 msgid "IDS_CREW_LASTNAME_USA_3"
 msgstr "Reed"
@@ -3957,6 +4829,21 @@ msgstr "主砲の射程を向上"
 msgid "IDS_DESC_PCM029_FIRECONTROL_MOD_II_US"
 msgstr "主砲の射撃精度を向上"
 
+msgid "IDS_DESC_PCM030_MAINWEAPON_MOD_I"
+msgstr "主砲および魚雷発射管の抗堪性を向上し、修理を促進"
+
+msgid "IDS_DESC_PCM031_SECONDARYWEAPON_MOD_I"
+msgstr "副砲および対空砲座の抗堪性を向上"
+
+msgid "IDS_DESC_PCM032_POWDERMAGAZINE_MOD_I"
+msgstr "弾薬庫の誘爆率を低減"
+
+msgid "IDS_DESC_PCM033_GUIDANCE_MOD_I"
+msgstr "副砲および主砲の射撃精度を向上し、魚雷発射管の旋回速度を向上し、副砲の有効射程を向上"
+
+msgid "IDS_DESC_PCM034_GUIDANCE_MOD_0"
+msgstr "副砲および主砲の射撃精度を向上し、魚雷発射管の旋回速度を向上し、副砲の有効射程を向上"
+
 msgid "IDS_DESELECT_AIRPLANES"
 msgstr "編隊の選択解除"
 
@@ -4477,8 +5364,20 @@ msgstr "敵艦隊"
 msgid "IDS_ENGINE"
 msgstr "主機"
 
+msgid "IDS_ENGINEBACKWARDFORSAGEMAXSPEED"
+msgstr "艦が後進を開始する際のエンジン出力を向上"
+
+msgid "IDS_ENGINEBACKWARDFORSAGEPOWER"
+msgstr ": 低速で後進中のエンジン出力"
+
 msgid "IDS_ENGINECRITPROB"
 msgstr ": 主機の機能停止の発生率"
+
+msgid "IDS_ENGINEFORWARDFORSAGEMAXSPEED"
+msgstr "艦が移動を開始する際のエンジン出力を向上"
+
+msgid "IDS_ENGINEFORWARDFORSAGEPOWER"
+msgstr ": 低速で前進中のエンジン出力"
 
 msgid "IDS_ENGINEFORWARDUPTIME"
 msgstr ": 最大出力への到達時間"
@@ -5064,6 +5963,9 @@ msgstr ": 主砲弾の最大散布界"
 msgid "IDS_GMMAXDIST"
 msgstr ": 主砲最大射程"
 
+msgid "IDS_GMMAXHP"
+msgstr ": 主砲の抗堪性"
+
 msgid "IDS_GMREPAIRTIME"
 msgstr ": 主砲修理時間"
 
@@ -5123,6 +6025,9 @@ msgstr ": 副砲弾の最大散布界"
 
 msgid "IDS_GTCRITPROB"
 msgstr ": 魚雷発射管の機能停止の発生率"
+
+msgid "IDS_GTMAXHP"
+msgstr ": 魚雷発射管の抗堪性"
 
 msgid "IDS_GTREPAIRTIME"
 msgstr ": 魚雷発射管修理時間"
@@ -5594,8 +6499,8 @@ msgstr "[CMD_TACTICAL_MAP] キーで戦術マップモード終了"
 
 msgid "IDS_HELP_TACTICAL_MAP_NAVPOINTS"
 msgstr ""
-"左クリックで自動航行モードの目的地を設定\n"
-"[KEY_SHIFT] + クリックで最大 5 ヶ所設定可能"
+"左クリックで自動航行モードの進路を設定\n"
+"[KEY_SHIFT] 長押しでウェイポイントを最大 5 ヶ所設定可能"
 
 msgid "IDS_HELP_TACTICAL_MAP_TURNAUTOPILOTOFF"
 msgstr ""
@@ -5643,10 +6548,10 @@ msgstr ""
 "E を押して旋回率設定"
 
 msgid "IDS_HELP_TURN_LEFT"
-msgstr "取舵"
+msgstr "取舵 (左)"
 
 msgid "IDS_HELP_TURN_RIGHT"
-msgstr "面舵"
+msgstr "面舵 (右)"
 
 msgid "IDS_HELP_UP"
 msgstr "発艦"
@@ -5670,6 +6575,9 @@ msgstr "兵装/モジュール"
 
 msgid "IDS_HELP_ZOOM"
 msgstr "ズームイン/アウト"
+
+msgid "IDS_HIDE"
+msgstr "非表示"
 
 msgid "IDS_HIDE_INTERFACE"
 msgstr "インターフェイス表示/非表示"
@@ -5754,12 +6662,6 @@ msgstr "艦隊戦に適合する艦艇を表示"
 msgid "IDS_HINT_CHECKBOX_FILTER_ELITE"
 msgstr "エリート艦艇を表示"
 
-msgid "IDS_HINT_CHECKBOX_FILTER_IDS_WITHOUT_COMMANDER"
-msgstr "艦長が不在の艦艇を表示"
-
-msgid "IDS_HINT_CHECKBOX_FILTER_IDS_WITH_COMMANDER"
-msgstr "艦長が搭乗中の艦艇を表示"
-
 msgid "IDS_HINT_CHECKBOX_FILTER_LEVEL"
 msgstr "この Tier の艦艇を表示"
 
@@ -5795,6 +6697,12 @@ msgstr "主力艦艇を表示"
 
 msgid "IDS_HINT_CHECKBOX_FILTER_SHARE"
 msgstr "スペシャルに適合する艦艇を表示"
+
+msgid "IDS_HINT_CHECKBOX_FILTER_WITHOUT_COMMANDER"
+msgstr "艦長が不在の艦艇を表示"
+
+msgid "IDS_HINT_CHECKBOX_FILTER_WITH_COMMANDER"
+msgstr "艦長が搭乗中の艦艇を表示"
 
 msgid "IDS_HINT_CHOOSE_ACTION_CREW"
 msgstr "この搭乗員に対するアクションを選択"
@@ -6075,6 +6983,9 @@ msgstr "採用"
 
 msgid "IDS_HIT"
 msgstr "加害:"
+
+msgid "IDS_HITS_HINT"
+msgstr "命中弾数"
 
 msgid "IDS_HIT_HIT_TYPE"
 msgstr "被弾!"
@@ -6541,6 +7452,9 @@ msgstr "技術ツリーに移動して艦を購入"
 
 msgid "IDS_INSTRUCTION_SLOT_PURCHASE"
 msgstr "スロット購入後に艦の購入が可能になります。"
+
+msgid "IDS_INSTRUCTION_TAKE_AWAY_CAMO"
+msgstr "迷彩の解除"
 
 msgid "IDS_INSTRUCTION_UNABLE_TO_INSTALL_CAMO"
 msgstr ""
@@ -7083,7 +7997,7 @@ msgid "IDS_LINK_SUPPORT_HINT"
 msgstr "カスタマーサービスセンターにリダイレクトされます"
 
 msgid "IDS_LOADING"
-msgstr "悠悠天地事 鑑照在明神"
+msgstr "兼六合以開都 掩八紘而為宇"
 
 msgid "IDS_LOADING_PORT"
 msgstr "港を読込中"
@@ -7106,8 +8020,8 @@ msgid "IDS_LOADING_TOOLTIP_LEVEL10_11"
 msgstr ""
 "自動航行を使用するには、"
 "[CMD_TACTICAL_MAP] で戦術マップを開き、"
-"[KEY_LEFTMOUSE] クリックで目的地を設定。[KEY_SHIFT] "
-"+ クリックで最大 5 ヶ所まで設定可能"
+"[KEY_LEFTMOUSE] クリックでウェイポイントを設定。"
+"[KEY_SHIFT] 長押しして 5 ヶ所まで設定可能"
 
 msgid "IDS_LOADING_TOOLTIP_LEVEL10_12"
 msgstr "主砲: [KEY_LEFTMOUSE] 長押しで順次射撃"
@@ -7217,8 +8131,8 @@ msgid "IDS_LOADING_TOOLTIP_LEVEL11_11"
 msgstr ""
 "自動航行を使用するには、"
 "[CMD_TACTICAL_MAP] で戦術マップを開き、"
-"[KEY_LEFTMOUSE] クリックで目的地を設定。[KEY_SHIFT] "
-"+ クリックで最大 5 ヶ所まで設定可能"
+"[KEY_LEFTMOUSE] クリックでウェイポイントを設定。"
+"[KEY_SHIFT] 長押しして 5 ヶ所まで設定可能"
 
 msgid "IDS_LOADING_TOOLTIP_LEVEL11_12"
 msgstr "主砲: [KEY_LEFTMOUSE] 長押しで順次射撃"
@@ -7328,8 +8242,8 @@ msgid "IDS_LOADING_TOOLTIP_LEVEL12_11"
 msgstr ""
 "自動航行を使用するには、"
 "[CMD_TACTICAL_MAP] で戦術マップを開き、"
-"[KEY_LEFTMOUSE] クリックで目的地を設定。[KEY_SHIFT] "
-"+ クリックで最大 5 ヶ所まで設定可能"
+"[KEY_LEFTMOUSE] クリックでウェイポイントを設定。"
+"[KEY_SHIFT] 長押しして 5 ヶ所まで設定可能"
 
 msgid "IDS_LOADING_TOOLTIP_LEVEL12_12"
 msgstr "主砲: [KEY_LEFTMOUSE] 長押しで順次射撃"
@@ -7667,8 +8581,8 @@ msgid "IDS_LOADING_TOOLTIP_LEVEL3_22"
 msgstr ""
 "自動航行を使用するには、"
 "[CMD_TACTICAL_MAP] で戦術マップを開き、"
-"[KEY_LEFTMOUSE] クリックで目的地を設定。[KEY_SHIFT] "
-"+ クリックで最大 5 ヶ所まで設定可能"
+"[KEY_LEFTMOUSE] クリックでウェイポイントを設定。"
+"[KEY_SHIFT] 長押しして 5 ヶ所まで設定可能"
 
 msgid "IDS_LOADING_TOOLTIP_LEVEL3_23"
 msgstr "主砲: [KEY_LEFTMOUSE] 長押しで順次射撃"
@@ -7850,8 +8764,8 @@ msgid "IDS_LOADING_TOOLTIP_LEVEL4_20"
 msgstr ""
 "自動航行を使用するには、"
 "[CMD_TACTICAL_MAP] で戦術マップを開き、"
-"[KEY_LEFTMOUSE] クリックで目的地を設定。[KEY_SHIFT] "
-"+ クリックで最大 5 ヶ所まで設定可能"
+"[KEY_LEFTMOUSE] クリックでウェイポイントを設定。"
+"[KEY_SHIFT] 長押しして 5 ヶ所まで設定可能"
 
 msgid "IDS_LOADING_TOOLTIP_LEVEL4_21"
 msgstr "主砲: [KEY_LEFTMOUSE] 長押しで順次射撃"
@@ -8006,8 +8920,8 @@ msgid "IDS_LOADING_TOOLTIP_LEVEL5_12"
 msgstr ""
 "自動航行を使用するには、"
 "[CMD_TACTICAL_MAP] で戦術マップを開き、"
-"[KEY_LEFTMOUSE] クリックで目的地を設定。[KEY_SHIFT] "
-"+ クリックで最大 5 ヶ所まで設定可能"
+"[KEY_LEFTMOUSE] クリックでウェイポイントを設定。"
+"[KEY_SHIFT] 長押しして 5 ヶ所まで設定可能"
 
 msgid "IDS_LOADING_TOOLTIP_LEVEL5_13"
 msgstr "主砲: [KEY_LEFTMOUSE] 長押しで順次射撃"
@@ -8145,8 +9059,8 @@ msgid "IDS_LOADING_TOOLTIP_LEVEL6_11"
 msgstr ""
 "自動航行を使用するには、"
 "[CMD_TACTICAL_MAP] で戦術マップを開き、"
-"[KEY_LEFTMOUSE] クリックで目的地を設定。[KEY_SHIFT] "
-"+ クリックで最大 5 ヶ所まで設定可能"
+"[KEY_LEFTMOUSE] クリックでウェイポイントを設定。"
+"[KEY_SHIFT] 長押しして 5 ヶ所まで設定可能"
 
 msgid "IDS_LOADING_TOOLTIP_LEVEL6_12"
 msgstr "主砲: [KEY_LEFTMOUSE] 長押しで順次射撃"
@@ -8261,8 +9175,8 @@ msgid "IDS_LOADING_TOOLTIP_LEVEL7_11"
 msgstr ""
 "自動航行を使用するには、"
 "[CMD_TACTICAL_MAP] で戦術マップを開き、"
-"[KEY_LEFTMOUSE] クリックで目的地を設定。[KEY_SHIFT] "
-"+ クリックで最大 5 ヶ所まで設定可能"
+"[KEY_LEFTMOUSE] クリックでウェイポイントを設定。"
+"[KEY_SHIFT] 長押しして 5 ヶ所まで設定可能"
 
 msgid "IDS_LOADING_TOOLTIP_LEVEL7_12"
 msgstr "主砲: [KEY_LEFTMOUSE] 長押しで順次射撃"
@@ -8374,8 +9288,8 @@ msgid "IDS_LOADING_TOOLTIP_LEVEL8_11"
 msgstr ""
 "自動航行を使用するには、"
 "[CMD_TACTICAL_MAP] で戦術マップを開き、"
-"[KEY_LEFTMOUSE] クリックで目的地を設定。[KEY_SHIFT] "
-"+ クリックで最大 5 ヶ所まで設定可能"
+"[KEY_LEFTMOUSE] クリックでウェイポイントを設定。"
+"[KEY_SHIFT] 長押しして 5 ヶ所まで設定可能"
 
 msgid "IDS_LOADING_TOOLTIP_LEVEL8_12"
 msgstr "主砲: [KEY_LEFTMOUSE] 長押しで順次射撃"
@@ -8485,8 +9399,8 @@ msgid "IDS_LOADING_TOOLTIP_LEVEL9_11"
 msgstr ""
 "自動航行を使用するには、"
 "[CMD_TACTICAL_MAP] で戦術マップを開き、"
-"[KEY_LEFTMOUSE] クリックで目的地を設定。[KEY_SHIFT] "
-"+ クリックで最大 5 ヶ所まで設定可能"
+"[KEY_LEFTMOUSE] クリックでウェイポイントを設定。"
+"[KEY_SHIFT] 長押しして 5 ヶ所まで設定可能"
 
 msgid "IDS_LOADING_TOOLTIP_LEVEL9_12"
 msgstr "主砲: [KEY_LEFTMOUSE] 長押しで順次射撃"
@@ -9004,10 +9918,10 @@ msgid "IDS_MOVE_FORWARD"
 msgstr "前方"
 
 msgid "IDS_MOVE_LEFT"
-msgstr "取舵いっぱい"
+msgstr "取舵いっぱい (左)"
 
 msgid "IDS_MOVE_RIGHT"
-msgstr "面舵いっぱい"
+msgstr "面舵いっぱい (右)"
 
 msgid "IDS_MSAA_MODE"
 msgstr "マルチサンプル・アンチエイリアス"
@@ -9328,7 +10242,7 @@ msgid "IDS_OPTIONS_AUTO_CHANGE_POSITION"
 msgstr "カメラを各砲に自動切り替え"
 
 msgid "IDS_OPTIONS_AUTO_MAINGUN_CAMERA_SWITCH"
-msgstr "カメラを各主砲に自動切り替え"
+msgstr "カメラを各主砲塔に自動切り替え"
 
 msgid "IDS_OPTIONS_AUTO_TRACK_TARGET"
 msgstr "カメラで選択目標を追跡"
@@ -9790,6 +10704,14 @@ msgid "IDS_PAEP305_TEXAS"
 msgstr "タイプ 9 – Texas"
 
 msgid "IDS_PAEP305_TEXAS_DESCRIPTION"
+msgstr ""
+"敵の射撃精度を低下させ、艦の被発見性を低減し、艦および艦長の取得 "
+"EXP を向上させる。"
+
+msgid "IDS_PAEP306_ARIZONA"
+msgstr "タイプ 10 – Arizona"
+
+msgid "IDS_PAEP306_ARIZONA_DESCRIPTION"
 msgstr ""
 "敵の射撃精度を低下させ、艦の被発見性を低減し、艦および艦長の取得 "
 "EXP を向上させる。"
@@ -11562,19 +12484,19 @@ msgstr "入門ミッションで使用される巡洋艦 Cimarron"
 msgid "IDS_PASX799"
 msgstr "Narwhal"
 
-msgid "IDS_PAUA001_152_47_MK17"
+msgid "IDS_PAUA001_C1_ART_TOP"
 msgstr "152 mm/47 Mk17"
 
-msgid "IDS_PAUA002_127_51_MK15"
+msgid "IDS_PAUA002_C1_ART_STOCK"
 msgstr "127 mm/51 Mk7"
 
 msgid "IDS_PAUA011_76_50_MK8"
 msgstr "76.2 mm/50 Mk5"
 
-msgid "IDS_PAUA101_127_50_MK6"
+msgid "IDS_PAUA101_C2_ART_STOCK"
 msgstr "127 mm/50 Mk5"
 
-msgid "IDS_PAUA102_152_50_MK6"
+msgid "IDS_PAUA102_C2_ART_TOP"
 msgstr "152 mm/50 Mk6"
 
 msgid "IDS_PAUA111_152_50_MK7"
@@ -11583,37 +12505,40 @@ msgstr "152 mm/50 Mk6"
 msgid "IDS_PAUA121_76_50_MK5_SMITH"
 msgstr "76.2 mm/50 Mk5"
 
-msgid "IDS_PAUA201_152_50_MK6"
+msgid "IDS_PAUA131_D2_ART_STOCK"
+msgstr "102 mm/50 Mk12"
+
+msgid "IDS_PAUA201_C3_ART_STOCK"
 msgstr "152 mm/50 Mk6"
 
-msgid "IDS_PAUA202_152_50_MK6"
+msgid "IDS_PAUA202_C3_ART_TOP"
 msgstr "152 mm/50 Mk6"
 
-msgid "IDS_PAUA211_102_50_MK12"
+msgid "IDS_PAUA211_D3_ART_STOCK"
 msgstr "102 mm/50 Mk12"
 
 msgid "IDS_PAUA212_102_50_MK12_CS"
 msgstr "102 mm/50 Mk12"
 
-msgid "IDS_PAUA221_305_45_MK5"
+msgid "IDS_PAUA221_B3_ART_STOCK"
 msgstr "305 mm/45 Mk5"
 
 msgid "IDS_PAUA222_305_45_MK5_CS"
 msgstr "305 mm/45 Mk5"
 
-msgid "IDS_PAUA301_152_50_MK8"
+msgid "IDS_PAUA301_C4_ART_STOCK"
 msgstr "152 mm/50 Mk8"
 
-msgid "IDS_PAUA302_152_53_MK14"
+msgid "IDS_PAUA302_C4_ART_TOP"
 msgstr "152 mm/53 Mk14"
 
-msgid "IDS_PAUA311_102_50_MK12"
+msgid "IDS_PAUA311_D4_ART_STOCK"
 msgstr "102 mm/50 Mk12"
 
-msgid "IDS_PAUA312_102_50_MK14"
+msgid "IDS_PAUA312_D4_ART_TOP"
 msgstr "102 mm/50 Mk14"
 
-msgid "IDS_PAUA321_305_50_MK7"
+msgid "IDS_PAUA321_B4_ART_STOCK"
 msgstr "305 mm/50 Mk7"
 
 msgid "IDS_PAUA322_305_50_MK7"
@@ -11622,13 +12547,13 @@ msgstr "305 mm/50 Mk7"
 msgid "IDS_PAUA331_305_50_MK7_ARK_PREM"
 msgstr "305 mm/50 Mk7"
 
-msgid "IDS_PAUA401_152_53_MK16_MK13"
+msgid "IDS_PAUA401_C5_ART_STOCK"
 msgstr "152 mm/53 Mk13/Mk16"
 
-msgid "IDS_PAUA402_152_53_MK16_MK13"
+msgid "IDS_PAUA402_C5_ART_TOP"
 msgstr "152 mm/53 Mk13/Mk16"
 
-msgid "IDS_PAUA411_356_45_MK2_MK8"
+msgid "IDS_PAUA411_B5_ART_STOCK"
 msgstr "356 mm/45 Mk2"
 
 msgid "IDS_PAUA412_356_45_MK8"
@@ -11643,19 +12568,22 @@ msgstr "152 mm/53 Mk13/Mk16"
 msgid "IDS_PAUA441_356_45_MK8_TEXAS"
 msgstr "356 mm/45 Mk8"
 
-msgid "IDS_PAUA501_152_47_CL55"
+msgid "IDS_PAUA451_D5_ART_STOCK"
+msgstr "127 mm Mk7/Mk21"
+
+msgid "IDS_PAUA501_C6_ART_STOCK"
 msgstr "152 mm/47 Mk16"
 
-msgid "IDS_PAUA502_152_47_CL55"
+msgid "IDS_PAUA502_C6_ART_TOP"
 msgstr "152 mm/47 Mk16"
 
-msgid "IDS_PAUA511_127_38_MK21_MK40"
+msgid "IDS_PAUA511_D6_ART_STOCK"
 msgstr "127 mm/38 Mk21"
 
 msgid "IDS_PAUA521_127_38_MK30_MOD_1"
 msgstr "127 mm/38 Mk30 mod. 0"
 
-msgid "IDS_PAUA522_356_50_MK7"
+msgid "IDS_PAUA522_B6_ART_STOCK"
 msgstr "356 mm/50 Mk4"
 
 msgid "IDS_PAUA523_356_50_MK7"
@@ -11664,22 +12592,19 @@ msgstr "356 mm/50 Mk7"
 msgid "IDS_PAUA531_356_45_ARIZONA"
 msgstr "356 mm/45 Mk9"
 
-msgid "IDS_PAUA601_203_50_MK14"
+msgid "IDS_PAUA601_C7_ART_STOCK"
 msgstr "203 mm/50 Mk14"
 
-msgid "IDS_PAUA602_203_55_MK14"
+msgid "IDS_PAUA602_C7_ART_TOP"
 msgstr "203 mm/55 Mk14"
 
-msgid "IDS_PAUA611_127_38_MK21"
+msgid "IDS_PAUA611_D7_ART_STOCK"
 msgstr "127 mm/38 Mk21"
-
-msgid "IDS_PAUA612_127_51_MK7"
-msgstr "127 mm Mk7/Mk21"
 
 msgid "IDS_PAUA621_203_55_MK14"
 msgstr "203 mm/50 Mk14"
 
-msgid "IDS_PAUA631_406_45_MK1_5"
+msgid "IDS_PAUA631_B7_ART_STOCK"
 msgstr "406 mm/45 Mk1"
 
 msgid "IDS_PAUA632_406_45_MK_5"
@@ -11691,46 +12616,46 @@ msgstr "203 mm/55 Mk14"
 msgid "IDS_PAUA651_FLINT"
 msgstr "127 mm/38 Mk32"
 
-msgid "IDS_PAUA701_203_55_CA32"
+msgid "IDS_PAUA701_C8_ART_STOCK"
 msgstr "203 mm/55 Mk14"
 
-msgid "IDS_PAUA702_203_55_CA32"
+msgid "IDS_PAUA702_C8_ART_TOP"
 msgstr "203 mm/55 Mk14"
 
-msgid "IDS_PAUA711_127_38_MK30"
+msgid "IDS_PAUA711_D8_ART_STOCK"
 msgstr "127 mm/38 MK30"
 
 msgid "IDS_PAUA731_127_38"
 msgstr "127 mm/38"
 
-msgid "IDS_PAUA741_406_45"
+msgid "IDS_PAUA741_B8_ART_STOCK"
 msgstr "406 mm/45 Mk6"
 
-msgid "IDS_PAUA801_203_55_CA68"
+msgid "IDS_PAUA801_C9_ART_STOCK"
 msgstr "203 mm/55 Mk15"
 
-msgid "IDS_PAUA802_203_55_CA68"
+msgid "IDS_PAUA802_C9_ART_TOP"
 msgstr "203 mm/55 Mk15"
 
-msgid "IDS_PAUA811_127_38_MK30"
+msgid "IDS_PAUA811_D9_ART_STOCK"
 msgstr "127 mm/38 MK30"
 
-msgid "IDS_PAUA821_406_50_MK7"
+msgid "IDS_PAUA821_B9_ART_STOCK"
 msgstr "406 mm/50 Mk7"
 
 msgid "IDS_PAUA841_BLACK"
 msgstr "127 mm/38 Mk30"
 
-msgid "IDS_PAUA901_203_55RF_MK16"
+msgid "IDS_PAUA901_C10_ART_STOCK"
 msgstr "203 mm/55 Mk16"
 
-msgid "IDS_PAUA903_127_38_MK38"
+msgid "IDS_PAUA903_D10_ART_STOCK"
 msgstr "127 mm/38 Mk38"
 
 msgid "IDS_PAUA921_152_47DP_MK16"
 msgstr "152 mm/47 DP Mk16"
 
-msgid "IDS_PAUA931_406_50_MK7"
+msgid "IDS_PAUA931_B10_ART_STOCK"
 msgstr "406 mm/50 Mk7"
 
 msgid "IDS_PAUA941_203_55_BUFFALO"
@@ -11781,6 +12706,18 @@ msgstr "Grumman TBM-3 Avenger"
 msgid "IDS_PAUB053_DOUGLAS_XSB2D"
 msgstr "Douglas XSB2D"
 
+msgid "IDS_PAUB301_CV4_TB_STOCK"
+msgstr "Martin T3M"
+
+msgid "IDS_PAUB302_CV4_TB_TOP"
+msgstr "Martin T4M"
+
+msgid "IDS_PAUB401_CV5_TB_STOCK"
+msgstr "Douglas TBD Devastator"
+
+msgid "IDS_PAUB501_CV6_TB_STOCK"
+msgstr "Douglas TBD Devastator"
+
 msgid "IDS_PAUB509_DOUGLAS_AD1_SAIPAN"
 msgstr "Douglas AD-1 Skyraider"
 
@@ -11792,6 +12729,27 @@ msgstr "Grumman TBM-3 Avenger"
 
 msgid "IDS_PAUB553_DOUGLAS_XSB2D_SAIPAN"
 msgstr "Douglas XSB2D Destroyer"
+
+msgid "IDS_PAUB601_CV7_TB_STOCK"
+msgstr "Grumman TBF Avenger"
+
+msgid "IDS_PAUB701_CV8_TB_STOCK"
+msgstr "Grumman TBF Avenger"
+
+msgid "IDS_PAUB702_CV8_TB_TOP"
+msgstr "Grumman TBM-3 Avenger"
+
+msgid "IDS_PAUB801_CV9_TB_STOCK"
+msgstr "Grumman TBM-3 Avenger"
+
+msgid "IDS_PAUB802_CV9_TB_TOP"
+msgstr "Douglas BTD-1 Destroyer"
+
+msgid "IDS_PAUB902_CV10_TB_TOP"
+msgstr "Douglas XSB2D"
+
+msgid "IDS_PAUB904_CV10_TB_STOCK"
+msgstr "Douglas BTD-1 Destroyer"
 
 msgid "IDS_PAUD000_DIVEBOMBER_DEFAULT"
 msgstr "Curtiss SBC-4 Helldiver"
@@ -11838,29 +12796,62 @@ msgstr "Douglas SBD-3 Dauntless"
 msgid "IDS_PAUD013_DOUGLAS_SBD5"
 msgstr "Douglas SBD-5 Dauntless"
 
+msgid "IDS_PAUD301_CV4_DB_STOCK"
+msgstr "Martin BM2"
+
+msgid "IDS_PAUD302_CV4_DB_TOP"
+msgstr "Vought SBU Corsair"
+
+msgid "IDS_PAUD401_CV5_DB_STOCK"
+msgstr "Douglas SBD-2 Dauntless"
+
 msgid "IDS_PAUD501_CURTISS_SB2C_0"
 msgstr "Curtiss SB2C Helldiver"
 
+msgid "IDS_PAUD501_CV6_DB_STOCK"
+msgstr "Douglas SBD-3 Dauntless"
+
 msgid "IDS_PAUD510_DOUGLAS_BTD_1_0"
+msgstr "Douglas BTD-1 Destroyer"
+
+msgid "IDS_PAUD601_CV7_DB_STOCK"
+msgstr "Douglas SBD-5 Dauntless"
+
+msgid "IDS_PAUD702_CV8_DB_TOP"
+msgstr "Curtiss SB2C Helldiver"
+
+msgid "IDS_PAUD703_CV8_DB_STOCK"
+msgstr "Douglas SBD-5 Dauntless"
+
+msgid "IDS_PAUD801_CV9_DB_STOCK"
+msgstr "Curtiss SB2C Helldiver"
+
+msgid "IDS_PAUD802_CV9_DB_TOP"
+msgstr "Douglas BTD-1 Destroyer"
+
+msgid "IDS_PAUD903_CV10_DB_TOP"
+msgstr "Kaiser XBTK-1"
+
+msgid "IDS_PAUD904_CV10_DB_STOCK"
 msgstr "Douglas BTD-1 Destroyer"
 
 msgid "IDS_PAUE000_ENGINE_DEFAULT"
 msgstr "推力 (標準)"
 
-msgid "IDS_PAUE001_ENGINE_6200"
+msgid "IDS_PAUE001_C1_ENG_STOCK"
 msgstr "推力: 6,200 馬力"
 
 msgid "IDS_PAUE011_ENGINE_10000"
 msgstr "推力: 10,000 馬力"
 
-msgid "IDS_PAUE101_ENGINE_16000"
+msgid "IDS_PAUE101_C2_ENG_STOCK"
 msgstr "推力: 16,000 馬力"
 
 msgid "IDS_PAUE102_ENGINE_20000"
 msgstr "推力: 20,000 馬力"
 
-msgid "IDS_PAUE103_ENGINE_16000_CS"
-msgstr "推力: 16,000 馬力"
+msgid "IDS_PAUE103_D2_ENG_STOCK"
+msgstr "推力: 18,000 馬力"
 
 msgid "IDS_PAUE111_ENGINE_7500"
 msgstr "推力: 7,500 馬力"
@@ -11868,43 +12859,58 @@ msgstr "推力: 7,500 馬力"
 msgid "IDS_PAUE121_ENGINE_10000_SMITH"
 msgstr "推力: 10,000 馬力"
 
-msgid "IDS_PAUE201_ENGINE_24000"
+msgid "IDS_PAUE201_C3_ENG_STOCK"
 msgstr "推力: 24,000 馬力"
 
-msgid "IDS_PAUE211_ENGINE_18000"
-msgstr "推力: 18,000 馬力"
+msgid "IDS_PAUE201_ENGINE_24000"
+msgstr "推力: 24,000 馬力"
 
 msgid "IDS_PAUE212_ENGINE_18000_CS"
 msgstr "推力: 18,000 馬力"
 
-msgid "IDS_PAUE221_ENGINE_17600"
+msgid "IDS_PAUE221_B3_ENG_TOP"
 msgstr "推力: 17,600 馬力"
 
-msgid "IDS_PAUE231_ENGINE_26400"
+msgid "IDS_PAUE222_B3_ENG_STOCK"
+msgstr "推力: 16,000 馬力"
+
+msgid "IDS_PAUE231_D3_ENG_STOCK"
 msgstr "推力: 26,400 馬力"
 
-msgid "IDS_PAUE301_ENGINE_8000"
+msgid "IDS_PAUE301_CV4_ENG_STOCK"
 msgstr "推力: 8,000 馬力"
 
-msgid "IDS_PAUE311_ENGINE_27000"
+msgid "IDS_PAUE311_D4_ENG_STOCK"
 msgstr "推力: 27,000 馬力"
 
-msgid "IDS_PAUE321_ENGINE_28000"
+msgid "IDS_PAUE321_B4_ENG_TOP"
 msgstr "推力: 28,000 馬力"
+
+msgid "IDS_PAUE322_B4_ENG_STOCK"
+msgstr "推力: 24,000 馬力"
 
 msgid "IDS_PAUE331_ENGINE_28000_ARK_PREM"
 msgstr "推力: 28,000 馬力"
 
-msgid "IDS_PAUE401_ENGINE_90000"
+msgid "IDS_PAUE341_C4_ENG_STOCK"
+msgstr "推力: 90,000 馬力"
+
+msgid "IDS_PAUE401_C5_ENG_STOCK"
 msgstr "推力: 90,000 馬力"
 
 msgid "IDS_PAUE402_ENGINE_32000"
 msgstr "推力: 32,000 馬力"
 
-msgid "IDS_PAUE411_ENGINE_28100"
+msgid "IDS_PAUE403_D5_ENG_STOCK"
+msgstr "推力: 55,000 馬力"
+
+msgid "IDS_PAUE411_B5_ENG_TOP"
 msgstr "推力: 28,100 馬力"
 
-msgid "IDS_PAUE421_ENGINE_8500"
+msgid "IDS_PAUE412_B5_ENG_STOCK"
+msgstr "推力: 27,000 馬力"
+
+msgid "IDS_PAUE421_CV5_ENG_STOCK"
 msgstr "推力: 8,500 馬力"
 
 msgid "IDS_PAUE431_ENGINE_90000_MB"
@@ -11916,7 +12922,7 @@ msgstr "推力: 90,000 馬力"
 msgid "IDS_PAUE451_ENGINE_TEXAS"
 msgstr "推力: 28,100 馬力"
 
-msgid "IDS_PAUE501_ENGINE_100000"
+msgid "IDS_PAUE501_CV6_ENG_STOCK"
 msgstr "推力: 100,000 馬力"
 
 msgid "IDS_PAUE502_ENGINE_42800"
@@ -11925,7 +12931,10 @@ msgstr "推力: 42,800 馬力"
 msgid "IDS_PAUE503_ENGINE_40000"
 msgstr "推力: 40,000 馬力"
 
-msgid "IDS_PAUE511_ENGINE_42800"
+msgid "IDS_PAUE504_C6_ENG_STOCK"
+msgstr "推力: 100,000 馬力"
+
+msgid "IDS_PAUE511_D6_ENG_STOCK"
 msgstr "推力: 42,800 馬力"
 
 msgid "IDS_PAUE521_ENGINE_55000"
@@ -11934,23 +12943,32 @@ msgstr "推力: 55,000 馬力"
 msgid "IDS_PAUE531_ENGINE_50000_SIMS"
 msgstr "推力: 50,000 馬力"
 
-msgid "IDS_PAUE532_ENGINE_37000"
+msgid "IDS_PAUE532_B6_ENG_TOP"
 msgstr "推力: 37,000 馬力"
+
+msgid "IDS_PAUE533_B6_ENG_STOCK"
+msgstr "推力: 32,000 馬力"
 
 msgid "IDS_PAUE541_ENGINE_35000_ARIZONA"
 msgstr "推力: 35,000 馬力"
 
-msgid "IDS_PAUE601_ENGINE_107000"
+msgid "IDS_PAUE601_C7_ENG_STOCK"
 msgstr "推力: 107,000 馬力"
 
-msgid "IDS_PAUE602_ENGINE_53500"
+msgid "IDS_PAUE602_CV7_ENG_STOCK"
 msgstr "推力: 53,500 馬力"
 
 msgid "IDS_PAUE603_ENGINE_107000"
 msgstr "推力: 107,000 馬力"
 
-msgid "IDS_PAUE611_ENGINE_28900"
+msgid "IDS_PAUE604_D7_ENG_STOCK"
+msgstr "推力: 49,000 馬力"
+
+msgid "IDS_PAUE611_B7_ENG_TOP"
 msgstr "推力: 28,900 馬力"
+
+msgid "IDS_PAUE612_B7_ENG_STOCK"
+msgstr "推力: 27,000 馬力"
 
 msgid "IDS_PAUE621_ENGINE_INDIANAPOLIS"
 msgstr "推力: 107,000 馬力"
@@ -11958,10 +12976,13 @@ msgstr "推力: 107,000 馬力"
 msgid "IDS_PAUE631_ENGINE_FLINT"
 msgstr "推力: 75,000 馬力"
 
-msgid "IDS_PAUE701_ENGINE_180000"
+msgid "IDS_PAUE701_CV8_ENG_STOCK"
 msgstr "推力: 180,000 馬力"
 
-msgid "IDS_PAUE711_ENGINE_50000"
+msgid "IDS_PAUE702_C8_ENG_STOCK"
+msgstr "推力: 107,000 馬力"
+
+msgid "IDS_PAUE711_D8_ENG_STOCK"
 msgstr "推力: 50,000 馬力"
 
 msgid "IDS_PAUE721_ENGINE_49000"
@@ -11970,34 +12991,46 @@ msgstr "推力: 49,000 馬力"
 msgid "IDS_PAUE731_ENGINE_75000"
 msgstr "推力: 75,000 馬力"
 
-msgid "IDS_PAUE741_ENGINE_115000"
+msgid "IDS_PAUE741_B8_ENG_TOP"
 msgstr "推力: 115,000 馬力"
+
+msgid "IDS_PAUE742_B8_ENG_STOCK"
+msgstr "推力: 100,000 馬力"
 
 msgid "IDS_PAUE751_ENGINE_120000_SAIPAN"
 msgstr "推力: 120,000 馬力"
 
-msgid "IDS_PAUE801_ENGINE_120000"
+msgid "IDS_PAUE801_C9_ENG_STOCK"
 msgstr "推力: 120,000 馬力"
 
-msgid "IDS_PAUE802_ENGINE_150000"
+msgid "IDS_PAUE802_CV9_ENG_STOCK"
 msgstr "推力: 150,000 馬力"
 
-msgid "IDS_PAUE811_ENGINE_60000"
+msgid "IDS_PAUE811_D9_ENG_STOCK"
 msgstr "推力: 60,000 馬力"
 
 msgid "IDS_PAUE821_ENGINE_120000"
 msgstr "推力: 120,000 馬力"
 
-msgid "IDS_PAUE831_ENGINE_212000"
+msgid "IDS_PAUE831_B9_ENG_TOP"
 msgstr "推力: 212,000 馬力"
+
+msgid "IDS_PAUE832_B9_ENG_STOCK"
+msgstr "推力: 172,000 馬力"
 
 msgid "IDS_PAUE841_ENGINE_BLACK"
 msgstr "推力: 60,000 馬力"
 
-msgid "IDS_PAUE901_ENGINE_172000"
+msgid "IDS_PAUE901_B10_ENG_STOCK"
 msgstr "推力: 172,000 馬力"
 
-msgid "IDS_PAUE911_ENGINE_212000"
+msgid "IDS_PAUE902_C10_ENG_STOCK"
+msgstr "推力: 120,000 馬力"
+
+msgid "IDS_PAUE903_D10_ENG_STOCK"
+msgstr "推力: 60,000 馬力"
+
+msgid "IDS_PAUE911_CV10_ENG_STOCK"
 msgstr "推力: 212,000 馬力"
 
 msgid "IDS_PAUE921_ENGINE_120000_BUFFALO"
@@ -12483,6 +13516,27 @@ msgstr "Grumman F4F-4 Wildcat"
 msgid "IDS_PAUI031_FM_2"
 msgstr "GM FM-2 Wildcat"
 
+msgid "IDS_PAUI301_CV4_F_STOCK"
+msgstr "Boeing F4B"
+
+msgid "IDS_PAUI302_CV4_F_TOP"
+msgstr "Grumman F3F Flying Barrel"
+
+msgid "IDS_PAUI401_CV5_F_STOCK"
+msgstr "Grumman F4F-3 Wildcat"
+
+msgid "IDS_PAUI402_CV5_F_MED"
+msgstr "GM FM-2 Wildcat"
+
+msgid "IDS_PAUI403_CV5_F_TOP"
+msgstr "Grumman F4F-4 Wildcat"
+
+msgid "IDS_PAUI501_CV6_F_STOCK"
+msgstr "Grumman F4F-4 Wildcat"
+
+msgid "IDS_PAUI502_CV6_F_TOP"
+msgstr "Grumman F6F-3 Hellcat"
+
 msgid "IDS_PAUI502_GRUMMAN_F6F_0"
 msgstr "Grumman F6F-5 Hellcat"
 
@@ -12503,6 +13557,30 @@ msgstr "Vought F4U-1 Corsair"
 
 msgid "IDS_PAUI530_F4F_4_0"
 msgstr "Grumman F4F-4 Wildcat"
+
+msgid "IDS_PAUI601_CV7_F_STOCK"
+msgstr "Grumman F6F-3 Hellcat"
+
+msgid "IDS_PAUI602_CV7_F_TOP"
+msgstr "Grumman F6F-5 Hellcat"
+
+msgid "IDS_PAUI701_CV8_F_STOCK"
+msgstr "Grumman F6F-5 Hellcat"
+
+msgid "IDS_PAUI702_CV8_F_TOP"
+msgstr "Vought F4U-1 Corsair"
+
+msgid "IDS_PAUI801_CV9_F_STOCK"
+msgstr "Vought F4U-1 Corsair"
+
+msgid "IDS_PAUI802_CV9_F_TOP"
+msgstr "Vought F4U-4 Corsair"
+
+msgid "IDS_PAUI901_CV10_F_STOCK"
+msgstr "Vought F4U-4 Corsair"
+
+msgid "IDS_PAUI903_CV10_F_TOP"
+msgstr "Grumman F8F Bearcat"
 
 msgid "IDS_PAUP301_TS1_T3M"
 msgstr "4x (TS1, T3M)"
@@ -12759,14 +13837,11 @@ msgstr "450 mm (1x Mk5)"
 msgid "IDS_PAUT031_457_1_APT019"
 msgstr "450 mm (1x Mk5)"
 
-msgid "IDS_PAUT102_457_WHITEHEAD_MK5"
+msgid "IDS_PAUT102_D2_TORP_STOCK"
 msgstr "Whitehead Mk5"
 
-msgid "IDS_PAUT103_457_BLISS_LEAVITT_MARK_7"
+msgid "IDS_PAUT103_D2_TORP_TOP"
 msgstr "Bliss Leavitt Mk7"
-
-msgid "IDS_PAUT104_457_WHITEHEAD_MK5_CS"
-msgstr "Whitehead Mk5"
 
 msgid "IDS_PAUT111_457_SMITH"
 msgstr "Bliss Leavitt Mk7"
@@ -12774,22 +13849,19 @@ msgstr "Bliss Leavitt Mk7"
 msgid "IDS_PAUT201_533_2_APT014"
 msgstr "533 mm (2x Mk3)"
 
-msgid "IDS_PAUT202_533_3_APT014"
+msgid "IDS_PAUT202_D3_TORP_STOCK"
 msgstr "Bliss Leavitt Mk3"
 
-msgid "IDS_PAUT203_533_BLISS_LEAVITT_MARK_9"
+msgid "IDS_PAUT203_D3_TORP_TOP"
 msgstr "Bliss Leavitt Mk9"
 
-msgid "IDS_PAUT204_533_BLISS_LEAVITT_MARK_9_0"
-msgstr "Bliss Leavitt Mk9 mod. 1"
+msgid "IDS_PAUT301_C4_TORP_STOCK"
+msgstr "Mark 11"
 
-msgid "IDS_PAUT301_533_2_APT001"
-msgstr "533 mm (2x Mk14)"
+msgid "IDS_PAUT302_D4_TORP_STOCK"
+msgstr "Bliss Leavitt Mk9"
 
-msgid "IDS_PAUT302_533_3_APT009"
-msgstr "533 mm (3x Mk11)"
-
-msgid "IDS_PAUT303_533_MARK_11"
+msgid "IDS_PAUT303_D4_TORP_TOP"
 msgstr "Mark 11"
 
 msgid "IDS_PAUT311_533_2_APT015"
@@ -12801,11 +13873,14 @@ msgstr "533 mm (3x Mk8)"
 msgid "IDS_PAUT313_533_3_APT017"
 msgstr "533 mm (3x Mk8)"
 
-msgid "IDS_PAUT402_533_MARK_15_MOD_0"
-msgstr "Mk15 mod. 0"
+msgid "IDS_PAUT401_C5_TORP_STOCK"
+msgstr "Mark 11"
 
-msgid "IDS_PAUT403_533_MARK_15_MOD_1_0"
-msgstr "Mk15 mod. 1"
+msgid "IDS_PAUT403_D5_TORP_STOCK"
+msgstr "Mark 11"
+
+msgid "IDS_PAUT501_D6_TORP_STOCK"
+msgstr "Mark 11"
 
 msgid "IDS_PAUT502_533_MARK_15_MOD_3"
 msgstr "Mk15 mod. 3"
@@ -12816,8 +13891,8 @@ msgstr "Mk15 mod. 3"
 msgid "IDS_PAUT504_FLINT"
 msgstr "Mk15 mod. 3"
 
-msgid "IDS_PAUT505_533_MARK_15_MOD_4_0"
-msgstr "Mk15 mod. 4"
+msgid "IDS_PAUT511_D6_TORP_TOP"
+msgstr "Mark 12"
 
 msgid "IDS_PAUT521_533_4_APT017"
 msgstr "533 mm (4x Mk14)"
@@ -12831,14 +13906,11 @@ msgstr "Mk9 mod. 1"
 msgid "IDS_PAUT551_533_3_PAPT017_CINCINNATI"
 msgstr "Mk9 mod. 1"
 
-msgid "IDS_PAUT601_533_4_APT008"
-msgstr "533 mm (4x Mk17)"
-
-msgid "IDS_PAUT602_533_MARK_12"
+msgid "IDS_PAUT601_D7_TORP_STOCK"
 msgstr "Mark 12"
 
-msgid "IDS_PAUT603_533_MARK_12_0"
-msgstr "Mk12 mod. 1"
+msgid "IDS_PAUT602_D7_TORP_TOP"
+msgstr "Mk15 mod. 0"
 
 msgid "IDS_PAUT611_533_4_APT001"
 msgstr "533 mm (4x Mk14)"
@@ -12852,11 +13924,11 @@ msgstr "Mark 11"
 msgid "IDS_PAUT631_533_PAPT015_SIMS"
 msgstr "Bliss Leavitt Mk7 mod. 2B"
 
-msgid "IDS_PAUT701_533_4_APT001"
-msgstr "533 mm (4x Mk14)"
+msgid "IDS_PAUT701_D8_TORP_STOCK"
+msgstr "Mk15 mod. 0"
 
-msgid "IDS_PAUT702_533_4_APT009"
-msgstr "533 mm (4x Mk11)"
+msgid "IDS_PAUT702_D8_TORP_TOP"
+msgstr "Mk15 mod. 3"
 
 msgid "IDS_PAUT703_533_MARK_14_MOD_3"
 msgstr "Mk14 mod. 3"
@@ -12870,8 +13942,8 @@ msgstr "533 mm (5x Mk15)"
 msgid "IDS_PAUT731_533_4_PAPT001"
 msgstr "533 mm (4x Mk14)"
 
-msgid "IDS_PAUT801_533_5_APT008"
-msgstr "533 mm (5x Mk15)"
+msgid "IDS_PAUT801_D9_TORP_STOCK"
+msgstr "Mk15 mod. 3"
 
 msgid "IDS_PAUT802_533_5_APT009"
 msgstr "533 mm (5x Mk11)"
@@ -12879,13 +13951,13 @@ msgstr "533 mm (5x Mk11)"
 msgid "IDS_PAUT803_533_5_APT018"
 msgstr "533 mm (5x Mk15)"
 
-msgid "IDS_PAUT804_533_MARK_16_MOD_1"
+msgid "IDS_PAUT804_D9_TORP_TOP"
 msgstr "Mk16 mod. 1"
 
 msgid "IDS_PAUT805_BLACK"
 msgstr "Mk16 mod. 1"
 
-msgid "IDS_PAUT901_533_MARK_17"
+msgid "IDS_PAUT901_D10_TORP_STOCK"
 msgstr "Mark 17"
 
 msgid "IDS_PAUT911_533_4_PAPT023_BUFF"
@@ -12945,11 +14017,32 @@ msgstr "102 mm/50 Mk XII"
 msgid "IDS_PBGM027_4IN50_MK12"
 msgstr "102 mm/50 Mk XII"
 
+msgid "IDS_PBGM8826_5_MLE_1887_93"
+msgstr "164,7 mm/45 Mle 1887/93"
+
+msgid "IDS_PBGM8826_MARK_I"
+msgstr "UP Mark I"
+
+msgid "IDS_PBGM8827_4MLE_1888_91"
+msgstr "65 mm/50 Mle 1888/91"
+
+msgid "IDS_PBGM8827_TYPE_0"
+msgstr "31 cm/50 Type 0"
+
 msgid "IDS_PBGS006_4IN45_QF_MK_XIX"
 msgstr "102 mm/45 QF Mk XIX"
 
 msgid "IDS_PBGS011_152MM50_TYPE41"
 msgstr "152 mm/50 BL Mk XVI"
+
+msgid "IDS_PBGS8806_MLE_1902"
+msgstr "65 mm/50 Mle 1902"
+
+msgid "IDS_PBGS8806_TYPE_8"
+msgstr "10 cm/50 Type 88"
+
+msgid "IDS_PBGS8811_MARK_II"
+msgstr "205 mm/75 Mark II"
 
 msgid "IDS_PBGT030_21IN_TORPEDO_TUBES_TRIPLE"
 msgstr "533 mm 魚雷発射管 3 連装 Mk I"
@@ -13139,20 +14232,18 @@ msgstr ""
 "MGT-20 との遭遇によって取得した迷彩"
 
 msgid "IDS_PCEC014_CAMO_GNB_MAY_2016"
-msgstr "GNB May 2016 Camouflage"
+msgstr "GNB May 2016 迷彩"
 
 msgid "IDS_PCEC014_CAMO_GNB_MAY_2016_DESCRIPTION"
-msgstr ""
-"Captain? Captain! Why would you do this to your boat? Now everyone can see "
-"we're ruthless sea dogs! We're sure to be primaried!"
+msgstr "艦長? 艦長! 何故この船にこんなことをするのでしょう? 誰もが我々が無慈悲なアザラシだって思いますよ! きっと最優先で狙われます!"
 
 msgid "IDS_PCEC015_CAMO_CN_SPECIAL"
-msgstr "Ocean soul"
+msgstr "海の魂"
 
 msgid "IDS_PCEC015_CAMO_CN_SPECIAL_DESCRIPTION"
 msgstr ""
-"Reduces ship detectability and increases the amount of XP earned by the ship "
-"and the Commander"
+"艦の被発見性を低減し、艦および艦長の取得 "
+"EXP を向上させる。"
 
 msgid "IDS_PCEE008_RANK20"
 msgstr "第 2 リーグ"
@@ -13327,27 +14418,26 @@ msgid "IDS_PCEE025_MILITARY_MONTH_CONTRIBUTOR_FLAG_EXTRA_DESCRIPTION"
 msgstr " "
 
 msgid "IDS_PCEE026_SEA_DOG"
-msgstr "GNB May 2016 - Sea Dog"
+msgstr "GNB May 2016 – アザラシ"
 
 msgid "IDS_PCEE026_SEA_DOG_DESCRIPTION"
-msgstr "記念旗"
+msgstr "GNB May 2016 参加記念旗"
 
 msgid "IDS_PCEE026_SEA_DOG_EXTRA_DESCRIPTION"
 msgstr ""
-"The flag was granted for actively taking part in the Great Naval Battles "
-"activities in May, 2016"
+"この旗は、2016 年 5 月の Great Naval "
+"Battles に積極参加したことに対し与えられました。"
 
 msgid "IDS_PCEE027_SEA_LION"
-msgstr "GNB May 2016 - Sea Lion"
+msgstr "GNB May 2016 – アシカ"
 
 msgid "IDS_PCEE027_SEA_LION_DESCRIPTION"
-msgstr "記念旗"
+msgstr "GNB May 2016 参加記念旗"
 
 msgid "IDS_PCEE027_SEA_LION_EXTRA_DESCRIPTION"
 msgstr ""
-"This flag is testimony to the great effort put into rocking the high seas, "
-"and running out of rum, during the Great Naval Battles event, run in May "
-"2016."
+"この旗は、2016 年 5 月の Great Naval "
+"Battles において、外洋を支配するために大いなる貢献を果たしたことの証明です。"
 
 msgid "IDS_PCEE028_SEASONFLAG04"
 msgstr "ミッドウェイ"
@@ -13367,7 +14457,7 @@ msgid "IDS_PCEE029_SONGKRAN"
 msgstr "ソンクラーン・フェスティバル 2016"
 
 msgid "IDS_PCEE029_SONGKRAN_DESCRIPTION"
-msgstr "記念旗"
+msgstr "ソンクラーン・フェスティバル記念旗"
 
 msgid "IDS_PCEE029_SONGKRAN_EXTRA_DESCRIPTION"
 msgstr "タイの正月を祝い、悪運を洗い流しましょう。"
@@ -13862,6 +14952,9 @@ msgstr "105 mm L/65 Dop. L. C/31"
 msgid "IDS_PGGS150_127MM_KC_40"
 msgstr "128 mm L/61 SK C/42"
 
+msgid "IDS_PGGS8150_5_MODELO_1926"
+msgstr "38,1 cm/45 Modelo 1926"
+
 msgid "IDS_PGGT001_600MM_TWIN_TUBE"
 msgstr "600 mm Zwilling"
 
@@ -13876,6 +14969,18 @@ msgstr "533 mm Drilling"
 
 msgid "IDS_PGGT048_500MM_TORPEDO_TUBES_TWIN"
 msgstr "500 mm Zwilling"
+
+msgid "IDS_PGGT8001_600MM_50_MLE_TWIN_TUBE"
+msgstr "194 mm/50 Mle 1902"
+
+msgid "IDS_PGGT8014_53350_VICKERS_CARRACA"
+msgstr "15,2 cm/50 Vickers-Carraca"
+
+msgid "IDS_PGGT8015_533MM_TOR15_BATIGNOLLES_SCHNEIDER"
+msgstr "Obusier de 370 mm Mle 1915 Batignolles/Schneider"
+
+msgid "IDS_PGGT8048_500MM_MM_45_MLE_1891_93_TWIN"
+msgstr "194 mm/45 Mle 1891/93"
 
 msgid "IDS_PGPA001_380MM_AP_APC_L_4_4"
 msgstr "380 mm P.S.Gr. L/4.4"
@@ -14063,17 +15168,35 @@ msgstr "G/6"
 msgid "IDS_PGPT211_500_G7"
 msgstr "G7"
 
+msgid "IDS_PGPT211_88_MOD_1"
+msgstr "Type 88 Mod 1"
+
 msgid "IDS_PGPT301_600_H8"
 msgstr "H8"
+
+msgid "IDS_PGPT301_TYPE_9"
+msgstr "Type 92"
 
 msgid "IDS_PGPT401_533_G7AT1"
 msgstr "G7a T1"
 
+msgid "IDS_PGPT401_ELIA_MARK_VI"
+msgstr "Vickers Elia Mark VI"
+
 msgid "IDS_PGPT501_533_G7ET2"
 msgstr "G7e T2"
 
+msgid "IDS_PGPT501_H_MARK_II"
+msgstr "Type H Mark II"
+
 msgid "IDS_PGPT601_533_G7ET3A"
 msgstr "G7e T3a"
+
+msgid "IDS_PGPT601_BREGUET_B3"
+msgstr "Bréguet B3"
+
+msgid "IDS_PGPT611_SAUTTER_HARLE_H4AR"
+msgstr "Sautter-Harlé H4AR"
 
 msgid "IDS_PGPT611_SCHARNHORST"
 msgstr "G7a T1"
@@ -14296,19 +15419,19 @@ msgstr "1909"
 msgid "IDS_PGSX799"
 msgstr "U-96"
 
-msgid "IDS_PGUA001_128_61_SK_C42"
+msgid "IDS_PGUA001_C1_ART_STOCK"
 msgstr "128 mm L/61 SK C/42"
 
-msgid "IDS_PGUA002_128_61_SK_C42"
+msgid "IDS_PGUA002_C1_ART_TOP"
 msgstr "128 mm L/61 SK C/42"
 
-msgid "IDS_PGUA101_105_40_SK_C97"
+msgid "IDS_PGUA101_C2_ART_STOCK"
 msgstr "105 mm L/40 MPL C/04"
 
 msgid "IDS_PGUA111_105_40_SK_C97_EMDEN"
 msgstr "105 mm L/40 MPL C/04"
 
-msgid "IDS_PGUA201_105_45_MPL_C06"
+msgid "IDS_PGUA201_C3_ART_STOCK"
 msgstr "105 mm L/45 MPL C/06"
 
 msgid "IDS_PGUA202_150_45_MPL_C16"
@@ -14317,22 +15440,22 @@ msgstr "150 mm L/45 MPL C/16"
 msgid "IDS_PGUA211_283_45_LC06"
 msgstr "283 mm L/45 Drh LC/1906"
 
-msgid "IDS_PGUA301_305_50_LC09"
-msgstr "305 mm L/50 Drh LC/1909"
+msgid "IDS_PGUA301_C4_ART_STOCK"
+msgstr "150 mm L/45 MPL C/16"
 
-msgid "IDS_PGUA401_150_60_DRH_TR_C25"
+msgid "IDS_PGUA401_C5_ART_STOCK"
 msgstr "150 mm L/60 Drh Tr C/25"
 
 msgid "IDS_PGUA411_305_50_LC11"
 msgstr "305 mm L/50 Drh LC/1911"
 
-msgid "IDS_PGUA501_150_60_DRH_TR_C28"
+msgid "IDS_PGUA501_C6_ART_STOCK"
 msgstr "150 mm L/60 Drh Tr C/28"
 
 msgid "IDS_PGUA511_380_45_DRH_LC13"
 msgstr "380 mm L/45 Drh LC/1913"
 
-msgid "IDS_PGUA601_210_45_DRL_C06"
+msgid "IDS_PGUA601_C7_ART_STOCK"
 msgstr "210 mm L/45 Drl C/06"
 
 msgid "IDS_PGUA602_210_45_DRL_C06"
@@ -14353,17 +15476,20 @@ msgstr "380 mm L/52 Drh LC/34"
 msgid "IDS_PGUA702_380_52_TIRPITZ"
 msgstr "380 mm L/52 Drh LC/34"
 
-msgid "IDS_PGUA711_203_60_DRH_LC34"
+msgid "IDS_PGUA711_C8_ART_STOCK"
 msgstr "203 mm L/60 Drh LC/34"
 
 msgid "IDS_PGUA712_203_60_DRH_LC34"
 msgstr "203 mm L/60 Drh LC/34"
 
-msgid "IDS_PGUA801_406_52_SK_C_34"
-msgstr "406 mm L/52 Drh LC/34"
+msgid "IDS_PGUA801_C9_ART_STOCK"
+msgstr "203 mm L/60 Drh LC/34"
 
-msgid "IDS_PGUA901_203_60_DRH_LC34"
-msgstr "203 mm L/60 Drh LC/37"
+msgid "IDS_PGUA811_C9_ART_TOP"
+msgstr "203 mm L/60 Drh LC/34"
+
+msgid "IDS_PGUA901_C10_ART_STOCK"
+msgstr "203 mm L/60 Drh LC/34"
 
 msgid "IDS_PGUA911_406_52_SK_C_34"
 msgstr "406 mm L/52 Drh C/34"
@@ -14374,16 +15500,16 @@ msgstr "420 mm L/48 Drh LC/40"
 msgid "IDS_PGUA913_420_48_SK_C_40"
 msgstr "420 mm L/48 Drh LC/40"
 
-msgid "IDS_PGUE001_ENGINE_15000"
+msgid "IDS_PGUE001_C1_ENG_STOCK"
 msgstr "推力: 15,000 馬力"
 
-msgid "IDS_PGUE101_ENGINE_18800"
+msgid "IDS_PGUE101_C2_ENG_STOCK"
 msgstr "推力: 18,800 馬力"
 
 msgid "IDS_PGUE111_ENGINE_16350_EMDEN"
 msgstr "推力: 16,350 馬力"
 
-msgid "IDS_PGUE201_ENGINE_31000"
+msgid "IDS_PGUE201_C3_ENG_STOCK"
 msgstr "推力: 31,000 馬力"
 
 msgid "IDS_PGUE211_ENGINE_22000"
@@ -14392,7 +15518,7 @@ msgstr "推力: 22,000 馬力"
 msgid "IDS_PGUE212_ENGINE_26200"
 msgstr "推力: 26,200 馬力"
 
-msgid "IDS_PGUE301_ENGINE_45000"
+msgid "IDS_PGUE301_C4_ENG_STOCK"
 msgstr "推力: 45,000 馬力"
 
 msgid "IDS_PGUE311_ENGINE_55180"
@@ -14401,7 +15527,7 @@ msgstr "推力: 55,180 馬力"
 msgid "IDS_PGUE312_ENGINE_57000"
 msgstr "推力: 57,000 馬力"
 
-msgid "IDS_PGUE401_ENGINE_68200"
+msgid "IDS_PGUE401_C5_ENG_STOCK"
 msgstr "推力: 68,200 馬力"
 
 msgid "IDS_PGUE411_ENGINE_46200"
@@ -14410,7 +15536,7 @@ msgstr "推力: 46,200 馬力"
 msgid "IDS_PGUE412_ENGINE_63000"
 msgstr "推力: 63,000 馬力"
 
-msgid "IDS_PGUE501_ENGINE_60000"
+msgid "IDS_PGUE501_C6_ENG_STOCK"
 msgstr "推力: 60,000 馬力"
 
 msgid "IDS_PGUE511_ENGINE_54800"
@@ -14419,7 +15545,7 @@ msgstr "推力: 54,800 馬力"
 msgid "IDS_PGUE512_ENGINE_75000"
 msgstr "推力: 75,000 馬力"
 
-msgid "IDS_PGUE601_ENGINE_80000"
+msgid "IDS_PGUE601_C7_ENG_STOCK"
 msgstr "推力: 80,000 馬力"
 
 msgid "IDS_PGUE611_ENGINE_125000"
@@ -14443,13 +15569,13 @@ msgstr "推力: 163,000 馬力"
 msgid "IDS_PGUE703_ENGINE_163000"
 msgstr "推力: 163,000 馬力"
 
-msgid "IDS_PGUE711_ENGINE_110000"
+msgid "IDS_PGUE711_C8_ENG_STOCK"
 msgstr "推力: 110,000 馬力"
 
 msgid "IDS_PGUE712_ENGINE_133630"
 msgstr "推力: 133,630 馬力"
 
-msgid "IDS_PGUE801_ENGINE_155000"
+msgid "IDS_PGUE801_C9_ENG_STOCK"
 msgstr "推力: 155,000 馬力"
 
 msgid "IDS_PGUE811_ENGINE_150000"
@@ -14458,7 +15584,7 @@ msgstr "推力: 150,000 馬力"
 msgid "IDS_PGUE812_ENGINE_165000"
 msgstr "推力: 165,000 馬力"
 
-msgid "IDS_PGUE901_ENGINE_155000"
+msgid "IDS_PGUE901_C10_ENG_STOCK"
 msgstr "推力: 155,000 馬力"
 
 msgid "IDS_PGUE911_ENGINE_167600"
@@ -14680,17 +15806,20 @@ msgstr "G/6"
 msgid "IDS_PGUT211_500_G7"
 msgstr "G7"
 
-msgid "IDS_PGUT301_600_H8"
+msgid "IDS_PGUT301_C4_TORP_TOP"
 msgstr "H8"
 
-msgid "IDS_PGUT401_533_G7AT1"
+msgid "IDS_PGUT302_C4_TORP_STOCK"
+msgstr "G7"
+
+msgid "IDS_PGUT401_C5_TORP_STOCK"
 msgstr "G7a T1"
 
-msgid "IDS_PGUT501_533_G7ET2"
-msgstr "G7e T2"
+msgid "IDS_PGUT501_C6_TORP_STOCK"
+msgstr "G7a T1"
 
-msgid "IDS_PGUT601_533_G7ET3a"
-msgstr "G7e T3a"
+msgid "IDS_PGUT601_C7_TORP_STOCK"
+msgstr "G7a T1"
 
 msgid "IDS_PGUT611_SCHARNHORST"
 msgstr "G7a T1"
@@ -14698,14 +15827,14 @@ msgstr "G7a T1"
 msgid "IDS_PGUT701_533_TIRPITZ"
 msgstr "G7a T1"
 
-msgid "IDS_PGUT711_533_G7ET4"
-msgstr "G7e T4"
+msgid "IDS_PGUT711_C8_TORP_STOCK"
+msgstr "G7a T1"
 
-msgid "IDS_PGUT801_533_G7ET5A"
-msgstr "G7e T5A"
+msgid "IDS_PGUT801_C9_TORP_STOCK"
+msgstr "G7a T1"
 
-msgid "IDS_PGUT901_533_G7ET10"
-msgstr "G7e T10"
+msgid "IDS_PGUT901_C10_TORP_STOCK"
+msgstr "G7a T1"
 
 msgid "IDS_PIEE001_ITALY_DESC"
 msgstr ""
@@ -14792,10 +15921,10 @@ msgid "IDS_PJAF005_MITSUBISHI_A5M2"
 msgstr "三菱 九六式二号艦上戦闘機"
 
 msgid "IDS_PJAF006_MITSUBISHI_A7M1"
-msgstr "三菱 試製烈風"
+msgstr "三菱 烈風"
 
 msgid "IDS_PJAF007_MITSUBISHI_A7M2"
-msgstr "三菱 烈風"
+msgstr "三菱 烈風一一型"
 
 msgid "IDS_PJAF008_MITSUBISHI_A8M"
 msgstr "三菱 烈風改"
@@ -14842,7 +15971,7 @@ msgstr "横須賀 九三式水上中間練習機"
 msgid "IDS_PJAS004_AICHI_E13A1"
 msgstr "愛知 零式水上偵察機一一甲型"
 
-msgid "IDS_PJAS005_AICHI_E13A1b"
+msgid "IDS_PJAS005_AICHI_E13A1B"
 msgstr "愛知 零式水上偵察機一一乙型"
 
 msgid "IDS_PJAS006_AICHI_E16A1"
@@ -16381,6 +17510,21 @@ msgstr " "
 msgid "IDS_PJSC705_YEAR"
 msgstr " "
 
+msgid "IDS_PJSC707"
+msgstr "アシガラ"
+
+msgid "IDS_PJSC707_DESCR"
+msgstr " "
+
+msgid "IDS_PJSC707_FULL"
+msgstr "霧 アシガラ"
+
+msgid "IDS_PJSC707_NUMBER"
+msgstr " "
+
+msgid "IDS_PJSC707_YEAR"
+msgstr " "
+
 msgid "IDS_PJSC709"
 msgstr "ハグロ"
 
@@ -16670,11 +17814,11 @@ msgstr "707R"
 msgid "IDS_PJUA002_140_50_TYPE3"
 msgstr "50口径 三年式 14cm砲"
 
-msgid "IDS_PJUA003_120MM45_TWIN"
+msgid "IDS_PJUA003_C1_ART_STOCK"
 msgstr "45口径 十年式 12cm砲"
 
-msgid "IDS_PJUA004_120MM45_TWIN"
-msgstr "45口径 十年式 12cm砲 改良型"
+msgid "IDS_PJUA004_C1_ART_TOP"
+msgstr "45口径 十年式 12cm砲"
 
 msgid "IDS_PJUA012_076_40_TACHIBANA"
 msgstr "40口径 四一式 8cm砲"
@@ -16682,19 +17826,19 @@ msgstr "40口径 四一式 8cm砲"
 msgid "IDS_PJUA013_076_40_SAKURA"
 msgstr "40口径 四一式 8cm砲"
 
-msgid "IDS_PJUA101_120_40_TYPE_HAGUN"
+msgid "IDS_PJUA101_D2_ART_STOCK"
 msgstr "40口径 四一式 12cm砲"
 
 msgid "IDS_PJUA102_120_40_TYPE_HAGUN_CS"
 msgstr "40口径 四一式 12cm砲"
 
-msgid "IDS_PJUA111_152_45"
+msgid "IDS_PJUA111_C2_ART_STOCK"
 msgstr "45口径 四一式 15cm砲"
 
 msgid "IDS_PJUA121_305_40_TYPE41_MIKASA"
 msgstr "40口径 安式 30cm砲"
 
-msgid "IDS_PJUA211_305_45_TYPE41"
+msgid "IDS_PJUA211_B3_ART_STOCK"
 msgstr "45口径 毘式 30cm砲"
 
 msgid "IDS_PJUA212_305_50_TYPE41"
@@ -16706,26 +17850,38 @@ msgstr "50口径 三年式 14cm砲"
 msgid "IDS_PJUA214_305_45_TYPE41_CS"
 msgstr "45口径 毘式 30cm砲"
 
+msgid "IDS_PJUA221_C3_ART_STOCK"
+msgstr "50口径 三年式 14cm砲"
+
+msgid "IDS_PJUA231_D3_ART_STOCK"
+msgstr "45口径 三年式 12cm砲"
+
 msgid "IDS_PJUA302_120_45_TYPE_HAGUN"
 msgstr "45口径 三年式 12cm砲"
 
-msgid "IDS_PJUA311_140_50"
+msgid "IDS_PJUA311_C4_ART_STOCK"
 msgstr "50口径 三年式 14cm砲"
 
 msgid "IDS_PJUA321_140_50"
 msgstr "50口径 三年式 14cm砲"
 
-msgid "IDS_PJUA322_140_50_CS"
+msgid "IDS_PJUA322_140_50_TEST"
 msgstr "50口径 三年式 14cm砲"
 
 msgid "IDS_PJUA331_305_45_MKX_ISHIZUCHI"
 msgstr "45口径 四一式 30cm砲"
 
-msgid "IDS_PJUA401_120_45_TYPE_HAGUN"
+msgid "IDS_PJUA341_B4_ART_STOCK"
+msgstr "45口径 四一式 36cm砲"
+
+msgid "IDS_PJUA351_D4_ART_STOCK"
 msgstr "45口径 三年式 12cm砲 改良型"
 
-msgid "IDS_PJUA402_120_45_TYPE_HAGUN_0"
-msgstr "45口径 三年式 12cm砲 改良型"
+msgid "IDS_PJUA401_D5_ART_TOP"
+msgstr "45口径 三年式 12cm砲"
+
+msgid "IDS_PJUA402_D5_ART_STOCK"
+msgstr "45口径 三年式 12cm砲"
 
 msgid "IDS_PJUA403_120_45_UNIVERSAL"
 msgstr "45口径 三年式 12cm砲 後期型"
@@ -16733,14 +17889,17 @@ msgstr "45口径 三年式 12cm砲 後期型"
 msgid "IDS_PJUA404_120_45_UNIVERSAL"
 msgstr "45口径 十年式 12cm砲"
 
-msgid "IDS_PJUA411_356_45_TYPE41"
+msgid "IDS_PJUA411_B5_ART_STOCK"
 msgstr "45口径 四一式 36cm砲"
 
 msgid "IDS_PJUA421_140_50_3_YEAR_TYPE"
 msgstr "50口径 三年式 14cm砲"
 
-msgid "IDS_PJUA431_203_50_TYPE_C"
+msgid "IDS_PJUA431_C5_ART_STOCK"
 msgstr "50口径 三年式 1号 20cm砲 A型"
+
+msgid "IDS_PJUA432_C5_ART_TOP"
+msgstr "50口径 三年式 2号 20.3cm砲 E2型"
 
 msgid "IDS_PJUA441_120_45_TYPE_HA_KAMIKAZE"
 msgstr "45口径 三年式 12cm砲 改良型"
@@ -16766,17 +17925,20 @@ msgstr "45口径 四一式 36cm砲"
 msgid "IDS_PJUA501_127_50_TYPE_B"
 msgstr "50口径 三年式 12.7cm砲 B型"
 
-msgid "IDS_PJUA511_356_45_TYPE41"
+msgid "IDS_PJUA511_B6_ART_STOCK"
 msgstr "45口径 四一式 36cm砲"
 
 msgid "IDS_PJUA521_203_50_3RD_YEAR_TYPE"
 msgstr "50口径 三年式 2号 20.3cm砲 E型"
 
-msgid "IDS_PJUA531_203_50_TYPE_C"
+msgid "IDS_PJUA531_C6_ART_STOCK"
 msgstr "50口径 三年式 2号 20.3cm砲 E2型"
 
-msgid "IDS_PJUA532_203_50_TYPE_C_0"
-msgstr "50口径 三年式 1号 20cm砲 C型"
+msgid "IDS_PJUA541_D6_ART_STOCK"
+msgstr "45口径 三年式 12cm砲"
+
+msgid "IDS_PJUA542_D6_ART_TOP"
+msgstr "45口径 三年式 12cm砲 後期型"
 
 msgid "IDS_PJUA591_203_50_3RD_YEAR_TYPE_MYOKO"
 msgstr "50口径 三年式 2号 20.3cm砲 E型"
@@ -16784,7 +17946,10 @@ msgstr "50口径 三年式 2号 20.3cm砲 E型"
 msgid "IDS_PJUA592_203_50_3RD_YEAR_TYPE_HAGURO"
 msgstr "50口径 三年式 2号 20.3cm砲 E型"
 
-msgid "IDS_PJUA611_410_45_TYPE3YEAR"
+msgid "IDS_PJUA593_203_50_3RD_YEAR_TYPE_ASHIGARA"
+msgstr "50口径 三年式 2号 20.3cm砲 E型"
+
+msgid "IDS_PJUA611_B7_ART_STOCK"
 msgstr "45口径 三年式 41cm砲"
 
 msgid "IDS_PJUA621_155_50_TYPE_91"
@@ -16793,17 +17958,29 @@ msgstr "50口径 九一式 15.5cm砲"
 msgid "IDS_PJUA622_203_50_3RD_YEAR_TYPE"
 msgstr "50口径 三年式 2号 20.3cm砲 E3型"
 
-msgid "IDS_PJUA701_127_50_TYPE_B"
-msgstr "50口径 三年式 12.7cm砲 C型"
+msgid "IDS_PJUA631_C7_ART_STOCK"
+msgstr "50口径 三年式 2号 20.3cm砲 E型"
 
-msgid "IDS_PJUA702_127_50_TYPE_B"
-msgstr "50口径 三年式 12.7cm砲 D型"
+msgid "IDS_PJUA641_D7_ART_STOCK"
+msgstr "50口径 三年式 12.7cm砲 B型"
+
+msgid "IDS_PJUA701_D8_ART_STOCK"
+msgstr "50口径 三年式 12.7cm砲 A型"
+
+msgid "IDS_PJUA702_D8_ART_TOP"
+msgstr "50口径 三年式 12.7cm砲 B型"
 
 msgid "IDS_PJUA703_127_50_TYPE_B_0"
-msgstr "50口径 三年式 12.7cm砲 D型"
+msgstr "50口径 三年式 12.7cm砲 B型"
 
-msgid "IDS_PJUA711_410_45_TYPE3YEAR"
+msgid "IDS_PJUA711_B8_ART_STOCK"
 msgstr "45口径 三年式 41cm砲"
+
+msgid "IDS_PJUA721_C8_ART_STOCK"
+msgstr "60口径 三年式 15.5cm砲"
+
+msgid "IDS_PJUA722_C8_ART_TOP"
+msgstr "50口径 三年式 2号 20.3cm砲 E3型"
 
 msgid "IDS_PJUA741_140_50"
 msgstr "50口径 14cm砲"
@@ -16814,14 +17991,23 @@ msgstr "50口径 三年式 2号 20.3cm砲 E型"
 msgid "IDS_PJUA761_203_50_TONE"
 msgstr "50口径 三年式 2号 20.3cm砲 E3型"
 
-msgid "IDS_PJUA812_410_50_TYPE10YEAR"
+msgid "IDS_PJUA812_B9_ART_STOCK"
 msgstr "50口径 十年式 41cm砲"
 
-msgid "IDS_PJUA911_460_45_TYPE96"
+msgid "IDS_PJUA821_C9_ART_STOCK"
+msgstr "50口径 三年式 2号 20.3cm砲 E3型"
+
+msgid "IDS_PJUA831_D9_ART_STOCK"
+msgstr "50口径 三年式 12.7cm砲 C型"
+
+msgid "IDS_PJUA911_B10_ART_STOCK"
 msgstr "45口径 九四式 46cm砲"
 
-msgid "IDS_PJUA921_203_55_TYPE19YEAR"
+msgid "IDS_PJUA921_C10_ART_STOCK"
 msgstr "55口径 八年式 3号 20.3cm砲"
+
+msgid "IDS_PJUA931_D10_ART_STOCK"
+msgstr "50口径 三年式 12.7cm砲 D型"
 
 msgid "IDS_PJUB001_B5N2"
 msgstr "中島 九七式艦上攻撃機"
@@ -16850,7 +18036,22 @@ msgstr "中島 九二式艦上攻撃機"
 msgid "IDS_PJUB010_NAKAJIMA_C6N5_1B"
 msgstr "中島 彩雲"
 
+msgid "IDS_PJUB301_CV4_TB_STOCK"
+msgstr "三菱 一三式艦上攻撃機"
+
+msgid "IDS_PJUB302_CV4_TB_TOP"
+msgstr "空技廠 九六式艦上攻撃機"
+
+msgid "IDS_PJUB401_CV5_TB_STOCK"
+msgstr "空技廠 九六式艦上攻撃機"
+
+msgid "IDS_PJUB402_CV5_TB_TOP"
+msgstr "中島 九七式艦上攻撃機"
+
 msgid "IDS_PJUB501_B5N2_0"
+msgstr "中島 九七式艦上攻撃機"
+
+msgid "IDS_PJUB501_CV6_TB_STOCK"
 msgstr "中島 九七式艦上攻撃機"
 
 msgid "IDS_PJUB502_NAKAJIMA_B6N_0"
@@ -16861,6 +18062,27 @@ msgstr "愛知 流星"
 
 msgid "IDS_PJUB504_YOKOSUKA_B4Y_0"
 msgstr "空技廠 九六式艦上攻撃機"
+
+msgid "IDS_PJUB601_CV7_TB_STOCK"
+msgstr "中島 九七式艦上攻撃機"
+
+msgid "IDS_PJUB701_CV8_TB_STOCK"
+msgstr "中島 九七式艦上攻撃機"
+
+msgid "IDS_PJUB702_CV8_TB_TOP"
+msgstr "中島 天山"
+
+msgid "IDS_PJUB801_CV9_TB_STOCK"
+msgstr "中島 天山"
+
+msgid "IDS_PJUB802_CV9_TB_TOP"
+msgstr "愛知 流星"
+
+msgid "IDS_PJUB901_CV10_TB_STOCK"
+msgstr "愛知 流星"
+
+msgid "IDS_PJUB902_CV10_TB_TOP"
+msgstr "中島 彩雲"
 
 msgid "IDS_PJUD001_D1A2"
 msgstr "愛知 九六式艦上爆撃機"
@@ -16889,8 +18111,17 @@ msgstr "中島 藤花"
 msgid "IDS_PJUD009_AICHI_B7A"
 msgstr "愛知 流星"
 
+msgid "IDS_PJUD401_CV5_DB_STOCK"
+msgstr "愛知 九六式艦上爆撃機"
+
+msgid "IDS_PJUD501_CV6_DB_STOCK"
+msgstr "愛知 九六式艦上爆撃機"
+
 msgid "IDS_PJUD501_D1A2_0"
 msgstr "愛知 九六式艦上爆撃機"
+
+msgid "IDS_PJUD502_CV6_DB_TOP"
+msgstr "愛知 九九式艦上爆撃機一一型"
 
 msgid "IDS_PJUD502_D3A1_0"
 msgstr "愛知 九九式艦上爆撃機一一型"
@@ -16904,7 +18135,31 @@ msgstr "愛知 九九式艦上爆撃機二二型"
 msgid "IDS_PJUD509_AICHI_B7A_0"
 msgstr "愛知 流星"
 
-msgid "IDS_PJUE002_ENGINE_4600"
+msgid "IDS_PJUD601_CV7_DB_STOCK"
+msgstr "愛知 九九式艦上爆撃機一一型"
+
+msgid "IDS_PJUD602_CV7_DB_TOP"
+msgstr "愛知 九九式艦上爆撃機二二型"
+
+msgid "IDS_PJUD701_CV8_DB_STOCK"
+msgstr "愛知 九九式艦上爆撃機二二型"
+
+msgid "IDS_PJUD702_CV8_DB_TOP"
+msgstr "空技廠 彗星一二型"
+
+msgid "IDS_PJUD801_CV9_DB_STOCK"
+msgstr "空技廠 彗星一二型"
+
+msgid "IDS_PJUD802_CV9_DB_TOP"
+msgstr "愛知 流星"
+
+msgid "IDS_PJUD901_CV10_DB_STOCK"
+msgstr "愛知 流星"
+
+msgid "IDS_PJUD902_CV10_DB_TOP"
+msgstr "中島 藤花"
+
+msgid "IDS_PJUE002_C1_ENG_STOCK"
 msgstr "推力: 4,600 馬力"
 
 msgid "IDS_PJUE102_ENGINE_9500_TACHIBANA"
@@ -16913,37 +18168,46 @@ msgstr "推力: 9,500 馬力"
 msgid "IDS_PJUE103_ENGINE_9500_SAKURA"
 msgstr "推力: 9,500 馬力"
 
-msgid "IDS_PJUE111_ENGINE_22500"
+msgid "IDS_PJUE111_C2_ENG_STOCK"
 msgstr "推力: 22,500 馬力"
 
 msgid "IDS_PJUE121_ENGINE_16000_MIKASA"
 msgstr "推力: 16,000 馬力"
 
+msgid "IDS_PJUE131_D2_ENG_STOCK"
+msgstr "推力: 20,500 馬力"
+
 msgid "IDS_PJUE201_ENGINE_20500"
 msgstr "推力: 20,500 馬力"
 
-msgid "IDS_PJUE202_ENGINE_27300"
+msgid "IDS_PJUE202_B3_ENG_TOP"
 msgstr "推力: 27,300 馬力"
 
 msgid "IDS_PJUE203_ENGINE_7000_KATORI"
 msgstr "推力: 7,000 馬力"
 
-msgid "IDS_PJUE204_ENGINE_27300_CS"
-msgstr "推力: 27,300 馬力"
+msgid "IDS_PJUE204_B3_ENG_STOCK"
+msgstr "推力: 22,500 馬力"
 
-msgid "IDS_PJUE211_ENGINE_21500"
+msgid "IDS_PJUE211_D3_ENG_STOCK"
 msgstr "推力: 21,500 馬力"
 
-msgid "IDS_PJUE301_ENGINE_27000"
+msgid "IDS_PJUE221_C3_ENG_STOCK"
+msgstr "推力: 51,000 馬力"
+
+msgid "IDS_PJUE301_D4_ENG_STOCK"
 msgstr "推力: 27,000 馬力"
 
-msgid "IDS_PJUE302_ENGINE_77000"
+msgid "IDS_PJUE302_B4_ENG_TOP"
 msgstr "推力: 77,000 馬力"
 
-msgid "IDS_PJUE303_ENGINE_27000_CS"
+msgid "IDS_PJUE303_B4_ENG_STOCK"
+msgstr "推力: 68,250 馬力"
+
+msgid "IDS_PJUE304_D4_ENG_STOCK_FALSE"
 msgstr "推力: 27,000 馬力"
 
-msgid "IDS_PJUE311_ENGINE_90000"
+msgid "IDS_PJUE311_C4_ENG_STOCK"
 msgstr "推力: 90,000 馬力"
 
 msgid "IDS_PJUE321_ENGINE_51000"
@@ -16961,16 +18225,16 @@ msgstr "推力: 57,900 馬力"
 msgid "IDS_PJUE341_ENGINE_64000_ISHIZUCHI"
 msgstr "推力: 64,000 馬力"
 
-msgid "IDS_PJUE351_ENGINE_30000"
+msgid "IDS_PJUE351_CV4_ENG_STOCK"
 msgstr "推力: 30,000 馬力"
 
-msgid "IDS_PJUE401_ENGINE_38500"
+msgid "IDS_PJUE401_D5_ENG_STOCK"
 msgstr "推力: 38,500 馬力"
 
-msgid "IDS_PJUE402_ENGINE_136000"
+msgid "IDS_PJUE402_B5_ENG_TOP"
 msgstr "推力: 136,000 馬力"
 
-msgid "IDS_PJUE403_ENGINE_75000"
+msgid "IDS_PJUE403_B5_ENG_STOCK"
 msgstr "推力: 75,000 馬力"
 
 msgid "IDS_PJUE404_ENGINE_68250"
@@ -16979,10 +18243,10 @@ msgstr "推力: 68,250 馬力"
 msgid "IDS_PJUE405_ENGINE_68250_IWAKI"
 msgstr "推力: 68,250 馬力"
 
-msgid "IDS_PJUE411_ENGINE_102000"
+msgid "IDS_PJUE411_C5_ENG_STOCK"
 msgstr "推力: 102,000 馬力"
 
-msgid "IDS_PJUE421_ENGINE_52000"
+msgid "IDS_PJUE421_CV5_ENG_STOCK"
 msgstr "推力: 52,000 馬力"
 
 msgid "IDS_PJUE431_ENGINE_38500_KAMIKAZE"
@@ -17009,17 +18273,29 @@ msgstr "推力: 136,000 馬力"
 msgid "IDS_PJUE501_ENGINE_42000"
 msgstr "推力: 42,000 馬力"
 
-msgid "IDS_PJUE502_ENGINE_70000"
+msgid "IDS_PJUE502_B6_ENG_TOP"
 msgstr "推力: 70,000 馬力"
 
-msgid "IDS_PJUE511_ENGINE_102000"
+msgid "IDS_PJUE503_B6_ENG_STOCK"
+msgstr "推力: 57,900 馬力"
+
+msgid "IDS_PJUE511_C6_ENG_STOCK"
 msgstr "推力: 102,000 馬力"
+
+msgid "IDS_PJUE521_CV6_ENG_STOCK"
+msgstr "推力: 65,000 馬力"
+
+msgid "IDS_PJUE531_D6_ENG_STOCK"
+msgstr "推力: 38,500 馬力"
 
 msgid "IDS_PJUE601_ENGINE_52000"
 msgstr "推力: 52,000 馬力"
 
-msgid "IDS_PJUE602_ENGINE_84000"
+msgid "IDS_PJUE602_B7_ENG_TOP"
 msgstr "推力: 84,000 馬力"
+
+msgid "IDS_PJUE603_B7_ENG_STOCK"
+msgstr "推力: 78,000 馬力"
 
 msgid "IDS_PJUE611_ENGINE_152000"
 msgstr "推力: 152,000 馬力"
@@ -17027,20 +18303,26 @@ msgstr "推力: 152,000 馬力"
 msgid "IDS_PJUE621_ENGINE_65000"
 msgstr "推力: 65,000 馬力"
 
-msgid "IDS_PJUE631_ENGINE_152000"
+msgid "IDS_PJUE631_CV7_ENG_STOCK"
 msgstr "推力: 152,000 馬力"
 
-msgid "IDS_PJUE701_ENGINE_50000"
-msgstr "推力: 50,000 馬力"
-
-msgid "IDS_PJUE702_ENGINE_132000"
+msgid "IDS_PJUE641_C7_ENG_STOCK"
 msgstr "推力: 132,000 馬力"
 
-msgid "IDS_PJUE703_ENGINE_150000"
+msgid "IDS_PJUE651_D7_ENG_STOCK"
+msgstr "推力: 42,000 馬力"
+
+msgid "IDS_PJUE701_D8_ENG_STOCK"
+msgstr "推力: 50,000 馬力"
+
+msgid "IDS_PJUE702_B8_ENG_STOCK"
+msgstr "推力: 132,000 馬力"
+
+msgid "IDS_PJUE703_B8_ENG_TOP"
 msgstr "推力: 150,000 馬力"
 
-msgid "IDS_PJUE704_ENGINE_150000_0"
-msgstr "推力: 150,000 馬力"
+msgid "IDS_PJUE711_C8_ENG_STOCK"
+msgstr "推力: 152,000 馬力"
 
 msgid "IDS_PJUE741_ENGINE_78000"
 msgstr "推力: 78,000 馬力"
@@ -17048,7 +18330,7 @@ msgstr "推力: 78,000 馬力"
 msgid "IDS_PJUE742_ENGINE_78000_KITAKAMI"
 msgstr "推力: 78,000 馬力"
 
-msgid "IDS_PJUE751_ENGINE_160000"
+msgid "IDS_PJUE751_CV8_ENG_STOCK"
 msgstr "推力: 160,000 馬力"
 
 msgid "IDS_PJUE761_ENGINE_130000_ATAGO"
@@ -17063,20 +18345,38 @@ msgstr "推力: 132,000 馬力"
 msgid "IDS_PJUE793_ENGINE_132000_HAGURO"
 msgstr "推力: 132,000 馬力"
 
+msgid "IDS_PJUE794_ENGINE_132000_ASHIGARA"
+msgstr "推力: 132,000 馬力"
+
 msgid "IDS_PJUE801_ENGINE_75000"
 msgstr "推力: 75,000 馬力"
 
-msgid "IDS_PJUE811_ENGINE_160000"
+msgid "IDS_PJUE811_CV9_ENG_STOCK"
 msgstr "推力: 160,000 馬力"
 
-msgid "IDS_PJUE821_ENGINE_135000"
+msgid "IDS_PJUE821_B9_ENG_TOP"
 msgstr "推力: 135,000 馬力"
 
-msgid "IDS_PJUE911_ENGINE_152000"
+msgid "IDS_PJUE822_B9_ENG_STOCK"
+msgstr "推力: 132,000 馬力"
+
+msgid "IDS_PJUE831_C9_ENG_STOCK"
+msgstr "推力: 152,000 馬力"
+
+msgid "IDS_PJUE841_D9_ENG_STOCK"
+msgstr "推力: 52,000 馬力"
+
+msgid "IDS_PJUE911_C10_ENG_STOCK"
 msgstr "推力: 159,000 馬力"
 
-msgid "IDS_PJUE921_ENGINE_240000"
+msgid "IDS_PJUE921_CV10_ENG_STOCK"
 msgstr "推力: 240,000 馬力"
+
+msgid "IDS_PJUE931_B10_ENG_STOCK"
+msgstr "推力: 150,000 馬力"
+
+msgid "IDS_PJUE941_D10_ENG_STOCK"
+msgstr "推力: 75,000 馬力"
 
 msgid "IDS_PJUF301_FLIGHTCONTROL_1"
 msgstr "第一編制"
@@ -17411,6 +18711,9 @@ msgstr "ミョウコウ"
 msgid "IDS_PJUH796_HAGURO"
 msgstr "ハグロ"
 
+msgid "IDS_PJUH797_ASHIGARA"
+msgstr "アシガラ"
+
 msgid "IDS_PJUH801_SHIMAKAZE_1943"
 msgstr "島風 1943"
 
@@ -17483,7 +18786,25 @@ msgstr "三菱 九六式四号艦上戦闘機"
 msgid "IDS_PJUI019_MITSUBISHI_A6M5_C"
 msgstr "三菱 零式艦上戦闘機五二型丙"
 
+msgid "IDS_PJUI301_CV4_F_STOCK"
+msgstr "中島 九五式艦上戦闘機"
+
+msgid "IDS_PJUI302_CV4_F_TOP"
+msgstr "三菱 九六式四号艦上戦闘機"
+
+msgid "IDS_PJUI401_CV5_F_STOCK"
+msgstr "三菱 九六式四号艦上戦闘機"
+
+msgid "IDS_PJUI402_CV5_F_TOP"
+msgstr "三菱 零式艦上戦闘機二一型"
+
 msgid "IDS_PJUI501_A6M2_0"
+msgstr "三菱 零式艦上戦闘機二一型"
+
+msgid "IDS_PJUI501_CV6_F_STOCK"
+msgstr "三菱 九六式四号艦上戦闘機"
+
+msgid "IDS_PJUI502_CV6_F_TOP"
 msgstr "三菱 零式艦上戦闘機二一型"
 
 msgid "IDS_PJUI506_MITSUBISHI_A7M1_0"
@@ -17497,6 +18818,30 @@ msgstr "三菱 九六式四号艦上戦闘機"
 
 msgid "IDS_PJUI519_MITSUBISHI_A6M5_C_0"
 msgstr "三菱 零式艦上戦闘機五二型丙"
+
+msgid "IDS_PJUI601_CV7_F_STOCK"
+msgstr "三菱 零式艦上戦闘機二一型"
+
+msgid "IDS_PJUI602_CV7_F_TOP"
+msgstr "三菱 零式艦上戦闘機五二型丙"
+
+msgid "IDS_PJUI701_CV8_F_STOCK"
+msgstr "三菱 零式艦上戦闘機五二型丙"
+
+msgid "IDS_PJUI702_CV8_F_TOP"
+msgstr "川西 紫電改五"
+
+msgid "IDS_PJUI801_CV9_F_STOCK"
+msgstr "川西 紫電改五"
+
+msgid "IDS_PJUI802_CV9_F_TOP"
+msgstr "三菱 烈風"
+
+msgid "IDS_PJUI901_CV10_F_STOCK"
+msgstr "三菱 烈風"
+
+msgid "IDS_PJUI902_CV10_F_TOP"
+msgstr "三菱 烈風改"
 
 msgid "IDS_PJUS003_SUO"
 msgstr "一式 一号"
@@ -17646,10 +18991,13 @@ msgid "IDS_PJUS611_SUO"
 msgstr "七式 一号"
 
 msgid "IDS_PJUS621_SUO"
-msgstr "七式 一号"
+msgstr "八式 一号"
 
 msgid "IDS_PJUS622_SUO"
-msgstr "七式 二号"
+msgstr "八式 二号"
+
+msgid "IDS_PJUS661_SUO"
+msgstr "七式 一号"
 
 msgid "IDS_PJUS701_SUO"
 msgstr "八式 一号"
@@ -17664,7 +19012,7 @@ msgid "IDS_PJUS712_SUO"
 msgstr "八式 二号"
 
 msgid "IDS_PJUS721_SUO"
-msgstr "八式 一号"
+msgstr "七式 一号"
 
 msgid "IDS_PJUS741_SUO"
 msgstr "八式 一号"
@@ -17679,6 +19027,9 @@ msgid "IDS_PJUS791_SUO_MYOKO"
 msgstr "七式 一号"
 
 msgid "IDS_PJUS792_SUO_HAGURO"
+msgstr "七式 一号"
+
+msgid "IDS_PJUS793_SUO_ASHIGARA"
 msgstr "七式 一号"
 
 msgid "IDS_PJUS801_SUO"
@@ -17708,10 +19059,10 @@ msgstr "十式 一号"
 msgid "IDS_PJUS921_SUO"
 msgstr "十式 一号"
 
-msgid "IDS_PJUT103_450_TYPE_42"
+msgid "IDS_PJUT103_D2_TORP_STOCK"
 msgstr "四二式 魚雷"
 
-msgid "IDS_PJUT104_450_TYPE_44_MOD_2"
+msgid "IDS_PJUT104_D2_TORP_TOP"
 msgstr "四四式 魚雷 二型"
 
 msgid "IDS_PJUT105_450_TACHIBANA"
@@ -17723,13 +19074,13 @@ msgstr "四二式 魚雷"
 msgid "IDS_PJUT107_450_SAKURA"
 msgstr "四二式 魚雷"
 
-msgid "IDS_PJUT202_533_TYPE_44_MOD_1"
+msgid "IDS_PJUT202_C3_TORP_STOCK"
 msgstr "四四式 魚雷 一型"
 
-msgid "IDS_PJUT203_533_TYPE_6"
+msgid "IDS_PJUT203_D3_TORP_TOP"
 msgstr "六年式 魚雷"
 
-msgid "IDS_PJUT204_533_TYPE_6_0"
+msgid "IDS_PJUT204_D3_TORP_STOCK"
 msgstr "六年式 魚雷"
 
 msgid "IDS_PJUT205_533_TYPE_6_CS"
@@ -17738,13 +19089,19 @@ msgstr "六年式 魚雷"
 msgid "IDS_PJUT231_533_KATORI"
 msgstr "四四式 魚雷 一型"
 
-msgid "IDS_PJUT302_533_TYPE_92"
+msgid "IDS_PJUT301_C4_TORP_STOCK"
 msgstr "九二式 魚雷"
 
-msgid "IDS_PJUT303_533_TYPE_92_0"
+msgid "IDS_PJUT302_D4_TORP_TOP"
 msgstr "九二式 魚雷 一型"
 
-msgid "IDS_PJUT304_533_TYPE_92_CS"
+msgid "IDS_PJUT303_D4_TORP_STOCK"
+msgstr "六年式 魚雷"
+
+msgid "IDS_PJUT304_D4_TORP_TOP_FALSE"
+msgstr "九二式 魚雷"
+
+msgid "IDS_PJUT305_D4_TORP_STOCK_FALSE"
 msgstr "九二式 魚雷"
 
 msgid "IDS_PJUT331_610_2_JGT010"
@@ -17752,6 +19109,15 @@ msgstr "八年式 魚雷"
 
 msgid "IDS_PJUT332_610_2_JGT010_CS"
 msgstr "八年式 魚雷"
+
+msgid "IDS_PJUT401_C5_TORP_STOCK"
+msgstr "八年式 魚雷"
+
+msgid "IDS_PJUT402_C5_TORP_TOP"
+msgstr "八年式 二型"
+
+msgid "IDS_PJUT403_D5_TORP_STOCK"
+msgstr "九二式 魚雷"
 
 msgid "IDS_PJUT404_533_TYPE_89"
 msgstr "八九式 魚雷"
@@ -17777,10 +19143,13 @@ msgstr "九二式 魚雷"
 msgid "IDS_PJUT442_533_JPT015_CAMO_KAMIKAZE"
 msgstr "九二式 魚雷"
 
-msgid "IDS_PJUT502_610_TYPE_8_MOD_1"
+msgid "IDS_PJUT501_D6_TORP_STOCK"
 msgstr "八年式 一型"
 
-msgid "IDS_PJUT503_610_TYPE_8_MOD_2"
+msgid "IDS_PJUT502_D6_TORP_TOP"
+msgstr "八年式 二型"
+
+msgid "IDS_PJUT503_C6_TORP_STOCK"
 msgstr "八年式 二型"
 
 msgid "IDS_PJUT504_610_TYPE_8_MOD_2_IWAKI"
@@ -17795,10 +19164,16 @@ msgstr "八年式 四型"
 msgid "IDS_PJUT507_610_TYPE_8_MOD_5_0"
 msgstr "八年式 五型"
 
-msgid "IDS_PJUT603_610_JPT010"
-msgstr "九〇式 魚雷"
+msgid "IDS_PJUT601_C7_TORP_STOCK"
+msgstr "八年式 二型"
 
-msgid "IDS_PJUT604_610_TYPE_90_MOD_1"
+msgid "IDS_PJUT602_C7_TORP_TOP"
+msgstr "九〇式 魚雷 一型"
+
+msgid "IDS_PJUT603_D7_TORP_STOCK"
+msgstr "八年式 二型"
+
+msgid "IDS_PJUT604_D7_TORP_TOP"
 msgstr "九〇式 魚雷 一型"
 
 msgid "IDS_PJUT605_610_TYPE_90_MOD_1_0"
@@ -17816,40 +19191,58 @@ msgstr "九〇式 侵食魚雷 一型"
 msgid "IDS_PJUT695_610_TYPE_90_MOD_1_HAGURO"
 msgstr "九〇式 侵食魚雷 一型"
 
-msgid "IDS_PJUT705_610_TYPE_90_MOD_2"
+msgid "IDS_PJUT696_610_TYPE_90_MOD_1_ASHIGARA"
+msgstr "九〇式 侵食魚雷 一型"
+
+msgid "IDS_PJUT701_C8_TORP_STOCK"
+msgstr "九〇式 魚雷 一型"
+
+msgid "IDS_PJUT703_D8_TORP_STOCK"
+msgstr "九〇式 魚雷 一型"
+
+msgid "IDS_PJUT704_D8_TORP_MED"
 msgstr "九〇式 魚雷 二型"
+
+msgid "IDS_PJUT705_D8_TORP_TOP"
+msgstr "九三式 魚雷 二型"
 
 msgid "IDS_PJUT706_610_TYPE_90_MOD_5_0"
 msgstr "九〇式 魚雷 五型"
 
-msgid "IDS_PJUT802_610_TYPE_93_MOD_1"
+msgid "IDS_PJUT801_C9_TORP_STOCK"
 msgstr "九三式 魚雷 一型"
 
-msgid "IDS_PJUT803_610_TYPE_93_MODEL_2"
+msgid "IDS_PJUT802_C9_TORP_TOP"
+msgstr "九三式 魚雷 二型"
+
+msgid "IDS_PJUT803_D9_TORP_STOCK"
 msgstr "九三式 魚雷 二型"
 
 msgid "IDS_PJUT804_610_ATAGO"
-msgstr "九三式 魚雷 一型"
+msgstr "九〇式 魚雷 一型"
 
 msgid "IDS_PJUT805_610_TONE"
-msgstr "九三式 魚雷 一型"
+msgstr "九〇式 魚雷 一型"
 
-msgid "IDS_PJUT806_610_TYPE_93_MOD_1_0"
-msgstr "九三式 魚雷 試作"
+msgid "IDS_PJUT806_D9_TORP_MED"
+msgstr "九三式 魚雷 試製"
 
-msgid "IDS_PJUT901_610_TYPE_93_MODEL_3"
-msgstr "九三式 魚雷 三型"
+msgid "IDS_PJUT807_D9_TORP_TOP"
+msgstr "回天"
 
-msgid "IDS_PJUT902_610_TYPE_F3"
+msgid "IDS_PJUT901_D10_TORP_STOCK"
+msgstr "九三式 魚雷 試製"
+
+msgid "IDS_PJUT902_C10_TORP_STOCK"
 msgstr "回天"
 
 msgid "IDS_PJUT903_610_TYPE_90_KITAKAMI"
 msgstr "九〇式 魚雷 一型"
 
-msgid "IDS_PJUT904_610_TYPE_F3_0"
-msgstr "回天"
+msgid "IDS_PJUT904_D10_TORP_MED"
+msgstr "九三式 魚雷 三型"
 
-msgid "IDS_PJUT905_610_TYPE_F3_D"
+msgid "IDS_PJUT905_D10_TORP_TOP"
 msgstr "回天"
 
 msgid "IDS_PLACED_ADDED"
@@ -19582,6 +20975,9 @@ msgstr "В-4"
 msgid "IDS_PRUA001_152_45_PATTERN_1892"
 msgstr "152 mm/45 Canet naval gun"
 
+msgid "IDS_PRUA002_C1_ART_STOCK"
+msgstr "130 mm/50 B-2LM"
+
 msgid "IDS_PRUA010_130_B2LM"
 msgstr "130 mm/50 B-2LM"
 
@@ -19591,23 +20987,29 @@ msgstr "152 mm/45 Canet naval gun"
 msgid "IDS_PRUA111_152_45_PATTERN_1892_PALLADA"
 msgstr "152 mm/45 Canet naval gun"
 
-msgid "IDS_PRUA121_4IN60_1911"
+msgid "IDS_PRUA121_D2_ART_STOCK"
 msgstr "102 mm/60 Model 1911"
 
-msgid "IDS_PRUA131_120_45_PATTERN_1892"
+msgid "IDS_PRUA131_C2_ART_STOCK"
 msgstr "120 mm/45 Model 1892"
 
-msgid "IDS_PRUA201_152_45_PATTERN_1892"
+msgid "IDS_PRUA201_C3_ART_STOCK"
 msgstr "152 mm/45 Model 1892"
 
-msgid "IDS_PRUA301_130_55_MOD_1911"
+msgid "IDS_PRUA202_C3_ART_TOP"
 msgstr "130 mm/55 Model 1913"
 
-msgid "IDS_PRUA302_130_55_MOD_1928"
+msgid "IDS_PRUA211_D3_ART_STOCK"
+msgstr "102 mm/60 Model 1911"
+
+msgid "IDS_PRUA301_C4_ART_STOCK"
 msgstr "130 mm/55 Model 1913"
 
-msgid "IDS_PRUA303_130_55_MOD_1911_0"
+msgid "IDS_PRUA302_C4_ART_TOP"
 msgstr "130 mm/55 Model 1913"
+
+msgid "IDS_PRUA311_D4_ART_STOCK"
+msgstr "102 mm/60 Model 1911"
 
 msgid "IDS_PRUA401_152_53_MK16_MK13"
 msgstr "152 mm/53 Мк16/Мк13"
@@ -19615,23 +21017,32 @@ msgstr "152 mm/53 Мк16/Мк13"
 msgid "IDS_PRUA411_130_50_B13"
 msgstr "130 mm/50 B-13"
 
-msgid "IDS_PRUA421_130_50_B13_NE_PREM"
+msgid "IDS_PRUA421_D5_ART_STOCK"
 msgstr "130 mm/50 B-13"
 
 msgid "IDS_PRUA431_305_52_1907_NIKOLAY"
 msgstr "305 mm/52 Model 1907"
 
-msgid "IDS_PRUA441_180_MK3_K"
+msgid "IDS_PRUA441_C5_ART_STOCK"
 msgstr "180 mm/57 MK-3-180"
 
 msgid "IDS_PRUA451_130_55_PROFINTERN"
 msgstr "130 mm/55 B-7"
 
-msgid "IDS_PRUA501_152_MK5"
+msgid "IDS_PRUA501_C6_ART_STOCK"
 msgstr "152 mm/57 MK-5"
 
 msgid "IDS_PRUA511_180_MK3_MOLOTOV"
 msgstr "180 mm/57 MK-3-180"
+
+msgid "IDS_PRUA521_D6_ART_STOCK"
+msgstr "130 mm/50 B-2LM"
+
+msgid "IDS_PRUA601_C7_ART_STOCK"
+msgstr "152 mm/57 MK-5"
+
+msgid "IDS_PRUA611_D7_ART_STOCK"
+msgstr "130 mm/50 B-2LM"
 
 msgid "IDS_PRUA691_1ST_APRIL"
 msgstr "Pewpew"
@@ -19639,25 +21050,31 @@ msgstr "Pewpew"
 msgid "IDS_PRUA701_152_MK5_KUTUZOV"
 msgstr "152 mm/57 MK-5-bis"
 
-msgid "IDS_PRUA801_130_B2LM"
+msgid "IDS_PRUA711_C8_ART_STOCK"
+msgstr "152 mm/57 MK-5"
+
+msgid "IDS_PRUA721_D8_ART_STOCK"
 msgstr "130 mm/50 B-2LM"
 
-msgid "IDS_PRUA811_130_B2U"
+msgid "IDS_PRUA801_D9_ART_STOCK"
+msgstr "130 mm/50 B-2LM"
+
+msgid "IDS_PRUA811_D9_ART_TOP"
 msgstr "130 mm/55 B-2-U"
 
-msgid "IDS_PRUA812_130_B2U_0"
-msgstr "130 mm/55 B-2-U"
-
-msgid "IDS_PRUA821_180_MK3"
+msgid "IDS_PRUA821_C9_ART_STOCK"
 msgstr "180 mm/57 MK-3-180M"
 
-msgid "IDS_PRUA901_220_SM6"
+msgid "IDS_PRUA901_C10_ART_STOCK"
 msgstr "220 mm/65 SM-6"
+
+msgid "IDS_PRUA911_D10_ART_STOCK"
+msgstr "130 mm/55 B-2-U"
 
 msgid "IDS_PRUE001_ENGINE_12000"
 msgstr "推力: 12,000 馬力"
 
-msgid "IDS_PRUE011_ENGINE_20000"
+msgid "IDS_PRUE011_C1_ENG_STOCK"
 msgstr "推力: 20,000 馬力"
 
 msgid "IDS_PRUE101_ENGINE_11600_DIANA"
@@ -19666,22 +21083,22 @@ msgstr "推力: 11,600 馬力"
 msgid "IDS_PRUE111_ENGINE_11600_PALLADA"
 msgstr "推力: 11,600 馬力"
 
-msgid "IDS_PRUE121_ENGINE_28400"
+msgid "IDS_PRUE121_D2_ENG_STOCK"
 msgstr "推力: 28,400 馬力"
 
-msgid "IDS_PRUE131_ENGINE_17700"
+msgid "IDS_PRUE131_C2_ENG_STOCK"
 msgstr "推力: 17,700 馬力"
 
-msgid "IDS_PRUE201_ENGINE_25500"
+msgid "IDS_PRUE201_D3_ENG_STOCK"
 msgstr "推力: 25,500 馬力"
 
-msgid "IDS_PRUE211_ENGINE_19500"
+msgid "IDS_PRUE211_C3_ENG_STOCK"
 msgstr "推力: 19,500 馬力"
 
-msgid "IDS_PRUE301_ENGINE_32700"
+msgid "IDS_PRUE301_D4_ENG_STOCK"
 msgstr "推力: 32,700 馬力"
 
-msgid "IDS_PRUE311_ENGINE_50000"
+msgid "IDS_PRUE311_C4_ENG_STOCK"
 msgstr "推力: 50,000 馬力"
 
 msgid "IDS_PRUE401_ENGINE_90000"
@@ -19690,7 +21107,7 @@ msgstr "推力: 90,000 馬力"
 msgid "IDS_PRUE411_ENGINE_48000"
 msgstr "推力: 48,000 馬力"
 
-msgid "IDS_PRUE421_ENGINE_48000_NE_PREM"
+msgid "IDS_PRUE421_D5_ENG_STOCK"
 msgstr "推力: 48,000 馬力"
 
 msgid "IDS_PRUE422_ENGINE_53100"
@@ -19699,49 +21116,49 @@ msgstr "推力: 53,100 馬力"
 msgid "IDS_PRUE431_ENGINE_30000_NIKOLAY"
 msgstr "推力: 30,000 馬力"
 
-msgid "IDS_PRUE441_ENGINE_110000"
+msgid "IDS_PRUE441_C5_ENG_STOCK"
 msgstr "推力: 110,000 馬力"
 
 msgid "IDS_PRUE451_ENGINE_50000_PROFINTERN"
 msgstr "推力: 50,000 馬力"
 
-msgid "IDS_PRUE501_ENGINE_52200"
+msgid "IDS_PRUE501_D6_ENG_STOCK"
 msgstr "推力: 52,200 馬力"
 
-msgid "IDS_PRUE511_ENGINE_130000"
+msgid "IDS_PRUE511_C6_ENG_STOCK"
 msgstr "推力: 130,000 馬力"
 
 msgid "IDS_PRUE521_ENGINE_110000_MOLOTOV"
 msgstr "推力: 110,000 馬力"
 
-msgid "IDS_PRUE601_ENGINE_84500"
-msgstr "推力: 84,500 馬力"
+msgid "IDS_PRUE601_D7_ENG_STOCK"
+msgstr "推力: 81,000 馬力"
 
-msgid "IDS_PRUE611_ENGINE_126500"
+msgid "IDS_PRUE611_C7_ENG_STOCK"
 msgstr "推力: 126,500 馬力"
 
 msgid "IDS_PRUE691_ENGINE_1ST_APRIL"
 msgstr "Nocknockneo"
 
-msgid "IDS_PRUE701_ENGINE_125500"
+msgid "IDS_PRUE701_D8_ENG_STOCK"
 msgstr "推力: 125,500 馬力"
 
 msgid "IDS_PRUE711_ENGINE_121000_KUTUZOV"
 msgstr "推力: 121,000 馬力"
 
-msgid "IDS_PRUE721_ENGINE_124600"
+msgid "IDS_PRUE721_C8_ENG_STOCK"
 msgstr "推力: 124,600 馬力"
 
-msgid "IDS_PRUE801_ENGINE_81000"
-msgstr "推力: 81,000 馬力"
+msgid "IDS_PRUE801_D9_ENG_STOCK"
+msgstr "推力: 84,500 馬力"
 
-msgid "IDS_PRUE811_ENGINE_144000"
+msgid "IDS_PRUE811_C9_ENG_STOCK"
 msgstr "推力: 144,000 馬力"
 
-msgid "IDS_PRUE901_ENGINE_130000"
+msgid "IDS_PRUE901_D10_ENG_STOCK"
 msgstr "推力: 130,000 馬力"
 
-msgid "IDS_PRUE911_ENGINE_210000"
+msgid "IDS_PRUE911_C10_ENG_STOCK"
 msgstr "推力: 210,000 馬力"
 
 msgid "IDS_PRUH001_AVRORA_1917"
@@ -20029,17 +21446,14 @@ msgstr "533 mm D4"
 msgid "IDS_PRUT005_53_27P"
 msgstr "53-27P"
 
-msgid "IDS_PRUT101_456_PAT_08"
+msgid "IDS_PRUT101_D2_TORP_STOCK"
 msgstr "Torpedo Model 1908"
 
-msgid "IDS_PRUT102_456_PAT_10"
+msgid "IDS_PRUT102_D2_TORP_TOP"
 msgstr "Torpedo Model 1910"
 
-msgid "IDS_PRUT103_456_PAT_10_0"
-msgstr "Torpedo Model 1910 mod. 2"
-
-msgid "IDS_PRUT201_45_36N"
-msgstr "45-36N"
+msgid "IDS_PRUT201_D3_TORP_STOCK"
+msgstr "Torpedo Model 1910"
 
 msgid "IDS_PRUT202_45_36NI"
 msgstr "45-36NU"
@@ -20050,17 +21464,17 @@ msgstr "Torpedo Model 1910"
 msgid "IDS_PRUT211_53_17"
 msgstr "53-17"
 
-msgid "IDS_PRUT301_45_36I"
-msgstr "45-36U"
+msgid "IDS_PRUT301_D4_TORP_STOCK"
+msgstr "Torpedo Model 1910"
 
-msgid "IDS_PRUT321_PAT_1912"
+msgid "IDS_PRUT321_D4_TORP_TOP"
 msgstr "Torpedo Model 1912"
-
-msgid "IDS_PRUT322_PAT_1912_0"
-msgstr "Torpedo Model 1912 mod. 2"
 
 msgid "IDS_PRUT331_53_27"
 msgstr "53-27"
+
+msgid "IDS_PRUT341_C4_TORP_STOCK"
+msgstr "Torpedo Model 1912"
 
 msgid "IDS_PRUT401_533_3_APT009"
 msgstr "Mark 11"
@@ -20071,32 +21485,41 @@ msgstr "53-39"
 msgid "IDS_PRUT412_533_3_39U_MURM"
 msgstr "53-39"
 
-msgid "IDS_PRUT421_53_36"
+msgid "IDS_PRUT421_D5_TORP_STOCK"
 msgstr "53-36 mod. 1"
 
-msgid "IDS_PRUT422_53_38"
+msgid "IDS_PRUT422_D5_TORP_TOP"
 msgstr "53-38"
-
-msgid "IDS_PRUT423_53_38_0"
-msgstr "53-38 mod. 1"
 
 msgid "IDS_PRUT431_PROFINTERN"
 msgstr "53-27"
 
+msgid "IDS_PRUT441_C5_TORP_STOCK"
+msgstr "53-36 mod. 1"
+
 msgid "IDS_PRUT501_MOLOTOV"
 msgstr "53-38"
 
-msgid "IDS_PRUT601_53_39_MOD1"
+msgid "IDS_PRUT511_D6_TORP_STOCK"
+msgstr "53-38"
+
+msgid "IDS_PRUT512_D6_TORP_TOP"
 msgstr "53-39 mod. 1"
 
-msgid "IDS_PRUT602_53_38I"
+msgid "IDS_PRUT521_C6_TORP_STOCK"
+msgstr "53-38"
+
+msgid "IDS_PRUT601_D7_TORP_STOCK"
+msgstr "53-39 mod. 1"
+
+msgid "IDS_PRUT602_D7_TORP_TOP"
 msgstr "53-38U"
 
 msgid "IDS_PRUT603_53_39_MOD4_0"
 msgstr "53-39 mod. 4"
 
-msgid "IDS_PRUT604_53_38I_0"
-msgstr "53-38U mod. 2"
+msgid "IDS_PRUT611_C7_TORP_STOCK"
+msgstr "53-39 mod. 1"
 
 msgid "IDS_PRUT691_1ST_APRIL"
 msgstr "Plopplop"
@@ -20110,19 +21533,31 @@ msgstr "ET-80"
 msgid "IDS_PRUT703_TORP_KUTUZOV"
 msgstr "53-38U"
 
-msgid "IDS_PRUT801_53_36_MOD2"
+msgid "IDS_PRUT711_53_51"
+msgstr "53-51"
+
+msgid "IDS_PRUT721_D8_TORP_STOCK"
+msgstr "53-38U"
+
+msgid "IDS_PRUT722_D8_TORP_TOP"
 msgstr "53-36 mod. 2"
 
-msgid "IDS_PRUT802_53_39_MOD2"
+msgid "IDS_PRUT731_C8_TORP_STOCK"
+msgstr "53-38U"
+
+msgid "IDS_PRUT801_D9_TORP_STOCK"
+msgstr "53-36 mod. 2"
+
+msgid "IDS_PRUT802_D9_TORP_TOP"
 msgstr "53-39 mod. 2"
 
-msgid "IDS_PRUT803_53_36_MOD3_0"
-msgstr "53-36 mod. 3"
+msgid "IDS_PRUT811_C9_TORP_STOCK"
+msgstr "53-36 mod. 2"
 
-msgid "IDS_PRUT901_53_39_MOD3"
+msgid "IDS_PRUT901_D10_TORP_STOCK"
 msgstr "53-39 mod. 3"
 
-msgid "IDS_PRUT902_ET_46"
+msgid "IDS_PRUT902_D10_TORP_TOP"
 msgstr "ET-46"
 
 msgid "IDS_PURCHASED"
@@ -20208,8 +21643,26 @@ msgstr "120 mm HE"
 msgid "IDS_PWPA002_120_AP_BLYSKAWICA"
 msgstr "120 mm AP"
 
+msgid "IDS_PWPA8001_120_HE_1916"
+msgstr "Обр.1916"
+
+msgid "IDS_PWPA8001_120_HE_70_M_J9_ICA"
+msgstr "70 cm J9"
+
+msgid "IDS_PWPA8002_120_AP_75_CM_M10"
+msgstr "75 cm M10"
+
+msgid "IDS_PWPA8002_120_AP_MARK_II"
+msgstr "Mark II"
+
 msgid "IDS_PWPT001_550_MARK_X"
 msgstr "533 mm Mk 10"
+
+msgid "IDS_PWPT8001_550_MARK_100_1915"
+msgstr "ПЛ-100 обр.1915"
+
+msgid "IDS_PWPT8001_550_MARK_13"
+msgstr "Mark 13"
 
 msgid "IDS_PWSD501"
 msgstr "Błyskawica"
@@ -21308,6 +22761,9 @@ msgstr "サーバーから切断"
 msgid "IDS_SERVER_DISCONNECTED"
 msgstr "サーバーから切断されました。"
 
+msgid "IDS_SERVER_HAS_RESTART_BATTLE"
+msgstr "注意! メンテナンスのため、サーバーがご利用頂けません。現在の戦闘の終了後、ログイン画面にリダイレクトされます。"
+
 msgid "IDS_SERVER_IS_FULL_WAIT_FOR_YOU_TURN"
 msgstr "申し訳ございませんが、サーバーがビジーです。現在、ゲーム参加待機中です。クライアントがゲームに自動接続するまでお待ちください。"
 
@@ -21317,8 +22773,29 @@ msgstr "サーバー"
 msgid "IDS_SERVER_RELOAD_MESSAGE"
 msgstr "サーバーリスタートまで"
 
+msgid "IDS_SERVER_RESTART_CANCEL"
+msgstr "サーバー再起動がキャンセルされました"
+
+msgid "IDS_SERVER_RESTART_TIME_BATTLE"
+msgstr ""
+"サーバーがご利用可能になるまで %(timeRestart)s です。"
+
+msgid "IDS_SERVER_RESTART_TIME_DOCK"
+msgstr "サーバーがご利用可能になるまで <h3>%(timeRestart)s</h3>"
+
 msgid "IDS_SERVER_SWITCH"
 msgstr "別サーバーへの移行"
+
+msgid "IDS_SERVER_WILL_RESTART_BATTLE"
+msgstr ""
+"注意! メンテナンスのため、%(timeLeft)"
+"s 後にサーバーがご利用頂けなくなります。現在の戦闘の終了後、ログイン画面にリダイレクトされます。"
+
+msgid "IDS_SERVER_WILL_RESTART_DOCK"
+msgstr ""
+"注意! メンテナンスのためにサーバーがご利用頂けなくなるまで\n"
+"<h3>%(timeLeft)s</h3>\n"
+"ログイン画面にリダイレクトされます。"
 
 msgid "IDS_SERVICE"
 msgstr "修理・補給"
@@ -21925,9 +23402,15 @@ msgstr ": 自艦を攻撃中の敵砲弾の最大散布界"
 msgid "IDS_SHOTS"
 msgstr "射撃弾数"
 
+msgid "IDS_SHOTS_HINT"
+msgstr "射撃弾数"
+
 msgid "IDS_SHOT_MINUTE"
 msgid_plural "IDS_SHOT_MINUTE"
 msgstr[0] "発/分"
+
+msgid "IDS_SHOW"
+msgstr "表示"
 
 msgid "IDS_SHOWGAMESTATS"
 msgstr "ゲーム成績表示"
@@ -21992,6 +23475,9 @@ msgstr "信号旗"
 msgid "IDS_SIGNALS_TAKEN_AWAY_WARNING"
 msgstr "使い果たした信号旗は、艦から削除されます。"
 
+msgid "IDS_SIMULTANEOUS_RELOAD"
+msgstr "主砲と魚雷の装填インジケータを同時表示"
+
 msgid "IDS_SITE"
 msgstr "ウェブサイト"
 
@@ -22002,7 +23488,7 @@ msgid "IDS_SKILLTYPE_ARTILLERY"
 msgstr "砲撃"
 
 msgid "IDS_SKILLTYPE_ARTILLERY_HINT"
-msgstr "砲撃の被弾数 / 被ダメージ"
+msgstr "砲撃の被弾数と被ダメージ"
 
 msgid "IDS_SKILLTYPE_AVIATION"
 msgstr "航空機"
@@ -22291,7 +23777,7 @@ msgid "IDS_SKILL_DESC_SUPERINTENDENTMODIFIER"
 msgstr "消耗品の容量を向上"
 
 msgid "IDS_SKILL_DESC_SURVIVALMODIFIER"
-msgstr "艦の通常 HP を向上"
+msgstr "艦の HP を向上"
 
 msgid "IDS_SKILL_DESC_TORPEDOACCELERATORMODIFIER"
 msgstr "艦載魚雷と航空魚雷の射程を犠牲にして雷速を向上"
@@ -22796,10 +24282,10 @@ msgid "IDS_SPACES/33_42_NEIGHBORS_DESCR"
 msgstr "英仏海峡における接近戦。"
 
 msgid "IDS_SPACES/44_PATH_WARRIOR"
-msgstr "武士道"
+msgstr "ハドソン湾 (Warrior’s Path)"
 
 msgid "IDS_SPACES/44_PATH_WARRIOR_DESCR"
-msgstr "英雄達は各々の道を歩む。"
+msgstr "島々と氷に恵まれるカナダ北方海域。"
 
 msgid "IDS_SPACES/45_RAMPART"
 msgstr "要塞"
@@ -22860,6 +24346,57 @@ msgstr "その他"
 
 msgid "IDS_SPECIALITY"
 msgstr "適性"
+
+msgid "IDS_SPECTATE_ARMAMENT"
+msgstr "兵装へ"
+
+msgid "IDS_SPECTATE_BACK"
+msgstr "後方"
+
+msgid "IDS_SPECTATE_CAM_MOVING"
+msgstr "カメラ"
+
+msgid "IDS_SPECTATE_CARRIER"
+msgstr "航空母艦"
+
+msgid "IDS_SPECTATE_CURRENT_ARMAMENT_NEXT_OBJECT"
+msgstr "現兵装の次のオブジェクト"
+
+msgid "IDS_SPECTATE_FREE_CAM"
+msgstr "フリーカメラ"
+
+msgid "IDS_SPECTATE_LAST_SELECTED_SHIP"
+msgstr "最後に選択した艦"
+
+msgid "IDS_SPECTATE_MAINGUN_SHELL"
+msgstr "主砲弾"
+
+msgid "IDS_SPECTATE_MAINGUN_SHELL_NEXT"
+msgstr "次の砲弾"
+
+msgid "IDS_SPECTATE_NEXT_ARMAMENT"
+msgstr "次の兵装タイプ"
+
+msgid "IDS_SPECTATE_SHIP"
+msgstr "艦"
+
+msgid "IDS_SPECTATE_SHIP_AT_CROSSHAIR"
+msgstr "目標オブジェクトへカメラを移動"
+
+msgid "IDS_SPECTATE_SQUADRON"
+msgstr "中隊"
+
+msgid "IDS_SPECTATE_SQUADRON_NEXT"
+msgstr "次の中隊"
+
+msgid "IDS_SPECTATE_SWITCH_SHIP"
+msgstr "次の艦"
+
+msgid "IDS_SPECTATE_TORPEDO"
+msgstr "魚雷"
+
+msgid "IDS_SPECTATE_TORPEDO_NEXT"
+msgstr "次の魚雷"
 
 msgid "IDS_SPECTATORMODE"
 msgstr "観戦モード"
@@ -22982,7 +24519,7 @@ msgstr ""
 "{        \"TEMPLATE_BATTLE_CONDITIONS\": {            \"optVars\": "
 "[\"battle_cond.in_squad\"],            \"rules\": "
 "[                {                    \"template\": \"{}"
-"{}ミッションを達成する\",                    \"template_args\": "
+"{}ミッションが達成可能\",                    \"template_args\": "
 "[                        {\"isVar\": true, \"name\": \"battle_cond.in_squad"
 "\"},                        {\"isVar\": true, \"name\": \"battle_cond."
 "battle_type"
@@ -23165,7 +24702,7 @@ msgstr ""
 "[\"precondition\", \"count\", \"base_points\"]        },        "
 "\"TEMPLATE_REQUIRE_COMPLETED_TASK\": {            \"rules\": "
 "[                {                    \"template\": "
-"\"ミッションを達成する: {}\",                    \"template_args"
+"\"ミッションを達成してから: {}\",                    \"template_args"
 "\": [{\"isVar\": false, \"name\": \"battle_task"
 "\"}]                }            ],            \"vars\": []        },        "
 "\"TEMPLATE_SHIP_DAMAGE_MODULES\": {            \"cntVars\": [\"module.count"
@@ -23940,22 +25477,31 @@ msgid "IDS_TACTICS"
 msgstr "戦術"
 
 msgid "IDS_TAKEN_AMMO_AP_HINT"
-msgstr "AP 弾の被弾数 / 被ダメージ"
+msgstr "AP 弾の被弾数と被ダメージ"
 
 msgid "IDS_TAKEN_AMMO_HE_HINT"
-msgstr "HE 弾の被弾数 / 被ダメージ"
+msgstr "HE 弾の被弾数と被ダメージ"
 
 msgid "IDS_TAKEN_BOMBS_HINT"
-msgstr "爆弾の被弾数 / 被ダメージ"
+msgstr "爆弾の被弾数と被ダメージ"
 
 msgid "IDS_TAKEN_DAMAGED_MODULES_HINT"
 msgstr "機能停止および大破したモジュールの数"
+
+msgid "IDS_TAKEN_DAMAGE_HINT"
+msgstr "被ダメージ"
+
+msgid "IDS_TAKEN_FIRES_COUNT_HINT"
+msgstr "火災発生回数"
+
+msgid "IDS_TAKEN_FLOODS_COUNT_HINT"
+msgstr "浸水発生回数"
 
 msgid "IDS_TAKEN_OTHER_HINT"
 msgstr "火災、浸水、体当たりによる被ダメージ"
 
 msgid "IDS_TAKEN_TORPEDOES_HINT"
-msgstr "魚雷の被雷数 / 被ダメージ"
+msgstr "魚雷の被雷数と被ダメージ"
 
 msgid "IDS_TAKE_AWAY"
 msgstr "解除"
@@ -23976,6 +25522,9 @@ msgstr ""
 
 msgid "IDS_TASK_ARPEGGIO"
 msgstr "アルペジオ・ミッション"
+
+msgid "IDS_TBOMBS_SHOTS_HINT"
+msgstr "投下した魚雷の数"
 
 msgid "IDS_TEAMKILLER_ATTACK_CHAT"
 msgstr "同士討ちに対する警告"
@@ -24197,6 +25746,21 @@ msgstr "射撃管制室改良 1"
 
 msgid "IDS_TITLE_PCM029_FIRECONTROL_MOD_II_US"
 msgstr "射撃管制室改良 2"
+
+msgid "IDS_TITLE_PCM030_MAINWEAPON_MOD_I"
+msgstr "主兵装改良 1"
+
+msgid "IDS_TITLE_PCM031_SECONDARYWEAPON_MOD_I"
+msgstr "副兵装改良 1"
+
+msgid "IDS_TITLE_PCM032_POWDERMAGAZINE_MOD_I"
+msgstr "弾薬庫改良 1"
+
+msgid "IDS_TITLE_PCM033_GUIDANCE_MOD_I"
+msgstr "射撃システム改良 1"
+
+msgid "IDS_TITLE_PCM034_GUIDANCE_MOD_0"
+msgstr "射撃システム改良 0"
 
 msgid "IDS_TONN"
 msgstr "t"
@@ -24616,6 +26180,9 @@ msgstr "魚雷"
 
 msgid "IDS_TORPEDOES_ANGLE"
 msgstr "魚雷発射角選択"
+
+msgid "IDS_TORPEDOES_SHOTS_HINT"
+msgstr "発射した魚雷の数"
 
 msgid "IDS_TORPEDOES_SPENT"
 msgstr "魚雷消費数"
@@ -25170,7 +26737,7 @@ msgid "IDS_WARNING_MODERNIZATION_DESTRUCTION"
 msgstr "アップグレードの破棄は無償です。"
 
 msgid "IDS_WARNING_MODERNIZATION_UNMOUNT"
-msgstr "アップグレードの解除にはダブロンが必要です。"
+msgstr "アップグレードは、ダブロンで解除するか、売却可能です。"
 
 msgid "IDS_WARNING_PERMOUFLAGE_AFTER_BUY"
 msgstr "自動補給が有効な場合、この迷彩は無償で補給されます。"
@@ -25248,8 +26815,20 @@ msgstr "通常アカウント"
 msgid "IDS_WITHOUT_SLOT"
 msgstr "スロットなし"
 
+msgid "IDS_WITH_BOMBERS"
+msgstr "爆撃機によって"
+
 msgid "IDS_WITH_COMMANDER"
 msgstr "艦長が搭乗中"
+
+msgid "IDS_WITH_CONSUME_FIGHTER"
+msgstr "水上戦闘機によって"
+
+msgid "IDS_WITH_CONSUME_SCOUT"
+msgstr "着弾観測機によって"
+
+msgid "IDS_WITH_FIGHTERS"
+msgstr "戦闘機によって"
 
 msgid "IDS_WITH_PREM"
 msgstr "プレミアム"
@@ -25257,13 +26836,16 @@ msgstr "プレミアム"
 msgid "IDS_WITH_PREM_HINT"
 msgstr ""
 "プレミアムアカウントでは、各戦での取得クレジットと "
-"EXP が 50% 増加します。"
+"EXP が 50% 増加"
 
 msgid "IDS_WITH_PROGRESS"
 msgstr "進捗"
 
 msgid "IDS_WITH_SLOT"
 msgstr "スロット付き"
+
+msgid "IDS_WITH_TBOMBERS"
+msgstr "雷撃機によって"
 
 msgid "IDS_WORKTIME"
 msgstr "有効時間"

@@ -626,7 +626,7 @@
 	<camouflage>
 		<annotation>Блок тайленых американских камуфляжей для крейсеров с квадратной текстурой</annotation>
         <name>camo_1_tile</name>
-        <targetShip>PASC001_Erie_1936 PASC024_Phoenix_1917 PASC005_Omaha_1923 PASC007_Cleveland_1945 PASC012_Pensacola_1944 PASC014_New_Orlean_1944 PASC017_Baltimore_1944 PASC020_Des_Moines_1948 PASB001 PASC006_Atlanta_1942 PASC044_Marblehead_1924 PASC045_Marblehead_1924_Asus PASC019_Burlington_1944 PASC003_Albany_1898 PASC016_Worcester_1948</targetShip>
+        <targetShip>PASC001_Erie_1936 PASC024_Phoenix_1917 PASC005_Omaha_1923 PASC007_Cleveland_1945 PASC012_Pensacola_1944 PASC014_New_Orlean_1944 PASC017_Baltimore_1944 PASC020_Des_Moines_1948 PASB001 PASC006_Atlanta_1942 PASC044_Marblehead_1924 PASC045_Marblehead_1924_Asus PASC019_Burlington_1944 PASC003_Albany_1898 PASC507_Indianapolis_1945</targetShip>
         <tiled>true</tiled>
         <UV>
 			<Tile>2.9 2.9</Tile>
@@ -715,7 +715,7 @@
 	<camouflage>
 		<annotation>Блок тайленых американских камуфляжей для крейсеров с квадратной текстурой</annotation>
         <name>camo_2_tile</name>
-        <targetShip>PASC001_Erie_1936 PASC024_Phoenix_1917 PASC005_Omaha_1923 PASC007_Cleveland_1945 PASC012_Pensacola_1944 PASC014_New_Orlean_1944 PASC017_Baltimore_1944 PASC020_Des_Moines_1948 PASB001 PASC006_Atlanta_1942 PASC044_Marblehead_1924 PASC045_Marblehead_1924_Asus PASC019_Burlington_1944 PASC003_Albany_1898 PASC016_Worcester_1948</targetShip>
+        <targetShip>PASC001_Erie_1936 PASC024_Phoenix_1917 PASC005_Omaha_1923 PASC007_Cleveland_1945 PASC012_Pensacola_1944 PASC014_New_Orlean_1944 PASC017_Baltimore_1944 PASC020_Des_Moines_1948 PASB001 PASC006_Atlanta_1942 PASC044_Marblehead_1924 PASC045_Marblehead_1924_Asus PASC019_Burlington_1944 PASC003_Albany_1898 PASC507_Indianapolis_1945</targetShip>
         <tiled>true</tiled>
         <UV>
 			<Tile>2.5 2.5</Tile>
@@ -804,7 +804,7 @@
 	<camouflage>
 		<annotation>Блок тайленых американских камуфляжей для крейсеров с квадратной текстурой</annotation>
         <name>camo_3_tile</name>
-        <targetShip>PASC001_Erie_1936 PASC024_Phoenix_1917 PASC005_Omaha_1923 PASC007_Cleveland_1945 PASC012_Pensacola_1944 PASC014_New_Orlean_1944 PASC017_Baltimore_1944 PASC020_Des_Moines_1948 PASB001 PASC006_Atlanta_1942 PASC044_Marblehead_1924 PASC045_Marblehead_1924_Asus PASC019_Burlington_1944 PASC003_Albany_1898 PASC016_Worcester_1948</targetShip>
+        <targetShip>PASC001_Erie_1936 PASC024_Phoenix_1917 PASC005_Omaha_1923 PASC007_Cleveland_1945 PASC012_Pensacola_1944 PASC014_New_Orlean_1944 PASC017_Baltimore_1944 PASC020_Des_Moines_1948 PASB001 PASC006_Atlanta_1942 PASC044_Marblehead_1924 PASC045_Marblehead_1924_Asus PASC019_Burlington_1944 PASC003_Albany_1898 PASC507_Indianapolis_1945</targetShip>
         <tiled>true</tiled>
         <UV>
 			<Tile>2.9 2.9</Tile>
@@ -893,7 +893,7 @@
 	<camouflage>
 		<annotation>Блок тайленых американских экномических камуфляжей для крейсеров с квадратной текстурой</annotation>
         <name>camo_economic_tile</name>
-        <targetShip>PASC001_Erie_1936 PASC024_Phoenix_1917 PASC005_Omaha_1923 PASC007_Cleveland_1945 PASC012_Pensacola_1944 PASC014_New_Orlean_1944 PASC017_Baltimore_1944 PASC020_Des_Moines_1948 PASB001 PASC006_Atlanta_1942 PASC044_Marblehead_1924 PASC045_Marblehead_1924_Asus PASC019_Burlington_1944 PASC003_Albany_1898 PASC016_Worcester_1948</targetShip>
+        <targetShip>PASC001_Erie_1936 PASC024_Phoenix_1917 PASC005_Omaha_1923 PASC007_Cleveland_1945 PASC012_Pensacola_1944 PASC014_New_Orlean_1944 PASC017_Baltimore_1944 PASC020_Des_Moines_1948 PASB001 PASC006_Atlanta_1942 PASC044_Marblehead_1924 PASC045_Marblehead_1924_Asus PASC019_Burlington_1944 PASC003_Albany_1898 PASC507_Indianapolis_1945</targetShip>
         <tiled>true</tiled>
         <UV>
 			<Tile>2.9 2.9</Tile>
@@ -4905,6 +4905,31 @@
 		<color1>0.180 0.004 0.004 0.950</color1>
 		<color2>0.014 0.028 0.075 1.000</color2>
 		<color3>0.475 0.604 0.686 0.650</color3>
+	</camouflage>
+	<camouflage>
+		<annotation>Блок уникального дефолтного камуфляжа для американского линкора Аризона</annotation>
+		<name>camo_permanent_1</name>
+		<targetShip>PASB506_Arizona_1941</targetShip>
+		<tiled>false</tiled>
+		<UV>
+			<Tile>1 1</Tile>
+			<Gun>1 1</Gun>
+		</UV>
+		<Textures>
+			<Bow_Hull>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Bow_Hull>
+			<Bow_DeckHouse>content/gameplay/common/camouflage/textures/ASB035_Arizona_1941_DeckHouse_camo_01.dds</Bow_DeckHouse>
+			<MidFront_Hull>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</MidFront_Hull>
+			<MidFront_DeckHouse>content/gameplay/common/camouflage/textures/ASB035_Arizona_1941_DeckHouse_camo_01.dds</MidFront_DeckHouse>
+			<MidBack_Hull>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</MidBack_Hull>
+			<MidBack_DeckHouse>content/gameplay/common/camouflage/textures/ASB035_Arizona_1941_DeckHouse_camo_01.dds</MidBack_DeckHouse>
+			<Stern_Hull>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Stern_Hull>
+			<Stern_DeckHouse>content/gameplay/common/camouflage/textures/ASB035_Arizona_1941_DeckHouse_camo_01.dds</Stern_DeckHouse>
+			<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
+		</Textures>
+		<color0>0.022 0.060 0.090 0.950</color0>
+		<color1>0.495 0.564 0.646 0.784</color1>
+		<color2>0.000 0.000 0.000 0.000</color2>
+		<color3>0.000 0.000 0.000 0.000</color3>
 	</camouflage>
 	<!--//American tech tree ships camouflage-->
 	<camouflage>
