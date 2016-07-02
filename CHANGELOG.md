@@ -1,5 +1,8 @@
 # Changelog of _implemented_ aka _compiled_ (i.e. not WIP or minute changes in texts) features
 
+20160701 Recolored Yubari's camo
+---
+
 20160623 Update for 0.5.7.0
 ---
 * New texts are added
