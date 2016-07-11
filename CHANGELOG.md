@@ -1,5 +1,11 @@
 # Changelog of _implemented_ aka _compiled_ (i.e. not WIP or minute changes in texts) features
 
+20160711 Update for 0.5.8.0
+---
+* New texts are added
+* New camo are added
+* Tracer color mod updated to include forts
+
 20160701 Recolored Yubari's camo
 ---
 

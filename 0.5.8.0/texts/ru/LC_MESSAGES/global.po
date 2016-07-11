@@ -24,7 +24,7 @@ msgid "IDS_1_COMPLEX"
 msgstr "味方要塞"
 
 msgid "IDS_1_SENSORTOWER"
-msgstr "味方偵察基地"
+msgstr "味方監視所"
 
 msgid "IDS_20X20"
 msgstr "20X20"
@@ -36,7 +36,7 @@ msgid "IDS_2_COMPLEX"
 msgstr "敵要塞"
 
 msgid "IDS_2_SENSORTOWER"
-msgstr "敵偵察基地"
+msgstr "敵監視所"
 
 msgid "IDS_3X3"
 msgstr "3X3"
@@ -45,7 +45,7 @@ msgid "IDS_3_COMPLEX"
 msgstr "中立要塞"
 
 msgid "IDS_3_SENSORTOWER"
-msgstr "中立偵察基地"
+msgstr "中立監視所"
 
 msgid "IDS_4X4"
 msgstr "4X4"
@@ -1059,6 +1059,9 @@ msgstr "迷彩の自動補給"
 msgid "IDS_AUTOREPLENISHMENT_SIGNALS"
 msgstr "信号旗の自動補給"
 
+msgid "IDS_AUTO_ATBA_SWITCH"
+msgstr "優先目標の指定時に対空砲と副砲を有効化"
+
 msgid "IDS_AUTO_SERVICE"
 msgstr "修理・補給"
 
@@ -1185,7 +1188,7 @@ msgid "IDS_BATTLEHINT_TYPE_CONSUMABLE_REGENCREW"
 msgstr "修理班"
 
 msgid "IDS_BATTLEHINT_TYPE_CONSUMABLE_SCOUT"
-msgstr "水上偵察機"
+msgstr "着弾観測機"
 
 msgid "IDS_BATTLEHINT_TYPE_CONSUMABLE_SMOKEGENERATOR"
 msgstr "発煙装置"
@@ -1408,6 +1411,9 @@ msgstr "戦闘時間"
 msgid "IDS_BATTLE_STATS_BATTLE_TIME_HINT"
 msgstr "戦闘時間"
 
+msgid "IDS_BATTLE_STATS_BUILDING_DAMAGE_NOT_FOR_STATS"
+msgstr "地上施設に対する与ダメージは、概要画面の戦績には加算されません"
+
 msgid "IDS_BATTLE_STATS_CAUSED_DAMAGE"
 msgstr "与ダメージ"
 
@@ -1529,6 +1535,12 @@ msgstr "浸水"
 
 msgid "IDS_BATTLE_STATS_FLOODS_HINT"
 msgstr "浸水発生数と被ダメージ"
+
+msgid "IDS_BATTLE_STATS_FORT_BUILDING_DAMAGE_HINT"
+msgstr "自艦がこの要塞に与えたダメージ"
+
+msgid "IDS_BATTLE_STATS_FORT_BUILDING_SUPPRESSIONS_HINT"
+msgstr "自艦がこの要塞を制圧した回数"
 
 msgid "IDS_BATTLE_STATS_FUTURE_REWARDS"
 msgstr "後続勲章"
@@ -1688,6 +1700,12 @@ msgstr "で港に戻る"
 msgid "IDS_BATTLE_STATS_WARNING_ICON_HINT"
 msgstr "注意! 不完全です"
 
+msgid "IDS_BATTLE_STATS_WATCHTOWER_BUILDING_DAMAGE_HINT"
+msgstr "自艦がこの監視所に与えたダメージ"
+
+msgid "IDS_BATTLE_STATS_WATCHTOWER_BUILDING_SUPPRESSIONS_HINT"
+msgstr "自艦がこの監視所を制圧した回数"
+
 msgid "IDS_BATTLE_STATS_WITH_PREMIUM"
 msgstr "プレミアム"
 
@@ -1793,7 +1811,7 @@ msgid "IDS_BUILDING_COMPLEX"
 msgstr "要塞"
 
 msgid "IDS_BUILDING_SENSORTOWER"
-msgstr "偵察基地"
+msgstr "監視所"
 
 msgid "IDS_BURNCHANCEFACTORBIG"
 msgstr ": 爆弾および口径 160 mm 超の砲弾による火災発生率"
@@ -1944,6 +1962,9 @@ msgstr "海域占領中: + %s %s、海域維持中: + %s %s / %s %s"
 
 msgid "IDS_CAPTURE_SECTOR"
 msgstr "離島"
+
+msgid "IDS_CAPTURING"
+msgstr "占領中"
 
 msgid "IDS_CAPTURING_POINTS"
 msgstr "海域占領中"
@@ -2502,7 +2523,7 @@ msgid "IDS_COACH_RESEARCH_HINT_0"
 msgstr "新しいモジュールを研究・インストールして艦艇の性能を高め、後続艦を開発しましょう。"
 
 msgid "IDS_COACH_RESEARCH_HINT_1"
-msgstr "モジュール画面へ移動してください。"
+msgstr "モジュール画面に移動してください。"
 
 msgid "IDS_COLLISION"
 msgstr "座礁"
@@ -4940,6 +4961,9 @@ msgstr "撃破比率"
 msgid "IDS_DESTROY_RATIO_TOOLTIP_PROFILE"
 msgstr "自艦による敵艦艇撃沈数と、自艦の被撃沈数との比率"
 
+msgid "IDS_DETAILED_RIBBONS"
+msgstr "詳細なリボンとダメージインジケータ"
+
 msgid "IDS_DETECTED"
 msgstr "発見された"
 
@@ -5529,6 +5553,15 @@ msgstr "イベント"
 msgid "IDS_EVENTS_WINDOW_INSTRUCTION"
 msgstr "イベントには、各種のスペシャルが含まれる場合があり、一部のスペシャルの期間は、イベント全体の期間より短い場合があります。"
 
+msgid "IDS_EVENT_SHIPS_ARE_NOT_ALLOWED_IN_CLUB_BATTLES"
+msgstr "特別艦艇はチームバトルには参加不能"
+
+msgid "IDS_EVENT_SHIPS_ARE_NOT_ALLOWED_IN_RANKED_BATTLES"
+msgstr "特別艦艇はランク戦には参加不能"
+
+msgid "IDS_EVENT_SHIPS_ARE_NOT_ALLOWED_IN_TRAINING_BATTLE"
+msgstr "特別艦艇はトレーニングルームでは使用不能"
+
 msgid "IDS_EXCHANGE_GOLD"
 msgstr "クレジットの変換"
 
@@ -5866,9 +5899,9 @@ msgstr "制圧戦"
 
 msgid "IDS_GAMEMODE_FORTS_GOAL_DESCRIPTION"
 msgstr ""
-"離島を占領して要塞 [icon_1] と偵察基地 "
+"離島を占領して要塞 [icon_1] と監視所 "
 "[icon_2] の支配権を確保せよ。\n"
-"敵艦隊が支配権を有する要塞 [icon_3] と偵察基地 "
+"敵艦隊が支配権を有する要塞 [icon_3] と監視所 "
 "[icon_4] を制圧し占領せよ。"
 
 msgid "IDS_GAMEMODE_FORTS_GOAL_TITLE"
@@ -5996,6 +6029,9 @@ msgstr "殿が実績を取得:"
 msgid "IDS_GO_TO_MY_CLUBS"
 msgstr "貴官の艦隊リストへ移動"
 
+msgid "IDS_GO_TO_PREVIOUS_STEP"
+msgstr "1 つ前に戻る"
+
 msgid "IDS_GRAND_NAVAL_BATTLES"
 msgstr "大海戦"
 
@@ -6037,6 +6073,9 @@ msgstr ": 魚雷発射管旋回速度"
 
 msgid "IDS_GTSHOTDELAY"
 msgstr ": 魚雷発射管装填時間"
+
+msgid "IDS_GUNZOU"
+msgstr "千早群像"
 
 msgid "IDS_GUN_LOCK_INDICATOR"
 msgstr "目標にロック"
@@ -6411,7 +6450,7 @@ msgid "IDS_HELP_MOVE_POINT_OF_ATTACK"
 msgstr "左 MB で接近開始ポイントをドラッグ"
 
 msgid "IDS_HELP_MOVE_TO_POINT"
-msgstr "指定位置へ移動"
+msgstr "指定位置に移動"
 
 msgid "IDS_HELP_ONE_BY_ONE_SHOT"
 msgstr "順次射撃:"
@@ -6600,7 +6639,7 @@ msgid "IDS_HINT_ACHIEVEMENTS_SORT"
 msgstr "実績の表示方法を選択してください"
 
 msgid "IDS_HINT_ACTION_LIFETIME"
-msgstr "残り時間"
+msgstr "スペシャル期間"
 
 msgid "IDS_HINT_ADD_CHANNELS"
 msgstr ""
@@ -6772,7 +6811,7 @@ msgid "IDS_HINT_FIND"
 msgstr "検索"
 
 msgid "IDS_HINT_FREE_SKILLPOINTS"
-msgstr "艦長スキルの習得に使用可能なフリーポイント"
+msgstr "艦長スキルの習得に使用可能な未分配ポイント"
 
 msgid "IDS_HINT_GO_TO"
 msgstr "艦長を配属または採用"
@@ -6889,7 +6928,7 @@ msgid "IDS_HINT_MENU_EXIT"
 msgstr "終了してデスクトップに移動"
 
 msgid "IDS_HINT_MENU_GUIDE"
-msgstr "教習ビデオへ移動"
+msgstr "教習ビデオに移動"
 
 msgid "IDS_HINT_MENU_HELP"
 msgstr "ヘルプ画面に移動"
@@ -6910,7 +6949,7 @@ msgid "IDS_HINT_PREM_GET_MORE_PREM_PORTS"
 msgstr "プレミアム港へのアクセスを取得"
 
 msgid "IDS_HINT_PRMP_LIFETIME"
-msgstr "スペシャル期間"
+msgstr "オファー終了まで: %(timeLeft)s"
 
 msgid "IDS_HINT_REDIRECT_TO_STORE"
 msgstr "プレミアムショップにリダイレクトされます。"
@@ -7497,6 +7536,9 @@ msgstr ""
 "入門ミッションは、戦闘数が %(amount)"
 "s 戦を超過するまでは再度ご利用頂けます。"
 
+msgid "IDS_INTRO_MISSION_NOT_AVAILABLE_WHEN_EVENT_SHIP"
+msgstr "特別艦艇は入門ミッションでは使用不能"
+
 msgid "IDS_INTRO_MISSION_NOT_AVAILABLE_WHEN_IN_DIVISION"
 msgstr "入門ミッションは戦隊ではご利用頂けません。"
 
@@ -7997,7 +8039,7 @@ msgid "IDS_LINK_SUPPORT_HINT"
 msgstr "カスタマーサービスセンターにリダイレクトされます"
 
 msgid "IDS_LOADING"
-msgstr "兼六合以開都 掩八紘而為宇"
+msgstr "海行かば 水漬く屍"
 
 msgid "IDS_LOADING_PORT"
 msgstr "港を読込中"
@@ -8039,7 +8081,7 @@ msgid "IDS_LOADING_TOOLTIP_LEVEL10_16"
 msgstr "接近戦においては、艦首砲と艦尾砲とでは目標への飛翔経路が異なるという点に留意せよ"
 
 msgid "IDS_LOADING_TOOLTIP_LEVEL10_17"
-msgstr "[CMD_SWITCH_ATBA_AIRDEFENSE] で対空砲を無効化できる。対空砲を無効にした上で煙幕に隠れることにより、敵機による被発見のリスクを下げることが可能だ"
+msgstr "[CMD_SWITCH_ATBA_AIRDEFENSE] で対空砲を無効化できる。対空砲を無効にすることで、敵機に発見されるリスクを軽減することが可能"
 
 msgid "IDS_LOADING_TOOLTIP_LEVEL10_18"
 msgstr "駆逐艦は奇襲を得意とする"
@@ -8150,7 +8192,7 @@ msgid "IDS_LOADING_TOOLTIP_LEVEL11_16"
 msgstr "接近戦においては、艦首砲と艦尾砲とでは目標への飛翔経路が異なるという点に留意せよ"
 
 msgid "IDS_LOADING_TOOLTIP_LEVEL11_17"
-msgstr "[CMD_SWITCH_ATBA_AIRDEFENSE] で対空砲を無効化できる。対空砲を無効にした上で煙幕に隠れることにより、敵機による被発見のリスクを下げることが可能だ"
+msgstr "[CMD_SWITCH_ATBA_AIRDEFENSE] で対空砲を無効化できる。対空砲を無効にすることで、敵機に発見されるリスクを軽減することが可能"
 
 msgid "IDS_LOADING_TOOLTIP_LEVEL11_18"
 msgstr "駆逐艦は奇襲を得意とする"
@@ -8261,7 +8303,7 @@ msgid "IDS_LOADING_TOOLTIP_LEVEL12_16"
 msgstr "接近戦においては、艦首砲と艦尾砲とでは目標への飛翔経路が異なるという点に留意せよ"
 
 msgid "IDS_LOADING_TOOLTIP_LEVEL12_17"
-msgstr "[CMD_SWITCH_ATBA_AIRDEFENSE] で対空砲を無効化できる。対空砲を無効にした上で煙幕に隠れることにより、敵機による被発見のリスクを下げることが可能だ"
+msgstr "[CMD_SWITCH_ATBA_AIRDEFENSE] で対空砲を無効化できる。対空砲を無効にすることで、敵機に発見されるリスクを軽減することが可能"
 
 msgid "IDS_LOADING_TOOLTIP_LEVEL12_18"
 msgstr "駆逐艦は奇襲を得意とする"
@@ -8618,7 +8660,7 @@ msgid "IDS_LOADING_TOOLTIP_LEVEL3_31"
 msgstr "接近戦においては、艦首砲と艦尾砲とでは目標への飛翔経路が異なるという点に留意せよ"
 
 msgid "IDS_LOADING_TOOLTIP_LEVEL3_32"
-msgstr "[CMD_SWITCH_ATBA_AIRDEFENSE] で対空砲を無効化できる。対空砲を無効にした上で煙幕に隠れることにより、敵機による被発見のリスクを下げることが可能だ"
+msgstr "[CMD_SWITCH_ATBA_AIRDEFENSE] で対空砲を無効化できる。対空砲を無効にすることで、敵機に発見されるリスクを軽減することが可能"
 
 msgid "IDS_LOADING_TOOLTIP_LEVEL3_33"
 msgstr "着弾観測機により、主砲の射程を延長することができる"
@@ -8801,7 +8843,7 @@ msgid "IDS_LOADING_TOOLTIP_LEVEL4_3"
 msgstr "敵の未来位置を狙って射撃せよ"
 
 msgid "IDS_LOADING_TOOLTIP_LEVEL4_30"
-msgstr "[CMD_SWITCH_ATBA_AIRDEFENSE] で対空砲を無効化できる。対空砲を無効にした上で煙幕に隠れることにより、敵機による被発見のリスクを下げることが可能だ"
+msgstr "[CMD_SWITCH_ATBA_AIRDEFENSE] で対空砲を無効化できる。対空砲を無効にすることで、敵機に発見されるリスクを軽減することが可能"
 
 msgid "IDS_LOADING_TOOLTIP_LEVEL4_31"
 msgstr "着弾観測機により、主砲の射程を延長することができる"
@@ -8942,7 +8984,7 @@ msgid "IDS_LOADING_TOOLTIP_LEVEL5_18"
 msgstr "接近戦においては、艦首砲と艦尾砲とでは目標への飛翔経路が異なるという点に留意せよ"
 
 msgid "IDS_LOADING_TOOLTIP_LEVEL5_19"
-msgstr "[CMD_SWITCH_ATBA_AIRDEFENSE] で対空砲を無効化できる。対空砲を無効にした上で煙幕に隠れることにより、敵機による被発見のリスクを下げることが可能だ"
+msgstr "[CMD_SWITCH_ATBA_AIRDEFENSE] で対空砲を無効化できる。対空砲を無効にすることで、敵機に発見されるリスクを軽減することが可能"
 
 msgid "IDS_LOADING_TOOLTIP_LEVEL5_2"
 msgstr "戦闘中に [CMD_HELP] キーでヘルプ画面を表示"
@@ -9078,7 +9120,7 @@ msgid "IDS_LOADING_TOOLTIP_LEVEL6_16"
 msgstr "接近戦においては、艦首砲と艦尾砲とでは目標への飛翔経路が異なるという点に留意せよ"
 
 msgid "IDS_LOADING_TOOLTIP_LEVEL6_17"
-msgstr "[CMD_SWITCH_ATBA_AIRDEFENSE] で対空砲を無効化できる。対空砲を無効にした上で煙幕に隠れることにより、敵機による被発見のリスクを下げることが可能だ"
+msgstr "[CMD_SWITCH_ATBA_AIRDEFENSE] で対空砲を無効化できる。対空砲を無効にすることで、敵機に発見されるリスクを軽減することが可能"
 
 msgid "IDS_LOADING_TOOLTIP_LEVEL6_18"
 msgstr "駆逐艦は奇襲を得意とする"
@@ -9194,7 +9236,7 @@ msgid "IDS_LOADING_TOOLTIP_LEVEL7_16"
 msgstr "接近戦においては、艦首砲と艦尾砲とでは目標への飛翔経路が異なるという点に留意せよ"
 
 msgid "IDS_LOADING_TOOLTIP_LEVEL7_17"
-msgstr "[CMD_SWITCH_ATBA_AIRDEFENSE] で対空砲を無効化できる。対空砲を無効にした上で煙幕に隠れることにより、敵機による被発見のリスクを下げることが可能だ"
+msgstr "[CMD_SWITCH_ATBA_AIRDEFENSE] で対空砲を無効化できる。対空砲を無効にすることで、敵機に発見されるリスクを軽減することが可能"
 
 msgid "IDS_LOADING_TOOLTIP_LEVEL7_18"
 msgstr "駆逐艦は奇襲を得意とする"
@@ -9307,7 +9349,7 @@ msgid "IDS_LOADING_TOOLTIP_LEVEL8_16"
 msgstr "接近戦においては、艦首砲と艦尾砲とでは目標への飛翔経路が異なるという点に留意せよ"
 
 msgid "IDS_LOADING_TOOLTIP_LEVEL8_17"
-msgstr "[CMD_SWITCH_ATBA_AIRDEFENSE] で対空砲を無効化できる。対空砲を無効にした上で煙幕に隠れることにより、敵機による被発見のリスクを下げることが可能だ"
+msgstr "[CMD_SWITCH_ATBA_AIRDEFENSE] で対空砲を無効化できる。対空砲を無効にすることで、敵機に発見されるリスクを軽減することが可能"
 
 msgid "IDS_LOADING_TOOLTIP_LEVEL8_18"
 msgstr "駆逐艦は奇襲を得意とする"
@@ -9418,7 +9460,7 @@ msgid "IDS_LOADING_TOOLTIP_LEVEL9_16"
 msgstr "接近戦においては、艦首砲と艦尾砲とでは目標への飛翔経路が異なるという点に留意せよ"
 
 msgid "IDS_LOADING_TOOLTIP_LEVEL9_17"
-msgstr "[CMD_SWITCH_ATBA_AIRDEFENSE] で対空砲を無効化できる。対空砲を無効にした上で煙幕に隠れることにより、敵機による被発見のリスクを下げることが可能だ"
+msgstr "[CMD_SWITCH_ATBA_AIRDEFENSE] で対空砲を無効化できる。対空砲を無効にすることで、敵機に発見されるリスクを軽減することが可能"
 
 msgid "IDS_LOADING_TOOLTIP_LEVEL9_18"
 msgstr "駆逐艦は奇襲を得意とする"
@@ -10324,6 +10366,12 @@ msgstr "ワイド・ダイナミックレンジ"
 msgid "IDS_OPTIONS_OBSERVE_YAW_RESTORE"
 msgstr "フリーカメラ有効時に TPS カメラ位置を記憶"
 
+msgid "IDS_OPTIONS_PLAY_MUSIC_BATTLE"
+msgstr "戦闘中に BGM を再生"
+
+msgid "IDS_OPTIONS_PLAY_MUSIC_PORT"
+msgstr "港で BGM を再生"
+
 msgid "IDS_OPTIONS_QUICKCOMMANDS_SOUND"
 msgstr "クイックコマンド音声"
 
@@ -10788,6 +10836,14 @@ msgstr ""
 "敵の射撃精度を低下させ、艦の被発見性を低減し、艦および艦長の取得 "
 "EXP を向上させる。"
 
+msgid "IDS_PAEP408_FLINT"
+msgstr "タイプ 10 – Flint"
+
+msgid "IDS_PAEP408_FLINT_DESCRIPTION"
+msgstr ""
+"敵の射撃精度を低下させ、艦の被発見性を低減し、艦および艦長の取得 "
+"EXP を向上させる。"
+
 msgid "IDS_PAEP409_CLEVELAND_1945"
 msgstr "タイプ 16 – Cleveland"
 
@@ -10832,6 +10888,14 @@ msgid "IDS_PAEP508_BENSON_1945"
 msgstr "タイプ 18 – Benson"
 
 msgid "IDS_PAEP508_BENSON_1945_DESCRIPTION"
+msgstr ""
+"敵の射撃精度を低下させ、艦の被発見性を低減し、艦および艦長の取得 "
+"EXP を向上させる。"
+
+msgid "IDS_PAEP509_BLACK"
+msgstr "タイプ 10 – Black"
+
+msgid "IDS_PAEP509_BLACK_DESCRIPTION"
 msgstr ""
 "敵の射撃精度を低下させ、艦の被発見性を低減し、艦および艦長の取得 "
 "EXP を向上させる。"
@@ -12433,6 +12497,9 @@ msgid "IDS_PASD709_DESCR"
 msgstr ""
 "駆逐艦ブラックは、多数建造された傑作艦級であるフレッチャー級駆逐艦の "
 "1 隻であり、充分な速力、強力な両用砲、有効性の高い対空砲、恐るべき雷装を備えていました。"
+
+msgid "IDS_PASD709_FULL"
+msgstr "Black"
 
 msgid "IDS_PASD709_NUMBER"
 msgstr "175"
@@ -14473,6 +14540,39 @@ msgstr ""
 msgid "IDS_PCEE030_BATTLE_OF_JUTLAND_EXTRA_DESCRIPTION"
 msgstr "この戦いは史上最大規模の海戦のひとつとして知られており、この戦争中における戦艦隊同士の決戦は本海戦が唯一でした。"
 
+msgid "IDS_PCEE031_BLUE_STEEL"
+msgstr "蒼き鋼"
+
+msgid "IDS_PCEE031_BLUE_STEEL_DESCRIPTION"
+msgstr "「蒼き鋼のアルペジオ ‐アルス・ノヴァ‐」コラボ旗。"
+
+msgid "IDS_PCEE031_BLUE_STEEL_EXTRA_DESCRIPTION"
+msgstr ""
+"「蒼き鋼」潜水艦イ401のシンボルマーク。\n"
+"「蒼き鋼のアルペジオ ‐アルス・ノヴァ‐」より出典。"
+
+msgid "IDS_PCEE032_ARIZONA_MEMORIAL"
+msgstr "アリゾナ・メモリアル旗"
+
+msgid "IDS_PCEE032_ARIZONA_MEMORIAL_DESCRIPTION"
+msgstr ""
+"戦艦アリゾナは、真珠湾攻撃の最中に爆弾を被弾し、弾薬庫誘爆により沈没した。これに伴い、"
+"1,177 名の士官および搭乗員が戦死した。"
+
+msgid "IDS_PCEE032_ARIZONA_MEMORIAL_EXTRA_DESCRIPTION"
+msgstr "その残骸は今も真珠湾に沈んでおり、その上にはアリゾナ・メモリアルが設置されている。"
+
+msgid "IDS_PCEE033_KRASNYI_KRIM_FLAG"
+msgstr "Krasny Krym"
+
+msgid "IDS_PCEE033_KRASNYI_KRIM_FLAG_DESCRIPTION"
+msgstr ""
+"ソ連海軍親衛隊は、二次大戦中の "
+"1942 年に創設されました。"
+
+msgid "IDS_PCEE033_KRASNYI_KRIM_FLAG_EXTRA_DESCRIPTION"
+msgstr "軍艦の搭乗員には、「ドイツの侵略者に対する祖国防衛のための戦いの中で示した武勇、不屈・勇気・自制および規律、英雄的行動」に対して親衛隊の称号が与えられました。"
+
 msgid "IDS_PCEE599_FLAG_ASIA"
 msgstr "アジア・コミュニティ旗"
 
@@ -14667,6 +14767,9 @@ msgstr "Arado Ar.196C"
 msgid "IDS_PGAS006_BV_P126"
 msgstr "Blohm & Voss P. 126"
 
+msgid "IDS_PGAS006_FW62"
+msgstr "Focke-Wulf Fw.62"
+
 msgid "IDS_PGEE001_GERMANY1921_DESC"
 msgstr ""
 "プロイセンの鷲、鉄十字勲章、北ドイツ連邦およびドイツ帝国の国旗を組み合わせたこの旗は、"
@@ -14708,6 +14811,14 @@ msgstr ""
 "敵の射撃精度を低下させ、艦の被発見性を低減し、艦および艦長の取得 "
 "EXP を向上させる。"
 
+msgid "IDS_PGEP303_KOENIG_ALBERT"
+msgstr "タイプ 9 – König Albert"
+
+msgid "IDS_PGEP303_KOENIG_ALBERT_DESCRIPTION"
+msgstr ""
+"敵の射撃精度を低下させ、艦の被発見性を低減し、艦および艦長の取得 "
+"EXP を向上させる。"
+
 msgid "IDS_PGEP402_EMDEN_1908"
 msgstr "タイプ 9 – Emden"
 
@@ -14744,6 +14855,14 @@ msgid "IDS_PGEP409_ROON"
 msgstr "タイプ 19 – Roon"
 
 msgid "IDS_PGEP409_ROON_DESCRIPTION"
+msgstr ""
+"敵の射撃精度を低下させ、艦の被発見性を低減し、艦および艦長の取得 "
+"EXP を向上させる。"
+
+msgid "IDS_PGEP507_SCHARNHORST"
+msgstr "タイプ 10 – Scharnhorst"
+
+msgid "IDS_PGEP507_SCHARNHORST_DESCRIPTION"
 msgstr ""
 "敵の射撃精度を低下させ、艦の被発見性を低減し、艦および艦長の取得 "
 "EXP を向上させる。"
@@ -14895,6 +15014,9 @@ msgstr "203 mm L/60 SK C/34"
 msgid "IDS_PGGM070_150MM_45_L_28"
 msgstr "150 mm L/45 SK L/45"
 
+msgid "IDS_PGGM082_305MM_50_DRH_LC_1909"
+msgstr "305 mm L/50 Drh LC/1909"
+
 msgid "IDS_PGGM147_420MM_48_DRH_LC_1940"
 msgstr "420 mm L/48 Drh LC/40"
 
@@ -14948,6 +15070,9 @@ msgstr "150 mm L/45 MPL C/13"
 
 msgid "IDS_PGGS075_105MM_SKC_33"
 msgstr "105 mm L/65 Dop. L. C/31"
+
+msgid "IDS_PGGS081_127MM_KC_40"
+msgstr "128 mm L/61 SK C/42"
 
 msgid "IDS_PGGS150_127MM_KC_40"
 msgstr "128 mm L/61 SK C/42"
@@ -15150,6 +15275,12 @@ msgstr "128 mm Spr.gr. Kz."
 msgid "IDS_PGPA060_150MM_AP_PSGR_L3_7_SG"
 msgstr "150 mm Psgr. L/3.7"
 
+msgid "IDS_PGPA061_305MM_AP_KA"
+msgstr "305 mm Pz.gr. L/3.4"
+
+msgid "IDS_PGPA062_305MM_HE_KA"
+msgstr "305 mm Spr.gr. L/3.8"
+
 msgid "IDS_PGPT001_G7A_T1"
 msgstr "G7a T1"
 
@@ -15213,21 +15344,6 @@ msgstr "G7e T5A"
 msgid "IDS_PGPT901_533_G7ET10"
 msgstr "G7e T10"
 
-msgid "IDS_PGSB001"
-msgstr "Bismarck"
-
-msgid "IDS_PGSB001_DESCR"
-msgstr "二次大戦の勃発当初においては、先進的な射撃管制システムと強力な主砲を備えたこのビスマルクは、世界最強の戦艦のひとつでした。頑丈な構造を有し、複雑に区画分割されており、膨大な装甲が配された本艦は、高い耐久性を実現していました。"
-
-msgid "IDS_PGSB001_FULL"
-msgstr "Bismarck"
-
-msgid "IDS_PGSB001_NUMBER"
-msgstr "2"
-
-msgid "IDS_PGSB001_YEAR"
-msgstr "1940"
-
 msgid "IDS_PGSB002"
 msgstr "Tirpitz"
 
@@ -15244,6 +15360,51 @@ msgstr "2"
 
 msgid "IDS_PGSB002_YEAR"
 msgstr "1941"
+
+msgid "IDS_PGSB104"
+msgstr "Kaiser"
+
+msgid "IDS_PGSB104_DESCR"
+msgstr "戦艦カイザーは、その装甲厚においては当時のあらゆる戦艦の中で最高を誇っており、蒸気タービンの採用により、戦艦としては優れた速力を有していました。そしてその主砲の装甲貫通力は、当時の超弩級戦艦の主砲に匹敵するものでした。"
+
+msgid "IDS_PGSB104_FULL"
+msgstr "Kaiser"
+
+msgid "IDS_PGSB104_NUMBER"
+msgstr "5"
+
+msgid "IDS_PGSB104_YEAR"
+msgstr "1912"
+
+msgid "IDS_PGSB503"
+msgstr "König Albert"
+
+msgid "IDS_PGSB503_DESCR"
+msgstr "戦艦ケーニヒ・アルベルトは、典型的なドイツの弩級戦艦であり、極めて厚い装甲により優れた抗堪性を誇っていました。その主砲は極めて高い装甲貫通力を備えており、同口径の他の砲システムに比して発射速度も勝っていました。"
+
+msgid "IDS_PGSB503_FULL"
+msgstr "König Albert"
+
+msgid "IDS_PGSB503_NUMBER"
+msgstr "5"
+
+msgid "IDS_PGSB503_YEAR"
+msgstr "1913"
+
+msgid "IDS_PGSB507"
+msgstr "Scharnhorst"
+
+msgid "IDS_PGSB507_DESCR"
+msgstr "戦艦シャルンホルストは、通商破壊および巡洋艦・巡洋戦艦との交戦用として設計されたドイツの戦艦です。その竣工時には、戦艦としては世界最速を誇りました。主砲の口径が比較的小さいことが最大の欠点でしたが、この欠点は高い発射速度により補われていました。"
+
+msgid "IDS_PGSB507_FULL"
+msgstr "Scharnhorst"
+
+msgid "IDS_PGSB507_NUMBER"
+msgstr "2"
+
+msgid "IDS_PGSB507_YEAR"
+msgstr "1939"
 
 msgid "IDS_PGSC001"
 msgstr "Hermelin"
@@ -15440,8 +15601,17 @@ msgstr "150 mm L/45 MPL C/16"
 msgid "IDS_PGUA211_283_45_LC06"
 msgstr "283 mm L/45 Drh LC/1906"
 
+msgid "IDS_PGUA211_B3_ART_STOCK"
+msgstr "283 mm L/45 Drh LC/1906"
+
+msgid "IDS_PGUA221_ART_KA"
+msgstr "305 mm L/50 Drh LC/1909"
+
 msgid "IDS_PGUA301_C4_ART_STOCK"
 msgstr "150 mm L/45 MPL C/16"
+
+msgid "IDS_PGUA311_B4_ART_STOCK"
+msgstr "305 mm L/50 Drh LC/1909"
 
 msgid "IDS_PGUA401_C5_ART_STOCK"
 msgstr "150 mm L/60 Drh Tr C/25"
@@ -15449,10 +15619,16 @@ msgstr "150 mm L/60 Drh Tr C/25"
 msgid "IDS_PGUA411_305_50_LC11"
 msgstr "305 mm L/50 Drh LC/1911"
 
+msgid "IDS_PGUA411_B5_ART_STOCK"
+msgstr "305 mm L/50 Drh LC/1911"
+
 msgid "IDS_PGUA501_C6_ART_STOCK"
 msgstr "150 mm L/60 Drh Tr C/28"
 
 msgid "IDS_PGUA511_380_45_DRH_LC13"
+msgstr "380 mm L/45 Drh LC/1913"
+
+msgid "IDS_PGUA511_B6_ART_STOCK"
 msgstr "380 mm L/45 Drh LC/1913"
 
 msgid "IDS_PGUA601_C7_ART_STOCK"
@@ -15462,6 +15638,9 @@ msgid "IDS_PGUA602_210_45_DRL_C06"
 msgstr "210 mm L/45 Drl C/06"
 
 msgid "IDS_PGUA611_380_52_DRH_LC34"
+msgstr "380 mm L/52 Drh LC/34"
+
+msgid "IDS_PGUA611_B7_ART_STOCK"
 msgstr "380 mm L/52 Drh LC/34"
 
 msgid "IDS_PGUA621_283_54_SCHARNHORST"
@@ -15482,11 +15661,20 @@ msgstr "203 mm L/60 Drh LC/34"
 msgid "IDS_PGUA712_203_60_DRH_LC34"
 msgstr "203 mm L/60 Drh LC/34"
 
+msgid "IDS_PGUA721_B8_ART_STOCK"
+msgstr "380 mm L/52 Drh LC/34"
+
 msgid "IDS_PGUA801_C9_ART_STOCK"
 msgstr "203 mm L/60 Drh LC/34"
 
 msgid "IDS_PGUA811_C9_ART_TOP"
 msgstr "203 mm L/60 Drh LC/34"
+
+msgid "IDS_PGUA821_B9_ART_STOCK"
+msgstr "406 mm L/52 Drh C/34"
+
+msgid "IDS_PGUA822_B9_ART_TOP"
+msgstr "420 mm L/48 Drh LC/40"
 
 msgid "IDS_PGUA901_C10_ART_STOCK"
 msgstr "203 mm L/60 Drh LC/34"
@@ -15500,6 +15688,12 @@ msgstr "420 mm L/48 Drh LC/40"
 msgid "IDS_PGUA913_420_48_SK_C_40"
 msgstr "420 mm L/48 Drh LC/40"
 
+msgid "IDS_PGUA913_B10_ART_TOP"
+msgstr "420 mm L/48 Drh LC/40"
+
+msgid "IDS_PGUA914_B10_ART_STOCK"
+msgstr "406 mm L/52 Drh C/34"
+
 msgid "IDS_PGUE001_C1_ENG_STOCK"
 msgstr "推力: 15,000 馬力"
 
@@ -15512,17 +15706,32 @@ msgstr "推力: 16,350 馬力"
 msgid "IDS_PGUE201_C3_ENG_STOCK"
 msgstr "推力: 31,000 馬力"
 
+msgid "IDS_PGUE211_B3_ENG_STOCK"
+msgstr "推力: 22,000 馬力"
+
 msgid "IDS_PGUE211_ENGINE_22000"
 msgstr "推力: 22,000 馬力"
+
+msgid "IDS_PGUE212_B3_ENG_TOP"
+msgstr "推力: 26,200 馬力"
 
 msgid "IDS_PGUE212_ENGINE_26200"
 msgstr "推力: 26,200 馬力"
 
+msgid "IDS_PGUE221_ENG_KA"
+msgstr "推力: 55,180 馬力"
+
 msgid "IDS_PGUE301_C4_ENG_STOCK"
 msgstr "推力: 45,000 馬力"
 
+msgid "IDS_PGUE311_B4_ENG_STOCK"
+msgstr "推力: 55,180 馬力"
+
 msgid "IDS_PGUE311_ENGINE_55180"
 msgstr "推力: 55,180 馬力"
+
+msgid "IDS_PGUE312_B4_ENG_TOP"
+msgstr "推力: 57,000 馬力"
 
 msgid "IDS_PGUE312_ENGINE_57000"
 msgstr "推力: 57,000 馬力"
@@ -15530,8 +15739,14 @@ msgstr "推力: 57,000 馬力"
 msgid "IDS_PGUE401_C5_ENG_STOCK"
 msgstr "推力: 68,200 馬力"
 
+msgid "IDS_PGUE411_B5_ENG_STOCK"
+msgstr "推力: 46,200 馬力"
+
 msgid "IDS_PGUE411_ENGINE_46200"
 msgstr "推力: 46,200 馬力"
+
+msgid "IDS_PGUE412_B5_ENG_TOP"
+msgstr "推力: 63,000 馬力"
 
 msgid "IDS_PGUE412_ENGINE_63000"
 msgstr "推力: 63,000 馬力"
@@ -15539,8 +15754,14 @@ msgstr "推力: 63,000 馬力"
 msgid "IDS_PGUE501_C6_ENG_STOCK"
 msgstr "推力: 60,000 馬力"
 
+msgid "IDS_PGUE511_B6_ENG_STOCK"
+msgstr "推力: 54,800 馬力"
+
 msgid "IDS_PGUE511_ENGINE_54800"
 msgstr "推力: 54,800 馬力"
+
+msgid "IDS_PGUE512_B6_ENG_TOP"
+msgstr "推力: 75,000 馬力"
 
 msgid "IDS_PGUE512_ENGINE_75000"
 msgstr "推力: 75,000 馬力"
@@ -15548,8 +15769,14 @@ msgstr "推力: 75,000 馬力"
 msgid "IDS_PGUE601_C7_ENG_STOCK"
 msgstr "推力: 80,000 馬力"
 
+msgid "IDS_PGUE611_B7_ENG_STOCK"
+msgstr "推力: 125,000 馬力"
+
 msgid "IDS_PGUE611_ENGINE_125000"
 msgstr "推力: 125,000 馬力"
+
+msgid "IDS_PGUE612_B7_ENG_TOP"
+msgstr "推力: 160,000 馬力"
 
 msgid "IDS_PGUE612_ENGINE_160000"
 msgstr "推力: 160,000 馬力"
@@ -15560,10 +15787,16 @@ msgstr "推力: 125,000 馬力"
 msgid "IDS_PGUE622_ENGINE_SCHARNHORST"
 msgstr "推力: 160,000 馬力"
 
+msgid "IDS_PGUE701_B8_ENG_STOCK"
+msgstr "推力: 150,100 馬力"
+
 msgid "IDS_PGUE701_ENGINE_150170"
 msgstr "推力: 150,100 馬力"
 
 msgid "IDS_PGUE702_ENGINE_163000_TIRPITZ"
+msgstr "推力: 163,000 馬力"
+
+msgid "IDS_PGUE703_B8_ENG_TOP"
 msgstr "推力: 163,000 馬力"
 
 msgid "IDS_PGUE703_ENGINE_163000"
@@ -15578,14 +15811,23 @@ msgstr "推力: 133,630 馬力"
 msgid "IDS_PGUE801_C9_ENG_STOCK"
 msgstr "推力: 155,000 馬力"
 
+msgid "IDS_PGUE811_B9_ENG_STOCK"
+msgstr "推力: 150,000 馬力"
+
 msgid "IDS_PGUE811_ENGINE_150000"
 msgstr "推力: 150,000 馬力"
+
+msgid "IDS_PGUE812_B9_ENG_TOP"
+msgstr "推力: 165,000 馬力"
 
 msgid "IDS_PGUE812_ENGINE_165000"
 msgstr "推力: 165,000 馬力"
 
 msgid "IDS_PGUE901_C10_ENG_STOCK"
 msgstr "推力: 155,000 馬力"
+
+msgid "IDS_PGUE911_B10_ENG_STOCK"
+msgstr "推力: 167,600 馬力"
 
 msgid "IDS_PGUE911_ENGINE_167600"
 msgstr "推力: 167,600 馬力"
@@ -15614,6 +15856,9 @@ msgstr "Kolberg (B)"
 msgid "IDS_PGUH203_KOLBERG_C"
 msgstr "Kolberg (C)"
 
+msgid "IDS_PGUH221_KA"
+msgstr "König Albert"
+
 msgid "IDS_PGUH301_KARLSRUHE_A"
 msgstr "Karlsruhe (A)"
 
@@ -15622,6 +15867,12 @@ msgstr "Karlsruhe (B)"
 
 msgid "IDS_PGUH303_KARLSRUHE_C"
 msgstr "Karlsruhe (C)"
+
+msgid "IDS_PGUH311_KAISER_A"
+msgstr "Kaiser (A)"
+
+msgid "IDS_PGUH312_KAISER_B"
+msgstr "Kaiser (B)"
 
 msgid "IDS_PGUH401_KONIGSBERG_A"
 msgstr "Königsberg (A)"
@@ -15658,6 +15909,9 @@ msgstr "Bismarck (B)"
 
 msgid "IDS_PGUH711_TIRPITZ_1944"
 msgstr "Tirpitz"
+
+msgid "IDS_PGUH712_SCHARNHORST"
+msgstr "Scharnhorst"
 
 msgid "IDS_PGUH721_HIPPER_A"
 msgstr "Admiral Hipper (A)"
@@ -15703,6 +15957,9 @@ msgstr "FKS Typ 3 Mod. 1"
 
 msgid "IDS_PGUS212_SUO"
 msgstr "FKS Typ 3 Mod. 2"
+
+msgid "IDS_PGUS221_SUO_KA"
+msgstr "FKS Typ 3 Mod. 1"
 
 msgid "IDS_PGUS301_SUO"
 msgstr "FKS Typ 4 Mod. 1"
@@ -15819,6 +16076,9 @@ msgid "IDS_PGUT501_C6_TORP_STOCK"
 msgstr "G7a T1"
 
 msgid "IDS_PGUT601_C7_TORP_STOCK"
+msgstr "G7a T1"
+
+msgid "IDS_PGUT602_B7_TORP_STOCK"
 msgstr "G7a T1"
 
 msgid "IDS_PGUT611_SCHARNHORST"
@@ -16547,67 +16807,67 @@ msgid "IDS_PJGS542_127MM40_TYPE89_3"
 msgstr "40口径 八九式 12.7cm高角砲 A1型改一"
 
 msgid "IDS_PJGT012_610MM4_TYPE_93"
-msgstr "610mm 九二式2型 四連装 魚雷発射管"
+msgstr "610 mm 九二式2型 四連装 魚雷発射管"
 
 msgid "IDS_PJGT017_610MM4_TYPE_93L"
-msgstr "610mm 九二式1型 四連装 魚雷発射管"
+msgstr "610 mm 九二式1型 四連装 魚雷発射管"
 
 msgid "IDS_PJGT022_610MM3_TYPE_93"
-msgstr "610mm 九〇式 三連装 魚雷発射管"
+msgstr "610 mm 九〇式 三連装 魚雷発射管"
 
 msgid "IDS_PJGT023_610MM4_TYPE_93R"
-msgstr "610mm 九二式1型 四連装 魚雷発射管"
+msgstr "610 mm 九二式1型 四連装 魚雷発射管"
 
 msgid "IDS_PJGT027_610MM3_TYPE_93L"
-msgstr "610mm 九〇式 三連装 魚雷発射管"
+msgstr "610 mm 九〇式 三連装 魚雷発射管"
 
 msgid "IDS_PJGT028_610MM3_TYPE_93R"
-msgstr "610mm 九〇式 三連装 魚雷発射管"
+msgstr "610 mm 九〇式 三連装 魚雷発射管"
 
 msgid "IDS_PJGT031_610MM2_TYPE_93"
-msgstr "610mm 八九式 連装 魚雷発射管"
+msgstr "610 mm 八九式 連装 魚雷発射管"
 
 msgid "IDS_PJGT034_610MM2_TYPE_93_MOD1"
-msgstr "610mm 八九式 連装 魚雷発射管"
+msgstr "610 mm 八九式 連装 魚雷発射管"
 
 msgid "IDS_PJGT036_610MM5_TYPE_93"
-msgstr "610mm 零式 五連装 魚雷発射管"
+msgstr "610 mm 零式 五連装 魚雷発射管"
 
 msgid "IDS_PJGT054_533MM_TYPE_6"
-msgstr "533mm 六年式 三連装 魚雷発射管"
+msgstr "533 mm 六年式 三連装 魚雷発射管"
 
 msgid "IDS_PJGT057_533MM_2"
-msgstr "533mm 六年式 連装 魚雷発射管"
+msgstr "533 mm 六年式 連装 魚雷発射管"
 
 msgid "IDS_PJGT059_610MM_3"
-msgstr "610mm 九〇式 三連装 魚雷発射管"
+msgstr "610 mm 九〇式 三連装 魚雷発射管"
 
 msgid "IDS_PJGT060_457MM_2"
-msgstr "457mm 連装 魚雷発射管"
+msgstr "457 mm 連装 魚雷発射管"
 
 msgid "IDS_PJGT077_610MM4_TYPE_93L"
-msgstr "610mm 九二式1型 四連装 魚雷発射管"
+msgstr "610 mm 九二式1型 四連装 魚雷発射管"
 
 msgid "IDS_PJGT078_610MM4_TYPE_93R"
-msgstr "610mm 九二式1型 四連装 魚雷発射管"
+msgstr "610 mm 九二式1型 四連装 魚雷発射管"
 
 msgid "IDS_PJGT089_610MM5_TYPE_93L"
-msgstr "610mm 零式 五連装 魚雷発射管"
+msgstr "610 mm 零式 五連装 魚雷発射管"
 
 msgid "IDS_PJGT090_610MM5_TYPE_93R"
-msgstr "610mm 零式 五連装 魚雷発射管"
+msgstr "610 mm 零式 五連装 魚雷発射管"
 
 msgid "IDS_PJGT108_533MM_TYPE_6"
-msgstr "533mm 六年式 三連装 魚雷発射管"
+msgstr "533 mm 六年式 三連装 魚雷発射管"
 
 msgid "IDS_PJGT109_610MM4_TYPE_93"
-msgstr "610mm 九二式2型 四連装 魚雷発射管"
+msgstr "610 mm 九二式2型 四連装 魚雷発射管"
 
 msgid "IDS_PJGT120_610MM_3"
-msgstr "610mm 一二年式 三連装 魚雷発射管"
+msgstr "610 mm 一二年式 三連装 魚雷発射管"
 
 msgid "IDS_PJGT123_610MM3_TYPE_93"
-msgstr "610mm 九〇式 三連装 魚雷発射管"
+msgstr "610 mm 九〇式 三連装 魚雷発射管"
 
 msgid "IDS_PJPA001_SHELL_356MM_AP_APC_TYPE_91"
 msgstr "356 mm 九一式 徹甲弾"
@@ -16789,6 +17049,12 @@ msgstr "305 mm 下瀬火薬 榴弾"
 msgid "IDS_PJPA062_SHELL_152MM_HE_TYPE_0"
 msgstr "152 mm 零式 通常弾"
 
+msgid "IDS_PJPA708_SHELL_203MM_AP_AP_TYPE_91"
+msgstr "203 mm 九一式 徹甲弾"
+
+msgid "IDS_PJPA709_SHELL_203MM_HE_C_TYPE_0"
+msgstr "203 mm 零式 通常弾"
+
 msgid "IDS_PJPB002_TYPE99_N25_MOD1"
 msgstr "九九式 二五番通常爆弾 一型"
 
@@ -16854,6 +17120,9 @@ msgstr "九一式 魚雷 改一"
 
 msgid "IDS_PJPT024_TYPE_91_MOD_2A"
 msgstr "九一式 魚雷 改二"
+
+msgid "IDS_PJPT718_610MM_TYPE90_MOD_1"
+msgstr "九〇式 魚雷 一型"
 
 msgid "IDS_PJSA002"
 msgstr "鳳翔"
@@ -17514,7 +17783,11 @@ msgid "IDS_PJSC707"
 msgstr "アシガラ"
 
 msgid "IDS_PJSC707_DESCR"
-msgstr " "
+msgstr ""
+"妙高型重巡洋艦三番艦「足柄」を模した「霧の艦隊」の重巡洋艦。超重力砲ユニットの代わりにビームアンカーを装備している。メンタルモデル・アシガラは好戦的かつ物事を深く考えない性格。ヒエイが組織する「霧の生徒会」でハグロと同じく書記の任に就いている。\n"
+"本艦艇は「劇場版 蒼き鋼のアルペジオ ‐アルス・ノヴァ‐ "
+"Cadenza」に登場するアシガラを参考に World of "
+"Warships 向けにデザインされている。"
 
 msgid "IDS_PJSC707_FULL"
 msgstr "霧 アシガラ"
@@ -17543,6 +17816,42 @@ msgstr " "
 
 msgid "IDS_PJSC709_YEAR"
 msgstr " "
+
+msgid "IDS_PJSC717"
+msgstr "朱雀"
+
+msgid "IDS_PJSC717_DESCR"
+msgstr " "
+
+msgid "IDS_PJSC717_FULL"
+msgstr "霧 朱雀"
+
+msgid "IDS_PJSC717_NUMBER"
+msgstr " "
+
+msgid "IDS_PJSC717_YEAR"
+msgstr " "
+
+msgid "IDS_PJSC727"
+msgstr "青龍"
+
+msgid "IDS_PJSC727_DESCR"
+msgstr " "
+
+msgid "IDS_PJSC727_FULL"
+msgstr "霧 青龍"
+
+msgid "IDS_PJSC727_NUMBER"
+msgstr " "
+
+msgid "IDS_PJSC727_YEAR"
+msgstr " "
+
+msgid "IDS_PJSC799"
+msgstr "タカオ"
+
+msgid "IDS_PJSC799_FULL"
+msgstr "霧 タカオ"
 
 msgid "IDS_PJSC837"
 msgstr "橋立"
@@ -17808,6 +18117,12 @@ msgstr "イ401"
 msgid "IDS_PJSX701_FULL"
 msgstr "霧 イ401 イオナ"
 
+msgid "IDS_PJSX702"
+msgstr "イ401"
+
+msgid "IDS_PJSX702_FULL"
+msgstr "霧 イ401 イオナ"
+
 msgid "IDS_PJSX799"
 msgstr "707R"
 
@@ -17947,6 +18262,12 @@ msgid "IDS_PJUA592_203_50_3RD_YEAR_TYPE_HAGURO"
 msgstr "50口径 三年式 2号 20.3cm砲 E型"
 
 msgid "IDS_PJUA593_203_50_3RD_YEAR_TYPE_ASHIGARA"
+msgstr "50口径 三年式 2号 20.3cm砲 E型"
+
+msgid "IDS_PJUA594_203_50_YELLOW_DRAGON"
+msgstr "50口径 三年式 2号 20.3cm砲 E型"
+
+msgid "IDS_PJUA595_203_50_BLUE_DRAGON"
 msgstr "50口径 三年式 2号 20.3cm砲 E型"
 
 msgid "IDS_PJUA611_B7_ART_STOCK"
@@ -18219,6 +18540,9 @@ msgstr "推力: 57,900 馬力"
 msgid "IDS_PJUE332_ENGINE_57900_YUBARI"
 msgstr "推力: 57,900 馬力"
 
+msgid "IDS_PJUE332_ENG_TEST"
+msgstr "Test Engine"
+
 msgid "IDS_PJUE333_ENGINE_57900_CS"
 msgstr "推力: 57,900 馬力"
 
@@ -18346,6 +18670,12 @@ msgid "IDS_PJUE793_ENGINE_132000_HAGURO"
 msgstr "推力: 132,000 馬力"
 
 msgid "IDS_PJUE794_ENGINE_132000_ASHIGARA"
+msgstr "推力: 132,000 馬力"
+
+msgid "IDS_PJUE795_ENG_YELLOW_DRAGON"
+msgstr "推力: 132,000 馬力"
+
+msgid "IDS_PJUE796_ENG_BLUE_DRAGON"
 msgstr "推力: 132,000 馬力"
 
 msgid "IDS_PJUE801_ENGINE_75000"
@@ -18521,6 +18851,9 @@ msgstr "夕張"
 
 msgid "IDS_PJUH332_YUBARI_1944_CS"
 msgstr "夕張"
+
+msgid "IDS_PJUH332_YUB_TEST"
+msgstr "Test Hull"
 
 msgid "IDS_PJUH341_ISHIZUCHI_1921"
 msgstr "石鎚"
@@ -18713,6 +19046,12 @@ msgstr "ハグロ"
 
 msgid "IDS_PJUH797_ASHIGARA"
 msgstr "アシガラ"
+
+msgid "IDS_PJUH798_YELLOW_DRAGON"
+msgstr "朱雀"
+
+msgid "IDS_PJUH799_BLUE_DRAGON"
+msgstr "青龍"
 
 msgid "IDS_PJUH801_SHIMAKAZE_1943"
 msgstr "島風 1943"
@@ -18918,6 +19257,9 @@ msgstr "四式 一号"
 msgid "IDS_PJUS332_SUO_CS"
 msgstr "四式 一号"
 
+msgid "IDS_PJUS332_SUO_TEST"
+msgstr "Test SUO"
+
 msgid "IDS_PJUS341_SUO_ISHIZUCHI"
 msgstr "四式 一号"
 
@@ -19032,6 +19374,12 @@ msgstr "七式 一号"
 msgid "IDS_PJUS793_SUO_ASHIGARA"
 msgstr "七式 一号"
 
+msgid "IDS_PJUS794_SUO_YELLOW_DRAGON"
+msgstr "七式 一号"
+
+msgid "IDS_PJUS795_SUO_BLUE_DRAGON"
+msgstr "七式 一号"
+
 msgid "IDS_PJUS801_SUO"
 msgstr "九式 一号"
 
@@ -19109,6 +19457,9 @@ msgstr "八年式 魚雷"
 
 msgid "IDS_PJUT332_610_2_JGT010_CS"
 msgstr "八年式 魚雷"
+
+msgid "IDS_PJUT332_610_TEST"
+msgstr "Test torpedo"
 
 msgid "IDS_PJUT401_C5_TORP_STOCK"
 msgstr "八年式 魚雷"
@@ -19192,6 +19543,12 @@ msgid "IDS_PJUT695_610_TYPE_90_MOD_1_HAGURO"
 msgstr "九〇式 侵食魚雷 一型"
 
 msgid "IDS_PJUT696_610_TYPE_90_MOD_1_ASHIGARA"
+msgstr "九〇式 侵食魚雷 一型"
+
+msgid "IDS_PJUT697_610_YELLOW_DRAGON"
+msgstr "九〇式 侵食魚雷 一型"
+
+msgid "IDS_PJUT698_610_BLUE_DRAGON"
 msgstr "九〇式 侵食魚雷 一型"
 
 msgid "IDS_PJUT701_C8_TORP_STOCK"
@@ -19565,6 +19922,9 @@ msgstr "横須賀要塞"
 msgid "IDS_PORT_BASIC"
 msgstr "比律賓"
 
+msgid "IDS_PORT_CHINAARPEGGIO"
+msgstr "上海"
+
 msgid "IDS_PORT_CLOCK"
 msgstr "港の時計"
 
@@ -19788,6 +20148,14 @@ msgid "IDS_PREP403_MURMANSK_1944"
 msgstr "タイプ 9 – Murmansk"
 
 msgid "IDS_PREP403_MURMANSK_1944_DESCRIPTION"
+msgstr ""
+"敵の射撃精度を低下させ、艦の被発見性を低減し、艦および艦長の取得 "
+"EXP を向上させる。"
+
+msgid "IDS_PREP405_KRASNIKRYM"
+msgstr "タイプ 9 – Krasny Krym"
+
+msgid "IDS_PREP405_KRASNIKRYM_DESCRIPTION"
 msgstr ""
 "敵の射撃精度を低下させ、艦の被発見性を低減し、艦および艦長の取得 "
 "EXP を向上させる。"
@@ -20137,17 +20505,94 @@ msgstr "コスト:"
 msgid "IDS_PRIMARYHEADER"
 msgstr "主タスク:"
 
+msgid "IDS_PRMP_BUY_OR_RID_SLOTS"
+msgstr "このオファーを受けるには、スロットを購入するか空けてください"
+
 msgid "IDS_PRMP_DISCOUNT"
 msgstr "割引"
 
 msgid "IDS_PRMP_FOR_YOU"
-msgstr "殿へ"
+msgstr ""
+"%(playerName)s 殿のための\n"
+"1 回限りのパーソナル・オファー!"
+
+msgid "IDS_PRMP_GO_TO_PREM_SHOP"
+msgstr "プレミアムショップに移動"
+
+msgid "IDS_PRMP_GO_TO_PREM_SHOP_DESCR"
+msgstr "プレミアムショップでは、魅力的なオファーが用意されております"
+
+msgid "IDS_PRMP_ITEM_ABILITY"
+msgstr "消耗品"
+
+msgid "IDS_PRMP_ITEM_ACCPOINTS"
+msgstr "任務記録 EXP"
+
+msgid "IDS_PRMP_ITEM_ACCPOINTSCOEFF"
+msgstr "任務記録 EXP"
+
+msgid "IDS_PRMP_ITEM_BARCAPACITY"
+msgstr "営舎部屋"
+
+msgid "IDS_PRMP_ITEM_CAMOUFLAGE"
+msgstr "迷彩"
+
+msgid "IDS_PRMP_ITEM_CREDITS"
+msgstr "クレジット"
+
+msgid "IDS_PRMP_ITEM_CREDITSCOEFF"
+msgstr "各戦での追加クレジット"
+
+msgid "IDS_PRMP_ITEM_CREDITSGOLD"
+msgstr "ダブロンの変換"
+
+msgid "IDS_PRMP_ITEM_CREWPOINTS"
+msgstr "艦長 EXP"
+
+msgid "IDS_PRMP_ITEM_CREWPOINTSCOEFF"
+msgstr "追加艦長 EXP"
+
+msgid "IDS_PRMP_ITEM_EXP"
+msgstr "各戦での EXP"
+
+msgid "IDS_PRMP_ITEM_EXPCOEFF"
+msgstr "各戦での追加 EXP"
+
+msgid "IDS_PRMP_ITEM_FLAGS"
+msgstr "信号旗"
+
+msgid "IDS_PRMP_ITEM_FREEXP"
+msgstr "フリー EXP"
+
+msgid "IDS_PRMP_ITEM_GOLD"
+msgstr "ダブロン"
+
+msgid "IDS_PRMP_ITEM_GOLDMONEY"
+msgstr "ダブロンの購入"
+
+msgid "IDS_PRMP_ITEM_MODERNIZATION"
+msgstr "アップグレード"
+
+msgid "IDS_PRMP_ITEM_PREMIUM"
+msgstr "プレミアムアカウント"
+
+msgid "IDS_PRMP_ITEM_SHIP"
+msgstr "艦"
+
+msgid "IDS_PRMP_ITEM_SLOTS"
+msgstr "空きスロット"
+
+msgid "IDS_PRMP_ITEM_XPFREEEXP"
+msgstr "EXP の変換"
 
 msgid "IDS_PRMP_RECEIVE"
 msgstr "入手できる"
 
-msgid "IDS_PRMP_SPECIAL_PROPOSAL"
-msgstr "貴官へのオファー!"
+msgid "IDS_PRMP_REDIRECT_TO_MODAL_WINDOW"
+msgstr "通貨変換画面にリダイレクトされます"
+
+msgid "IDS_PRMP_YOUR_EXCHANGE_RATES"
+msgstr "<body>魅力的な <h3>変換率</h3></body>"
 
 msgid "IDS_PRO"
 msgstr "賛成"
@@ -20413,8 +20858,14 @@ msgstr "152 mm AP 91 lb"
 msgid "IDS_PRPA043_152_HE_C"
 msgstr "152 mm HE 109 lb"
 
+msgid "IDS_PRPA044_130_HE_KK"
+msgstr "HE-54"
+
 msgid "IDS_PRPA044_130_HE_PROFINTERN"
 msgstr "HE-54"
+
+msgid "IDS_PRPA045_130_AP_KK"
+msgstr "SAP-46"
 
 msgid "IDS_PRPA045_130_AP_PROFINTERN"
 msgstr "SAP-46"
@@ -20760,15 +21211,15 @@ msgid "IDS_PRSC110_YEAR"
 msgstr "1953"
 
 msgid "IDS_PRSC505"
-msgstr "Profintern"
+msgstr "Krym"
 
 msgid "IDS_PRSC505_DESCR"
 msgstr ""
-"軽巡洋艦級のネームシップであり、一次大戦勃発の直前に起工されました。起工時には「スヴェトラーナ」と命名されたものの、"
-"1920 年代中盤に完成した際に「プロフィンテルン」へと改名されました。バルト艦隊に所属して海外で任務に従事した実績があります。"
+"クラースヌィイ・クルィームは、"
+"1910 年代に設計された軽巡洋艦であり、比較的小口径の主砲を複数備えていました。二次大戦の終戦までに、対空兵装の強化と射撃管制システムの改良が図られました。速力の点では当時の他の艦艇に比して劣っていました。"
 
 msgid "IDS_PRSC505_FULL"
-msgstr "Profintern"
+msgstr "Krasny Krym"
 
 msgid "IDS_PRSC505_NUMBER"
 msgstr "4"
@@ -21026,7 +21477,7 @@ msgstr "305 mm/52 Model 1907"
 msgid "IDS_PRUA441_C5_ART_STOCK"
 msgstr "180 mm/57 MK-3-180"
 
-msgid "IDS_PRUA451_130_55_PROFINTERN"
+msgid "IDS_PRUA451_130_55_KK"
 msgstr "130 mm/55 B-7"
 
 msgid "IDS_PRUA501_C6_ART_STOCK"
@@ -21119,7 +21570,7 @@ msgstr "推力: 30,000 馬力"
 msgid "IDS_PRUE441_C5_ENG_STOCK"
 msgstr "推力: 110,000 馬力"
 
-msgid "IDS_PRUE451_ENGINE_50000_PROFINTERN"
+msgid "IDS_PRUE451_ENGINE_50000_KK"
 msgstr "推力: 50,000 馬力"
 
 msgid "IDS_PRUE501_D6_ENG_STOCK"
@@ -21368,7 +21819,7 @@ msgstr "GFCS V mod. 1"
 msgid "IDS_PRUS442_SUO"
 msgstr "GFCS V mod. 2"
 
-msgid "IDS_PRUS451_SUO_PROFINTERN"
+msgid "IDS_PRUS451_SUO_KK"
 msgstr "GFCS V mod. 1"
 
 msgid "IDS_PRUS501_SUO"
@@ -21491,7 +21942,7 @@ msgstr "53-36 mod. 1"
 msgid "IDS_PRUT422_D5_TORP_TOP"
 msgstr "53-38"
 
-msgid "IDS_PRUT431_PROFINTERN"
+msgid "IDS_PRUT431_KK"
 msgstr "53-27"
 
 msgid "IDS_PRUT441_C5_TORP_STOCK"
@@ -22154,6 +22605,9 @@ msgstr "新しい艦長を採用するか、または営舎や他の艦艇の艦
 msgid "IDS_READY_TO_BATTLE_DENY_REASON_NO_SHIP"
 msgstr "艦を選択"
 
+msgid "IDS_READY_TO_BATTLE_DENY_REASON_SHIPS_HAVE_DIFFERENT_GROUPS"
+msgstr "別の艦を選択してください。特別艦艇は、他のタイプの艦艇と共に戦闘に参加することはできません。"
+
 msgid "IDS_READY_TO_BATTLE_DENY_REASON_SHIP_IS_IN_BATTLE"
 msgstr "選択した艦は戦闘中です。"
 
@@ -22464,6 +22918,21 @@ msgstr "陣地占領アシスト"
 msgid "IDS_RIBBON_12"
 msgstr "離島制圧"
 
+msgid "IDS_RIBBON_13"
+msgstr "目標に命中"
+
+msgid "IDS_RIBBON_14"
+msgstr "全貫通"
+
+msgid "IDS_RIBBON_15"
+msgstr "貫通"
+
+msgid "IDS_RIBBON_16"
+msgstr "不貫通"
+
+msgid "IDS_RIBBON_17"
+msgstr "跳弾"
+
 msgid "IDS_RIBBON_2"
 msgstr "目標に命中"
 
@@ -22487,6 +22956,63 @@ msgstr "防郭へ命中"
 
 msgid "IDS_RIBBON_9"
 msgstr "陣地を防衛"
+
+msgid "IDS_RIBBON_DESCRIPTION_0"
+msgstr "敵艦に主砲弾が命中"
+
+msgid "IDS_RIBBON_DESCRIPTION_1"
+msgstr "敵艦に魚雷が命中"
+
+msgid "IDS_RIBBON_DESCRIPTION_10"
+msgstr "海域/敵陣地を占領"
+
+msgid "IDS_RIBBON_DESCRIPTION_11"
+msgstr "海域/敵陣地占領をアシスト"
+
+msgid "IDS_RIBBON_DESCRIPTION_12"
+msgstr "敵の陸上施設を制圧"
+
+msgid "IDS_RIBBON_DESCRIPTION_13"
+msgstr "敵艦に副砲弾が命中"
+
+msgid "IDS_RIBBON_DESCRIPTION_14"
+msgstr "敵艦を全貫通"
+
+msgid "IDS_RIBBON_DESCRIPTION_15"
+msgstr "敵艦を貫通"
+
+msgid "IDS_RIBBON_DESCRIPTION_16"
+msgstr "敵艦を貫通できず"
+
+msgid "IDS_RIBBON_DESCRIPTION_17"
+msgstr "敵艦に命中した砲弾が跳弾"
+
+msgid "IDS_RIBBON_DESCRIPTION_2"
+msgstr "敵艦に爆弾が命中"
+
+msgid "IDS_RIBBON_DESCRIPTION_3"
+msgstr "敵機を撃墜"
+
+msgid "IDS_RIBBON_DESCRIPTION_4"
+msgstr "敵艦のモジュールを機能停止させた"
+
+msgid "IDS_RIBBON_DESCRIPTION_5"
+msgstr "敵艦を撃沈"
+
+msgid "IDS_RIBBON_DESCRIPTION_6"
+msgstr "敵艦に火災を発生させた"
+
+msgid "IDS_RIBBON_DESCRIPTION_7"
+msgstr "敵艦に浸水を発生させた"
+
+msgid "IDS_RIBBON_DESCRIPTION_8"
+msgstr "敵艦の防郭に命中"
+
+msgid "IDS_RIBBON_DESCRIPTION_9"
+msgstr "海域/味方陣地を占領中の敵に命中弾を与えた"
+
+msgid "IDS_RIBBON_TOTAL_DAMAGE"
+msgstr "この戦闘での合計与ダメージ"
 
 msgid "IDS_RICOCHET_HIT_TYPE"
 msgstr "跳弾!"
@@ -22520,6 +23046,9 @@ msgstr "北向き視点"
 
 msgid "IDS_RUN_OUT"
 msgstr "殿からの応答待ちが制限時間を超過しました。"
+
+msgid "IDS_RUR"
+msgstr "RUB"
 
 msgid "IDS_RUSSIA"
 msgstr "蘇連"
@@ -22582,6 +23111,18 @@ msgid "IDS_SCENARIO_EPICENTRE_DESCRIPTION"
 msgstr "重要海域を占領せよ。中心に近いほど、より多くのポイントがチームに入る!"
 
 msgid "IDS_SCENARIO_FORTS"
+msgstr "要塞戦"
+
+msgid "IDS_SCENARIO_FORTS01"
+msgstr "要塞戦"
+
+msgid "IDS_SCENARIO_FORTS02"
+msgstr "要塞戦"
+
+msgid "IDS_SCENARIO_FORTS03"
+msgstr "要塞戦"
+
+msgid "IDS_SCENARIO_FORTS04"
 msgstr "要塞戦"
 
 msgid "IDS_SCENARIO_MEGABASE"
@@ -23375,6 +23916,34 @@ msgstr "海面発見距離"
 msgid "IDS_SHIP_PARAM_WEAPONRY"
 msgstr "砲"
 
+msgid "IDS_SHIP_PECULIARITIES"
+msgstr "艦の注意事項"
+
+msgid "IDS_SHIP_PECULIARITIES_COLLAPSE_HINT"
+msgstr "艦の注意事項を非表示"
+
+msgid "IDS_SHIP_PECULIARITIES_EXPAND_HINT"
+msgstr "艦の注意事項を表示"
+
+msgid "IDS_SHIP_PECULIARITY_1"
+msgstr ""
+"• 戦闘終了時には、クレジット、"
+"EXP、実績は加算されません"
+
+msgid "IDS_SHIP_PECULIARITY_2"
+msgstr "• この艦の戦績は統計されません"
+
+msgid "IDS_SHIP_PECULIARITY_3"
+msgstr ""
+"• この艦が削除される際には、その "
+"EXP は国家の初期艦艇のいずれかに転送されます"
+
+msgid "IDS_SHIP_PECULIARITY_4"
+msgstr "• この艦が削除されても、艦長 EXP は維持されます"
+
+msgid "IDS_SHIP_PECULIARITY_5"
+msgstr "• Co-op 戦およびランダム戦のみで使用可能"
+
 msgid "IDS_SHIP_PURCHASE"
 msgstr "艦の購入"
 
@@ -23932,6 +24501,33 @@ msgstr "艦種別"
 msgid "IDS_SORT_BY_TYPE"
 msgstr "タイプ別"
 
+msgid "IDS_SOUND_MOD_ARPEGGIO_ASHIGARA"
+msgstr "アシガラ"
+
+msgid "IDS_SOUND_MOD_ARPEGGIO_HARUNA"
+msgstr "ハルナ"
+
+msgid "IDS_SOUND_MOD_ARPEGGIO_HIEI"
+msgstr "ヒエイ"
+
+msgid "IDS_SOUND_MOD_ARPEGGIO_IONA"
+msgstr "イオナ"
+
+msgid "IDS_SOUND_MOD_ARPEGGIO_KIRISHIMA_BEAR"
+msgstr "キリシマ（ヨタロウ）"
+
+msgid "IDS_SOUND_MOD_ARPEGGIO_KONGOU"
+msgstr "コンゴウ"
+
+msgid "IDS_SOUND_MOD_ARPEGGIO_TAKAO"
+msgstr "タカオ"
+
+msgid "IDS_SOUND_MOD_DEFAULT"
+msgstr "標準"
+
+msgid "IDS_SOUND_MOD_NATION"
+msgstr "国別"
+
 msgid "IDS_SOUND_OPTIONS"
 msgstr "音響"
 
@@ -24180,10 +24776,10 @@ msgid "IDS_SPACES/25_NE_MORNING_BREEZE_DESCR"
 msgstr "IDS_SPACES/25_NE_MORNING_BREEZE_DESCR"
 
 msgid "IDS_SPACES/25_SEA_HOPE"
-msgstr "希望の海 (Sea Hope)"
+msgstr "ガーンジー (Sea of Fortune)"
 
 msgid "IDS_SPACES/25_SEA_HOPE_DESCR"
-msgstr "希望の海"
+msgstr "フランス近海の孤島。"
 
 msgid "IDS_SPACES/26_OC_ON_TWO_FRONT"
 msgstr "二正面作戦"
@@ -24294,10 +24890,10 @@ msgid "IDS_SPACES/45_RAMPART_DESCR"
 msgstr "我らが要塞。"
 
 msgid "IDS_SPACES/45_ZIGZAG"
-msgstr "ジグザグ"
+msgstr "カーボベルデ (Loop)"
 
 msgid "IDS_SPACES/45_ZIGZAG_DESCR"
-msgstr "ジグザグ"
+msgstr "大西洋重要交通路上の群島海域。"
 
 msgid "IDS_SPACES/46_ESTUARY"
 msgstr "河口 (Estuary)"
@@ -24351,7 +24947,7 @@ msgid "IDS_SPECTATE_ARMAMENT"
 msgstr "兵装へ"
 
 msgid "IDS_SPECTATE_BACK"
-msgstr "後方"
+msgstr "戻る"
 
 msgid "IDS_SPECTATE_CAM_MOVING"
 msgstr "カメラ"
@@ -24929,6 +25525,9 @@ msgstr "標準"
 msgid "IDS_SUO"
 msgstr "射撃管制装置"
 
+msgid "IDS_SUPPRESSION"
+msgstr "制圧"
+
 msgid "IDS_SURVEYBUTTON_PROCEED"
 msgstr "アンケートに進む"
 
@@ -25475,6 +26074,9 @@ msgstr "戦術マップ"
 
 msgid "IDS_TACTICS"
 msgstr "戦術"
+
+msgid "IDS_TAKAO"
+msgstr "タカオ"
 
 msgid "IDS_TAKEN_AMMO_AP_HINT"
 msgstr "AP 弾の被弾数と被ダメージ"
@@ -26265,6 +26867,52 @@ msgstr "有効にする"
 msgid "IDS_TUTORIAL_BATTLE"
 msgstr "入門ミッション"
 
+msgid "IDS_TUTOR_BASTION_01"
+msgstr "要塞戦は、プレイヤーチーム同士が陸上施設からの支援を受けながら対戦する戦闘モードだ。"
+
+msgid "IDS_TUTOR_BASTION_02"
+msgstr ""
+"このマップには複数の離島 "
+"[icon_1] があり、離島には要塞 [icon_2] や監視所 "
+"[icon_3] が含まれている。"
+
+msgid "IDS_TUTOR_BASTION_03"
+msgstr "離島を占領すれば、その離島に含まれる施設は味方となる。"
+
+msgid "IDS_TUTOR_BASTION_04"
+msgstr ""
+"要塞 [icon_4] は高い "
+"HP を備えた陸上施設であり砲台と対空砲で武装している。味方の要塞 "
+"[icon_5] は、敵に対し砲撃を行う。"
+
+msgid "IDS_TUTOR_BASTION_05"
+msgstr ""
+"監視所 "
+"[icon_6] は、観測範囲内の敵を発見することでチームを支援する。"
+
+msgid "IDS_TUTOR_BASTION_06"
+msgstr "陸上施設を攻撃することで、その離島の占領進捗をリセットしたり、施設を制圧して機能を停止させることができる。"
+
+msgid "IDS_TUTOR_BASTION_07"
+msgstr ""
+"制圧された要塞 "
+"[icon_7] は、攻撃を停止する。制圧された監視所 "
+"[icon_8] は、観測範囲が低下する。"
+
+msgid "IDS_TUTOR_BASTION_08"
+msgstr "制圧された陸上施設は、時間経過と共に自動回復し、やがてその機能を回復する。"
+
+msgid "IDS_TUTOR_BASTION_09"
+msgstr ""
+"勝利条件は、敵艦艇の殲滅、または "
+"1,000 ポイント先取である。"
+
+msgid "IDS_TUTOR_BASTION_10"
+msgstr "戦闘での健闘を祈る!"
+
+msgid "IDS_TUTOR_BASTION_HEADER"
+msgstr "要塞戦モードへようこそ"
+
 msgid "IDS_UNABLE_TO_CREATE_TRAINING"
 msgstr "トレーニングルーム作成不能。"
 
@@ -26653,6 +27301,33 @@ msgstr "必要な投票数"
 
 msgid "IDS_VOICES_NEEDED_HINT"
 msgstr "提議をすぐに採択または却下するために必要な賛成票および反対票の合計"
+
+msgid "IDS_VOICE_MOD"
+msgstr "戦闘音声"
+
+msgid "IDS_VOICE_PACKAGE"
+msgstr "音声の言語"
+
+msgid "IDS_VOICE_PACK_DE"
+msgstr "ドイツ語"
+
+msgid "IDS_VOICE_PACK_EN"
+msgstr "英語"
+
+msgid "IDS_VOICE_PACK_JA"
+msgstr "日本語"
+
+msgid "IDS_VOICE_PACK_KO"
+msgstr "韓国語"
+
+msgid "IDS_VOICE_PACK_RU"
+msgstr "ロシア語"
+
+msgid "IDS_VOICE_PACK_ZH_CN"
+msgstr "中国語 (中国)"
+
+msgid "IDS_VOICE_PACK_ZH_TW"
+msgstr "中国語 (台湾)"
 
 msgid "IDS_VOLLEY"
 msgstr "接近中"

@@ -96,10 +96,10 @@
     &nbsp;&nbsp;F. Easter egg(s?).
     
 
-2. AP tracer color mod `/particles`: a simple recoloring of AP shell tracers to give a ice-blue for own shells and green for others' shells (friendly and hostile).
+2. AP tracer color mod `/particles`: a simple recoloring of AP shell tracers to give an ice-blue color for own fort shells and green for all others' shells (friendly and hostile).
 
 3. Flag mod `/content/gameplay/common/flags`: an innovative approach to easing the update of this mod by altering the `atlas` coordination file to read a remote region of the dds file that is currently blank.
 
-4. Camouflage mod `/camouflages.xml`: a systematic recoloring of IJN "pickle-green" camos and others that I possess into more discreet versions. **(pic to-do)**
+4. Camouflage mod `/camouflages.xml`: a systematic recoloring of IJN "pickle-green" camos and others that I possess into more discreet versions. Myoko is not changed.
 
 5. Japanese font mod `/gui/flash/fonts_all.swf` AND `fontconfig.xml`: a remake of the flash file that contains fonts used by the game. The flash file has a very barebone layout — two texts of "regular" and "bold" font-face on a 550x400@25fps canvas, with those two (or more, a total of four used by the game) actual fonts' files embeded, and anti-aliasing settings to "custom" with sharpness and thickness both at 0. Export to swf with Flash ver. 10.3.
