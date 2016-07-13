@@ -5727,13 +5727,13 @@ msgid "IDS_FREE_CAMERA_ATTACH_TO_VEHICLE_REL"
 msgstr "艦に合わせて移動"
 
 msgid "IDS_FREE_CAMERA_BACKWARD"
-msgstr "後方"
+msgstr "後進"
 
 msgid "IDS_FREE_CAMERA_BACKWARD_XZ_ALIGNED"
 msgstr "水平後退"
 
 msgid "IDS_FREE_CAMERA_FORWARD"
-msgstr "前"
+msgstr "前進"
 
 msgid "IDS_FREE_CAMERA_FORWARD_XZ_ALIGNED"
 msgstr "水平前進"
