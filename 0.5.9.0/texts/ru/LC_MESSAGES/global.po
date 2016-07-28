@@ -8463,7 +8463,7 @@ msgid "IDS_LINK_SUPPORT_HINT"
 msgstr "カスタマーサービスセンターにリダイレクトされます"
 
 msgid "IDS_LOADING"
-msgstr "大君の辺にこそ死なめ かえりみはせじ"
+msgstr "萬里の波濤を乘り越えて 皇國の光輝かせ"
 
 msgid "IDS_LOADING_PORT"
 msgstr "港を読込中"
@@ -10781,6 +10781,9 @@ msgstr "ダメージを受けた際の振動効果有効"
 
 msgid "IDS_OPTIONS_ENABLE_EARES"
 msgstr "艦隊パネル表示"
+
+msgid "IDS_OPTIONS_ENABLE_VOICECHAT"
+msgstr "音声チャットの有効化"
 
 msgid "IDS_OPTIONS_ENGINES_VOLUME"
 msgstr "機関音"
