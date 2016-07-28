@@ -2367,6 +2367,99 @@
 		<color2>0.025 0.075 0.195 0.650</color2>
 		<color3>0.000 0.000 0.000 0.000</color3>
 	</camouflage>
+<!--//French ships tile camouflage-->
+	<!--//tier 1-->
+	<camouflage>
+		<annotation>Блок тайленых французских камуфляжей для кораблей с квадратной текстурой корпуса и прямоугольной текстурой надстройки</annotation>
+        <name>camo_1_tile</name>
+        <targetShip>PFSB506_Dunkerque_1940</targetShip>
+        <tiled>true</tiled>
+        <UV>
+			<Tile>3.8 3.8</Tile>
+			<Bow_DeckHouse>3.8 1.9</Bow_DeckHouse>
+			<MidFront_DeckHouse>3.8 1.9</MidFront_DeckHouse>
+			<MidBack_DeckHouse>3.8 1.9</MidBack_DeckHouse>
+			<Stern_DeckHouse>3.8 1.9</Stern_DeckHouse>
+			<Gun>0.6 0.6</Gun>
+			<Bulge>1.7 1.7</Bulge>
+        </UV>
+        <Textures>
+            <Tile>content/gameplay/common/camouflage/textures/IJN_tile_camo_01.dds</Tile>
+        </Textures>
+		<color0>0.108 0.135 0.146 1.000</color0>
+		<color1>0.058 0.064 0.072 1.000</color1>
+		<color2>0.180 0.191 0.201 1.000</color2>
+		<color3>0.015 0.028 0.042 1.000</color3>
+	</camouflage>
+	<!--//tier 2-->
+	<camouflage>
+		<annotation>Блок тайленых французских камуфляжей для кораблей с квадратной текстурой корпуса и прямоугольной текстурой надстройки</annotation>
+        <name>camo_2_tile</name>
+        <targetShip>PFSB506_Dunkerque_1940</targetShip>
+        <tiled>true</tiled>
+        <UV>
+			<Tile>3 3</Tile>
+			<Bow_DeckHouse>3 1.5</Bow_DeckHouse>
+			<MidFront_DeckHouse>3 1.5</MidFront_DeckHouse>
+			<MidBack_DeckHouse>3 1.5</MidBack_DeckHouse>
+			<Stern_DeckHouse>3 1.5</Stern_DeckHouse>
+			<Gun>0.5 0.5</Gun>
+			<Bulge>1.5 1.5</Bulge>
+        </UV>
+        <Textures>
+            <Tile>content/gameplay/common/camouflage/textures/IJN_tile_camo_02.dds</Tile>
+        </Textures>
+		<color0>0.108 0.135 0.146 1.000</color0>
+		<color1>0.058 0.064 0.072 1.000</color1>
+		<color2>0.180 0.191 0.201 1.000</color2>
+		<color3>0.015 0.028 0.042 1.000</color3>
+	</camouflage>
+	<!--//tier 3-->
+	<camouflage>
+		<annotation>Блок тайленых французских камуфляжей для кораблей с квадратной текстурой корпуса и прямоугольной текстурой надстройки</annotation>
+        <name>camo_3_tile</name>
+        <targetShip>PFSB506_Dunkerque_1940</targetShip>
+        <tiled>true</tiled>
+        <UV>
+			<Tile>3.4 3.4</Tile>
+			<Bow_DeckHouse>3.4 1.7</Bow_DeckHouse>
+			<MidFront_DeckHouse>3.4 1.7</MidFront_DeckHouse>
+			<MidBack_DeckHouse>3.4 1.7</MidBack_DeckHouse>
+			<Stern_DeckHouse>3.4 1.7</Stern_DeckHouse>
+			<Gun>0.7 0.7</Gun>
+			<Bulge>1.2 1.2</Bulge>
+        </UV>
+        <Textures>
+            <Tile>content/gameplay/common/camouflage/textures/Dazzle_tile_camo_03.dds</Tile>
+        </Textures>
+		<color0>0.015 0.028 0.042 1.000</color0>
+		<color1>0.180 0.191 0.201 1.000</color1>
+		<color2>0.058 0.064 0.072 1.000</color2>
+		<color3>0.108 0.135 0.146 1.000</color3>
+	</camouflage>
+	<!--//Economic camouflage-->
+	<camouflage>
+		<annotation>Блок тайленых французских камуфляжей для кораблей с квадратной текстурой корпуса и прямоугольной текстурой надстройки</annotation>
+        <name>camo_economic_tile</name>
+        <targetShip>PFSB506_Dunkerque_1940</targetShip>
+        <tiled>true</tiled>
+        <UV>
+			<Tile>3.4 3.4</Tile>
+			<Bow_DeckHouse>3.4 1.7</Bow_DeckHouse>
+			<MidFront_DeckHouse>3.4 1.7</MidFront_DeckHouse>
+			<MidBack_DeckHouse>3.4 1.7</MidBack_DeckHouse>
+			<Stern_DeckHouse>3.4 1.7</Stern_DeckHouse>
+			<Gun>0.6 0.6</Gun>
+			<Bulge>1.2 1.2</Bulge>
+        </UV>
+        <Textures>
+            <Tile>content/gameplay/common/camouflage/textures/Dazzle_tile_camo_04.dds</Tile>
+        </Textures>
+		<color0>0.015 0.028 0.042 1.000</color0>
+		<color1>0.180 0.191 0.201 1.000</color1>
+		<color2>0.058 0.064 0.072 1.000</color2>
+		<color3>0.000 0.000 0.000 0.000</color3>
+	</camouflage>
 <!--//Special tile camouflage-->
 	<!--//Ranked battles camouflage-->
 	<camouflage>
@@ -2581,7 +2674,7 @@
 	<camouflage>
 		<annotation>Блок тайленого камуфляжа ранговых боев для кораблей с квадратной текстурой корпуса и прямоугольной текстурой надстройки</annotation>
         <name>camo_ranked_tile</name>
-        <targetShip>PASB506_Arizona_1941 PGSB107_Gneisenau PGSB507_Scharnhorst</targetShip>
+        <targetShip>PASB506_Arizona_1941 PGSB107_Gneisenau PGSB507_Scharnhorst PFSB506_Dunkerque_1940</targetShip>
         <tiled>true</tiled>
         <UV>
 			<Tile>3.5 3.5</Tile>
@@ -2769,7 +2862,7 @@
 	<camouflage>
 		<annotation>Блок тайленого камуфляжа супер-тестеров для кораблей с квадратной текстурой корпуса и прямоугольной текстурой надстройки</annotation>
         <name>camo_supertest_tile</name>
-        <targetShip>PASB506_Arizona_1941 PGSB107_Gneisenau PGSB507_Scharnhorst</targetShip>
+        <targetShip>PASB506_Arizona_1941 PGSB107_Gneisenau PGSB507_Scharnhorst PFSB506_Dunkerque_1940</targetShip>
         <tiled>true</tiled>
         <UV>
 			<Tile>3.8 3.8</Tile>
@@ -4468,7 +4561,7 @@
 	<camouflage>
 		<annotation>Блок тайленого камуфляжа GNB для кораблей с квадратной текстурой корпуса и прямоугольной текстурой надстройки</annotation>
         <name>camo_GNB_tile</name>
-		<targetShip>PASB506_Arizona_1941 PGSB107_Gneisenau PGSB507_Scharnhorst</targetShip>
+		<targetShip>PASB506_Arizona_1941 PGSB107_Gneisenau PGSB507_Scharnhorst PFSB506_Dunkerque_1940</targetShip>
         <tiled>true</tiled>
         <UV>
             <Tile>3.8 3.8</Tile>
@@ -4722,7 +4815,7 @@
 	<camouflage>
 		<annotation>Блок тайленого специального камуфляжа азиатского ивента для кораблей с квадратной текстурой корпуса и прямоугольной текстурой надстройки</annotation>
         <name>camo_cn_special_tile</name>
-		<targetShip>PASB506_Arizona_1941 PGSB107_Gneisenau PGSB507_Scharnhorst</targetShip>
+		<targetShip>PASB506_Arizona_1941 PGSB107_Gneisenau PGSB507_Scharnhorst PFSB506_Dunkerque_1940</targetShip>
         <tiled>true</tiled>
         <UV>
             <Tile>3.8 3.8</Tile>
@@ -6327,6 +6420,32 @@
 		<color1>0.025 0.075 0.195 0.750</color1>
 		<color2>0.000 0.013 0.028 0.900</color2>
 		<color3>0.184 0.212 0.231 0.784</color3>
+	</camouflage>
+	<!--//French premium ships camouflage-->
+	<camouflage>
+		<annotation>Блок уникального дефолтного камуфляжа для французского линкора Дюнкерк</annotation>
+		<name>camo_permanent_1</name>
+		<targetShip>PFSB506_Dunkerque_1940</targetShip>
+		<tiled>false</tiled>
+		<UV>
+			<Tile>1 1</Tile>
+			<Gun>1 1</Gun>
+		</UV>
+		<Textures>
+			<Bow_Hull>content/gameplay/common/camouflage/textures/FSB001_Dunkerque_1940_camo_01.dds</Bow_Hull>
+			<Bow_DeckHouse>content/gameplay/common/camouflage/textures/FSB001_Dunkerque_1940_Deckhouse_camo_01.dds</Bow_DeckHouse>
+			<MidFront_Hull>content/gameplay/common/camouflage/textures/FSB001_Dunkerque_1940_camo_01.dds</MidFront_Hull>
+			<MidFront_DeckHouse>content/gameplay/common/camouflage/textures/FSB001_Dunkerque_1940_Deckhouse_camo_01.dds</MidFront_DeckHouse>
+			<MidBack_Hull>content/gameplay/common/camouflage/textures/FSB001_Dunkerque_1940_camo_01.dds</MidBack_Hull>
+			<MidBack_DeckHouse>content/gameplay/common/camouflage/textures/FSB001_Dunkerque_1940_Deckhouse_camo_01.dds</MidBack_DeckHouse>
+			<Stern_Hull>content/gameplay/common/camouflage/textures/FSB001_Dunkerque_1940_camo_01.dds</Stern_Hull>
+			<Stern_DeckHouse>content/gameplay/common/camouflage/textures/FSB001_Dunkerque_1940_Deckhouse_camo_01.dds</Stern_DeckHouse>
+			<Gun>content/gameplay/common/camouflage/textures/R_gun_camo_01.dds</Gun>
+		</Textures>
+		<color0>0.108 0.135 0.146 1.000</color0>
+		<color1>0.058 0.064 0.072 1.000</color1>
+		<color2>0.025 0.038 0.052 1.000</color2>
+		<color3>0.000 0.000 0.000 0.000</color3>
 	</camouflage>
 	<!--//Test camo-->
 </data>

@@ -17,6 +17,9 @@ msgstr "10X10"
 msgid "IDS_15X15"
 msgstr "15X15"
 
+msgid "IDS_17_NA_FAULT_LINE_01"
+msgstr "セクター D2 および G9 に行動中の敵を発見!"
+
 msgid "IDS_1X1"
 msgstr "1X1"
 
@@ -93,6 +96,9 @@ msgstr "承諾"
 msgid "IDS_ACCEPT_INVITATION"
 msgstr "招待を承諾"
 
+msgid "IDS_ACCESS_GRANTED"
+msgstr "制限解除"
+
 msgid "IDS_ACCOUNT"
 msgstr "現在の名前:"
 
@@ -101,6 +107,11 @@ msgstr "滄海遺珠"
 
 msgid "IDS_ACCOUNT_GOLD_EXCHANGE_HEADING"
 msgstr "クレジットの変換"
+
+msgid "IDS_ACCOUNT_LEVELING_FUNCTIONS_HINT"
+msgstr ""
+"アイコン "
+"[icon] にマウスオーバーすると、その任務記録レベルをアンロックすることで利用可能になる機能を確認することができます"
 
 msgid "IDS_ACCOUNT_LEVELING_POINTS"
 msgstr "任務記録 EXP"
@@ -837,6 +848,9 @@ msgstr ""
 "新しい戦隊を作成できません。\n"
 "まずは現在参加中の戦隊から脱退してください。"
 
+msgid "IDS_ALPHABET"
+msgstr "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ"
+
 msgid "IDS_AMMOTYPE_AP"
 msgstr "AP"
 
@@ -928,29 +942,11 @@ msgstr "武装あり"
 msgid "IDS_ARMOUR_SCHEME"
 msgstr "防御構造"
 
+msgid "IDS_ARTBOTTOM"
+msgstr "内部隔壁"
+
 msgid "IDS_ARPEGGIO"
 msgstr "霧の艦隊"
-
-msgid "IDS_ARPEGGIO_CREW_INFO"
-msgstr "営舎または同国籍の他の艦艇から艦長を配属してください。"
-
-msgid "IDS_ARPEGGIO_SHIP_POINTS"
-msgstr "アルペジオ艦艇の利点"
-
-msgid "IDS_ARPEGGIO_SHIP_POINTS_COLLAPSE_HINT"
-msgstr "アルペジオ艦艇の利点を非表示"
-
-msgid "IDS_ARPEGGIO_SHIP_POINTS_EXPAND_HINT"
-msgstr "アルペジオ艦艇の利点を表示"
-
-msgid "IDS_ARPEGGIO_SHIP_POINT_1"
-msgstr "• 研究不要であり、これらの特別艦艇は売却不能"
-
-msgid "IDS_ARPEGGIO_SHIP_POINT_2"
-msgstr "• 横須賀港を選択している場合に利用可能"
-
-msgid "IDS_ARPEGGIO_SHIP_POINT_3"
-msgstr "• 他のアルペジオ艦艇の艦長を配属した場合、再訓練なしでもペナルティが生じない"
 
 msgid "IDS_ARTILLERY"
 msgstr "主砲"
@@ -960,6 +956,12 @@ msgstr "主砲 HE 弾"
 
 msgid "IDS_ARTILLERY_AMMO_1"
 msgstr "主砲 AP 弾"
+
+msgid "IDS_ARTSIDE"
+msgstr "側面装甲"
+
+msgid "IDS_ARTTOP"
+msgstr "甲板"
 
 msgid "IDS_ART_CAMERA"
 msgstr "砲撃カメラ"
@@ -1018,6 +1020,36 @@ msgstr "自動航行制御"
 msgid "IDS_AUTOPILOT_ON"
 msgstr "自動航行 ON"
 
+msgid "IDS_AUTOPURCHASE"
+msgstr "自動購入"
+
+msgid "IDS_AUTOPURCHASE_CAMOUFLAGE_OFF"
+msgstr "自動購入は無効です。迷彩の在庫がある場合は、無償で補給されます。"
+
+msgid "IDS_AUTOPURCHASE_CAMOUFLAGE_ON"
+msgstr "自動購入が有効です。迷彩の在庫がなかった場合、ゲーム通貨を消費して補給されます。"
+
+msgid "IDS_AUTOPURCHASE_CONSUMABLES_OFF"
+msgstr "自動購入は無効です。消耗品の在庫がある場合、無償で補給されます。"
+
+msgid "IDS_AUTOPURCHASE_CONSUMABLES_ON"
+msgstr "自動購入が有効です。消耗品の在庫がなかった場合、ゲーム通貨を消費して補給されます。"
+
+msgid "IDS_AUTOPURCHASE_FULL"
+msgstr "在庫が無い場合、ゲーム通貨を消費して補給"
+
+msgid "IDS_AUTOPURCHASE_SIGNALS_OFF"
+msgstr "自動購入は無効です。信号旗の在庫がある場合、無償で補給されます。"
+
+msgid "IDS_AUTOPURCHASE_SIGNALS_ON"
+msgstr "自動購入が有効です。信号旗の在庫がなかった場合、ゲーム通貨を消費して補給されます。"
+
+msgid "IDS_AUTOPURCHASE_SWITCH_OFF"
+msgstr "自動購入の無効化"
+
+msgid "IDS_AUTOPURCHASE_SWITCH_ON"
+msgstr "自動購入の有効化"
+
 msgid "IDS_AUTORECHARGE_COST"
 msgstr "自動補給費用"
 
@@ -1070,6 +1102,24 @@ msgstr "修理・補給によるクレジット消費"
 
 msgid "IDS_AUTO_SETTINGS"
 msgstr "グラフィック品質"
+
+msgid "IDS_AUTURRETAFT"
+msgstr "副砲塔装甲"
+
+msgid "IDS_AUTURRETBARBETTE"
+msgstr "副砲塔バーベット装甲"
+
+msgid "IDS_AUTURRETDOWN"
+msgstr "副砲塔装甲"
+
+msgid "IDS_AUTURRETFWD"
+msgstr "副砲塔装甲"
+
+msgid "IDS_AUTURRETSIDE"
+msgstr "副砲塔装甲"
+
+msgid "IDS_AUTURRETTOP"
+msgstr "副砲塔装甲"
 
 msgid "IDS_AUXILIARY"
 msgstr "潜水艦"
@@ -1275,6 +1325,9 @@ msgstr "%s (巡洋艦)"
 
 msgid "IDS_BATTLES_AT_DESTROYERS"
 msgstr "%s (駆逐艦)"
+
+msgid "IDS_BATTLES_AT_FRANCE"
+msgstr "%s (仏蘭西艦艇)"
 
 msgid "IDS_BATTLES_AT_GERMANY"
 msgstr "%s (独逸艦艇)"
@@ -1768,6 +1821,9 @@ msgstr "変換前:"
 msgid "IDS_BEFORE_EXCHANGE"
 msgstr "現在の残高:"
 
+msgid "IDS_BELT"
+msgstr "装甲帯"
+
 msgid "IDS_BILINEAR"
 msgstr "バイリニア"
 
@@ -1792,8 +1848,38 @@ msgstr "爆弾投下数"
 msgid "IDS_BOT"
 msgstr "ボット"
 
+msgid "IDS_BOTTOM"
+msgstr "底部"
+
+msgid "IDS_BOW_BELT"
+msgstr "船首帯"
+
+msgid "IDS_BOW_BOTTOM"
+msgstr "船首底部"
+
+msgid "IDS_BOW_CONSTRSIDE"
+msgstr "船首保護鋼板"
+
+msgid "IDS_BOW_DECK"
+msgstr "船首甲板"
+
+msgid "IDS_BOW_INCLIN"
+msgstr "船首傾斜部"
+
+msgid "IDS_BOW_TRANS"
+msgstr "船首水平鋼板"
+
 msgid "IDS_BREAK_ARMOR_HIT_TYPE"
 msgstr "貫通された"
+
+msgid "IDS_BRIDGEBOTTOM"
+msgstr "司令塔"
+
+msgid "IDS_BRIDGESIDE"
+msgstr "司令塔"
+
+msgid "IDS_BRIDGETOP"
+msgstr "司令塔"
 
 msgid "IDS_BROKEGUN"
 msgstr "砲損傷"
@@ -1812,6 +1898,9 @@ msgstr "要塞"
 
 msgid "IDS_BUILDING_SENSORTOWER"
 msgstr "監視所"
+
+msgid "IDS_BULGE"
+msgstr "バルジ"
 
 msgid "IDS_BURNCHANCEFACTORBIG"
 msgstr ": 爆弾および口径 160 mm 超の砲弾による火災発生率"
@@ -1995,6 +2084,18 @@ msgstr "航空母艦"
 
 msgid "IDS_CARRIER_SELECT"
 msgstr "航空母艦を選択"
+
+msgid "IDS_CAS_AFTTRANS"
+msgstr "水平鋼板"
+
+msgid "IDS_CAS_BELT"
+msgstr "装甲帯"
+
+msgid "IDS_CAS_DECK"
+msgstr "甲板"
+
+msgid "IDS_CAS_FWDTRANS"
+msgstr "水平鋼板"
 
 msgid "IDS_CAUSED_AIRPLANES_HINT"
 msgstr "航空機による命中数と与ダメージ"
@@ -2255,6 +2356,33 @@ msgstr "接近開始ポイントの移動"
 
 msgid "IDS_CINEMATIC_SHOOT"
 msgstr "射撃後、砲弾/魚雷を追跡"
+
+msgid "IDS_CIT_AFTTRANS"
+msgstr "中央防郭水平鋼板"
+
+msgid "IDS_CIT_BARBETTE"
+msgstr "バーベット"
+
+msgid "IDS_CIT_BELT"
+msgstr "中央防郭帯"
+
+msgid "IDS_CIT_BOTTOM"
+msgstr "中央防郭底部"
+
+msgid "IDS_CIT_BULGE"
+msgstr "中央防郭対水雷防御隔壁"
+
+msgid "IDS_CIT_DECK"
+msgstr "中央防郭甲板"
+
+msgid "IDS_CIT_FWDTRANS"
+msgstr "中央防郭水平鋼板"
+
+msgid "IDS_CIT_INCLIN"
+msgstr "中央防郭傾斜部"
+
+msgid "IDS_CIT_SIDE"
+msgstr "中央防郭保護鋼板"
 
 msgid "IDS_CLASS"
 msgstr "艦種"
@@ -2614,6 +2742,9 @@ msgstr "ゲーム終了"
 msgid "IDS_CONFIRM_FIRE_CREW_HEADER"
 msgstr "解任"
 
+msgid "IDS_CONSTRSIDE"
+msgstr "隔壁"
+
 msgid "IDS_CONSUMABLES"
 msgstr "消耗品"
 
@@ -2718,6 +2849,9 @@ msgstr "艦隊は港で管理することができます"
 msgid "IDS_CONTINUE"
 msgstr "続行"
 
+msgid "IDS_CONTINUE_DAILY_TICKET"
+msgstr "ミッション続行"
+
 msgid "IDS_CONTINUE_DOWNLOADING"
 msgstr "ダウンロード続行"
 
@@ -2728,6 +2862,9 @@ msgstr ""
 
 msgid "IDS_CONTINUE_DOWNLOADING_HINT_EXIT"
 msgstr "フル版のダウンロードを続行するため、ゲームを終了"
+
+msgid "IDS_CONTINUE_QUEST"
+msgstr "チャレンジ続行"
 
 msgid "IDS_CONTRA"
 msgstr "反対"
@@ -2851,6 +2988,96 @@ msgstr "解任"
 
 msgid "IDS_CREW_FIRSTNAME_DEFAULT"
 msgstr "艦"
+
+msgid "IDS_CREW_FIRSTNAME_FRANCE_0"
+msgstr "André"
+
+msgid "IDS_CREW_FIRSTNAME_FRANCE_1"
+msgstr "Antoine"
+
+msgid "IDS_CREW_FIRSTNAME_FRANCE_10"
+msgstr "Gilbert"
+
+msgid "IDS_CREW_FIRSTNAME_FRANCE_11"
+msgstr "Gustave"
+
+msgid "IDS_CREW_FIRSTNAME_FRANCE_12"
+msgstr "Jacques"
+
+msgid "IDS_CREW_FIRSTNAME_FRANCE_13"
+msgstr "Jean"
+
+msgid "IDS_CREW_FIRSTNAME_FRANCE_14"
+msgstr "Joseph"
+
+msgid "IDS_CREW_FIRSTNAME_FRANCE_15"
+msgstr "Jules"
+
+msgid "IDS_CREW_FIRSTNAME_FRANCE_16"
+msgstr "Léon"
+
+msgid "IDS_CREW_FIRSTNAME_FRANCE_17"
+msgstr "Louis"
+
+msgid "IDS_CREW_FIRSTNAME_FRANCE_18"
+msgstr "Michel"
+
+msgid "IDS_CREW_FIRSTNAME_FRANCE_19"
+msgstr "Olivier"
+
+msgid "IDS_CREW_FIRSTNAME_FRANCE_2"
+msgstr "Augustin"
+
+msgid "IDS_CREW_FIRSTNAME_FRANCE_20"
+msgstr "Pierre"
+
+msgid "IDS_CREW_FIRSTNAME_FRANCE_21"
+msgstr "Philippe"
+
+msgid "IDS_CREW_FIRSTNAME_FRANCE_22"
+msgstr "Raymond"
+
+msgid "IDS_CREW_FIRSTNAME_FRANCE_23"
+msgstr "René"
+
+msgid "IDS_CREW_FIRSTNAME_FRANCE_24"
+msgstr "Robert"
+
+msgid "IDS_CREW_FIRSTNAME_FRANCE_25"
+msgstr "Roger"
+
+msgid "IDS_CREW_FIRSTNAME_FRANCE_26"
+msgstr "Théophile"
+
+msgid "IDS_CREW_FIRSTNAME_FRANCE_27"
+msgstr "Victor"
+
+msgid "IDS_CREW_FIRSTNAME_FRANCE_28"
+msgstr "Vincent"
+
+msgid "IDS_CREW_FIRSTNAME_FRANCE_29"
+msgstr "Yves"
+
+msgid "IDS_CREW_FIRSTNAME_FRANCE_3"
+msgstr "Charles"
+
+msgid "IDS_CREW_FIRSTNAME_FRANCE_4"
+msgstr "Daniel"
+
+msgid "IDS_CREW_FIRSTNAME_FRANCE_5"
+msgstr "Edouard"
+
+msgid "IDS_CREW_FIRSTNAME_FRANCE_6"
+msgstr "Etienne"
+
+msgid "IDS_CREW_FIRSTNAME_FRANCE_7"
+msgstr "Eugène"
+
+msgid "IDS_CREW_FIRSTNAME_FRANCE_8"
+msgstr "François"
+
+msgid "IDS_CREW_FIRSTNAME_FRANCE_9"
+msgstr "Georges"
 
 msgid "IDS_CREW_FIRSTNAME_GERMANY_0"
 msgstr "Heinrich"
@@ -3506,6 +3733,96 @@ msgstr "再訓練に入る"
 msgid "IDS_CREW_LASTNAME_DEFAULT"
 msgstr "艦長"
 
+msgid "IDS_CREW_LASTNAME_FRANCE_0"
+msgstr "Arnaud"
+
+msgid "IDS_CREW_LASTNAME_FRANCE_1"
+msgstr "Auverny"
+
+msgid "IDS_CREW_LASTNAME_FRANCE_10"
+msgstr "Dupont"
+
+msgid "IDS_CREW_LASTNAME_FRANCE_11"
+msgstr "Duval"
+
+msgid "IDS_CREW_LASTNAME_FRANCE_12"
+msgstr "Fabre"
+
+msgid "IDS_CREW_LASTNAME_FRANCE_13"
+msgstr "Favier"
+
+msgid "IDS_CREW_LASTNAME_FRANCE_14"
+msgstr "Fleury"
+
+msgid "IDS_CREW_LASTNAME_FRANCE_15"
+msgstr "Foubert"
+
+msgid "IDS_CREW_LASTNAME_FRANCE_16"
+msgstr "Guyon"
+
+msgid "IDS_CREW_LASTNAME_FRANCE_17"
+msgstr "Jacquinet"
+
+msgid "IDS_CREW_LASTNAME_FRANCE_18"
+msgstr "Lacroix"
+
+msgid "IDS_CREW_LASTNAME_FRANCE_19"
+msgstr "Laroche"
+
+msgid "IDS_CREW_LASTNAME_FRANCE_2"
+msgstr "Barré"
+
+msgid "IDS_CREW_LASTNAME_FRANCE_20"
+msgstr "Marchand"
+
+msgid "IDS_CREW_LASTNAME_FRANCE_21"
+msgstr "Michaud"
+
+msgid "IDS_CREW_LASTNAME_FRANCE_22"
+msgstr "Monnier"
+
+msgid "IDS_CREW_LASTNAME_FRANCE_23"
+msgstr "Ricard"
+
+msgid "IDS_CREW_LASTNAME_FRANCE_24"
+msgstr "Rousselet"
+
+msgid "IDS_CREW_LASTNAME_FRANCE_25"
+msgstr "Sorette"
+
+msgid "IDS_CREW_LASTNAME_FRANCE_26"
+msgstr "Terraux"
+
+msgid "IDS_CREW_LASTNAME_FRANCE_27"
+msgstr "Thiberge"
+
+msgid "IDS_CREW_LASTNAME_FRANCE_28"
+msgstr "Villandre"
+
+msgid "IDS_CREW_LASTNAME_FRANCE_29"
+msgstr "Villecourt"
+
+msgid "IDS_CREW_LASTNAME_FRANCE_3"
+msgstr "Bertrand"
+
+msgid "IDS_CREW_LASTNAME_FRANCE_4"
+msgstr "Blanchard"
+
+msgid "IDS_CREW_LASTNAME_FRANCE_5"
+msgstr "Bonnet"
+
+msgid "IDS_CREW_LASTNAME_FRANCE_6"
+msgstr "Brion"
+
+msgid "IDS_CREW_LASTNAME_FRANCE_7"
+msgstr "Chatelet"
+
+msgid "IDS_CREW_LASTNAME_FRANCE_8"
+msgstr "Clement"
+
+msgid "IDS_CREW_LASTNAME_FRANCE_9"
+msgstr "Delaire"
+
 msgid "IDS_CREW_LASTNAME_GERMANY_0"
 msgstr "Kohler"
 
@@ -4145,6 +4462,39 @@ msgstr "艦長スキル"
 msgid "IDS_CREW_PROFILE"
 msgstr "個人ファイル"
 
+msgid "IDS_CREW_RANK_FRANCE_0"
+msgstr "Aspirant"
+
+msgid "IDS_CREW_RANK_FRANCE_1"
+msgstr "Enseigne de 2ème classe"
+
+msgid "IDS_CREW_RANK_FRANCE_10"
+msgstr "Amiral"
+
+msgid "IDS_CREW_RANK_FRANCE_2"
+msgstr "Enseigne de 1ère classe"
+
+msgid "IDS_CREW_RANK_FRANCE_3"
+msgstr "Lieutenant de vaisseau"
+
+msgid "IDS_CREW_RANK_FRANCE_4"
+msgstr "Capitaine de corvette"
+
+msgid "IDS_CREW_RANK_FRANCE_5"
+msgstr "Capitaine de frégate"
+
+msgid "IDS_CREW_RANK_FRANCE_6"
+msgstr "Capitaine de vaisseau"
+
+msgid "IDS_CREW_RANK_FRANCE_7"
+msgstr "Contre-amiral"
+
+msgid "IDS_CREW_RANK_FRANCE_8"
+msgstr "Vice-amiral"
+
+msgid "IDS_CREW_RANK_FRANCE_9"
+msgstr "Vice-amiral d’escadre"
+
 msgid "IDS_CREW_RANK_GERMANY_0"
 msgstr "Leutnant zur See"
 
@@ -4450,7 +4800,7 @@ msgstr "中学教育"
 
 msgid "IDS_CREW_TRAINING_FREE_POINTS"
 msgid_plural "IDS_CREW_TRAINING_FREE_POINTS"
-msgstr[0] "フリーポイント"
+msgstr[0] "未分配ポイント"
 
 msgid "IDS_CREW_TRAINING_GOLD"
 msgstr "精鋭育成"
@@ -4715,6 +5065,18 @@ msgstr "本日の上限:"
 msgid "IDS_DAY_LIMIT_IS_OFF"
 msgstr "本日の上限に達しました"
 
+msgid "IDS_DD_CAS_AFTTRANS"
+msgstr "内部隔壁"
+
+msgid "IDS_DD_CAS_BELT"
+msgstr "側面装甲"
+
+msgid "IDS_DD_CAS_DECK"
+msgstr "甲板"
+
+msgid "IDS_DD_CAS_FWDTRANS"
+msgstr "内部隔壁"
+
 msgid "IDS_DEAL_OUT_DAMAGE"
 msgstr "ダメージ"
 
@@ -4969,6 +5331,9 @@ msgstr "発見された"
 
 msgid "IDS_DETONATIONCHANCEFACTOR"
 msgstr ": 弾薬庫誘爆率"
+
+msgid "IDS_DISABLE_VOICE_CHAT"
+msgstr "音声チャットの無効化"
 
 msgid "IDS_DISABLING_AA_AND_ATBA"
 msgstr "対空砲/副砲無効"
@@ -5292,6 +5657,12 @@ msgstr ""
 msgid "IDS_EARNED"
 msgstr "合計"
 
+msgid "IDS_EARN_MORE"
+msgstr "さらに取得"
+
+msgid "IDS_EASTERN_DRAGON_KING"
+msgstr "広徳王"
+
 msgid "IDS_EFFECTIVENESS"
 msgstr "成績:"
 
@@ -5345,6 +5716,9 @@ msgstr "メールアドレスを用いてログインしてください。"
 
 msgid "IDS_EMPTY_RANKED_BATTLE_LOG"
 msgstr "変更なし"
+
+msgid "IDS_ENABLE_VOICE_CHAT"
+msgstr "音声チャットの有効化"
 
 msgid "IDS_ENDS_IN"
 msgstr "終了まで"
@@ -5491,6 +5865,10 @@ msgstr "サーバー接続エラー"
 msgid "IDS_ERROR_ILLEGAL_CHARACTERS"
 msgstr "メールアドレスまたはパスワードに無効な文字が含まれています。"
 
+msgid "IDS_ERROR_INTERNAL"
+msgstr ""
+"技術的トラブル発生、後ほどの再実行かユーザーサポートにご連絡お願いします。"
+
 msgid "IDS_ERROR_LOGIN_QUEUE"
 msgstr "ゲーム参加待機中。"
 
@@ -5503,6 +5881,11 @@ msgstr "ゲームへのアクセスが拒否されました。"
 msgid "IDS_ERROR_REGISTRATION_NOT_COMFIRMED"
 msgstr "アカウント登録が未確認です。メールの受信箱を確認して、登録に関するメール内に記載されたリンクにアクセスしてください。"
 
+msgid "IDS_ERROR_RELOGIN"
+msgstr ""
+"ほかのコンピューターよりすでにログイン中"
+"ご質問があればユーザーサポートにご連絡お願いします。"
+
 msgid "IDS_ERROR_REPORT"
 msgstr "エラー報告"
 
@@ -5514,6 +5897,9 @@ msgstr "サーバーが一時的にご利用不能です。後でもう一度お
 
 msgid "IDS_ERROR_SERVER_OVERLOADED"
 msgstr "サーバービジー。後でもう一度お試しください。"
+
+msgid "IDS_ERROR_SERVER_SHUTDOWN"
+msgstr "サーバー再起動中。後でもう一度お試しください。"
 
 msgid "IDS_ERROR_UNKNOWN"
 msgstr "不明なエラー"
@@ -5714,6 +6100,9 @@ msgstr "変換:"
 msgid "IDS_FOR_FREE"
 msgstr "無料"
 
+msgid "IDS_FRANCE"
+msgstr "仏蘭西"
+
 msgid "IDS_FREEEXPFACTOR"
 msgstr ": 戦闘で取得するフリー EXP"
 
@@ -5890,6 +6279,14 @@ msgstr "戦闘参加待機中のフルメンバー艦隊"
 
 msgid "IDS_GAMELOGIC_PRESET"
 msgstr "小型オブジェクトのアニメーション"
+
+msgid "IDS_GAMEMODE_ASSAULT_DEFENSE_DESCRIPTION"
+msgstr ""
+"敵艦艇を撃沈して 1,000 ポイント取得せよ。味方陣地を "
+"1 ヶ所でも失った場合、敗北となる!"
+
+msgid "IDS_GAMEMODE_ASSAULT_DEFENSE_TITLE"
+msgstr "強襲戦"
 
 msgid "IDS_GAMEMODE_AWESOME_DESCRIPTION"
 msgstr "重要海域を占領し、敵艦艇を撃沈して、敵艦隊より先にポイントを稼げ"
@@ -6106,6 +6503,9 @@ msgstr "購入が必要:"
 
 msgid "IDS_HEADING_TO_BATTLE"
 msgstr "戦闘参加中"
+
+msgid "IDS_HEDGEHOG_MODE"
+msgstr "煙幕の範囲を表示"
 
 msgid "IDS_HELLO"
 msgstr "ようこそ、"
@@ -6618,6 +7018,24 @@ msgstr "ズームイン/アウト"
 msgid "IDS_HIDE"
 msgstr "非表示"
 
+msgid "IDS_HIDE_ARMOUR_ARTI"
+msgstr "主砲塔装甲を非表示"
+
+msgid "IDS_HIDE_ARMOUR_CAS"
+msgstr "砲郭装甲を非表示"
+
+msgid "IDS_HIDE_ARMOUR_CITADEL"
+msgstr "艦艇の重要区画の装甲を非表示"
+
+msgid "IDS_HIDE_ARMOUR_OUTER"
+msgstr "保護鋼板を非表示"
+
+msgid "IDS_HIDE_ARMOUR_SS"
+msgstr "上部構造装甲を非表示"
+
+msgid "IDS_HIDE_ARMOUR_UPCAS"
+msgstr "艦艇の補助区画の装甲を非表示"
+
 msgid "IDS_HIDE_INTERFACE"
 msgstr "インターフェイス表示/非表示"
 
@@ -6703,6 +7121,9 @@ msgstr "エリート艦艇を表示"
 
 msgid "IDS_HINT_CHECKBOX_FILTER_LEVEL"
 msgstr "この Tier の艦艇を表示"
+
+msgid "IDS_HINT_CHECKBOX_FILTER_NATION_FRANCE"
+msgstr "仏蘭西艦艇を表示"
 
 msgid "IDS_HINT_CHECKBOX_FILTER_NATION_GERMANY"
 msgstr "独逸艦艇を表示"
@@ -7219,6 +7640,9 @@ msgstr "ブラックリストに追加"
 
 msgid "IDS_INBATTLESTATS"
 msgstr "戦績"
+
+msgid "IDS_INCLIN"
+msgstr "傾斜部"
 
 msgid "IDS_INCOMPLETE_DIVISION"
 msgstr "人数不足のまま戦闘に参加中"
@@ -8039,7 +8463,7 @@ msgid "IDS_LINK_SUPPORT_HINT"
 msgstr "カスタマーサービスセンターにリダイレクトされます"
 
 msgid "IDS_LOADING"
-msgstr "海行かば 水漬く屍"
+msgstr "大君の辺にこそ死なめ かえりみはせじ"
 
 msgid "IDS_LOADING_PORT"
 msgstr "港を読込中"
@@ -9737,6 +10161,9 @@ msgstr "m"
 msgid "IDS_METER_SECOND"
 msgstr "㍍/秒"
 
+msgid "IDS_MICROPHONE_SENSITIVITY"
+msgstr "マイク感度"
+
 msgid "IDS_MILLIMETER"
 msgstr "mm"
 
@@ -9766,6 +10193,18 @@ msgstr "副砲なし"
 
 msgid "IDS_MINIMAP_ATBA_RANGE_CHCK_SELECTED"
 msgstr "副砲射程を非表示"
+
+msgid "IDS_MINIMAP_CIRCLES_TRANSPARENCY_SLIDER"
+msgstr "サークルの透過度"
+
+msgid "IDS_MINIMAP_DIST_DIS"
+msgstr "範囲の数値"
+
+msgid "IDS_MINIMAP_DIST_DIS_CHCK"
+msgstr "範囲の数値を表示"
+
+msgid "IDS_MINIMAP_DIST_DIS_CHCK_SELECTED"
+msgstr "範囲の数値を非表示"
 
 msgid "IDS_MINIMAP_LAST_VIS"
 msgstr "失探位置マーカー"
@@ -9974,6 +10413,12 @@ msgstr "音楽"
 msgid "IDS_MUTE"
 msgstr "メッセージを無効化"
 
+msgid "IDS_MUTE_PLAYER_TEXT_CHAT"
+msgstr "プレイヤーからのテキストメッセージの無効化"
+
+msgid "IDS_MUTE_PLAYER_VOICE_CHAT"
+msgstr "プレイヤーからの音声メッセージの無効化"
+
 msgid "IDS_MYOKO"
 msgstr "ミョウコウ"
 
@@ -10032,6 +10477,9 @@ msgstr "新ミッション"
 msgid "IDS_NEXT_ALLIED_VEHICLE"
 msgstr "次の味方艦"
 
+msgid "IDS_NEXT_LEVEL"
+msgstr "次のレベル"
+
 msgid "IDS_NEXT_REPLENISHMENT"
 msgstr "次の補給"
 
@@ -10058,6 +10506,27 @@ msgstr "未取得"
 
 msgid "IDS_NOT_AVAILABLE_MESSAGE"
 msgstr "この艦は、フル版においてご利用可能です。"
+
+msgid "IDS_NOT_DEFAULT_SHIP_CREW_INFO"
+msgstr "リザーブまたは同国籍の他の艦艇から艦長を配属してください。"
+
+msgid "IDS_NOT_DEFAULT_SHIP_POINTS"
+msgstr "アルペジオ艦艇の利点"
+
+msgid "IDS_NOT_DEFAULT_SHIP_POINTS_COLLAPSE_HINT"
+msgstr "アルペジオ艦艇の利点を非表示"
+
+msgid "IDS_NOT_DEFAULT_SHIP_POINTS_EXPAND_HINT"
+msgstr "アルペジオ艦艇の利点を表示"
+
+msgid "IDS_NOT_DEFAULT_SHIP_POINT_1"
+msgstr "• 研究不要であり、これらの特別艦艇は売却不能"
+
+msgid "IDS_NOT_DEFAULT_SHIP_POINT_2"
+msgstr "• 横須賀港を選択している場合に利用可能"
+
+msgid "IDS_NOT_DEFAULT_SHIP_POINT_3"
+msgstr "• 他のアルペジオ艦艇の艦長を配属した場合、再訓練なしでもペナルティが生じない"
 
 msgid "IDS_NOT_ENABLED_ON_LOW_RESOLUTION"
 msgstr "低解像度においては利用不可"
@@ -14573,6 +15042,58 @@ msgstr ""
 msgid "IDS_PCEE033_KRASNYI_KRIM_FLAG_EXTRA_DESCRIPTION"
 msgstr "軍艦の搭乗員には、「ドイツの侵略者に対する祖国防衛のための戦いの中で示した武勇、不屈・勇気・自制および規律、英雄的行動」に対して親衛隊の称号が与えられました。"
 
+msgid "IDS_PCEE034_SCHARNHORST"
+msgstr "シャルンホルスト旗"
+
+msgid "IDS_PCEE034_SCHARNHORST_DESCRIPTION"
+msgstr "1813 年のドイツ解放戦争における英雄として知られるプロセイン陸軍のゲルハルト・フォン・シャルンホルスト将軍の紋章を描いた旗です。"
+
+msgid "IDS_PCEE034_SCHARNHORST_EXTRA_DESCRIPTION"
+msgstr ""
+"シャルンホルスト将軍にちなんで命名された艦艇は "
+"2 隻ありましたが、その両方に同じ紋章が掲げられていました。"
+
+msgid "IDS_PCEE035_DUNKERQUE"
+msgstr "ダンケルク旗"
+
+msgid "IDS_PCEE035_DUNKERQUE_DESCRIPTION"
+msgstr "ダンケルク級戦艦は、ドイツのドイッチュラント級ポケット戦艦に対抗するために設計されました。"
+
+msgid "IDS_PCEE035_DUNKERQUE_EXTRA_DESCRIPTION"
+msgstr "本級各艦の就役当時、本級と同等と言えるのは、イギリス海軍および大日本帝国海軍に現存していた最後の各種巡洋戦艦のみでした。"
+
+msgid "IDS_PCEE036_TAIWAN_NAVY"
+msgstr "台湾海軍旗"
+
+msgid "IDS_PCEE036_TAIWAN_NAVY_DESCRIPTION"
+msgstr ""
+"艦艇数 117 隻、人員数 "
+"38,000 名を数える近代の台湾海軍の前身は、清王朝の崩壊後、中華民国臨時政府の海軍省として "
+"1911 年に創設されました。"
+
+msgid "IDS_PCEE036_TAIWAN_NAVY_EXTRA_DESCRIPTION"
+msgstr "その任務としては、台湾海峡および周辺海域の哨戒、および戦時における攻撃や侵略への反撃が含まれます。"
+
+msgid "IDS_PCEE037_VETERANS_FLAG"
+msgstr "ベテラン旗"
+
+msgid "IDS_PCEE037_VETERANS_FLAG_DESCRIPTION"
+msgstr "友達招待プログラムへの参加褒賞旗です。"
+
+msgid "IDS_PCEE037_VETERANS_FLAG_EXTRA_DESCRIPTION"
+msgstr ""
+"この旗は、1 名以上のフレンドを招待し、"
+"1 戦以上プレイしてもらうことに成功したプレイヤーに授与されます。"
+
+msgid "IDS_PCEE038_OLYMPICS_FLAG"
+msgstr "ワールドチャンピオン旗"
+
+msgid "IDS_PCEE038_OLYMPICS_FLAG_DESCRIPTION"
+msgstr "究極の勝者を称える旗"
+
+msgid "IDS_PCEE038_OLYMPICS_FLAG_EXTRA_DESCRIPTION"
+msgstr "  "
+
 msgid "IDS_PCEE599_FLAG_ASIA"
 msgstr "アジア・コミュニティ旗"
 
@@ -14705,6 +15226,12 @@ msgstr "Juliet Whiskey Unaone"
 msgid "IDS_PCEF019_JW1_SIGNALFLAG_DESCRIPTION"
 msgstr "漏水危険ノ程度ナリ"
 
+msgid "IDS_PCEF020_BLUE_DRAGON_FLAG"
+msgstr "ドラゴン旗"
+
+msgid "IDS_PCEF020_BLUE_DRAGON_FLAG_DESCRIPTION"
+msgstr "海のエリート"
+
 msgid "IDS_PENALTY_ALLY_HIT"
 msgstr "同士討ちの懲罰"
 
@@ -14720,6 +15247,12 @@ msgstr "持久迷彩"
 msgid "IDS_PER_BATTLE"
 msgstr "(各戦)"
 
+msgid "IDS_PFAF001_HD780"
+msgstr "Dewoitine HD.780"
+
+msgid "IDS_PFAS001_LOIRE130"
+msgstr "Loire 130"
+
 msgid "IDS_PFEE001_FRANCE_DESC"
 msgstr ""
 "フランス国旗の縞模様を若干変更したデザインのこの旗は、"
@@ -14730,6 +15263,71 @@ msgstr "フランス海軍の軍艦旗"
 
 msgid "IDS_PFEE001_FRANCE_YEARS"
 msgstr "1853 年以降"
+
+msgid "IDS_PFEP306_DUNKERQUE_1940"
+msgstr "タイプ 10 – Dunkerque"
+
+msgid "IDS_PFEP306_DUNKERQUE_1940_DESCRIPTION"
+msgstr ""
+"敵の射撃精度を低下させ、艦の被発見性を低減し、艦および艦長の取得 "
+"EXP を向上させる。"
+
+msgid "IDS_PFGA004_37_50_CAD_MLE_1933"
+msgstr "37 mm/50 Mle 1933"
+
+msgid "IDS_PFGA006_13_2_76_HOTCHKISS_CAQ_MLE_1929_QUAD"
+msgstr "13.2 mm/76 Mle 1929"
+
+msgid "IDS_PFGM001_330_52_MLE_1931"
+msgstr "330 mm/52 St. Chamond Mle 1932"
+
+msgid "IDS_PFGM007_330_52_MLE_1931_PREM"
+msgstr "330 mm/52 St. Chamond Mle 1932"
+
+msgid "IDS_PFGS002_130_45_MLE_1932_QUAD"
+msgstr "130 mm/45 Mle 1932"
+
+msgid "IDS_PFGS003_130_45_MLE_1932_TWIN"
+msgstr "130 mm/45 Mle 1932"
+
+msgid "IDS_PFGS008_130_45_MLE_1932_QUAD_PREM"
+msgstr "130 mm/45 Mle 1932"
+
+msgid "IDS_PFPA001_330MM_AP_D"
+msgstr "330 mm AP OPfK Mle 1935"
+
+msgid "IDS_PFPA002_330MM_HE_D"
+msgstr "330 mm HE OEA Mle 1935"
+
+msgid "IDS_PFPA003_130MM_HE_MLE1935"
+msgstr "130 mm HE OEA Mle 1934"
+
+msgid "IDS_PFSB506"
+msgstr "Dunkerque"
+
+msgid "IDS_PFSB506_DESCR"
+msgstr "高速のダンケルク級巡洋戦艦は、ドイツの重巡洋艦に対抗するために設計され、良好な対水雷防御、多数の両用砲、強力な水平装甲を備えていました。主砲塔は船首側に集中配置されていたため、後方に対する射撃は不可能でした。"
+
+msgid "IDS_PFSB506_FULL"
+msgstr "Dunkerque"
+
+msgid "IDS_PFSB506_NUMBER"
+msgstr "2"
+
+msgid "IDS_PFSB506_YEAR"
+msgstr "1937"
+
+msgid "IDS_PFUA501_B6_ART_DUNK"
+msgstr "330 mm/52 St. Chamond Mle 1932"
+
+msgid "IDS_PFUE501_B6_ENG_DUNK"
+msgstr "推力: 107,000 馬力"
+
+msgid "IDS_PFUH501_DUNK"
+msgstr "Dunkerque"
+
+msgid "IDS_PFUS501_SUO_DUNK"
+msgstr "PCA Mle 1940"
 
 msgid "IDS_PGAF001_HE51"
 msgstr "Heinkel He. 51"
@@ -14747,6 +15345,15 @@ msgid "IDS_PGAF005_FW190A8"
 msgstr "Focke-Wulf Fw.190 A-8"
 
 msgid "IDS_PGAF006_TA152C"
+msgstr "Focke-Wulf Ta.152 C"
+
+msgid "IDS_PGAF904_BF109G_HIDE"
+msgstr "Messerschmitt Bf.109 G"
+
+msgid "IDS_PGAF905_FW190A8_HIDE"
+msgstr "Focke-Wulf Fw.190 A-8"
+
+msgid "IDS_PGAF906_TA152C_HIDE"
 msgstr "Focke-Wulf Ta.152 C"
 
 msgid "IDS_PGAS001_AR196"
@@ -14769,6 +15376,12 @@ msgstr "Blohm & Voss P. 126"
 
 msgid "IDS_PGAS006_FW62"
 msgstr "Focke-Wulf Fw.62"
+
+msgid "IDS_PGAS901_AR196_HIDE"
+msgstr "Arado Ar.196"
+
+msgid "IDS_PGAS907_AR196C_HIDE"
+msgstr "Arado Ar.196C"
 
 msgid "IDS_PGEE001_GERMANY1921_DESC"
 msgstr ""
@@ -15111,7 +15724,7 @@ msgid "IDS_PGPA001_380MM_AP_APC_L_4_4"
 msgstr "380 mm P.S.Gr. L/4.4"
 
 msgid "IDS_PGPA002_380MM_HE_HE_L_4_6"
-msgstr "380 mm Spr.Gr. L/4.6"
+msgstr "380 mm Spr.gr. L/4.6"
 
 msgid "IDS_PGPA003_150MM_HE_HE_N_F"
 msgstr "150 mm Spr.Gr. L/4.5"
@@ -15243,10 +15856,10 @@ msgid "IDS_PGPA047_305MM_HE_SPR_GR_L3_6_KZ"
 msgstr "305 mm Spr.gr. L/3.6 Kz."
 
 msgid "IDS_PGPA048_380MM_AP_APC_L_4_4_B"
-msgstr "380 mm Pz.Gr. L/4.4"
+msgstr "380 mm Pz.gr. L/4.4"
 
 msgid "IDS_PGPA049_380MM_HE_HE_L_4_6_B"
-msgstr "380 mm Spr.Gr. L/4.6"
+msgstr "380 mm Spr.gr. L/4.6"
 
 msgid "IDS_PGPA052_420MM_AP_APC_L_4_6"
 msgstr "420 mm Pz.Gr. L/4.6"
@@ -15344,6 +15957,21 @@ msgstr "G7e T5A"
 msgid "IDS_PGPT901_533_G7ET10"
 msgstr "G7e T10"
 
+msgid "IDS_PGSB001"
+msgstr "Bismarck"
+
+msgid "IDS_PGSB001_DESCR"
+msgstr "二次大戦の勃発当初においては、先進的な射撃管制システムと強力な主砲を備えたこのビスマルクは、世界最強の戦艦のひとつでした。頑丈な構造を有し、複雑に区画分割されており、膨大な装甲が配された本艦は、高い耐久性を実現していました。"
+
+msgid "IDS_PGSB001_FULL"
+msgstr "Bismarck"
+
+msgid "IDS_PGSB001_NUMBER"
+msgstr "2"
+
+msgid "IDS_PGSB001_YEAR"
+msgstr "1940"
+
 msgid "IDS_PGSB002"
 msgstr "Tirpitz"
 
@@ -15361,6 +15989,24 @@ msgstr "2"
 msgid "IDS_PGSB002_YEAR"
 msgstr "1941"
 
+msgid "IDS_PGSB103"
+msgstr "Nassau"
+
+msgid "IDS_PGSB103_DESCR"
+msgstr ""
+"戦艦ナッサウは、ドイツ帝国海軍としては初の弩級戦艦の艦級のネームシップであり、その特長は信頼性の高い装甲、優れた対水雷防御、強力な副砲でした。そして本艦が採用していた "
+"283 "
+"mm 砲は、他の国々の競合艦の多くに比して口径では劣っていましたが、総合性能では見劣りしないものでした。"
+
+msgid "IDS_PGSB103_FULL"
+msgstr "Nassau"
+
+msgid "IDS_PGSB103_NUMBER"
+msgstr "4"
+
+msgid "IDS_PGSB103_YEAR"
+msgstr "1909"
+
 msgid "IDS_PGSB104"
 msgstr "Kaiser"
 
@@ -15375,6 +16021,102 @@ msgstr "5"
 
 msgid "IDS_PGSB104_YEAR"
 msgstr "1912"
+
+msgid "IDS_PGSB105"
+msgstr "König"
+
+msgid "IDS_PGSB105_DESCR"
+msgstr "ケーニヒ級戦艦は、カイザー級戦艦の発展型であり、極めて強力な装甲という前級の特長を引き継いでいました。主砲配置の合理化が図られたことにより、片舷側に全主砲を指向することが可能でした。"
+
+msgid "IDS_PGSB105_FULL"
+msgstr "König"
+
+msgid "IDS_PGSB105_NUMBER"
+msgstr "4"
+
+msgid "IDS_PGSB105_YEAR"
+msgstr "1914"
+
+msgid "IDS_PGSB106"
+msgstr "Bayern"
+
+msgid "IDS_PGSB106_DESCR"
+msgstr ""
+"バイエルン級戦艦は、ドイツ帝国海軍において建造されたものとしては最後の戦艦でした。本級の強力な "
+"380 "
+"mm 主砲は、弾道特性と発射速度の両面で極めて優れており、類似の砲システムの中では突出した性能を誇っていました。"
+
+msgid "IDS_PGSB106_FULL"
+msgstr "Bayern"
+
+msgid "IDS_PGSB106_NUMBER"
+msgstr "4"
+
+msgid "IDS_PGSB106_YEAR"
+msgstr "1916"
+
+msgid "IDS_PGSB107"
+msgstr "Gneisenau"
+
+msgid "IDS_PGSB107_DESCR"
+msgstr ""
+"戦艦グナイゼナウは、巡洋戦艦に迫るほどの速力を備えていました。近代化改装により "
+"380 "
+"mm 砲への換装が図られ、同時期のより大型の戦艦に対抗し得る火力を得たものの、主砲の門数の少なさと、脆弱な水平装甲が欠点でした。"
+
+msgid "IDS_PGSB107_FULL"
+msgstr "Gneisenau"
+
+msgid "IDS_PGSB107_NUMBER"
+msgstr "2"
+
+msgid "IDS_PGSB107_YEAR"
+msgstr "1938"
+
+msgid "IDS_PGSB108"
+msgstr "Bismarck"
+
+msgid "IDS_PGSB108_DESCR"
+msgstr "二次大戦の勃発当初においては、先進的な射撃管制システムと強力な主砲を備えたこのビスマルクは、世界最強の戦艦のひとつでした。頑丈な構造を有し、複雑に区画分割されており、膨大な装甲が配された本艦は、高い耐久性を実現していました。"
+
+msgid "IDS_PGSB108_FULL"
+msgstr "Bismarck"
+
+msgid "IDS_PGSB108_NUMBER"
+msgstr "2"
+
+msgid "IDS_PGSB108_YEAR"
+msgstr "1940"
+
+msgid "IDS_PGSB109"
+msgstr "F. der Große"
+
+msgid "IDS_PGSB109_DESCR"
+msgstr "フリードリヒ・デア・グローセは、ドイツ海軍の大幅拡張計画の一環として開発された計画案です。ビスマルク級戦艦の発展型であり、より強力な主砲を搭載し、対空火力の強化が図られていました。"
+
+msgid "IDS_PGSB109_FULL"
+msgstr "Friedrich der Große"
+
+msgid "IDS_PGSB109_NUMBER"
+msgstr "0"
+
+msgid "IDS_PGSB109_YEAR"
+msgstr "1939"
+
+msgid "IDS_PGSB110"
+msgstr "G. Kurfürst"
+
+msgid "IDS_PGSB110_DESCR"
+msgstr "戦艦グローサー・クルフュルストは、ドイツ海軍における戦艦設計の最終段階において開発された計画案のひとつです。二次大戦の勃発時に設計された三連装の主砲塔の搭載を予定していた本案は、戦訓を活かして開発されたものであり、強力な対水雷防御、強化された水平装甲、より先進的な対空兵装を誇っていました。"
+
+msgid "IDS_PGSB110_FULL"
+msgstr "Großer Kurfürst"
+
+msgid "IDS_PGSB110_NUMBER"
+msgstr "0"
+
+msgid "IDS_PGSB110_YEAR"
+msgstr "1941"
 
 msgid "IDS_PGSB503"
 msgstr "König Albert"
@@ -15856,6 +16598,12 @@ msgstr "Kolberg (B)"
 msgid "IDS_PGUH203_KOLBERG_C"
 msgstr "Kolberg (C)"
 
+msgid "IDS_PGUH211_NASSAU_A"
+msgstr "Nassau (A)"
+
+msgid "IDS_PGUH212_NASSAU_B"
+msgstr "Nassau (B)"
+
 msgid "IDS_PGUH221_KA"
 msgstr "König Albert"
 
@@ -15883,6 +16631,15 @@ msgstr "Königsberg (B)"
 msgid "IDS_PGUH403_KONIGSBERG_C"
 msgstr "Königsberg (C)"
 
+msgid "IDS_PGUH411_KONIG_A"
+msgstr "König (A)"
+
+msgid "IDS_PGUH412_KONIG_B"
+msgstr "König (B)"
+
+msgid "IDS_PGUH413_KONIG_C"
+msgstr "König (C)"
+
 msgid "IDS_PGUH501_NURNBERG_A"
 msgstr "Nürnberg (A)"
 
@@ -15891,6 +16648,12 @@ msgstr "Nürnberg (B)"
 
 msgid "IDS_PGUH503_NURNBERG_C"
 msgstr "Nürnberg (C)"
+
+msgid "IDS_PGUH511_BAYERN_A"
+msgstr "Bayern (A)"
+
+msgid "IDS_PGUH512_BAYERN_B"
+msgstr "Bayern (B)"
 
 msgid "IDS_PGUH601_YORK_A"
 msgstr "Yorck (A)"
@@ -15901,7 +16664,13 @@ msgstr "Yorck (B)"
 msgid "IDS_PGUH603_YORK_C"
 msgstr "Yorck (C)"
 
-msgid "IDS_PGUH701_BISMARCK_1941"
+msgid "IDS_PGUH611_GNEISENAU_A"
+msgstr "Gneisenau (A)"
+
+msgid "IDS_PGUH612_GNEISENAU_B"
+msgstr "Gneisenau (B)"
+
+msgid "IDS_PGUH701_BISMARCK_A"
 msgstr "Bismarck (A)"
 
 msgid "IDS_PGUH702_BISMARCK_B"
@@ -15928,8 +16697,20 @@ msgstr "Roon (A)"
 msgid "IDS_PGUH802_ROON_B"
 msgstr "Roon (B)"
 
+msgid "IDS_PGUH811_H39_A"
+msgstr "Friedrich der Große (A)"
+
+msgid "IDS_PGUH812_H39_B"
+msgstr "Friedrich der Große (B)"
+
+msgid "IDS_PGUH813_H39_C"
+msgstr "Friedrich der Große (C)"
+
 msgid "IDS_PGUH901_HINDENBURG_A"
 msgstr "Hindenburg (A)"
+
+msgid "IDS_PGUH911_GROSSDEUTSCHLAND_A"
+msgstr "Großer Kurfürst (A)"
 
 msgid "IDS_PGUS001_SUO"
 msgstr "FKS Typ 1 Mod. 1"
@@ -16651,7 +17432,7 @@ msgid "IDS_PJGM140_120MM45_TWIN"
 msgstr "45口径 十年式 12cm高角砲"
 
 msgid "IDS_PJGM142_120MM45_TYPE_HA"
-msgstr "45口径 三年式 12cm砲"
+msgstr "45口径 三年式 12cm砲 改良型"
 
 msgid "IDS_PJGM143_203_50_TYPE_E3"
 msgstr "50口径 三年式 2号 20.3cm砲 E3型"
@@ -17818,13 +18599,13 @@ msgid "IDS_PJSC709_YEAR"
 msgstr " "
 
 msgid "IDS_PJSC717"
-msgstr "朱雀"
+msgstr "広利王"
 
 msgid "IDS_PJSC717_DESCR"
 msgstr " "
 
 msgid "IDS_PJSC717_FULL"
-msgstr "霧 朱雀"
+msgstr "霧 広利王"
 
 msgid "IDS_PJSC717_NUMBER"
 msgstr " "
@@ -17833,13 +18614,13 @@ msgid "IDS_PJSC717_YEAR"
 msgstr " "
 
 msgid "IDS_PJSC727"
-msgstr "青龍"
+msgstr "広徳王"
 
 msgid "IDS_PJSC727_DESCR"
 msgstr " "
 
 msgid "IDS_PJSC727_FULL"
-msgstr "霧 青龍"
+msgstr "霧 広徳王"
 
 msgid "IDS_PJSC727_NUMBER"
 msgstr " "
@@ -18190,10 +18971,10 @@ msgid "IDS_PJUA341_B4_ART_STOCK"
 msgstr "45口径 四一式 36cm砲"
 
 msgid "IDS_PJUA351_D4_ART_STOCK"
-msgstr "45口径 三年式 12cm砲 改良型"
+msgstr "45口径 三年式 12cm砲"
 
 msgid "IDS_PJUA401_D5_ART_TOP"
-msgstr "45口径 三年式 12cm砲"
+msgstr "45口径 三年式 12cm砲 改良型"
 
 msgid "IDS_PJUA402_D5_ART_STOCK"
 msgstr "45口径 三年式 12cm砲"
@@ -19048,10 +19829,10 @@ msgid "IDS_PJUH797_ASHIGARA"
 msgstr "アシガラ"
 
 msgid "IDS_PJUH798_YELLOW_DRAGON"
-msgstr "朱雀"
+msgstr "広利王"
 
 msgid "IDS_PJUH799_BLUE_DRAGON"
-msgstr "青龍"
+msgstr "広徳王"
 
 msgid "IDS_PJUH801_SHIMAKAZE_1943"
 msgstr "島風 1943"
@@ -19680,10 +20461,19 @@ msgstr ""
 "%(playerName)s 殿が貴官を艦隊 %(clubName)"
 "s に招待しました"
 
+msgid "IDS_PLAYER_IS_AVAILABLE_IN_VOICE_CHAT"
+msgstr "このプレイヤーとの音声チャットは有効です"
+
 msgid "IDS_PLAYER_IS_LEADER"
 msgstr ""
 "[icon]%(playerName)s 殿が艦隊 %(clubName)"
 "s の司令官になりました"
+
+msgid "IDS_PLAYER_IS_MUTED_IN_VOICE_CHAT"
+msgstr "このプレイヤーからの音声メッセージは無効"
+
+msgid "IDS_PLAYER_IS_NOT_AVAILABLE_IN_VOICE_CHAT"
+msgstr "このプレイヤーとの音声チャットは無効です"
 
 msgid "IDS_PLAYER_IS_OFFLINE"
 msgstr "殿はオフラインです"
@@ -19913,6 +20703,9 @@ msgstr ": 自艦の弾薬庫誘爆率"
 msgid "IDS_POINT"
 msgstr "ポイント"
 
+msgid "IDS_POINTS_TILL_NEXT_LEVEL"
+msgstr "次のレベルまで"
+
 msgid "IDS_POLAND"
 msgstr "波蘭"
 
@@ -19927,6 +20720,9 @@ msgstr "上海"
 
 msgid "IDS_PORT_CLOCK"
 msgstr "港の時計"
+
+msgid "IDS_PORT_CUSTOM"
+msgstr "カスタム"
 
 msgid "IDS_PORT_FEBRUARY"
 msgstr "黒海"
@@ -20509,12 +21305,14 @@ msgid "IDS_PRMP_BUY_OR_RID_SLOTS"
 msgstr "このオファーを受けるには、スロットを購入するか空けてください"
 
 msgid "IDS_PRMP_DISCOUNT"
-msgstr "割引"
+msgstr ""
+"<body>割引\n"
+"<h3>%(value)d%(percent)s</h3></body>"
 
 msgid "IDS_PRMP_FOR_YOU"
 msgstr ""
-"%(playerName)s 殿のための\n"
-"1 回限りのパーソナル・オファー!"
+"<body><h3>%(playerName)s</h3> 殿のための\n"
+"1 回限りのパーソナル・オファー!</body>"
 
 msgid "IDS_PRMP_GO_TO_PREM_SHOP"
 msgstr "プレミアムショップに移動"
@@ -20573,6 +21371,9 @@ msgstr "ダブロンの購入"
 msgid "IDS_PRMP_ITEM_MODERNIZATION"
 msgstr "アップグレード"
 
+msgid "IDS_PRMP_ITEM_PERMOFLAGE"
+msgstr "持久迷彩"
+
 msgid "IDS_PRMP_ITEM_PREMIUM"
 msgstr "プレミアムアカウント"
 
@@ -20586,7 +21387,7 @@ msgid "IDS_PRMP_ITEM_XPFREEEXP"
 msgstr "EXP の変換"
 
 msgid "IDS_PRMP_RECEIVE"
-msgstr "入手できる"
+msgstr "入手しませんか"
 
 msgid "IDS_PRMP_REDIRECT_TO_MODAL_WINDOW"
 msgstr "通貨変換画面にリダイレクトされます"
@@ -21684,8 +22485,8 @@ msgstr "Kirov (A)"
 msgid "IDS_PRUH442_KIROV_B"
 msgstr "Kirov (B)"
 
-msgid "IDS_PRUH451_PROFINTERN"
-msgstr "Profintern"
+msgid "IDS_PRUH451_KK"
+msgstr "Krasny Krym"
 
 msgid "IDS_PRUH501_OGNEVOY_A"
 msgstr "Ognevoi (A)"
@@ -22417,6 +23218,9 @@ msgstr "ランダムなマップと戦闘シナリオ"
 msgid "IDS_RANDOM_BATTLE"
 msgstr "ランダム戦"
 
+msgid "IDS_RANGES_ALPHA_SLIDER"
+msgstr "ミニマップのサークルの透過度調節"
+
 msgid "IDS_RANKED_BATTLE"
 msgstr "ランク戦"
 
@@ -22439,6 +23243,9 @@ msgstr ""
 msgid "IDS_RANKED_BATTLE_ALLOWED_MY_SHIPS_FROM_TO"
 msgstr "Tier %(min)s - %(max)s の艦艇を選択してください。"
 
+msgid "IDS_RANKED_BATTLE_ALLOWED_MY_SHIPS_LEVEL"
+msgstr "Tier %(level)s 艦艇を選択してください。"
+
 msgid "IDS_RANKED_BATTLE_ALLOWED_MY_SHIPS_TO"
 msgstr ""
 "ランク戦には、Tier %(max)s 以下の艦艇で参加可能です。"
@@ -22456,6 +23263,9 @@ msgstr ""
 msgid "IDS_RANKED_BATTLE_ALLOWED_THEIRS_SHIPS_FROM_TO"
 msgstr ""
 "ランク戦には、Tier %(min)s - %(max)s の艦艇が参加可能です。"
+
+msgid "IDS_RANKED_BATTLE_ALLOWED_THEIRS_SHIPS_LEVEL"
+msgstr "ランク戦には、Tier %(level)s 艦艇でご参加頂けます。"
 
 msgid "IDS_RANKED_BATTLE_ALLOWED_THEIRS_SHIPS_TO"
 msgstr ""
@@ -22855,6 +23665,9 @@ msgstr "各戦での追加 EXP"
 msgid "IDS_REWARD_EXP_TITLE"
 msgstr "各戦での EXP"
 
+msgid "IDS_REWARD_FOR_ACCOUNT_LEVEL"
+msgstr "このレベルへの到達褒賞"
+
 msgid "IDS_REWARD_FOR_FINISHING_CHALLENGE"
 msgstr "チャレンジ達成褒賞"
 
@@ -23044,6 +23857,18 @@ msgstr "視点を 90° 回転"
 msgid "IDS_RTS_CAMERA_FIXED_YAW"
 msgstr "北向き視点"
 
+msgid "IDS_RUDDERAFT"
+msgstr "操舵装置水平鋼板"
+
+msgid "IDS_RUDDERFWD"
+msgstr "操舵装置水平鋼板"
+
+msgid "IDS_RUDDERSIDE"
+msgstr "操舵装置保護鋼板"
+
+msgid "IDS_RUDDERTOP"
+msgstr "操舵装置甲板"
+
 msgid "IDS_RUN_OUT"
 msgstr "殿からの応答待ちが制限時間を超過しました。"
 
@@ -23126,7 +23951,10 @@ msgid "IDS_SCENARIO_FORTS04"
 msgstr "要塞戦"
 
 msgid "IDS_SCENARIO_MEGABASE"
-msgstr "陣地"
+msgstr "陣地戦"
+
+msgid "IDS_SCENARIO_PVE_NO_PASARAN"
+msgstr "強襲戦"
 
 msgid "IDS_SCENARIO_RANKED_DOMINATION"
 msgstr "制圧戦: ランク戦 (7x7)"
@@ -23453,7 +24281,7 @@ msgid "IDS_SHIP_ARMOUR_IN_RANGE"
 msgstr "装甲厚の範囲"
 
 msgid "IDS_SHIP_ARMOUR_THICKNESS"
-msgstr "装甲厚"
+msgstr "装甲厚 <h3>%(thickness)s</h3>"
 
 msgid "IDS_SHIP_ARMOUR_WHOLE_RANGE"
 msgstr "装甲厚の合計範囲"
@@ -23990,6 +24818,24 @@ msgstr "ヘルプ"
 msgid "IDS_SHOWSTATS"
 msgstr "艦隊構成表示"
 
+msgid "IDS_SHOW_ARMOUR_ARTI"
+msgstr "主砲塔装甲を表示"
+
+msgid "IDS_SHOW_ARMOUR_CAS"
+msgstr "砲郭装甲を表示"
+
+msgid "IDS_SHOW_ARMOUR_CITADEL"
+msgstr "艦艇の重要区画の装甲を表示"
+
+msgid "IDS_SHOW_ARMOUR_OUTER"
+msgstr "plating を表示"
+
+msgid "IDS_SHOW_ARMOUR_SS"
+msgstr "上部構造装甲を表示"
+
+msgid "IDS_SHOW_ARMOUR_UPCAS"
+msgstr "艦艇の補助区画の装甲を表示"
+
 msgid "IDS_SHOW_CURSOR_IN_STATS_PANEL"
 msgstr "カーソルを表示"
 
@@ -24504,6 +25350,15 @@ msgstr "タイプ別"
 msgid "IDS_SOUND_MOD_ARPEGGIO_ASHIGARA"
 msgstr "アシガラ"
 
+msgid "IDS_SOUND_MOD_ARPEGGIO_EASTERN_DRAGON_KING"
+msgstr "広徳王"
+
+msgid "IDS_SOUND_MOD_ARPEGGIO_GUNZOU"
+msgstr "千早群像"
+
+msgid "IDS_SOUND_MOD_ARPEGGIO_HAGURO"
+msgstr "ハグロ"
+
 msgid "IDS_SOUND_MOD_ARPEGGIO_HARUNA"
 msgstr "ハルナ"
 
@@ -24513,11 +25368,20 @@ msgstr "ヒエイ"
 msgid "IDS_SOUND_MOD_ARPEGGIO_IONA"
 msgstr "イオナ"
 
+msgid "IDS_SOUND_MOD_ARPEGGIO_KIRISHIMA"
+msgstr "キリシマ"
+
 msgid "IDS_SOUND_MOD_ARPEGGIO_KIRISHIMA_BEAR"
 msgstr "キリシマ（ヨタロウ）"
 
 msgid "IDS_SOUND_MOD_ARPEGGIO_KONGOU"
 msgstr "コンゴウ"
+
+msgid "IDS_SOUND_MOD_ARPEGGIO_MYOKO"
+msgstr "ミョウコウ"
+
+msgid "IDS_SOUND_MOD_ARPEGGIO_SOUTHERN_DRAGON_KING"
+msgstr "広利王"
 
 msgid "IDS_SOUND_MOD_ARPEGGIO_TAKAO"
 msgstr "タカオ"
@@ -24539,6 +25403,9 @@ msgstr "サウンド品質"
 
 msgid "IDS_SOUND_VOLUME"
 msgstr "SFX 音量"
+
+msgid "IDS_SOUTHERN_DRAGON_KING"
+msgstr "広利王"
 
 msgid "IDS_SPACES/00_CO_OCEAN"
 msgstr "太平洋上 (Ocean)"
@@ -24601,6 +25468,12 @@ msgstr "グリーンランド L"
 
 msgid "IDS_SPACES/03_NE_GRENLAND_BIG_DESCR"
 msgstr "大型マップ。危険な氷山や岩礁が多数存在する海域です。"
+
+msgid "IDS_SPACES/04_ARCHIPELAGO"
+msgstr "列島 (Archipelago)"
+
+msgid "IDS_SPACES/04_ARCHIPELAGO_DESCR"
+msgstr "オホーツク海にあるロシアの島々"
 
 msgid "IDS_SPACES/04_NA_ISLAND_CHAIN"
 msgstr "諸島"
@@ -24763,6 +25636,12 @@ msgstr "ラングヌトゥー諸島"
 msgid "IDS_SPACES/23_CO_ISLANDS_RANGUNUTU_DESCR"
 msgstr "南洋にある諸島です。"
 
+msgid "IDS_SPACES/23_SHARDS"
+msgstr "破片 (Shards)"
+
+msgid "IDS_SPACES/23_SHARDS_DESCR"
+msgstr "旧帝国の破片"
+
 msgid "IDS_SPACES/24_AS_ATTACK"
 msgstr "攻勢"
 
@@ -24900,6 +25779,18 @@ msgstr "河口 (Estuary)"
 
 msgid "IDS_SPACES/46_ESTUARY_DESCR"
 msgstr "地形の複雑な河口で起きる衝突。"
+
+msgid "IDS_SPACES/47_SLEEPING_GIANT"
+msgstr "眠れる巨人 (Sleeping Giant)"
+
+msgid "IDS_SPACES/47_SLEEPING_GIANT_DESCR"
+msgstr "倒れた巨人はその顔を海に預け、眠りに落ちた"
+
+msgid "IDS_SPACES/49_SHORESIDE"
+msgstr "沿岸 (Shoreside)"
+
+msgid "IDS_SPACES/49_SHORESIDE_DESCR"
+msgstr "沿岸部"
 
 msgid "IDS_SPACES/98_JACUZZI"
 msgstr "ジャクージーのルインベルク"
@@ -25050,6 +25941,21 @@ msgstr "中隊 8"
 
 msgid "IDS_SQUADRON_9"
 msgstr "中隊 9"
+
+msgid "IDS_SSCASEMATE"
+msgstr "保護鋼板"
+
+msgid "IDS_SSC_AFTTRANS"
+msgstr "水平鋼板"
+
+msgid "IDS_SSC_CONSTRSIDE"
+msgstr "保護鋼板"
+
+msgid "IDS_SSC_DECK"
+msgstr "甲板"
+
+msgid "IDS_SSC_FWDTRANS"
+msgstr "水平鋼板"
 
 msgid "IDS_SSE_TEMPLATES_META"
 msgstr ""
@@ -25432,6 +26338,21 @@ msgstr ""
 "\"}                    ]                }            ],            \"vars\": "
 "[\"count\"]        }    }}"
 
+msgid "IDS_SS_BRIDGEBOTTOM"
+msgstr "司令塔"
+
+msgid "IDS_SS_BRIDGESIDE"
+msgstr "司令塔"
+
+msgid "IDS_SS_BRIDGETOP"
+msgstr "司令塔"
+
+msgid "IDS_SS_SIDE"
+msgstr "上部構造"
+
+msgid "IDS_SS_TOP"
+msgstr "上部構造"
+
 msgid "IDS_STARS_FROM_LAST_SEASON"
 msgstr "前のシーズン"
 
@@ -25521,6 +26442,24 @@ msgstr "ステージ"
 
 msgid "IDS_STOCK"
 msgstr "標準"
+
+msgid "IDS_ST_BELT"
+msgstr "船尾帯"
+
+msgid "IDS_ST_BOTTOM"
+msgstr "船尾底部"
+
+msgid "IDS_ST_CONSTRSIDE"
+msgstr "船尾保護鋼板"
+
+msgid "IDS_ST_DECK"
+msgstr "船尾甲板"
+
+msgid "IDS_ST_INCLIN"
+msgstr "船尾傾斜部"
+
+msgid "IDS_ST_TRANS"
+msgstr "船尾水平鋼板"
 
 msgid "IDS_SUO"
 msgstr "射撃管制装置"
@@ -25935,15 +26874,14 @@ msgstr "修理・補給"
 
 msgid "IDS_SYS_MESSAGE_HEADER_MS_ACC_TK_STATUS_CHANGED_FALSE"
 msgstr ""
-"同士討ちよる懲戒ペナルティが終了し、<h3>チームキラー"
-"</"
-"h3> ステータスが解除されました。故意に味方を攻撃しないでください。"
+"味方へのダメージに対する懲戒ペナルティが終了し、"
+"<h3>チームキラー</h3> ステータスが解除されました。"
 
 msgid "IDS_SYS_MESSAGE_HEADER_MS_ACC_TK_STATUS_CHANGED_TRUE"
 msgstr ""
 "貴様に同士討ち行為に対する懲戒ペナルティが与えられました。これにより、貴様に "
 "<h3>チームキラー</"
-"h3> ステータスが付与されます。味方にダメージを与えた場合、与えたダメージと同量またはそれ以上が自艦の "
+"h3> ステータスが付与されました。味方にダメージを与えた場合、与えたダメージと同量またはそれ以上が自艦の "
 "HP から差し引かれます。"
 
 msgid "IDS_SYS_MESSAGE_HEADER_MS_ACC_TRANFER_XP"
@@ -26231,6 +27169,9 @@ msgstr "ありがとうございます"
 
 msgid "IDS_THANKS_FOR_MAKING_PROJECT_BETTER"
 msgstr "ゲーム改善にご協力頂き感謝致します。"
+
+msgid "IDS_THANK_YOU_FOR"
+msgstr "いつものご利用ありがとうございます。!"
 
 msgid "IDS_THROUGH_HIT_TYPE"
 msgstr "砲弾が全貫通!"
@@ -26613,6 +27554,9 @@ msgstr "艦の旋回性・加速性を示すパラメータ"
 msgid "IDS_TOOLTIP_MODERNIZATION"
 msgstr "アップグレードの購入、解除"
 
+msgid "IDS_TOOLTIP_NEXT_LEVEL"
+msgstr "次の任務記録レベル"
+
 msgid "IDS_TOOLTIP_NO_CREDITS"
 msgstr "戦闘でクレジットを稼いでください"
 
@@ -26651,6 +27595,9 @@ msgstr "プレイヤーのユーザー名"
 
 msgid "IDS_TOOLTIP_PLAY_HINT"
 msgstr "プレイ"
+
+msgid "IDS_TOOLTIP_POINTS_TILL_NEXT_LEVEL"
+msgstr "次の任務記録レベルまでの所要 EXP"
 
 msgid "IDS_TOOLTIP_PRIMARY_SHIP"
 msgstr "主力艦艇"
@@ -26771,6 +27718,9 @@ msgstr "艦が敵航空機により発見・識別され得る距離"
 msgid "IDS_TOOLTIP_VISIBILITY_DIST_BY_SHIP"
 msgstr "艦が敵艦艇により発見・識別され得る距離"
 
+msgid "IDS_TOOLTIP_WATCH_VIDEO"
+msgstr "この任務記録レベルに関する紹介ビデオを視聴"
+
 msgid "IDS_TOOLTIP_WEAPONRY"
 msgstr "艦載砲の威力を示すパラメータ"
 
@@ -26843,6 +27793,9 @@ msgstr "訓練"
 msgid "IDS_TRAINING_BATTLE_DESCRIPTION"
 msgstr "戦闘を手動で作成します。サーバー上のトレーニングルームの数には上限があります。"
 
+msgid "IDS_TRANS"
+msgstr "隔壁"
+
 msgid "IDS_TRANSFER_IN_PROGRESS"
 msgstr "リダイレクト中..."
 
@@ -26863,6 +27816,24 @@ msgstr "無効にする"
 
 msgid "IDS_TURN_ON"
 msgstr "有効にする"
+
+msgid "IDS_TURRETAFT"
+msgstr "主砲塔装甲"
+
+msgid "IDS_TURRETBARBETTE"
+msgstr "主砲塔バーベット装甲"
+
+msgid "IDS_TURRETDOWN"
+msgstr "主砲塔底部"
+
+msgid "IDS_TURRETFWD"
+msgstr "主砲塔装甲"
+
+msgid "IDS_TURRETSIDE"
+msgstr "主砲塔側面"
+
+msgid "IDS_TURRETTOP"
+msgstr "主砲塔装甲"
 
 msgid "IDS_TUTORIAL_BATTLE"
 msgstr "入門ミッション"
@@ -26985,12 +27956,10 @@ msgid "IDS_UNLOCKS_11"
 msgstr "ACTIONS_USE"
 
 msgid "IDS_UNLOCKS_12"
-msgstr "艦の各種システムをアップグレードしてその戦闘能力を向上可能です。"
+msgstr "各種のアップグレードを搭載することで、艦艇のパラメータを高めることが可能です。"
 
 msgid "IDS_UNLOCKS_13"
-msgstr ""
-"戦闘で "
-"EXP を取得することにより、各艦の艦長は、艦の能力を向上させるスキルを習得することができます。"
+msgstr "艦長をレベルアップさせることで、艦艇のパラメータを高めたり、新たな能力を使用したりすることができるようになります。"
 
 msgid "IDS_UNLOCKS_14"
 msgstr ""
@@ -26998,11 +27967,12 @@ msgstr ""
 "EXP を増加させたりすることが可能です。"
 
 msgid "IDS_UNLOCKS_15"
-msgstr "迷彩を搭載することで、自艦の被発見性を低減する、または敵の射撃精度を低下させることが可能です。"
+msgstr "迷彩を搭載することで、自艦の被発見性を低減したり、敵の射撃精度を低下させたりすることが可能です。経験値向上効果を有するものもあります。"
 
 msgid "IDS_UNLOCKS_16"
 msgstr ""
-"最高の艦長を目指せ! ランク戦に挑戦しましょう。\n"
+"World of "
+"Warships におけるコンペティション・モード、ランク戦に挑戦しましょう。\n"
 "戦闘タイプ選択メニューから利用可能。"
 
 msgid "IDS_UNLOCKS_17"
@@ -27010,14 +27980,14 @@ msgstr "新しい艦艇の研究と購入"
 
 msgid "IDS_UNLOCKS_19"
 msgstr ""
-"フレンドと共にプレイ。艦隊戦への参加。\n"
+"歴戦のフレンドと共にプレイ。\n"
 "戦闘タイプ選択メニューから利用可能です。"
 
 msgid "IDS_UNLOCKS_2"
 msgstr "IDS_UNLOCKS_2"
 
 msgid "IDS_UNLOCKS_20"
-msgstr "防御構造の長所と短所を勉強しましょう。"
+msgstr "装甲レイアウトの長所と短所を研究しましょう。"
 
 msgid "IDS_UNLOCKS_3"
 msgstr ""
@@ -27030,7 +28000,7 @@ msgstr "RESEARCH_USE"
 msgid "IDS_UNLOCKS_5"
 msgstr ""
 "フリー経験値 (フリー "
-"EXP) は、任意の艦艇やモジュールの研究に使用可能です。"
+"EXP) は、任意の艦艇やモジュールの研究に使用可能であり、ゲームの進行を加速することができます。"
 
 msgid "IDS_UNLOCKS_6"
 msgstr "FREE_EXP_TRANSIT"
@@ -27039,32 +28009,32 @@ msgid "IDS_UNLOCKS_7"
 msgstr "SKILL_TREE_USE"
 
 msgid "IDS_UNLOCKS_8"
-msgstr ""
-"ランダム戦およびランク戦で各種ミッションを達成することにより追加褒賞が得られます。\n"
-"24 時間毎に新しいミッションが "
-"1 つ追加され、達成済みミッションと置き換わります。"
+msgstr "ランダム戦およびランク戦で各種デイリーミッションを達成することで、追加褒賞が得られます。"
 
 msgid "IDS_UNLOCKS_9"
-msgstr "ミッションやチャレンジを達成して各種の褒賞を取得しましょう。"
+msgstr "ミッションやチャレンジを達成すれば、艦艇を獲得できることさえあります。"
 
 msgid "IDS_UNLOCKS_DESCRIPTION_12_0"
-msgstr "アップグレードは、この艦への互換性がある全てのこのタイプのモジュールに影響します。"
+msgstr ""
+"アップグレードは、その対象となるタイプの全モジュールに効果があります。例えば主砲塔 "
+"3 基の艦艇に主砲アップグレードを搭載した場合、"
+"3 基全てがアップグレードされます。"
 
 msgid "IDS_UNLOCKS_DESCRIPTION_12_1"
 msgstr ""
 "利用可能なアップグレードの数は、艦のタイプと "
-"Tier に依存します。"
+"Tier に応じて最大 6 個までです。"
 
 msgid "IDS_UNLOCKS_DESCRIPTION_12_2"
-msgstr "艦をアップグレードするには、艦モジュール画面に移動してください。"
+msgstr "「アップグレード」セクションは、「モジュール」画面にあります。"
 
 msgid "IDS_UNLOCKS_DESCRIPTION_13_0"
 msgstr ""
-"別の艦への配属の際には、スキルの効力を最大化するために艦長を再訓練する必要があります。再訓練が完了するまでは、習得済みのスキルの効力は "
-"50% 低下します。"
+"戦闘において艦艇が経験値を取得した際、その艦長にも経験値が与えられます。艦長経験値は、艦艇のパラメータを向上させるスキルを習得するために必要です。\n"
+"別の艦への配属の際には、艦長を再訓練する必要があります。再訓練が完了するまでは、習得済みのスキルの効力が低下した状態となります。"
 
 msgid "IDS_UNLOCKS_DESCRIPTION_13_1"
-msgstr "スキル画面にアクセスするには、艦パラメータパネルの艦長画像をクリックしてください。"
+msgstr "スキル画面にアクセスするには、港で艦長の画像をクリックしてください。"
 
 msgid "IDS_UNLOCKS_DESCRIPTION_14_0"
 msgstr "信号旗は、戦闘実績に対する報酬として取得することができます。"
@@ -27089,7 +28059,7 @@ msgid "IDS_UNLOCKS_DESCRIPTION_15_2"
 msgstr "迷彩は、「外装」画面を使用して任意の艦艇に搭載可能です。"
 
 msgid "IDS_UNLOCKS_DESCRIPTION_16_0"
-msgstr "シーズン中に中間的なランクを達成し、各種の褒賞を獲得しましょう。"
+msgstr "ランクアップを達成することで、より多くの信号旗やクレジット、その他の褒賞を取得できます。ランクが高いほど、褒賞はより魅力的となり、戦闘内容もハイレベルなものとなります。"
 
 msgid "IDS_UNLOCKS_DESCRIPTION_16_1"
 msgstr "シーズン中の貴官の実績を示す特別旗を取得しましょう。"
@@ -27098,40 +28068,39 @@ msgid "IDS_UNLOCKS_DESCRIPTION_16_2"
 msgstr "ランク画面のプロフィールや概要画面の戦績で進行状況を確認しましょう。"
 
 msgid "IDS_UNLOCKS_DESCRIPTION_17_0"
-msgstr "4 種類の艦種を使用可能: 一撃必殺の魚雷を搭載する、高速かつ高機動の駆逐艦、汎用性に優れ、様々な任務に対応可能な巡洋艦、巨砲と重装甲を誇る戦艦、強力な艦載機を運用する恐るべき航空母艦"
+msgstr "4 種類の艦種を使用可能: 高速な駆逐艦、多用途な巡洋艦、重装甲の戦艦、戦略的なプレイが求められる恐るべき航空母艦。戦場で適切な行動を選び、各種の艦艇をレベルアップしましょう。"
 
 msgid "IDS_UNLOCKS_DESCRIPTION_17_1"
-msgstr "EXP を使用して艦艇を研究し、戦闘で取得したクレジットを使用して購入しましょう。新しいモジュールを搭載して艦艇の性能を高めましょう。"
+msgstr "戦果に応じて経験値とクレジットを取得できます。これを使用して艦艇を研究・購入し、新しいモジュールを搭載して艦艇の性能を高めましょう。"
 
 msgid "IDS_UNLOCKS_DESCRIPTION_17_2"
-msgstr "使用可能なあらゆる艦艇は、技術ツリー画面およびモジュール画面において研究、購入、アップグレードすることができます。これらの画面にアクセスするには、上部のメニューで該当タブをクリックしてください。"
+msgstr "艦艇は、上部のメニューから「技術ツリー」画面および「モジュール」画面にアクセスすることで、研究、購入、アップグレードすることができます。"
 
 msgid "IDS_UNLOCKS_DESCRIPTION_19_0"
 msgstr "プレイスタイルに合う艦隊を作成または選択しましょう。レーティング向上を目指しても良いですし、純粋に楽しんでも良いでしょう。"
 
 msgid "IDS_UNLOCKS_DESCRIPTION_19_1"
-msgstr "「貴官の艦隊」画面のプロフィールや概要画面の戦績で進行状況を確認しましょう。"
+msgstr "「貴官の艦隊」画面のプロフィールや「概要」画面の戦績で進行状況を確認しましょう。"
 
 msgid "IDS_UNLOCKS_DESCRIPTION_5_0"
 msgstr ""
 "戦闘で取得した経験値の "
-"5% 分をフリー経験値として取得できます。"
+"5% 分をフリー経験値として取得できるようになりました。"
 
 msgid "IDS_UNLOCKS_DESCRIPTION_5_1"
 msgstr ""
-"フリー経験値への変換はエリート/プレミアム艦艇で取得した経験値のみに適用できます。\n"
-"フリー経験値は 25 EXP につき、 "
-"1 ダブロンで変換することが可能です。"
+"エリート/プレミアム艦艇の未使用 EXP は、フリー "
+"EXP へと変換可能です。\n"
+"フリー経験値への変換手数料は、25 EXP あたり "
+"1 ダブロンです。"
 
 msgid "IDS_UNLOCKS_DESCRIPTION_5_2"
-msgstr ""
-"新しい艦やモジュールを研究する際に、経験値が不足する場合\n"
-"不足分をフリー経験値で補うことができます。"
+msgstr "新しい艦やモジュールを研究する際に、経験値が不足する場合、不足分をフリー経験値で補うことができます。"
 
 msgid "IDS_UNLOCKS_DESCRIPTION_8_0"
 msgstr ""
-"空きスロットが 1 個ある場合、サーバー時間で "
-"00:00 にアイテムが 1 個追加されます。"
+"サーバー時間で毎日 "
+"00:00 に、達成済みのミッションが新しいミッションへと置き換えられます。"
 
 msgid "IDS_UNLOCKS_DESCRIPTION_9_0"
 msgstr "ミッションとは異なり、チャレンジは、有効期間中であれば達成可能回数の制限がありません。"
@@ -27201,6 +28170,12 @@ msgstr "アップグレードの解除"
 
 msgid "IDS_UNMUTE"
 msgstr "メッセージを有効化"
+
+msgid "IDS_UNMUTE_PLAYER_TEXT_CHAT"
+msgstr "プレイヤーからのテキストメッセージの有効化"
+
+msgid "IDS_UNMUTE_PLAYER_VOICE_CHAT"
+msgstr "プレイヤーからの音声メッセージの有効化"
 
 msgid "IDS_UNREADY_DIVISION_FIRST"
 msgstr "モジュールを購入するには、戦隊でステータスを「準備中」に設定してください"
@@ -27296,11 +28271,62 @@ msgstr ""
 msgid "IDS_VISION_DISTANCE_RESTORED"
 msgstr "台風通過、目視距離が回復します!"
 
+msgid "IDS_VOICECHAT_INPUT_DEVICE"
+msgstr "マイク"
+
+msgid "IDS_VOICECHAT_KEY_NOT_ASSIGNED_HINT"
+msgstr "「操作」セクションで音声チャット操作用のキーを設定してください"
+
+msgid "IDS_VOICECHAT_MODE"
+msgstr "送信モード"
+
+msgid "IDS_VOICECHAT_OUTPUT_DEVICE"
+msgstr "出力デバイス"
+
+msgid "IDS_VOICECHAT_OUTPUT_VOLUME"
+msgstr "チャット音量"
+
+msgid "IDS_VOICECHAT_PARAMS"
+msgstr "音声チャット"
+
+msgid "IDS_VOICECHAT_PUSH_TO_TALK_MODE"
+msgstr "押して話す"
+
+msgid "IDS_VOICECHAT_PUSH_TO_TALK_MODE_HINT"
+msgstr "[CMD_VOICE_CHAT_TALK] を押している間に音声メッセージを送信"
+
+msgid "IDS_VOICECHAT_TOGGLE_TO_TALK_MODE"
+msgstr "ON/OFF 切り替え"
+
+msgid "IDS_VOICECHAT_TOGGLE_TO_TALK_MODE_HINT"
+msgstr ""
+"[CMD_VOICE_CHAT_TALK] を "
+"1 回押して音声メッセージの送信を開始し、もう "
+"1 回押して送信を停止"
+
 msgid "IDS_VOICES_NEEDED"
 msgstr "必要な投票数"
 
 msgid "IDS_VOICES_NEEDED_HINT"
 msgstr "提議をすぐに採択または却下するために必要な賛成票および反対票の合計"
+
+msgid "IDS_VOICE_CHAT_DISABLED"
+msgstr "音声チャット無効"
+
+msgid "IDS_VOICE_CHAT_ENABLED"
+msgstr "音声チャット有効"
+
+msgid "IDS_VOICE_CHAT_OUTGOING_STATE_HINT"
+msgstr "音声メッセージを発声により送信開始"
+
+msgid "IDS_VOICE_CHAT_SETTINGS"
+msgstr "音声チャット"
+
+msgid "IDS_VOICE_MESSAGES_FROM_USER_DISABLED"
+msgstr "%s さんからの音声メッセージを無効化しました"
+
+msgid "IDS_VOICE_MESSAGES_FROM_USER_ENABLED"
+msgstr "%s さんからの音声メッセージを有効化しました"
 
 msgid "IDS_VOICE_MOD"
 msgstr "戦闘音声"
@@ -27420,6 +28446,9 @@ msgstr "自動補給が有効な場合、この迷彩は無償で補給されま
 msgid "IDS_WARNING_PERMOUFLAGE_BEFORE_BUY"
 msgstr ""
 "この迷彩は、1 回購入すれば以後は無償で補給されます。"
+
+msgid "IDS_WATCH_VIDEO"
+msgstr "ビデオを視聴"
 
 msgid "IDS_WCONTROL_1"
 msgstr "オプション 1"
