@@ -16092,7 +16092,7 @@ msgid "IDS_PGSB108_YEAR"
 msgstr "1940"
 
 msgid "IDS_PGSB109"
-msgstr "F. der Große"
+msgstr "Friedrich d.G."
 
 msgid "IDS_PGSB109_DESCR"
 msgstr "フリードリヒ・デア・グローセは、ドイツ海軍の大幅拡張計画の一環として開発された計画案です。ビスマルク級戦艦の発展型であり、より強力な主砲を搭載し、対空火力の強化が図られていました。"
