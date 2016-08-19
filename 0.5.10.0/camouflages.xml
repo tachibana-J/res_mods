@@ -1609,7 +1609,7 @@
 	<camouflage>
 		<annotation>Блок тайленых немецких камуфляжей для большинства кораблей с квадратной текстурой</annotation>
         <name>camo_1_tile</name>
-        <targetShip>PGSB108_Bismarck PGSB002_Tirpiz_1942 PGSC105_Konigsberg PGSC106_Nurnberg PGSC107_Yorck PGSC108_Hipper PGSB103_Nassau PGSB104_Kaiser PGSB105_Koenig PGSB106_Bayern PGSB503_Koenig_Albert</targetShip>
+        <targetShip>PGSB108_Bismarck PGSB002_Tirpiz_1942 PGSC105_Konigsberg PGSC106_Nurnberg PGSC107_Yorck PGSC108_Hipper PGSB103_Nassau PGSB104_Kaiser PGSB105_Koenig PGSB106_Bayern PGSB503_Koenig_Albert PGSC508_Prinz_Eugen</targetShip>
         <tiled>true</tiled>
         <UV>
 			<Tile>3.8 3.8</Tile>
@@ -1720,7 +1720,7 @@
 	<camouflage>
 		<annotation>Блок тайленых немецких камуфляжей для большинства кораблей с квадратной текстурой</annotation>
         <name>camo_2_tile</name>
-        <targetShip>PGSB108_Bismarck PGSB002_Tirpiz_1942 PGSC105_Konigsberg PGSC106_Nurnberg PGSC107_Yorck PGSC108_Hipper PGSB103_Nassau PGSB104_Kaiser PGSB105_Koenig PGSB106_Bayern PGSB503_Koenig_Albert</targetShip>
+        <targetShip>PGSB108_Bismarck PGSB002_Tirpiz_1942 PGSC105_Konigsberg PGSC106_Nurnberg PGSC107_Yorck PGSC108_Hipper PGSB103_Nassau PGSB104_Kaiser PGSB105_Koenig PGSB106_Bayern PGSB503_Koenig_Albert PGSC508_Prinz_Eugen</targetShip>
         <tiled>true</tiled>
         <UV>
 			<Tile>3 3</Tile>
@@ -1831,7 +1831,7 @@
 	<camouflage>
 		<annotation>Блок тайленых немецких камуфляжей для большинства кораблей с квадратной текстурой</annotation>
         <name>camo_3_tile</name>
-        <targetShip>PGSC105_Konigsberg PGSC106_Nurnberg PGSC107_Yorck PGSC108_Hipper PGSB103_Nassau PGSB104_Kaiser PGSB105_Koenig PGSB106_Bayern PGSB503_Koenig_Albert</targetShip>
+        <targetShip>PGSC105_Konigsberg PGSC106_Nurnberg PGSC107_Yorck PGSC108_Hipper PGSB103_Nassau PGSB104_Kaiser PGSB105_Koenig PGSB106_Bayern PGSB503_Koenig_Albert PGSC508_Prinz_Eugen</targetShip>
         <tiled>true</tiled>
         <UV>
 			<Tile>3.4 3.4</Tile>
@@ -1964,7 +1964,7 @@
 	<camouflage>
 		<annotation>Блок тайленых немецких экономических камуфляжей для большинства кораблей с квадратной текстурой</annotation>
         <name>camo_economic_tile</name>
-        <targetShip>PGSC105_Konigsberg PGSC106_Nurnberg PGSC107_Yorck PGSC108_Hipper PGSB103_Nassau PGSB104_Kaiser PGSB105_Koenig PGSB106_Bayern PGSB503_Koenig_Albert</targetShip>
+        <targetShip>PGSC105_Konigsberg PGSC106_Nurnberg PGSC107_Yorck PGSC108_Hipper PGSB103_Nassau PGSB104_Kaiser PGSB105_Koenig PGSB106_Bayern PGSB503_Koenig_Albert PGSC508_Prinz_Eugen</targetShip>
         <tiled>true</tiled>
         <UV>
 			<Tile>3.4 3.4</Tile>
@@ -4856,6 +4856,138 @@
 		<color2>0.018 0.057 0.113 0.850</color2>
 		<color3>0.621 0.606 0.542 0.700</color3>
     </camouflage>
+	<!--//GamesCon2016_tile_camo-->
+	<camouflage>
+		<annotation>Блок тайленого камуфляжа для выставки GamesCon 2016 на корабли с квадратной текстурой</annotation>
+        <name>camo_gamescon_tile</name>
+        <tiled>true</tiled>
+        <UV>
+            <Tile>2 2</Tile>
+			<Bow_DeckHouse>1 1</Bow_DeckHouse>
+			<MidFront_DeckHouse>1 1</MidFront_DeckHouse>
+			<MidBack_DeckHouse>1 1</MidBack_DeckHouse>
+			<Stern_DeckHouse>1 1</Stern_DeckHouse>
+			<Gun>0.5 0.5</Gun>
+			<Bulge>1 1</Bulge>
+        </UV>
+        <Textures>
+                <Tile>content/gameplay/common/camouflage/textures/Dazzle_tile_camo_08.dds</Tile>
+        </Textures>
+		<color0>0.096 0.094 0.094 1.000</color0>
+		<color1>0.022 0.022 0.022 1.000</color1>
+		<color2>0.220 0.005 0.005 1.000</color2>
+		<color3>0.010 0.010 0.010 1.000</color3>
+    </camouflage>
+	<camouflage>
+		<annotation>Блок тайленого камуфляжа для выставки GamesCon 2016 на корабли с прямоугольной текстурой</annotation>
+        <name>camo_gamescon_tile</name>
+		<targetShip>PJSC035_Chikuma_1912 PJSC015_Tatsuta_1919 PJSC026_Iwaki_1944 PRSD001_Gremyashchy_1942 PRSD102_SM_Storojevoy PRSD105_Pr_7_Gnevny PRSD106_Pr_30_Ognevoy PRSD107_Pr_35_Udaloy PRSD108_Pr_20i_Tashkent PRSD109_Pr_48_Kiev PRSC102_Novik PRSC102_Novik PRSC103_Bogatyr PRSC104_Svetlana PRSD110_Pr_24_KhabarovskPGSC001_Hermelin_1940 PGSC002_Drezden_1908 PGSC103_Kolberg PGSC104_Karlsruhe PGSC502_Emden_1908 PWSD501_Blyskawica PZSD506_Anshan</targetShip>
+        <tiled>true</tiled>
+        <UV>
+            <Tile>2 1</Tile>
+			<Bow_DeckHouse>1 1</Bow_DeckHouse>
+			<MidFront_DeckHouse>1 1</MidFront_DeckHouse>
+			<MidBack_DeckHouse>1 1</MidBack_DeckHouse>
+			<Stern_DeckHouse>1 1</Stern_DeckHouse>
+			<Gun>0.5 0.5</Gun>
+			<Bulge>1 1</Bulge>
+        </UV>
+        <Textures>
+                <Tile>content/gameplay/common/camouflage/textures/Dazzle_tile_camo_08.dds</Tile>
+        </Textures>
+		<color0>0.096 0.094 0.094 1.000</color0>
+		<color1>0.022 0.022 0.022 1.000</color1>
+		<color2>0.220 0.005 0.005 1.000</color2>
+		<color3>0.010 0.010 0.010 1.000</color3>
+    </camouflage>
+	<camouflage>
+		<annotation>Блок тайленого камуфляжа для выставки GamesCon 2016 на корабли с квадратной текстурой корпуса и малой текстурой надстройки</annotation>
+        <name>camo_gamescon_tile</name>
+		<targetShip>PJSA012_Zuikaku_1944 PRSC108_Pr_68_Chapaev</targetShip>
+        <tiled>true</tiled>
+        <UV>
+            <Tile>2 2</Tile>
+			<Bow_DeckHouse>0.5 0.5</Bow_DeckHouse>
+			<MidFront_DeckHouse>0.5 0.5</MidFront_DeckHouse>
+			<MidBack_DeckHouse>0.5 0.5</MidBack_DeckHouse>
+			<Stern_DeckHouse>0.5 0.5</Stern_DeckHouse>
+			<Gun>0.5 0.5</Gun>
+			<Bulge>1 1</Bulge>
+        </UV>
+        <Textures>
+                <Tile>content/gameplay/common/camouflage/textures/Dazzle_tile_camo_08.dds</Tile>
+        </Textures>
+		<color0>0.096 0.094 0.094 1.000</color0>
+		<color1>0.022 0.022 0.022 1.000</color1>
+		<color2>0.220 0.005 0.005 1.000</color2>
+		<color3>0.010 0.010 0.010 1.000</color3>
+    </camouflage>
+	<camouflage>
+		<annotation>Блок тайленого камуфляжа для выставки GamesCon 2016 на корабли с прямоугольными текстурами корпуса и надстройки</annotation>
+        <name>camo_gamescon_tile</name>
+		<targetShip>PRSC505_KrasniKrym</targetShip>
+        <tiled>true</tiled>
+        <UV>
+            <Tile>2 1</Tile>
+			<Bow_DeckHouse>1 0.5</Bow_DeckHouse>
+			<MidFront_DeckHouse>1 0.5</MidFront_DeckHouse>
+			<MidBack_DeckHouse>1 0.5</MidBack_DeckHouse>
+			<Stern_DeckHouse>1 0.5</Stern_DeckHouse>
+			<Gun>0.5 0.5</Gun>
+			<Bulge>1 1</Bulge>
+        </UV>
+        <Textures>
+                <Tile>content/gameplay/common/camouflage/textures/Dazzle_tile_camo_08.dds</Tile>
+        </Textures>
+		<color0>0.096 0.094 0.094 1.000</color0>
+		<color1>0.022 0.022 0.022 1.000</color1>
+		<color2>0.220 0.005 0.005 1.000</color2>
+		<color3>0.010 0.010 0.010 1.000</color3>
+    </camouflage>
+	<camouflage>
+		<annotation>Блок тайленого камуфляжа для выставки GamesCon 2016 на корабли с двумя большими текстурами корпуса и надстройки</annotation>
+        <name>camo_gamescon_tile</name>
+		<targetShip>PJSA015_Taiho_1944 PASA015_Midway_1945 PRSC109_Dmitry_Donskoy PGSB109_Friedrich_der_Grosse PGSB110_Grossdeutschland</targetShip>
+        <tiled>true</tiled>
+        <UV>
+            <Tile>2 2</Tile>
+			<Bow_DeckHouse>2 2</Bow_DeckHouse>
+			<MidFront_DeckHouse>2 2</MidFront_DeckHouse>
+			<MidBack_DeckHouse>2 2</MidBack_DeckHouse>
+			<Stern_DeckHouse>2 2</Stern_DeckHouse>
+			<Gun>0.5 0.5</Gun>
+			<Bulge>1 1</Bulge>
+        </UV>
+        <Textures>
+                <Tile>content/gameplay/common/camouflage/textures/Dazzle_tile_camo_08.dds</Tile>
+        </Textures>
+		<color0>0.096 0.094 0.094 1.000</color0>
+		<color1>0.022 0.022 0.022 1.000</color1>
+		<color2>0.220 0.005 0.005 1.000</color2>
+		<color3>0.010 0.010 0.010 1.000</color3>
+    </camouflage>
+	<camouflage>
+		<annotation>Блок тайленого камуфляжа для выставки GamesCon 2016 на корабли с квадратной текстурой корпуса и прямоугольной текстурой надстройки</annotation>
+        <name>camo_gamescon_tile</name>
+		<targetShip>PASB506_Arizona_1941 PGSB107_Gneisenau PGSB507_Scharnhorst PFSB506_Dunkerque_1940</targetShip>
+        <tiled>true</tiled>
+        <UV>
+            <Tile>2 2</Tile>
+			<Bow_DeckHouse>2 1</Bow_DeckHouse>
+			<MidFront_DeckHouse>2 1</MidFront_DeckHouse>
+			<MidBack_DeckHouse>2 1</MidBack_DeckHouse>
+			<Stern_DeckHouse>2 1</Stern_DeckHouse>
+			<Gun>0.5 0.5</Gun>
+			<Bulge>2 2</Bulge>
+        </UV>
+        <Textures>
+                <Tile>content/gameplay/common/camouflage/textures/Dazzle_tile_camo_08.dds</Tile>
+        </Textures>
+		<color0>0.096 0.094 0.094 1.000</color0>
+		<color1>0.022 0.022 0.022 1.000</color1>
+		<color2>0.220 0.005 0.005 1.000</color2>
+		<color3>0.010 0.010 0.010 1.000</color3>
+    </camouflage>
 <!--//Unique camouflage and colors block-->
 	<!--//Japanese premium ships camouflage-->
 	<camouflage>
@@ -5824,6 +5956,92 @@
 		<color2>0.180 0.180 0.215 0.850</color2>
 		<color3>0.000 0.000 0.000 0.000</color3>
 	</camouflage>
+	<camouflage>
+		<annotation>Блок пермофляжа для американского линкора 8 уровня Северная Каролина корпус B</annotation>
+		<name>camo_permanent_1</name>
+		<targetShip>PASB012_North_Carolina_1945_B_Hull_1942</targetShip>
+		<tiled>false</tiled>
+		<UV>
+			<Tile>1 1</Tile>
+			<Gun>1 1</Gun>
+		</UV>
+		<Textures>
+			<Bow_Hull>content/gameplay/common/camouflage/textures/ASB037_North_Carolina_1942_hull_camo_01.dds</Bow_Hull>
+			<MidFront_Hull>content/gameplay/common/camouflage/textures/ASB037_North_Carolina_1942_hull_camo_01.dds</MidFront_Hull>
+			<MidFront_DeckHouse>content/gameplay/common/camouflage/textures/ASB037_North_Carolina_1942_DeckHouse_camo_01.dds</MidFront_DeckHouse>
+			<MidBack_Hull>content/gameplay/common/camouflage/textures/ASB037_North_Carolina_1942_hull_camo_01.dds</MidBack_Hull>
+			<MidBack_DeckHouse>content/gameplay/common/camouflage/textures/ASB037_North_Carolina_1942_DeckHouse_camo_01.dds</MidBack_DeckHouse>
+			<Stern_Hull>content/gameplay/common/camouflage/textures/ASB037_North_Carolina_1942_hull_camo_01.dds</Stern_Hull>
+			<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
+		</Textures>
+		<color0>0.047 0.090 0.122 1.000</color0>
+		<color1>0.014 0.022 0.030 1.000</color1>
+		<color2>0.184 0.212 0.231 0.784</color2>
+		<color3>0.000 0.000 0.000 0.000</color3>
+	</camouflage>
+	<camouflage>
+		<annotation>Блок пермофляжа для американского линкора 8 уровня Северная Каролина корпус C</annotation>
+		<name>camo_permanent_1</name>
+		<targetShip>PASB012_North_Carolina_1945_C_Hull_1945</targetShip>
+		<tiled>false</tiled>
+		<UV>
+			<Tile>1 1</Tile>
+			<Gun>1 1</Gun>
+		</UV>
+		<Textures>
+			<Bow_Hull>content/gameplay/common/camouflage/textures/ASB012_North_Carolina_camo_01.dds</Bow_Hull>
+			<MidFront_Hull>content/gameplay/common/camouflage/textures/ASB012_North_Carolina_camo_01.dds</MidFront_Hull>
+			<MidBack_Hull>content/gameplay/common/camouflage/textures/ASB012_North_Carolina_camo_01.dds</MidBack_Hull>
+			<Stern_Hull>content/gameplay/common/camouflage/textures/ASB012_North_Carolina_camo_01.dds</Stern_Hull>
+			<Gun>content/gameplay/common/camouflage/textures/R_gun_camo_01.dds</Gun>
+		</Textures>
+		<color0>0.184 0.212 0.231 0.784</color0>
+		<color1>0.004 0.012 0.020 1.000</color1>
+		<color2>0.047 0.090 0.122 1.000</color2>
+		<color3>0.000 0.000 0.000 0.000</color3>
+	</camouflage>
+	<camouflage>
+		<annotation>Блок пермофляжа для американского эсминца 8 уровня Бенсон</annotation>
+		<name>camo_permanent_1</name>
+		<targetShip>PASD008_Benson_1945</targetShip>
+		<tiled>false</tiled>
+		<UV>
+			<Tile>1 1</Tile>
+			<Gun>1 1</Gun>
+		</UV>
+		<Textures>
+			<Bow_Hull>content/gameplay/common/camouflage/textures/ASD023_Benson_1940_camo_01.dds</Bow_Hull>
+			<MidFront_Hull>content/gameplay/common/camouflage/textures/ASD023_Benson_1940_camo_01.dds</MidFront_Hull>
+			<MidBack_Hull>content/gameplay/common/camouflage/textures/ASD023_Benson_1940_camo_01.dds</MidBack_Hull>
+			<Stern_Hull>content/gameplay/common/camouflage/textures/ASD023_Benson_1940_camo_01.dds</Stern_Hull>
+			<Gun>content/gameplay/common/camouflage/textures/R_gun_camo_01.dds</Gun>
+		</Textures>
+		<color0>0.184 0.212 0.231 0.784</color0>
+		<color1>0.004 0.012 0.020 1.000</color1>
+		<color2>0.047 0.090 0.122 1.000</color2>
+		<color3>0.184 0.212 0.231 0.784</color3>
+	</camouflage>
+	<camouflage>
+		<annotation>Блок пермофляжа для американского эсминца 8 уровня Бенсон</annotation>
+		<name>camo_permanent_1</name>
+		<targetShip>PASD008_Benson_1945_C_Hull_1944</targetShip>
+		<tiled>false</tiled>
+		<UV>
+			<Tile>1 1</Tile>
+			<Gun>1 1</Gun>
+		</UV>
+		<Textures>
+			<Bow_Hull>content/gameplay/common/camouflage/textures/ASD008_Benson_1945_camo_01.dds</Bow_Hull>
+			<MidFront_Hull>content/gameplay/common/camouflage/textures/ASD008_Benson_1945_camo_01.dds</MidFront_Hull>
+			<MidBack_Hull>content/gameplay/common/camouflage/textures/ASD008_Benson_1945_camo_01.dds</MidBack_Hull>
+			<Stern_Hull>content/gameplay/common/camouflage/textures/ASD008_Benson_1945_camo_01.dds</Stern_Hull>
+			<Gun>content/gameplay/common/camouflage/textures/R_gun_camo_01.dds</Gun>
+		</Textures>
+		<color0>0.184 0.212 0.231 0.784</color0>
+		<color1>0.004 0.012 0.020 1.000</color1>
+		<color2>0.047 0.090 0.122 1.000</color2>
+		<color3>0.184 0.212 0.231 0.784</color3>
+	</camouflage>
 	<!--//German premium ships camouflage-->
 	<camouflage>
 		<annotation>Блок уникального дефолтного камуфляжа для немецкого линкора Тирпиц</annotation>
@@ -5910,10 +6128,31 @@
             <Stern_Hull>content/gameplay/common/camouflage/textures/GSB003_Scharnhorst_1939_camo_01.dds</Stern_Hull>
             <Gun>content/gameplay/common/camouflage/textures/Dazzle_tile_camo_01.dds</Gun>
         </Textures>
-        <color0>0.447 0.431 0.431 1.000</color0>
-        <color1>0.187 0.201 0.207 1.000</color1>
-        <color2>0.047 0.047 0.055 1.000</color2>
-        <color3>0.005 0.005 0.005 1.000</color3>
+        <color0>0.650 0.650 0.650 1.000</color0>
+        <color1>0.630 0.630 0.630 1.000</color1>
+        <color2>0.610 0.610 0.610 1.000</color2>
+        <color3>0.600 0.600 0.600 1.000</color3>
+    </camouflage>
+	<camouflage>
+        <annotation>Блок уникального дефолтного камуфляжа для немецкого крейсера Принц Ойген</annotation>
+        <name>camo_permanent_1</name>
+        <targetShip>PGSC508_Prinz_Eugen</targetShip>
+        <tiled>false</tiled>
+        <UV>
+            <Tile>1 1</Tile>
+            <Gun>1 1</Gun>
+        </UV>
+        <Textures>
+            <Bow_Hull>content/gameplay/common/camouflage/textures/GSC013_Prinz_Eugen_1945_camo_01.dds</Bow_Hull>
+            <MidFront_Hull>content/gameplay/common/camouflage/textures/GSC013_Prinz_Eugen_1945_camo_01.dds</MidFront_Hull>
+            <MidBack_Hull>content/gameplay/common/camouflage/textures/GSC013_Prinz_Eugen_1945_camo_01.dds</MidBack_Hull>
+            <Stern_Hull>content/gameplay/common/camouflage/textures/GSC013_Prinz_Eugen_1945_camo_01.dds</Stern_Hull>
+            <Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
+        </Textures>
+		<color0>0.150 0.170 0.175 1.000</color0>
+        <color1>0.005 0.005 0.005 1.000</color1>
+        <color2>0.057 0.065 0.070 1.000</color2>
+        <color3>0.000 0.000 0.000 0.000</color3>
     </camouflage>
 	<!--//German tech tree ships camouflage-->
 	<camouflage>
@@ -6003,6 +6242,31 @@
 		<color1>0.032 0.040 0.043 1.000</color1>
 		<color2>0.032 0.055 0.100 1.000</color2>
 		<color3>0.000 0.000 0.000 0.000</color3>
+	</camouflage>
+	<camouflage>
+		<annotation>Блок пермофляжа для немецкого линкора 8 уровня Бисмарк</annotation>
+		<name>camo_permanent_1</name>
+		<targetShip>PGSB108_Bismarck</targetShip>
+		<tiled>false</tiled>
+		<UV>
+			<Tile>1 1</Tile>
+			<Gun>1 1</Gun>
+		</UV>
+		<Textures>
+			<Bow_Hull>content/gameplay/common/camouflage/textures/GSB001_Bismarck_1941_hull_camo_01.dds</Bow_Hull>
+			<Bow_DeckHouse>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Bow_DeckHouse>
+			<MidFront_Hull>content/gameplay/common/camouflage/textures/GSB001_Bismarck_1941_hull_camo_01.dds</MidFront_Hull>
+			<MidFront_DeckHouse>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</MidFront_DeckHouse>
+			<MidBack_Hull>content/gameplay/common/camouflage/textures/GSB001_Bismarck_1941_hull_camo_01.dds</MidBack_Hull>
+			<MidBack_DeckHouse>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</MidBack_DeckHouse>
+			<Stern_Hull>content/gameplay/common/camouflage/textures/GSB001_Bismarck_1941_hull_camo_01.dds</Stern_Hull>
+			<Stern_DeckHouse>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Stern_DeckHouse>
+			<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
+		</Textures>
+		<color0>0.150 0.170 0.175 1.000</color0>
+		<color1>0.005 0.005 0.005 1.000</color1>
+		<color2>0.047 0.055 0.060 1.000</color2>
+		<color3>0.447 0.431 0.431 1.000</color3>
 	</camouflage>
 	<!--//Russian premium ships camouflage-->
 	<camouflage>
@@ -6308,6 +6572,52 @@
 		<color1>0.002 0.002 0.002 0.800</color1>
 		<color2>0.631 0.616 0.522 0.550</color2>
 		<color3>0.631 0.616 0.522 0.550</color3>
+	</camouflage>
+	<camouflage>
+		<annotation>Блок пермофляжа для cоветского крейсера 8 уровня Чапаев</annotation>
+		<name>camo_permanent_1</name>
+		<targetShip>PRSC108_Pr_68_Chapaev_A_Hull</targetShip>
+		<tiled>false</tiled>
+		<UV>
+			<Tile>1 1</Tile>
+			<Gun>1 1</Gun>
+		</UV>
+		<Textures>
+			<Bow_Hull>content/gameplay/common/camouflage/textures/RSC017_Pr_68_Chapaev_1940_hull_camo_01.dds</Bow_Hull>
+			<MidFront_Hull>content/gameplay/common/camouflage/textures/RSC017_Pr_68_Chapaev_1940_hull_camo_01.dds</MidFront_Hull>
+			<MidFront_DeckHouse>content/gameplay/common/camouflage/textures/RSC017_Pr_68_Chapaev_1940_deckhouse_camo_01.dds</MidFront_DeckHouse>
+			<MidBack_Hull>content/gameplay/common/camouflage/textures/RSC017_Pr_68_Chapaev_1940_hull_camo_01.dds</MidBack_Hull>
+			<MidBack_DeckHouse>content/gameplay/common/camouflage/textures/RSC017_Pr_68_Chapaev_1940_deckhouse_camo_01.dds</MidBack_DeckHouse>
+			<Stern_Hull>content/gameplay/common/camouflage/textures/RSC017_Pr_68_Chapaev_1940_hull_camo_01.dds</Stern_Hull>
+			<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
+		</Textures>
+		<color0>0.184 0.212 0.231 0.850</color0>
+		<color1>0.002 0.002 0.002 0.950</color1>
+		<color2>0.050 0.077 0.123 0.950</color2>
+		<color3>0.000 0.000 0.000 0.000</color3>
+	</camouflage>
+	<camouflage>
+		<annotation>Блок пермофляжа для cоветского крейсера 8 уровня Чапаев</annotation>
+		<name>camo_permanent_1</name>
+		<targetShip>PRSC108_Pr_68_Chapaev_B_Hull</targetShip>
+		<tiled>false</tiled>
+		<UV>
+			<Tile>1 1</Tile>
+			<Gun>1 1</Gun>
+		</UV>
+		<Textures>
+			<Bow_Hull>content/gameplay/common/camouflage/textures/RSC018_Pr_68_Chapaev_1947_hull_camo_01.dds</Bow_Hull>
+			<MidFront_Hull>content/gameplay/common/camouflage/textures/RSC018_Pr_68_Chapaev_1947_hull_camo_01.dds</MidFront_Hull>
+			<MidFront_DeckHouse>content/gameplay/common/camouflage/textures/RSC018_Pr_68_Chapaev_1947_deck_camo_01.dds</MidFront_DeckHouse>
+			<MidBack_Hull>content/gameplay/common/camouflage/textures/RSC018_Pr_68_Chapaev_1947_hull_camo_01.dds</MidBack_Hull>
+			<MidBack_DeckHouse>content/gameplay/common/camouflage/textures/RSC018_Pr_68_Chapaev_1947_deck_camo_01.dds</MidBack_DeckHouse>
+			<Stern_Hull>content/gameplay/common/camouflage/textures/RSC018_Pr_68_Chapaev_1947_hull_camo_01.dds</Stern_Hull>
+			<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
+		</Textures>
+		<color0>0.184 0.212 0.231 0.850</color0>
+		<color1>0.002 0.002 0.002 0.950</color1>
+		<color2>0.050 0.077 0.123 0.950</color2>
+		<color3>0.000 0.000 0.000 0.000</color3>
 	</camouflage>
 	<!--//Polish premium ships camouflage-->
 	<camouflage>
