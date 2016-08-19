@@ -1,5 +1,9 @@
 # Changelog of _implemented_ aka _compiled_ (i.e. not WIP or minute changes in texts) features
 
+20160819 Updated flag mod to 0.5.10.0
+---
+* Added one new flag
+
 20160818 Update for 0.5.10.0
 ---
 * New texts are added
