@@ -1,5 +1,9 @@
 # Changelog of _implemented_ aka _compiled_ (i.e. not WIP or minute changes in texts) features
 
+20160824 Update for 0.5.10.1
+---
+* Seamlessly compatible
+
 20160819 Updated flag mod to 0.5.10.0
 ---
 * Added one new flag
@@ -11,7 +15,7 @@
 
 20160803 Update for 0.5.9.1
 ---
-*Seamlessly compatible
+* Seamlessly compatible
 
 20160727 Update for 0.5.9.0
 ---
