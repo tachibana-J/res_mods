@@ -1,5 +1,10 @@
 # Changelog of _implemented_ aka _compiled_ (i.e. not WIP or minute changes in texts) features
 
+20160918 Text update and flag mod resampling
+---
+* Texts were rephrased
+* Flag file is now larger but contains less compression artifacts.
+
 20160907 Update for 0.5.11.0
 ---
 * New texts are added

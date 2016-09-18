@@ -1,5 +1,7 @@
 # Public mods not to track:
 *.exe
+*.cfg
+*.fv
 */audio
 */banks
 */content/*

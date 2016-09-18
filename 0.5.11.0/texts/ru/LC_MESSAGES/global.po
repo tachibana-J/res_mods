@@ -16179,10 +16179,10 @@ msgid "IDS_PCEF019_JW1_SIGNALFLAG_DESCRIPTION"
 msgstr "漏水危険ノ程度ナリ"
 
 msgid "IDS_PCEF020_BLUE_DRAGON_FLAG"
-msgstr "ドラゴン旗"
+msgstr "黄龍旗"
 
 msgid "IDS_PCEF020_BLUE_DRAGON_FLAG_DESCRIPTION"
-msgstr "海のエリート"
+msgstr "大清国艦隊の軍旗"
 
 msgid "IDS_PCEP103_PERMO_PREM_LOW_LVL"
 msgstr "タイプ 9"
@@ -26457,7 +26457,7 @@ msgid "IDS_SPACES/03_GREENLAND_DESCR"
 msgstr "危険な氷山や岩礁が多数存在する海域です。"
 
 msgid "IDS_SPACES/04_ARCHIPELAGO"
-msgstr "列島 (Archipelago)"
+msgstr "オホーツク海 (Archipelago)"
 
 msgid "IDS_SPACES/04_ARCHIPELAGO_DESCR"
 msgstr "オホーツク海にあるロシアの島々"
