@@ -26427,8 +26427,8 @@ msgstr "テストマップ"
 
 msgid "IDS_SPACES/00_DOMINATION_TEST_DESCR"
 msgstr ""
-"Test map.\n"
-"Intended for testing Domination mode."
+"テストマップ\n"
+"制圧戦モードのテスト用"
 
 msgid "IDS_SPACES/00_PURE_GAMEPLAY"
 msgstr "空マップ"

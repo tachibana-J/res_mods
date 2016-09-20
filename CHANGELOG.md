@@ -1,5 +1,9 @@
 # Changelog of _implemented_ aka _compiled_ (i.e. not WIP or minute changes in texts) features
 
+20160919 Update for 0.5.11.1
+---
+* Seamlessly compatible.
+
 20160918 Text update and flag mod resampling
 ---
 * Texts were rephrased
