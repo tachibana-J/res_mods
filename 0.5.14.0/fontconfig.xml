@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<fontconfig>
+
+	<!--
+		Меппинг шрифтов для реалма ASIA
+	-->
+
+		<lib> gui/flash/fonts_all.swf </lib>
+
+			<alias>
+				<embedded> $ZurichCondensed </embedded>
+				<runtime> Yu Go Narrow </runtime>
+			</alias>
+			<alias>
+				<embedded> $ZurichCondensedBold </embedded>
+				<runtime> Yu Go Semibold </runtime>
+			</alias>
+			<alias>
+				<embedded> $WWSDefaultFont </embedded>
+				<runtime> Yu Go Narrow </runtime>
+			</alias>
+			<alias>
+				<embedded> $WWSDefaultFontBold </embedded>
+				<runtime> Yu Go Semibold </runtime>
+			</alias>
+
+
+</fontconfig>
