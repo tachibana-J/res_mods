@@ -1,5 +1,9 @@
 # Changelog of _implemented_ aka _compiled_ (i.e. not WIP or minute changes in texts) features
 
+20161117 Update for 0.5.14.1
+---
+* New flag is added
+
 20161110 Update for 0.5.14.0
 ---
 * Selected new texts are added (2016 Halloween mode texts not added)
