@@ -2,7 +2,9 @@
 
 20161208 Update for 0.5.15.1
 ---
-
+* Slight changes to texts
+* Slight changes to camo
+* New flag is added
 
 20161130 Update for 0.5.15.0
 ---

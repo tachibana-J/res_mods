@@ -29825,7 +29825,7 @@ msgid "IDS_SPACES/23_SHARDS_DESCR"
 msgstr "南太平洋にある島国を巡る戦場。"
 
 msgid "IDS_SPACES/24_RENDEZVOUS"
-msgstr "ランデヴー (Rendezvous)"
+msgstr "*ランデヴー (Rendezvous)"
 
 msgid "IDS_SPACES/24_RENDEZVOUS_DESCR"
 msgstr "会合地点。マップ中央部は部分的に隠されており、小さな岩々があるエリアは、中央部から右側面への近道である"
@@ -29909,13 +29909,13 @@ msgid "IDS_SPACES/46_ESTUARY_DESCR"
 msgstr "地形の複雑な河口で起きる衝突。"
 
 msgid "IDS_SPACES/47_SLEEPING_GIANT"
-msgstr "眠れる巨人 (Sleeping Giant)"
+msgstr "*眠れる巨人 (Sleeping Giant)"
 
 msgid "IDS_SPACES/47_SLEEPING_GIANT_DESCR"
 msgstr "中国付近のどこかにある海域。島々の間に様々な経路が存在している"
 
 msgid "IDS_SPACES/49_SHORESIDE"
-msgstr "沿岸 (Shoreside)"
+msgstr "*沿岸 (Shoreside)"
 
 msgid "IDS_SPACES/49_SHORESIDE_DESCR"
 msgstr "大きな島と大陸の付近にある列島"
