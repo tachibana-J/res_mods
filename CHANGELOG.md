@@ -1,5 +1,15 @@
 # Changelog of _implemented_ aka _compiled_ (i.e. not WIP or minute changes in texts) features
 
+20161227 Update for 0.5.16.1
+---
+* Slight change to texts
+
+20161222 Update for 0.5.16.0
+---
+* New texts are added
+* New camo are added
+* New flag is added
+
 20161208 Update for 0.5.15.1
 ---
 * Slight changes to texts
