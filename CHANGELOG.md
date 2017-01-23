@@ -1,5 +1,10 @@
 # Changelog of _implemented_ aka _compiled_ (i.e. not WIP or minute changes in texts) features
 
+20170122 Update for 0.6.0.0
+---
+* New texts are added
+* New camo are added, existing IJN camo recolored
+
 20161227 Update for 0.5.16.1
 ---
 * Slight change to texts
