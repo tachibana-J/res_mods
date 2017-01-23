@@ -4,6 +4,7 @@
 ---
 * New texts are added
 * New camo are added, existing IJN camo recolored
+* New flags are added
 
 20161227 Update for 0.5.16.1
 ---
