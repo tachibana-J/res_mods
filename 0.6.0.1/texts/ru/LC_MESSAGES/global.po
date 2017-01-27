@@ -5575,7 +5575,7 @@ msgstr[0] " 戦闘機"
 
 msgid "IDS_CREW_SKILL_MEASURE_SMOKE_CHARGE"
 msgid_plural "IDS_CREW_SKILL_MEASURE_SMOKE_CHARGE"
-msgstr[0] " 発煙剤"
+msgstr[0] " 発煙筒"
 
 msgid "IDS_CREW_SKILL_MEASURE_TORPEDO_BOMBER"
 msgid_plural "IDS_CREW_SKILL_MEASURE_TORPEDO_BOMBER"
@@ -5671,7 +5671,7 @@ msgid "IDS_CR_CHANGE"
 msgstr "適用"
 
 msgid "IDS_CURRENT_LEAGUE_0"
-msgstr "この艦隊はプレミアリーグ所属です"
+msgstr "この艦隊は精鋭リーグ所属です"
 
 msgid "IDS_CURRENT_LEAGUE_1"
 msgstr "この艦隊は第 1 リーグ所属です"
@@ -9501,7 +9501,7 @@ msgid "IDS_LEADER_KICKED_FROM_CLUB"
 msgstr "司令官を艦隊から除外しました"
 
 msgid "IDS_LEAGUE_0"
-msgstr "プレミアリーグ"
+msgstr "精鋭リーグ"
 
 msgid "IDS_LEAGUE_1"
 msgstr "第 1 リーグ"
@@ -9611,7 +9611,7 @@ msgid "IDS_LINK_SUPPORT_HINT"
 msgstr "カスタマーサービスセンターにリダイレクトされます"
 
 msgid "IDS_LOADING"
-msgstr "　"
+msgstr "たかがネトゲで本気になるな"
 
 msgid "IDS_LOADING_PORT"
 msgstr "港を読込中"
@@ -16810,7 +16810,8 @@ msgstr ""
 msgid "IDS_PCEE011_SEASONFLAG01_EXTRA_DESCRIPTION"
 msgstr ""
 "大日本帝国時代には、呉には帝国海軍の基地のひとつがありました。そして二次大戦"
-"最大の大和型戦艦のうち 1 隻である大和が、ここで建造されました。"
+"最大の大和型戦艦のうち 1 隻である大和 "
+"が、ここで建造されました。"
 
 msgid "IDS_PCEE012_SEASONFLAG02"
 msgstr "海賊旗"
@@ -17449,13 +17450,13 @@ msgid "IDS_PCEE599_FLAG_ASIA_EXTRA_DESCRIPTION"
 msgstr "アジア・コミュニティの特別旗です。"
 
 msgid "IDS_PCEE998_SECRETSANTA_2"
-msgstr "秘密のサンタ 2016"
+msgstr "サンタ求む 2016"
 
 msgid "IDS_PCEE998_SECRETSANTA_2_DESCRIPTION"
-msgstr "2016 年の特別イベント「秘密のサンタ」参加記念旗です。"
+msgstr "2016 年の特別イベント「サンタ求む」参加記念旗です。"
 
 msgid "IDS_PCEE998_SECRETSANTA_2_EXTRA_DESCRIPTION"
-msgstr "特別イベントに参加してランダムなプレイヤーとホリデーギフトを交換した皆様に記念旗が贈られました。"
+msgstr " "
 
 msgid "IDS_PCEE999_SECRETSANTA"
 msgstr "秘密のサンタ 2015"
@@ -27946,7 +27947,7 @@ msgid "IDS_RATING_UP_LB"
 msgstr "先の戦いで艦隊のレーティングが向上"
 
 msgid "IDS_REACH_LEAGUE_0"
-msgstr "艦隊がプレミアリーグに加わりました"
+msgstr "艦隊が精鋭リーグに加わりました"
 
 msgid "IDS_REACH_LEAGUE_1"
 msgstr "艦隊が第 1 リーグに加わりました"
@@ -28519,7 +28520,7 @@ msgid "IDS_RUN_OUT"
 msgstr "殿からの応答待ちが制限時間を超過しました。"
 
 msgid "IDS_RUR"
-msgstr "RUB"
+msgstr "留"
 
 msgid "IDS_RUSSIA"
 msgstr "蘇連"
@@ -28564,13 +28565,13 @@ msgid "IDS_SCENARIO_DOMINATION_4_BASES"
 msgstr "制圧戦 (海域 4 ヶ所)"
 
 msgid "IDS_SCENARIO_DOMINATION_RANK_OBSERV0"
-msgstr "制圧戦、トーナメント、観戦者なし"
+msgstr "ランク戦、観戦者なし"
 
 msgid "IDS_SCENARIO_DOMINATION_RANK_OBSERV2"
-msgstr "制圧戦、トーナメント、観戦者 2 名"
+msgstr "ランク戦、観戦者 2 名"
 
 msgid "IDS_SCENARIO_DOMINATION_RANK_OBSERV4"
-msgstr "制圧戦、トーナメント、観戦者 4 名"
+msgstr "ランク戦、観戦者 4 名"
 
 msgid "IDS_SCENARIO_EPICENTER"
 msgstr "中央攻略戦"
