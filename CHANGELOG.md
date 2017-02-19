@@ -1,5 +1,9 @@
 # Changelog of _implemented_ aka _compiled_ (i.e. not WIP or minute changes in texts) features
 
+20170219 Update for 0.6.1.1
+---
+* Generally compatible
+
 20170208 Update for 0.6.1.0
 ---
 * New texts are added

@@ -17713,7 +17713,6 @@ msgstr "黄龍旗"
 msgid "IDS_PCEF020_BLUE_DRAGON_FLAG_DESCRIPTION"
 msgstr "大清国艦隊の軍旗"
 
-
 msgid "IDS_PCEP103_PERMO_PREM_LOW_LVL"
 msgstr "タイプ 9"
 
@@ -24104,10 +24103,10 @@ msgid "IDS_PJUH605_KAGERO_1941"
 msgstr "陽炎 (乙)"
 
 msgid "IDS_PJUH611_NAGATO_1941"
-msgstr "長門 (乙)"
+msgstr "長門 (甲)"
 
 msgid "IDS_PJUH612_NAGATO_1944"
-msgstr "長門 (丙)"
+msgstr "長門 (乙)"
 
 msgid "IDS_PJUH613_NAGATO_1933"
 msgstr "長門 (甲)"
@@ -24164,10 +24163,10 @@ msgid "IDS_PJUH707_FUBUKI_1944"
 msgstr "吹雪 (乙)"
 
 msgid "IDS_PJUH711_AMAGI_1941"
-msgstr "天城 (乙)"
+msgstr "天城 (甲)"
 
 msgid "IDS_PJUH712_AMAGI_1944"
-msgstr "天城 (丙)"
+msgstr "天城 (乙)"
 
 msgid "IDS_PJUH713_AMAGI_1926"
 msgstr "天城 (甲)"
@@ -24221,7 +24220,7 @@ msgid "IDS_PJUH799_BLUE_DRAGON"
 msgstr "広徳王"
 
 msgid "IDS_PJUH801_SHIMAKAZE_1943"
-msgstr "島風 1943"
+msgstr "島風"
 
 msgid "IDS_PJUH802_SHIMAKAZE_1944"
 msgstr "島風"
