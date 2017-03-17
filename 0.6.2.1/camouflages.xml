@@ -6198,6 +6198,160 @@
 		<color2>0.330 0.350 0.350 1.000</color2>
 		<color3>0.205 0.004 0.015 1.000</color3>
     </camouflage>
+	<!--//st. Patrick day 2017 tile camouflage-->
+	<camouflage>
+		<annotation>Блок тайленого камуфляжа для дня св Патрика на корабли с квадратной текстурой</annotation>
+        <name>camo_patrick_tile</name>
+        <tiled>true</tiled>
+        <UV>
+            <Tile>1 1</Tile>
+			<Bow_DeckHouse>0.5 0.5</Bow_DeckHouse>
+			<MidFront_DeckHouse>0.5 0.5</MidFront_DeckHouse>
+			<MidBack_DeckHouse>0.5 0.5</MidBack_DeckHouse>
+			<Stern_DeckHouse>0.5 0.5</Stern_DeckHouse>
+			<Gun>0.5 0.5</Gun>
+			<Bulge>0.5 0.5</Bulge>
+        </UV>
+        <Textures>
+                <Tile>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_pat_12.dds</Tile>
+        </Textures>
+		<color0>0.010 0.220 0.056 1.000</color0>
+		<color1>0.389 0.167 0.011 1.000</color1>
+		<color2>0.000 0.048 0.008 1.000</color2>
+		<color3>0.000 0.000 0.000 0.000</color3>
+    </camouflage>
+	<camouflage>
+		<annotation>Блок тайленого камуфляжа для дня св Патрика на корабли с прямоугольной текстурой</annotation>
+        <name>camo_patrick_tile</name>
+		<targetShip>PJSC035_Chikuma_1912 PJSC015_Tatsuta_1919 PJSC026_Iwaki_1944 PJSD207_Shiratsuyu PJSD209_Yugumo PJSD107_Akatsuki PRSD001_Gremyashchy_1942 PRSD206_Pr_7 PRSD105_Pr_7_Gnevny PRSD208_Pr_30 PRSD106_Pr_30_Ognevoy PRSD209_Pr_35 PRSD107_Pr_35_Udaloy PRSD108_Pr_20i_Tashkent PRSD308_Pr_20i PRSD309_Pr_48 PRSD109_Pr_48_Kiev PRSD310_Pr_24 PRSD110_Pr_24_Khabarovsk PRSC102_Novik PRSC103_Bogatyr PRSC104_Svetlana PRSD507_Leningrad_1944 PRSD210_Grozovoy_pr_40N PRSD207_Minsk PRSD505_Okhotnik_1917 PRSD205_Podvoisky_pr_1929 PBSC102_Weymouth PBSC103_Caledon PGSC001_Hermelin_1940 PGSC002_Drezden_1908 PGSC103_Kolberg PGSC104_Karlsruhe PGSC502_Emden_1908 PGSD104_V_170 PGSD105_T_22 PGSD106_Ernst_Gaede PGSD107_Leberecht_Maass PGSD108_Z_23 PGSD109_Z_46 PWSD501_Blyskawica PZSD506_Anshan</targetShip>
+        <tiled>true</tiled>
+        <UV>
+            <Tile>1 0.5</Tile>
+			<Bow_DeckHouse>0.5 0.5</Bow_DeckHouse>
+			<MidFront_DeckHouse>0.5 0.5</MidFront_DeckHouse>
+			<MidBack_DeckHouse>0.5 0.5</MidBack_DeckHouse>
+			<Stern_DeckHouse>0.5 0.5</Stern_DeckHouse>
+			<Gun>0.5 0.5</Gun>
+			<Bulge>0.5 0.5</Bulge>
+        </UV>
+        <Textures>
+                <Tile>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_pat_12.dds</Tile>
+        </Textures>
+		<color0>0.010 0.220 0.056 1.000</color0>
+		<color1>0.389 0.167 0.011 1.000</color1>
+		<color2>0.000 0.048 0.008 1.000</color2>
+		<color3>0.000 0.000 0.000 0.000</color3>
+    </camouflage>
+	<camouflage>
+		<annotation>Блок тайленого камуфляжа для дня св Патрика на корабли с квадратной текстурой корпуса и малой текстурой надстройки</annotation>
+        <name>camo_patrick_tile</name>
+		<targetShip>PJSA012_Zuikaku_1944 PRSC108_Pr_68_Chapaev</targetShip>
+        <tiled>true</tiled>
+        <UV>
+            <Tile>1 1</Tile>
+			<Bow_DeckHouse>0.25 0.25</Bow_DeckHouse>
+			<MidFront_DeckHouse>0.25 0.25</MidFront_DeckHouse>
+			<MidBack_DeckHouse>0.25 0.25</MidBack_DeckHouse>
+			<Stern_DeckHouse>0.25 0.25</Stern_DeckHouse>
+			<Gun>0.5 0.5</Gun>
+			<Bulge>0.5 0.5</Bulge>
+        </UV>
+        <Textures>
+                <Tile>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_pat_12.dds</Tile>
+        </Textures>
+		<color0>0.010 0.220 0.056 1.000</color0>
+		<color1>0.389 0.167 0.011 1.000</color1>
+		<color2>0.000 0.048 0.008 1.000</color2>
+		<color3>0.000 0.000 0.000 0.000</color3>
+    </camouflage>
+	<camouflage>
+		<annotation>Блок тайленого камуфляжа для дня св Патрика на корабли с прямоугольными текстурами корпуса и надстройки</annotation>
+        <name>camo_patrick_tile</name>
+		<targetShip>PRSC505_KrasniKrym</targetShip>
+        <tiled>true</tiled>
+        <UV>
+            <Tile>1 0.5</Tile>
+			<Bow_DeckHouse>0.5 0.25</Bow_DeckHouse>
+			<MidFront_DeckHouse>0.5 0.25</MidFront_DeckHouse>
+			<MidBack_DeckHouse>0.5 0.25</MidBack_DeckHouse>
+			<Stern_DeckHouse>0.5 0.25</Stern_DeckHouse>
+			<Gun>0.5 0.5</Gun>
+			<Bulge>0.5 0.5</Bulge>
+        </UV>
+        <Textures>
+                <Tile>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_pat_12.dds</Tile>
+        </Textures>
+		<color0>0.010 0.220 0.056 1.000</color0>
+		<color1>0.389 0.167 0.011 1.000</color1>
+		<color2>0.000 0.048 0.008 1.000</color2>
+		<color3>0.000 0.000 0.000 0.000</color3>
+    </camouflage>
+	<camouflage>
+		<annotation>Блок тайленого камуфляжа для дня св Патрика на корабли с двумя большими текстурами корпуса и надстройки</annotation>
+        <name>camo_patrick_tile</name>
+		<targetShip>PJSA015_Taiho_1944 PASA015_Midway_1945 PRSC109_Dmitry_Donskoy PGSB109_Friedrich_der_Grosse PGSB110_Grossdeutschland</targetShip>
+        <tiled>true</tiled>
+        <UV>
+            <Tile>1 1</Tile>
+			<Bow_DeckHouse>1 1</Bow_DeckHouse>
+			<MidFront_DeckHouse>1 1</MidFront_DeckHouse>
+			<MidBack_DeckHouse>1 1</MidBack_DeckHouse>
+			<Stern_DeckHouse>1 1</Stern_DeckHouse>
+			<Gun>0.5 0.5</Gun>
+			<Bulge>0.5 0.5</Bulge>
+        </UV>
+        <Textures>
+                <Tile>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_pat_12.dds</Tile>
+        </Textures>
+		<color0>0.010 0.220 0.056 1.000</color0>
+		<color1>0.389 0.167 0.011 1.000</color1>
+		<color2>0.000 0.048 0.008 1.000</color2>
+		<color3>0.000 0.000 0.000 0.000</color3>
+    </camouflage>
+	<camouflage>
+		<annotation>Блок тайленого камуфляжа для дня св Патрика на корабли с квадратной текстурой корпуса и большой прямоугольной текстурой надстройки</annotation>
+        <name>camo_patrick_tile</name>
+		<targetShip>PJSB003_Myogi_1912 PASB506_Arizona_1941 PGSB107_Gneisenau PGSB507_Scharnhorst PFSB506_Dunkerque_1940 PBSC110_Minotaur PJSB507_Ashitaka PJSB506_Mutsu</targetShip>
+        <tiled>true</tiled>
+        <UV>
+            <Tile>1 1</Tile>
+			<Bow_DeckHouse>1 0.5</Bow_DeckHouse>
+			<MidFront_DeckHouse>1 0.5</MidFront_DeckHouse>
+			<MidBack_DeckHouse>1 0.5</MidBack_DeckHouse>
+			<Stern_DeckHouse>1 0.5</Stern_DeckHouse>
+			<Gun>0.5 0.5</Gun>
+			<Bulge>1 1</Bulge>
+        </UV>
+        <Textures>
+                <Tile>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_pat_12.dds</Tile>
+        </Textures>
+		<color0>0.010 0.220 0.056 1.000</color0>
+		<color1>0.389 0.167 0.011 1.000</color1>
+		<color2>0.000 0.048 0.008 1.000</color2>
+		<color3>0.000 0.000 0.000 0.000</color3>
+    </camouflage>
+	<camouflage>
+		<annotation>Блок тайленого камуфляжа для дня св Патрика на корабли с сильно вытянутой текстурой корпуса</annotation>
+        <name>camo_patrick_tile</name>
+		<targetShip>PRSD102_SM_Storojevoy</targetShip>
+        <tiled>true</tiled>
+        <UV>
+            <Tile>1 0.25</Tile>
+			<Bow_DeckHouse>0.5 0.5</Bow_DeckHouse>
+			<MidFront_DeckHouse>0.5 0.5</MidFront_DeckHouse>
+			<MidBack_DeckHouse>0.5 0.5</MidBack_DeckHouse>
+			<Stern_DeckHouse>0.5 0.5</Stern_DeckHouse>
+			<Gun>0.5 0.5</Gun>
+			<Bulge>0.5 0.5</Bulge>
+        </UV>
+        <Textures>
+                <Tile>content/gameplay/common/camouflage/textures/Ship_dazzle_tile_camo_pat_12.dds</Tile>
+        </Textures>
+		<color0>0.010 0.220 0.056 1.000</color0>
+		<color1>0.389 0.167 0.011 1.000</color1>
+		<color2>0.000 0.048 0.008 1.000</color2>
+		<color3>0.000 0.000 0.000 0.000</color3>
+    </camouflage>
 <!--//Unique camouflage and colors block-->
 	<!--//Japanese premium ships camouflage-->
 	<camouflage>
@@ -9871,6 +10025,27 @@
 		<color0>0.051 0.062 0.072 1.000</color0>
 		<color1>0.294 0.308 0.260 1.000</color1>
 		<color2>0.111 0.160 0.180 1.000</color2>
+		<color3>0.000 0.000 0.000 0.000</color3>
+	</camouflage>
+	<camouflage>
+		<annotation>Блок пермофляжа для британского крейсера Эмеральд</annotation>
+		<name>camo_patrick_1</name>
+		<targetShip>PBSC105_Emerald</targetShip>
+		<tiled>false</tiled>
+		<UV>
+			<Tile>1 1</Tile>
+			<Gun>1 1</Gun>
+		</UV>
+		<Textures>
+			<Bow_Hull>content/gameplay/common/camouflage/textures/BSC010_Emerald_1943_camo_02.dds</Bow_Hull>
+			<MidFront_Hull>content/gameplay/common/camouflage/textures/BSC010_Emerald_1943_camo_02.dds</MidFront_Hull>
+			<MidBack_Hull>content/gameplay/common/camouflage/textures/BSC010_Emerald_1943_camo_02.dds</MidBack_Hull>
+			<Stern_Hull>content/gameplay/common/camouflage/textures/BSC010_Emerald_1943_camo_02.dds</Stern_Hull>
+			<Gun>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</Gun>
+		</Textures>
+		<color0>0.010 0.220 0.056 1.000</color0>
+		<color1>0.389 0.167 0.011 1.000</color1>
+		<color2>0.000 0.048 0.008 1.000</color2>
 		<color3>0.000 0.000 0.000 0.000</color3>
 	</camouflage>
 	<!--//Pan-Asian premium ships camouflage-->
