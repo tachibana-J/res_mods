@@ -18,9 +18,10 @@
 !*/content/gameplay/common/flags
 !*/gui/flash
 */gui/flash/*
-!*/gui/flash/fonts_all.swf
+!*/gui/flash/fonts_ASIA.swf
 !*/camouflages.xml
 !*/fontconfig.xml
+!*/locale_config.xml
 
 # Backup files
 *.o

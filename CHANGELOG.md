@@ -1,5 +1,12 @@
 # Changelog of _implemented_ aka _compiled_ (i.e. not WIP or minute changes in texts) features
 
+20170330 Update for 0.6.3.0.1
+---
+* New camo are added
+* New flags (this update and the previous one) are added
+* New texts are added
+* Font mod has been updated to the new structure
+
 20170317 Update for 0.6.2.1
 ---
 * New camo are added
