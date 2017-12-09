@@ -1,5 +1,8 @@
 # Changelog of _implemented_ aka _compiled_ (i.e. not WIP or minute changes in texts) features
 
+20171209 (Many skipped uploads later) Update for 0.6.14.1
+---
+
 20170909 Update for 0.6.10.1
 ---
 * New camo
