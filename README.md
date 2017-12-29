@@ -1,8 +1,8 @@
 ## WoWS mods that Destroyer_Tachibana maintains:
 
-####*<p align="center">Read the [changelog](./CHANGELOG.md) today!</p>*
+*<p align="center">Read the [changelog](./CHANGELOG.md) today!</p>*
 
-1. Japanese text mod `/texts`  (only `global.mo` is necessary) AND `locale_config.xml` (or see item 5):
+1. Japanese text mod `/texts`  (only `global.mo` is necessary) AND `locale_config.xml` (or see item 5) AND `gui_urls.xml` (to see NA news):
     
     &nbsp;&nbsp;A. HUD UI elements (pulled from SEA client text file) are in Japanese;
     
@@ -12,18 +12,18 @@
     
     &nbsp;&nbsp;D. Reworded certain features, including:
 
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. Achievements:
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. Achievements
     
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b. Signal flags texts
       
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c. リザーブ → 営舎、エリア → 海域、ゾーン → 陣地、(etc.)
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c. Some game expressions such as リザーブ → 営舎, and map names were changed
       
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;d. Certain unnatural expressions: 配属する: → 配属させる:
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;d. Certain unnatural expressions: 配属する → 配属させる
     
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;e. Nation names are changed to mimic a WWII environment, displayed in Japanese (kanji);
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;e. Nation names are changed to mimic a WWII environment, displayed in Japanese;
       
     &nbsp;&nbsp;E. Modules of Asian ships, mostly IJN for now, are changed to be as historically accurate as technically allowed. 
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Exceptions:
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Exceptions include:
         
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. 白龍の後期爆撃機「Wakusei」(hist. creatively corrected)
         

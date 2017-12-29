@@ -23,6 +23,7 @@ official/*.po
 !*/camouflages.xml
 !*/fontconfig.xml
 !*/locale_config.xml
+!*/gui_urls.xml
 
 # Backup files
 *.o
