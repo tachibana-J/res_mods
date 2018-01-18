@@ -1,5 +1,12 @@
 # Changelog of _implemented_ aka _compiled_ (i.e. not WIP or minute changes in texts) features
 
+20180117 Update for 0.7.0.0
+---
+* New camo
+* New flag
+* New texts
+* Same old game
+
 20171227 Update for 0.6.15.1
 ---
 * New flag
