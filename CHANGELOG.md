@@ -1,5 +1,8 @@
 # Changelog of _implemented_ aka _compiled_ (i.e. not WIP or minute changes in texts) features
 
+20180118 Seamlessly compatible with 0.7.0.1
+---
+
 20180117 Update for 0.7.0.0
 ---
 * New camo
