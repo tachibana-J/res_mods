@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<fontconfig>
+    <ASIA>
+        <lib> gui/flash/fonts_ASIA.swf </lib>
+	<alias>
+		<embedded> $ZurichCondensed </embedded>
+		<runtime> Yu Go Narrow </runtime>
+	</alias>
+	<alias>
+		<embedded> $ZurichCondensedBold </embedded>
+		<runtime> Yu Go Semibold </runtime>
+	</alias>
+	<alias>
+		<embedded> $WWSDefaultFont </embedded>
+		<runtime> Yu Go Narrow </runtime>
+	</alias>
+	<alias>
+		<embedded> $WWSDefaultFontBold </embedded>
+		<runtime> Yu Go Semibold </runtime>
+	</alias>
+    </ASIA>
+</fontconfig>

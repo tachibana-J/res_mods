@@ -1,0 +1,765 @@
+<gui_urls.xml>
+    <asia>
+        <reportError>https://%(realm)s.wargaming.net/support</reportError>
+        <forum>http://forum.worldofwarships.com/</forum>
+        <register>http://cpm.wargaming.net/uuct697w/?pub_id=loginscreen</register>
+        <passwordRecovery>https://%(realm)s.wargaming.net/personal/password_reset/new/</passwordRecovery>
+        <wargamingNet>http://wargaming.net</wargamingNet>
+        <wowsWebsite>https://worldofwarships.com/</wowsWebsite>
+        <eula>http://legal.%(realm)s.wargaming.net/%(localeRfcName)s/end-user-licence-agreement/</eula>
+        <extraLicences>http://legal.%(realm)s.wargaming.net/%(localeRfcName)s/end-user-licence-agreement/</extraLicences>
+        <gameRatingDisplay>default</gameRatingDisplay>
+        <buyGold>https://%(realm)s.wargaming.net/shop/wows/</buyGold>
+        <buyPrem>https://%(realm)s.wargaming.net/shop/wows/premium/</buyPrem>
+        <enableLanguageBar>0</enableLanguageBar>
+        <support>https://%(realm)s.wargaming.net/support/</support>
+        <projectR domain="auth_wows" next="https://elements.worldofwarships.com/">https://elements.worldofwarships.com/</projectR>
+        <kongzhong/>
+        <auth>
+            <domain name="clans" url="https://clans.worldofwarships.com/clans/gateway/wows/auth/?spa_id=%(spa_id)s&amp;token=%(wgni_token)s"/>
+            <domain name="auth_wows" url="https://auth.worldofwarships.com/auth-token/?spa_id=%(spa_id)s&amp;token=%(wgni_token)s"/>
+        </auth>
+        <!-- Personal -->
+
+        <personal>%(wgn_url)s/id/signin/token/?account_id=%(spa_id)s&amp;token=%(wgni_token)s%(optional_requested_for)s&amp;next=/personal/?language=%(localeRfcName)s</personal>
+        <!-- Special URL that should be opened in-game (must end with 'InGame'):-->
+
+        <guidesInGame>https://worldofwarships.com/content/in-game/education/?consumer=game-browser</guidesInGame>
+        <portalInGame next="https://worldofwarships.com" redirect="true"/>
+        <forbiddenInGame>https://worldofwarships.com/403/</forbiddenInGame>
+        <newsInGame domain="auth_wows" next="https://worldofwarships.com/news_ingame/">https://worldofwarships.com/news_ingame/</newsInGame>
+        <!-- eventLootboxInGame -->
+
+        <eventLootboxInGame domain="auth_wows">https://shop.worldofwarships.com/halloween</eventLootboxInGame>
+        <eventNY2018InGame domain="auth_wows">https://shop.worldofwarships.com/santa/</eventNY2018InGame>
+        <eventVLFInGame domain="auth_wows">https://shop.worldofwarships.com/vivelafrance/</eventVLFInGame>
+        <eventVLFlanding>https://wo.ws/goldoffranceNA</eventVLFlanding>
+        <!-- Referrals -->
+
+        <playtogetherWebsite domain="auth_wows" next="https://playtogether.worldofwarships.com/">https://playtogether.worldofwarships.com/</playtogetherWebsite>
+        <!-- Player profile -->
+
+        <playerStats domain="auth_wows" next="https://profile.worldofwarships.com/ingame/account/%(playerId)s/">https://profile.worldofwarships.com/ingame/account/%(playerId)s/</playerStats>
+        <!-- Clans -->
+
+        <clansInGame domain="clans">https://clans.worldofwarships.com/clans/gateway/wows/</clansInGame>
+        <clanInvites domain="clans">https://clans.worldofwarships.com/clans/gateway/wows/</clanInvites>
+        <!-- Warehouse -->
+
+        <warehouseInGame domain="auth_wows" next="https://warehouse.worldofwarships.com">https://warehouse.worldofwarships.com</warehouseInGame>
+        <!--shopInGame-->
+
+        <shopInGameHost cookie="true">https://shop.worldofwarships.com/</shopInGameHost>
+        <shopInGameConfirmation>https://shop.worldofwarships.com/api/steam/confirm/</shopInGameConfirmation>
+        <shopInGameCancellation>https://shop.worldofwarships.com/api/steam/cancel/</shopInGameCancellation>
+        <shopInGame domain="auth_wows" next="https://shop.worldofwarships.com/">https://shop.worldofwarships.com/</shopInGame>
+        <buyGoldInGame domain="auth_wows" next="https://shop.worldofwarships.com/#catalog/gold">https://shop.worldofwarships.com/#catalog/gold</buyGoldInGame>
+        <!--WinStore-->
+
+        <microStoreUrl>https://shop.worldofwarships.com/api/winstore</microStoreUrl>
+        <!--Authorization -->
+
+        <auth_wows token="true">https://auth.worldofwarships.com/auth-token/?spa_id=%(spa_id)s&amp;token=%(wgni_token)s</auth_wows>
+        <auth_wgni token="true">https://%(realm)s.wargaming.net/id/signin/token/?account_id=%(spa_id)s&amp;token=%(wgni_token)s</auth_wgni>
+        <!-- Account leveling -->
+
+        <guideFeature_1_InGame>https://www.youtube.com/embed/b1jBzHzMuTk?autoplay=1&amp;fs=0&amp;showinfo=0&amp;cc_load_policy=1&amp;modestbranding=1&amp;rel=0</guideFeature_1_InGame>
+        <guideFeature_2_InGame>https://www.youtube.com/embed/77wOb8wksbo?autoplay=1&amp;fs=0&amp;showinfo=0&amp;cc_load_policy=1&amp;modestbranding=1&amp;rel=0</guideFeature_2_InGame>
+        <guideFeature_3_InGame>https://www.youtube.com/embed/SkGh6CHf-eI?autoplay=1&amp;fs=0&amp;showinfo=0&amp;cc_load_policy=1&amp;modestbranding=1&amp;rel=0</guideFeature_3_InGame>
+        <guideFeature_4_InGame>https://www.youtube.com/embed/9Y53GfswGsI?autoplay=1&amp;fs=0&amp;showinfo=0&amp;cc_load_policy=1&amp;modestbranding=1&amp;rel=0</guideFeature_4_InGame>
+        <guideFeature_5_InGame>https://www.youtube.com/embed/cNgSykOzNIU?autoplay=1&amp;fs=0&amp;showinfo=0&amp;cc_load_policy=1&amp;modestbranding=1&amp;rel=0</guideFeature_5_InGame>
+        <guideFeature_6_InGame>https://www.youtube.com/embed/Lt1exoWBP8U?autoplay=1&amp;fs=0&amp;showinfo=0&amp;cc_load_policy=1&amp;modestbranding=1&amp;rel=0</guideFeature_6_InGame>
+        <guideFeature_7_InGame>https://www.youtube.com/embed/FPpmcfvINfo?autoplay=1&amp;fs=0&amp;showinfo=0&amp;cc_load_policy=1&amp;modestbranding=1&amp;rel=0</guideFeature_7_InGame>
+        <guideFeature_8_InGame>https://www.youtube.com/embed/-kvcjbtqAZE?autoplay=1&amp;fs=0&amp;showinfo=0&amp;cc_load_policy=1&amp;modestbranding=1&amp;rel=0</guideFeature_8_InGame>
+        <guideFeature_9_InGame>https://www.youtube.com/embed/WfP1hhqKnNQ?autoplay=1&amp;fs=0&amp;showinfo=0&amp;cc_load_policy=1&amp;modestbranding=1&amp;rel=0</guideFeature_9_InGame>
+        <guideFeature_10_InGame>https://www.youtube.com/embed/_CxVzK3CzvU?autoplay=1&amp;fs=0&amp;showinfo=0&amp;cc_load_policy=1&amp;modestbranding=1&amp;rel=0</guideFeature_10_InGame>
+        <guideFeature_11_InGame>https://www.youtube.com/embed/CyaCnfeFx7U?autoplay=1&amp;fs=0&amp;showinfo=0&amp;cc_load_policy=1&amp;modestbranding=1&amp;rel=0</guideFeature_11_InGame>
+        <guideFeature_12_InGame>https://www.youtube.com/embed/2oW5xbwaCis?autoplay=1&amp;fs=0&amp;showinfo=0&amp;cc_load_policy=1&amp;modestbranding=1&amp;rel=0</guideFeature_12_InGame>
+        <guideFeature_13_InGame>https://www.youtube.com/embed/qFan7jyOHaE?autoplay=1&amp;fs=0&amp;showinfo=0&amp;cc_load_policy=1&amp;modestbranding=1&amp;rel=0</guideFeature_13_InGame>
+        <guideFeature_14_InGame>https://www.youtube.com/embed/vERtx_QT4X4?autoplay=1&amp;fs=0&amp;showinfo=0&amp;cc_load_policy=1&amp;modestbranding=1&amp;rel=0</guideFeature_14_InGame>
+        <guideFeature_15_InGame>https://www.youtube.com/embed/nfXyqj7aLfs?autoplay=1&amp;fs=0&amp;showinfo=0&amp;cc_load_policy=1&amp;modestbranding=1&amp;rel=0</guideFeature_15_InGame>
+        <!-- Modules -->
+
+        <guide_Modules_InGame>https://www.youtube.com/embed/vqMYVRqINWE?autoplay=1&amp;fs=0&amp;showinfo=0&amp;cc_load_policy=1&amp;modestbranding=1&amp;rel=0</guide_Modules_InGame>
+    </asia>
+    <cn>
+        <reportError>mailto:wowsbug@kongzhong.com</reportError>
+        <forum>http://bbs.wows.kongzhong.com/</forum>
+        <register>http://wows.kongzhong.com/quickreg/zhuce.html</register>
+        <passwordRecovery>http://passport.kongzhong.com/pwdback/pwdemailback/pwdback_email</passwordRecovery>
+        <wargamingNet>http://wargaming.net</wargamingNet>
+        <wowsWebsite>http://wows.kongzhong.com/</wowsWebsite>
+        <eula>http://passport.kongzhong.com/wowsrules.jsp</eula>
+        <gameRatingDisplay>default</gameRatingDisplay>
+        <enableLanguageBar>1</enableLanguageBar>
+        <support>http://passport.kongzhong.com/pwdback/pwdemailback/pwdback_email</support>
+        <kongzhong>http://kongzhong.com</kongzhong>
+        <buyGold>http://passport.kongzhong.com/billing/pay/gameinchar/pay_wows?useraccount=%(userEncoded)s&amp;gameareaid=%(areaid)s</buyGold>
+        <buyPrem>http://mall.kongzhong.com/product/list?catID=,20000,23000,23300,23303,</buyPrem>
+        <auth>
+            <domain name="clans" url="https://clans-%(area_name)s.worldofwarships.cn/clans/gateway/wows/auth/?spa_id=%(spa_id)s&amp;token=%(wgni_token)s"/>
+            <domain name="auth_wows" url="https://auth-%(areaid)s.worldofwarships.cn/auth-token/?spa_id=%(spa_id)s&amp;token=%(wgni_token)s"/>
+        </auth>
+        <!-- Special URL that should be opened in-game (must end with 'InGame'):-->
+
+        <guidesInGame>http://wows.kongzhong.com/ztm/inside/</guidesInGame>
+        <forbiddenInGame>http://wows.kongzhong.com/ztm/inside/403</forbiddenInGame>
+        <newsInGame>http://wows.kongzhong.com/inside/index.html?useraccount=%(userEncoded)s&amp;gameareaid=%(areaid)s&amp;spa_id=%(spa_id)s</newsInGame>
+        <!-- eventLootboxInGame -->
+
+        <eventNY2018InGame domain="auth_wows">http://mall.kongzhong.com/searchController/searchProduct?productName=%E5%9C%A3%E8%AF%9E%E8%8A%82%E6%88%98%E8%88%B0%E5%B9%B8%E8%BF%90%E8%A1%A5%E7%BB%99%E7%AE%B1</eventNY2018InGame>
+        <eventVLFInGame domain="auth_wows">http://t.cn/RQ1PSuC</eventVLFInGame>
+        <eventVLFlanding>http://t.cn/RQ1PSuC</eventVLFlanding>
+        <!-- Referrals -->
+
+        <playtogetherWebsite>http://wows.kongzhong.com/ztm/zhaomu/</playtogetherWebsite>
+        <!-- Player profile -->
+
+        <playerStats domain="auth_wows" next="https://wsid-%(areaid)s.worldofwarships.cn/ingame/account/%(playerId)s/">https://wsid-%(areaid)s.worldofwarships.cn/ingame/account/%(playerId)s/</playerStats>
+        <!-- Clans -->
+
+        <clansInGame domain="clans">https://clans-%(area_name)s.worldofwarships.cn/clans/gateway/wows/</clansInGame>
+        <clanInvites token="true">https://clans-%(area_name)s.worldofwarships.cn/clans/gateway/wows/auth/?token=%(wgni_token)s&amp;spa_id=%(spa_id)s&amp;redirect_to=%(redirect_to)s</clanInvites>
+        <!-- Warehouse -->
+
+        <warehouseInGame domain="auth_wows" next="https://warehouse-%(areaid)s.worldofwarships.cn">https://warehouse-%(areaid)s.worldofwarships.cn</warehouseInGame>
+        <!-- Account leveling-->
+
+        <guideFeature_1_InGame>http://v.wows.kongzhong.com/1huanying.webm</guideFeature_1_InGame>
+        <guideFeature_2_InGame>http://v.wows.kongzhong.com/2peijianyukejishu.webm</guideFeature_2_InGame>
+        <guideFeature_3_InGame>http://v.wows.kongzhong.com/3biaozhunzhandou.webm</guideFeature_3_InGame>
+        <guideFeature_4_InGame>http://v.wows.kongzhong.com/bujixiang.webm</guideFeature_4_InGame>
+        <guideFeature_5_InGame>http://v.wows.kongzhong.com/5quanjujingyan.webm</guideFeature_5_InGame>
+        <guideFeature_6_InGame>http://v.wows.kongzhong.com/6shengji.webm</guideFeature_6_InGame>
+        <guideFeature_7_InGame>http://v.wows.kongzhong.com/zhihuiguan1.webm</guideFeature_7_InGame>
+        <guideFeature_8_InGame>http://v.wows.kongzhong.com/Scenarios.webm</guideFeature_8_InGame>
+        <guideFeature_9_InGame>http://v.wows.kongzhong.com/renwuwanfa.webm</guideFeature_9_InGame>
+        <guideFeature_10_InGame>http://v.wows.kongzhong.com/8xinhaoqi.webm</guideFeature_10_InGame>
+        <guideFeature_11_InGame>http://v.wows.kongzhong.com/9tuzhuang.webm</guideFeature_11_InGame>
+        <guideFeature_12_InGame>http://v.wows.kongzhong.com/10zhandourenwuyutiaozhan.webm</guideFeature_12_InGame>
+        <guideFeature_13_InGame>http://v.wows.kongzhong.com/cangkujieshao.webm</guideFeature_13_InGame>
+        <guideFeature_14_InGame>http://v.wows.kongzhong.com/11paiweizhan.webm</guideFeature_14_InGame>
+        <guideFeature_15_InGame>http://v.wows.kongzhong.com/12duiwuzhandou.webm</guideFeature_15_InGame>
+        <!-- Modules -->
+
+        <guide_Modules_InGame>http://v.wows.kongzhong.com/2peijianyukejishu.webm</guide_Modules_InGame>
+    </cn>
+    <eu>
+        <reportError>https://%(realm)s.wargaming.net/support/</reportError>
+        <forum>http://forum.worldofwarships.%(realm)s/</forum>
+        <register>http://cpm.wargaming.net/jhv2ojf6/?pub_id=loginscreen</register>
+        <passwordRecovery>https://%(realm)s.wargaming.net/personal/password_reset/new/</passwordRecovery>
+        <wargamingNet>http://wargaming.net</wargamingNet>
+        <wowsWebsite>https://worldofwarships.%(realm)s/</wowsWebsite>
+        <eula>http://legal.%(realm)s.wargaming.net/%(localeRfcName)s/eula/</eula>
+        <extraLicences>http://legal.%(realm)s.wargaming.net/%(localeRfcName)s/eula/</extraLicences>
+        <gameRatingDisplay>default</gameRatingDisplay>
+        <buyGold>https://%(realm)s.wargaming.net/shop/wows/</buyGold>
+        <buyPrem>https://%(realm)s.wargaming.net/shop/wows/premium/</buyPrem>
+        <enableLanguageBar>0</enableLanguageBar>
+        <support>https://%(realm)s.wargaming.net/support/</support>
+        <projectR domain="auth_wows" next="https://elements.worldofwarships.eu/">https://elements.worldofwarships.eu/</projectR>
+        <kongzhong/>
+        <auth>
+            <domain name="clans" url="https://clans.worldofwarships.eu/clans/gateway/wows/auth/?spa_id=%(spa_id)s&amp;token=%(wgni_token)s"/>
+            <domain name="auth_wows" url="https://auth.worldofwarships.eu/auth-token/?spa_id=%(spa_id)s&amp;token=%(wgni_token)s"/>
+        </auth>
+        <!-- Personal -->
+
+        <personal>%(wgn_url)s/id/signin/token/?account_id=%(spa_id)s&amp;token=%(wgni_token)s%(optional_requested_for)s&amp;next=/personal/?language=%(localeRfcName)s</personal>
+        <!-- Special URL that should be opened in-game (must end with 'InGame'):-->
+
+        <guidesInGame>https://worldofwarships.%(realm)s/content/in-game/education/?consumer=game-browser</guidesInGame>
+        <portalInGame next="https://worldofwarships.%(realm)s" redirect="true"/>
+        <forbiddenInGame>https://worldofwarships.%(realm)s/403/%(language)s/</forbiddenInGame>
+        <newsInGame domain="auth_wows" next="https://worldofwarships.eu/news_ingame/">https://worldofwarships.eu/news_ingame/</newsInGame>
+        <!-- eventLootboxInGame -->
+
+        <eventLootboxInGame domain="auth_wows">https://shop.worldofwarships.eu/halloween</eventLootboxInGame>
+        <eventNY2018InGame domain="auth_wows">https://shop.worldofwarships.eu/santa/</eventNY2018InGame>
+        <eventVLFInGame domain="auth_wows">https://shop.worldofwarships.eu/vivelafrance/</eventVLFInGame>
+        <eventVLFlanding>https://wo.ws/goldoffranceEU</eventVLFlanding>
+        <!-- Referrals -->
+
+        <playtogetherWebsite domain="auth_wows" next="https://playtogether.worldofwarships.eu/">https://playtogether.worldofwarships.eu/</playtogetherWebsite>
+        <!-- Player profile -->
+
+        <playerStats domain="auth_wows" next="https://profile.worldofwarships.eu/ingame/account/%(playerId)s/">https://profile.worldofwarships.eu/ingame/account/%(playerId)s/</playerStats>
+        <!-- Clans -->
+
+        <clansInGame domain="clans">https://clans.worldofwarships.eu/clans/gateway/wows/</clansInGame>
+        <clanInvites domain="clans">https://clans.worldofwarships.eu/clans/gateway/wows/</clanInvites>
+        <!-- Warehouse -->
+
+        <warehouseInGame domain="auth_wows" next="https://warehouse.worldofwarships.eu">https://warehouse.worldofwarships.eu</warehouseInGame>
+        <!--shopInGame-->
+
+        <shopInGameHost cookie="true">https://shop.worldofwarships.eu/</shopInGameHost>
+        <shopInGameConfirmation>https://shop.worldofwarships.eu/api/steam/confirm/</shopInGameConfirmation>
+        <shopInGameCancellation>https://shop.worldofwarships.eu/api/steam/cancel/</shopInGameCancellation>
+        <shopInGame domain="auth_wows" next="https://shop.worldofwarships.eu/">https://shop.worldofwarships.eu/</shopInGame>
+        <buyGoldInGame domain="auth_wows" next="https://shop.worldofwarships.eu/#catalog/gold">https://shop.worldofwarships.eu/#catalog/gold</buyGoldInGame>
+        <!--WinStore-->
+
+        <microStoreUrl>https://shop.worldofwarships.eu/api/winstore</microStoreUrl>
+        <!--Authorization -->
+
+        <auth_wows token="true">https://auth.worldofwarships.eu/auth-token/?spa_id=%(spa_id)s&amp;token=%(wgni_token)s</auth_wows>
+        <auth_wgni token="true">https://%(realm)s.wargaming.net/id/signin/token/?account_id=%(spa_id)s&amp;token=%(wgni_token)s</auth_wgni>
+        <!-- Account leveling -->
+
+        <guideFeature_1_InGame>https://www.youtube.com/embed/b1jBzHzMuTk?autoplay=1&amp;fs=0&amp;showinfo=0&amp;cc_load_policy=1&amp;modestbranding=1&amp;rel=0</guideFeature_1_InGame>
+        <guideFeature_2_InGame>https://www.youtube.com/embed/77wOb8wksbo?autoplay=1&amp;fs=0&amp;showinfo=0&amp;cc_load_policy=1&amp;modestbranding=1&amp;rel=0</guideFeature_2_InGame>
+        <guideFeature_3_InGame>https://www.youtube.com/embed/SkGh6CHf-eI?autoplay=1&amp;fs=0&amp;showinfo=0&amp;cc_load_policy=1&amp;modestbranding=1&amp;rel=0</guideFeature_3_InGame>
+        <guideFeature_4_InGame>https://www.youtube.com/embed/9Y53GfswGsI?autoplay=1&amp;fs=0&amp;showinfo=0&amp;cc_load_policy=1&amp;modestbranding=1&amp;rel=0</guideFeature_4_InGame>
+        <guideFeature_5_InGame>https://www.youtube.com/embed/cNgSykOzNIU?autoplay=1&amp;fs=0&amp;showinfo=0&amp;cc_load_policy=1&amp;modestbranding=1&amp;rel=0</guideFeature_5_InGame>
+        <guideFeature_6_InGame>https://www.youtube.com/embed/Lt1exoWBP8U?autoplay=1&amp;fs=0&amp;showinfo=0&amp;cc_load_policy=1&amp;modestbranding=1&amp;rel=0</guideFeature_6_InGame>
+        <guideFeature_7_InGame>https://www.youtube.com/embed/FPpmcfvINfo?autoplay=1&amp;fs=0&amp;showinfo=0&amp;cc_load_policy=1&amp;modestbranding=1&amp;rel=0</guideFeature_7_InGame>
+        <guideFeature_8_InGame>https://www.youtube.com/embed/-kvcjbtqAZE?autoplay=1&amp;fs=0&amp;showinfo=0&amp;cc_load_policy=1&amp;modestbranding=1&amp;rel=0</guideFeature_8_InGame>
+        <guideFeature_9_InGame>https://www.youtube.com/embed/WfP1hhqKnNQ?autoplay=1&amp;fs=0&amp;showinfo=0&amp;cc_load_policy=1&amp;modestbranding=1&amp;rel=0</guideFeature_9_InGame>
+        <guideFeature_10_InGame>https://www.youtube.com/embed/_CxVzK3CzvU?autoplay=1&amp;fs=0&amp;showinfo=0&amp;cc_load_policy=1&amp;modestbranding=1&amp;rel=0</guideFeature_10_InGame>
+        <guideFeature_11_InGame>https://www.youtube.com/embed/CyaCnfeFx7U?autoplay=1&amp;fs=0&amp;showinfo=0&amp;cc_load_policy=1&amp;modestbranding=1&amp;rel=0</guideFeature_11_InGame>
+        <guideFeature_12_InGame>https://www.youtube.com/embed/2oW5xbwaCis?autoplay=1&amp;fs=0&amp;showinfo=0&amp;cc_load_policy=1&amp;modestbranding=1&amp;rel=0</guideFeature_12_InGame>
+        <guideFeature_13_InGame>https://www.youtube.com/embed/qFan7jyOHaE?autoplay=1&amp;fs=0&amp;showinfo=0&amp;cc_load_policy=1&amp;modestbranding=1&amp;rel=0</guideFeature_13_InGame>
+        <guideFeature_14_InGame>https://www.youtube.com/embed/vERtx_QT4X4?autoplay=1&amp;fs=0&amp;showinfo=0&amp;cc_load_policy=1&amp;modestbranding=1&amp;rel=0</guideFeature_14_InGame>
+        <guideFeature_15_InGame>https://www.youtube.com/embed/nfXyqj7aLfs?autoplay=1&amp;fs=0&amp;showinfo=0&amp;cc_load_policy=1&amp;modestbranding=1&amp;rel=0</guideFeature_15_InGame>
+        <!-- Modules -->
+
+        <guide_Modules_InGame>https://www.youtube.com/embed/vqMYVRqINWE?autoplay=1&amp;fs=0&amp;showinfo=0&amp;cc_load_policy=1&amp;modestbranding=1&amp;rel=0</guide_Modules_InGame>
+    </eu>
+    <na>
+        <reportError>https://%(realm)s.wargaming.net/support</reportError>
+        <forum>http://forum.worldofwarships.com/</forum>
+        <register>http://cpm.wargaming.net/uuct697w/?pub_id=loginscreen</register>
+        <passwordRecovery>https://%(realm)s.wargaming.net/personal/password_reset/new/</passwordRecovery>
+        <wargamingNet>http://wargaming.net</wargamingNet>
+        <wowsWebsite>https://worldofwarships.com/</wowsWebsite>
+        <eula>http://legal.%(realm)s.wargaming.net/%(localeRfcName)s/end-user-licence-agreement/</eula>
+        <extraLicences>http://legal.%(realm)s.wargaming.net/%(localeRfcName)s/end-user-licence-agreement/</extraLicences>
+        <gameRatingDisplay>default</gameRatingDisplay>
+        <buyGold>https://%(realm)s.wargaming.net/shop/wows/</buyGold>
+        <buyPrem>https://%(realm)s.wargaming.net/shop/wows/premium/</buyPrem>
+        <enableLanguageBar>0</enableLanguageBar>
+        <support>https://%(realm)s.wargaming.net/support/</support>
+        <projectR domain="auth_wows" next="https://elements.worldofwarships.com/">https://elements.worldofwarships.com/</projectR>
+        <kongzhong/>
+        <auth>
+            <domain name="clans" url="https://clans.worldofwarships.com/clans/gateway/wows/auth/?spa_id=%(spa_id)s&amp;token=%(wgni_token)s"/>
+            <domain name="auth_wows" url="https://auth.worldofwarships.com/auth-token/?spa_id=%(spa_id)s&amp;token=%(wgni_token)s"/>
+        </auth>
+        <!-- Personal -->
+
+        <personal>%(wgn_url)s/id/signin/token/?account_id=%(spa_id)s&amp;token=%(wgni_token)s%(optional_requested_for)s&amp;next=/personal/?language=%(localeRfcName)s</personal>
+        <!-- Special URL that should be opened in-game (must end with 'InGame'):-->
+
+        <guidesInGame>https://worldofwarships.com/content/in-game/education/?consumer=game-browser</guidesInGame>
+        <portalInGame next="https://worldofwarships.com" redirect="true"/>
+        <forbiddenInGame>https://worldofwarships.com/403/</forbiddenInGame>
+        <newsInGame domain="auth_wows" next="https://worldofwarships.com/news_ingame/">https://worldofwarships.com/news_ingame/</newsInGame>
+        <!-- eventLootboxInGame -->
+
+        <eventLootboxInGame domain="auth_wows">https://shop.worldofwarships.com/halloween</eventLootboxInGame>
+        <eventNY2018InGame domain="auth_wows">https://shop.worldofwarships.com/santa/</eventNY2018InGame>
+        <eventVLFInGame domain="auth_wows">https://shop.worldofwarships.com/vivelafrance/</eventVLFInGame>
+        <eventVLFlanding>https://wo.ws/goldoffranceNA</eventVLFlanding>
+        <!-- Referrals -->
+
+        <playtogetherWebsite domain="auth_wows" next="https://playtogether.worldofwarships.com/">https://playtogether.worldofwarships.com/</playtogetherWebsite>
+        <!-- Player profile -->
+
+        <playerStats domain="auth_wows" next="https://profile.worldofwarships.com/ingame/account/%(playerId)s/">https://profile.worldofwarships.com/ingame/account/%(playerId)s/</playerStats>
+        <!-- Clans -->
+
+        <clansInGame domain="clans">https://clans.worldofwarships.com/clans/gateway/wows/</clansInGame>
+        <clanInvites domain="clans">https://clans.worldofwarships.com/clans/gateway/wows/</clanInvites>
+        <!-- Warehouse -->
+
+        <warehouseInGame domain="auth_wows" next="https://warehouse.worldofwarships.com">https://warehouse.worldofwarships.com</warehouseInGame>
+        <!--shopInGame-->
+
+        <shopInGameHost cookie="true">https://shop.worldofwarships.com/</shopInGameHost>
+        <shopInGameConfirmation>https://shop.worldofwarships.com/api/steam/confirm/</shopInGameConfirmation>
+        <shopInGameCancellation>https://shop.worldofwarships.com/api/steam/cancel/</shopInGameCancellation>
+        <shopInGame domain="auth_wows" next="https://shop.worldofwarships.com/">https://shop.worldofwarships.com/</shopInGame>
+        <buyGoldInGame domain="auth_wows" next="https://shop.worldofwarships.com/#catalog/gold">https://shop.worldofwarships.com/#catalog/gold</buyGoldInGame>
+        <!--WinStore-->
+
+        <microStoreUrl>https://shop.worldofwarships.com/api/winstore</microStoreUrl>
+        <!--Authorization -->
+
+        <auth_wows token="true">https://auth.worldofwarships.com/auth-token/?spa_id=%(spa_id)s&amp;token=%(wgni_token)s</auth_wows>
+        <auth_wgni token="true">https://%(realm)s.wargaming.net/id/signin/token/?account_id=%(spa_id)s&amp;token=%(wgni_token)s</auth_wgni>
+        <!-- Account leveling -->
+
+        <guideFeature_1_InGame>https://www.youtube.com/embed/b1jBzHzMuTk?autoplay=1&amp;fs=0&amp;showinfo=0&amp;cc_load_policy=1&amp;modestbranding=1&amp;rel=0</guideFeature_1_InGame>
+        <guideFeature_2_InGame>https://www.youtube.com/embed/77wOb8wksbo?autoplay=1&amp;fs=0&amp;showinfo=0&amp;cc_load_policy=1&amp;modestbranding=1&amp;rel=0</guideFeature_2_InGame>
+        <guideFeature_3_InGame>https://www.youtube.com/embed/SkGh6CHf-eI?autoplay=1&amp;fs=0&amp;showinfo=0&amp;cc_load_policy=1&amp;modestbranding=1&amp;rel=0</guideFeature_3_InGame>
+        <guideFeature_4_InGame>https://www.youtube.com/embed/9Y53GfswGsI?autoplay=1&amp;fs=0&amp;showinfo=0&amp;cc_load_policy=1&amp;modestbranding=1&amp;rel=0</guideFeature_4_InGame>
+        <guideFeature_5_InGame>https://www.youtube.com/embed/cNgSykOzNIU?autoplay=1&amp;fs=0&amp;showinfo=0&amp;cc_load_policy=1&amp;modestbranding=1&amp;rel=0</guideFeature_5_InGame>
+        <guideFeature_6_InGame>https://www.youtube.com/embed/Lt1exoWBP8U?autoplay=1&amp;fs=0&amp;showinfo=0&amp;cc_load_policy=1&amp;modestbranding=1&amp;rel=0</guideFeature_6_InGame>
+        <guideFeature_7_InGame>https://www.youtube.com/embed/FPpmcfvINfo?autoplay=1&amp;fs=0&amp;showinfo=0&amp;cc_load_policy=1&amp;modestbranding=1&amp;rel=0</guideFeature_7_InGame>
+        <guideFeature_8_InGame>https://www.youtube.com/embed/-kvcjbtqAZE?autoplay=1&amp;fs=0&amp;showinfo=0&amp;cc_load_policy=1&amp;modestbranding=1&amp;rel=0</guideFeature_8_InGame>
+        <guideFeature_9_InGame>https://www.youtube.com/embed/WfP1hhqKnNQ?autoplay=1&amp;fs=0&amp;showinfo=0&amp;cc_load_policy=1&amp;modestbranding=1&amp;rel=0</guideFeature_9_InGame>
+        <guideFeature_10_InGame>https://www.youtube.com/embed/_CxVzK3CzvU?autoplay=1&amp;fs=0&amp;showinfo=0&amp;cc_load_policy=1&amp;modestbranding=1&amp;rel=0</guideFeature_10_InGame>
+        <guideFeature_11_InGame>https://www.youtube.com/embed/CyaCnfeFx7U?autoplay=1&amp;fs=0&amp;showinfo=0&amp;cc_load_policy=1&amp;modestbranding=1&amp;rel=0</guideFeature_11_InGame>
+        <guideFeature_12_InGame>https://www.youtube.com/embed/2oW5xbwaCis?autoplay=1&amp;fs=0&amp;showinfo=0&amp;cc_load_policy=1&amp;modestbranding=1&amp;rel=0</guideFeature_12_InGame>
+        <guideFeature_13_InGame>https://www.youtube.com/embed/qFan7jyOHaE?autoplay=1&amp;fs=0&amp;showinfo=0&amp;cc_load_policy=1&amp;modestbranding=1&amp;rel=0</guideFeature_13_InGame>
+        <guideFeature_14_InGame>https://www.youtube.com/embed/vERtx_QT4X4?autoplay=1&amp;fs=0&amp;showinfo=0&amp;cc_load_policy=1&amp;modestbranding=1&amp;rel=0</guideFeature_14_InGame>
+        <guideFeature_15_InGame>https://www.youtube.com/embed/nfXyqj7aLfs?autoplay=1&amp;fs=0&amp;showinfo=0&amp;cc_load_policy=1&amp;modestbranding=1&amp;rel=0</guideFeature_15_InGame>
+        <!-- Modules -->
+
+        <guide_Modules_InGame>https://www.youtube.com/embed/vqMYVRqINWE?autoplay=1&amp;fs=0&amp;showinfo=0&amp;cc_load_policy=1&amp;modestbranding=1&amp;rel=0</guide_Modules_InGame>
+    </na>
+    <ru>
+        <reportError>https://%(realm)s.wargaming.net/support/</reportError>
+        <forum>http://forum.worldofwarships.%(realm)s/</forum>
+        <register>http://cpm.wargaming.net/k7vua2li/?pub_id=loginscreen</register>
+        <passwordRecovery>https://%(realm)s.wargaming.net/personal/password_reset/new/</passwordRecovery>
+        <wargamingNet>http://wargaming.net</wargamingNet>
+        <wowsWebsite>https://worldofwarships.%(realm)s/</wowsWebsite>
+        <eula>http://legal.%(realm)s.wargaming.net/%(localeRfcName)s/eula/</eula>
+        <extraLicences>http://legal.%(realm)s.wargaming.net/%(localeRfcName)s/eula/</extraLicences>
+        <gameRatingDisplay>default</gameRatingDisplay>
+        <buyGold>https://%(realm)s.wargaming.net/shop/wows/</buyGold>
+        <buyPrem>https://%(realm)s.wargaming.net/shop/wows/premium/</buyPrem>
+        <enableLanguageBar>0</enableLanguageBar>
+        <support>https://%(realm)s.wargaming.net/support/</support>
+        <projectR domain="auth_wows" next="https://elements.worldofwarships.ru/">https://elements.worldofwarships.ru/</projectR>
+        <kongzhong/>
+        <!-- Special URL that should be opened in-game (must end with 'InGame'):-->
+
+        <guidesInGame>https://worldofwarships.%(realm)s/content/in-game/education/?consumer=game-browser</guidesInGame>
+        <portalInGame next="https://worldofwarships.%(realm)s" redirect="true"/>
+        <forbiddenInGame>https://worldofwarships.%(realm)s/403/</forbiddenInGame>
+        <newsInGame domain="auth_wows" next="https://worldofwarships.ru/news_ingame/">https://worldofwarships.ru/news_ingame/</newsInGame>
+        <!-- eventLootboxInGame -->
+
+        <eventLootboxInGame domain="auth_wows">https://shop.worldofwarships.ru/halloween</eventLootboxInGame>
+        <eventNY2018InGame domain="auth_wows">https://shop.worldofwarships.ru/santa/</eventNY2018InGame>
+        <eventVLFInGame domain="auth_wows">https://shop.worldofwarships.ru/vivelafrance/</eventVLFInGame>
+        <eventVLFlanding>https://wo.ws/goldoffranceRU</eventVLFlanding>
+        <auth>
+            <domain name="clans" url="https://clans.worldofwarships.ru/clans/gateway/wows/auth/?spa_id=%(spa_id)s&amp;token=%(wgni_token)s"/>
+            <domain name="auth_wows" url="https://auth.worldofwarships.ru/auth-token/?spa_id=%(spa_id)s&amp;token=%(wgni_token)s"/>
+        </auth>
+        <!-- Personal -->
+
+        <personal>%(wgn_url)s/id/signin/token/?account_id=%(spa_id)s&amp;token=%(wgni_token)s%(optional_requested_for)s&amp;next=/personal/?language=%(localeRfcName)s</personal>
+        <!-- Referrals -->
+
+        <playtogetherWebsite domain="auth_wows" next="https://playtogether.worldofwarships.ru/">https://playtogether.worldofwarships.ru/</playtogetherWebsite>
+        <!-- Player profile -->
+
+        <playerStats domain="auth_wows" next="https://profile.worldofwarships.ru/ingame/account/%(playerId)s/">https://profile.worldofwarships.ru/ingame/account/%(playerId)s/</playerStats>
+        <!-- Clans -->
+
+        <clansInGame domain="clans">https://clans.worldofwarships.ru/clans/gateway/wows/</clansInGame>
+        <clanInvites domain="clans">https://clans.worldofwarships.ru/clans/gateway/wows/</clanInvites>
+        <!-- Warehouse -->
+
+        <warehouseInGame domain="auth_wows" next="https://warehouse.worldofwarships.ru">https://warehouse.worldofwarships.ru</warehouseInGame>
+        <!--shopInGame-->
+
+        <shopInGameHost cookie="true">https://shop.worldofwarships.ru/</shopInGameHost>
+        <shopInGameConfirmation>https://shop.worldofwarships.ru/api/steam/confirm/</shopInGameConfirmation>
+        <shopInGameCancellation>https://shop.worldofwarships.ru/api/steam/cancel/</shopInGameCancellation>
+        <shopInGame domain="auth_wows" next="https://shop.worldofwarships.ru/">https://shop.worldofwarships.ru/</shopInGame>
+        <buyGoldInGame domain="auth_wows" next="https://shop.worldofwarships.ru/#catalog/gold">https://shop.worldofwarships.ru/#catalog/gold</buyGoldInGame>
+        <!--WinStore-->
+
+        <microStoreUrl>https://shop.worldofwarships.ru/api/winstore</microStoreUrl>
+        <!--Authorization -->
+
+        <auth_wows token="true">https://auth.worldofwarships.ru/auth-token/?spa_id=%(spa_id)s&amp;token=%(wgni_token)s</auth_wows>
+        <auth_wgni token="true">https://%(realm)s.wargaming.net/id/signin/token/?account_id=%(spa_id)s&amp;token=%(wgni_token)s</auth_wgni>
+        <!-- Account leveling -->
+
+        <guideFeature_1_InGame>https://www.youtube.com/embed/MEFjZTE5-oI?autoplay=1&amp;fs=0&amp;showinfo=0&amp;cc_load_policy=1&amp;modestbranding=1&amp;rel=0</guideFeature_1_InGame>
+        <guideFeature_2_InGame>https://www.youtube.com/embed/7hW7KE9A3N8?autoplay=1&amp;fs=0&amp;showinfo=0&amp;cc_load_policy=1&amp;modestbranding=1&amp;rel=0</guideFeature_2_InGame>
+        <guideFeature_3_InGame>https://www.youtube.com/embed/MicVjKCZbcA?autoplay=1&amp;fs=0&amp;showinfo=0&amp;cc_load_policy=1&amp;modestbranding=1&amp;rel=0</guideFeature_3_InGame>
+        <guideFeature_4_InGame>https://www.youtube.com/embed/6QVh2_7pVHI?autoplay=1&amp;fs=0&amp;showinfo=0&amp;cc_load_policy=1&amp;modestbranding=1&amp;rel=0</guideFeature_4_InGame>
+        <guideFeature_5_InGame>https://www.youtube.com/embed/-r9wXW4CypU?autoplay=1&amp;fs=0&amp;showinfo=0&amp;cc_load_policy=1&amp;modestbranding=1&amp;rel=0</guideFeature_5_InGame>
+        <guideFeature_6_InGame>https://www.youtube.com/embed/6bJZJRm-74U?autoplay=1&amp;fs=0&amp;showinfo=0&amp;cc_load_policy=1&amp;modestbranding=1&amp;rel=0</guideFeature_6_InGame>
+        <guideFeature_7_InGame>https://www.youtube.com/embed/yFhcHAkM73U?autoplay=1&amp;fs=0&amp;showinfo=0&amp;cc_load_policy=1&amp;modestbranding=1&amp;rel=0</guideFeature_7_InGame>
+        <guideFeature_8_InGame>https://www.youtube.com/embed/YObkhqdoEhk?autoplay=1&amp;fs=0&amp;showinfo=0&amp;cc_load_policy=1&amp;modestbranding=1&amp;rel=0</guideFeature_8_InGame>
+        <guideFeature_9_InGame>https://www.youtube.com/embed/0zaGodbV0lM?autoplay=1&amp;fs=0&amp;showinfo=0&amp;cc_load_policy=1&amp;modestbranding=1&amp;rel=0</guideFeature_9_InGame>
+        <guideFeature_10_InGame>https://www.youtube.com/embed/8KjCoqHlp8I?autoplay=1&amp;fs=0&amp;showinfo=0&amp;cc_load_policy=1&amp;modestbranding=1&amp;rel=0</guideFeature_10_InGame>
+        <guideFeature_11_InGame>https://www.youtube.com/embed/wKcHgoGiRd0?autoplay=1&amp;fs=0&amp;showinfo=0&amp;cc_load_policy=1&amp;modestbranding=1&amp;rel=0</guideFeature_11_InGame>
+        <guideFeature_12_InGame>https://www.youtube.com/embed/-qgnQNTn6WI?autoplay=1&amp;fs=0&amp;showinfo=0&amp;cc_load_policy=1&amp;modestbranding=1&amp;rel=0</guideFeature_12_InGame>
+        <guideFeature_13_InGame>https://www.youtube.com/embed/Z3sZP1RDB9o?autoplay=1&amp;fs=0&amp;showinfo=0&amp;cc_load_policy=1&amp;modestbranding=1&amp;rel=0</guideFeature_13_InGame>
+        <guideFeature_14_InGame>https://www.youtube.com/embed/--PsXlhN8uk?autoplay=1&amp;fs=0&amp;showinfo=0&amp;cc_load_policy=1&amp;modestbranding=1&amp;rel=0</guideFeature_14_InGame>
+        <guideFeature_15_InGame>https://www.youtube.com/embed/NXrExDGJt0E?autoplay=1&amp;fs=0&amp;showinfo=0&amp;cc_load_policy=1&amp;modestbranding=1&amp;rel=0</guideFeature_15_InGame>
+        <!-- Modules -->
+
+        <guide_Modules_InGame>https://www.youtube.com/embed/7hW7KE9A3N8?autoplay=1&amp;fs=0&amp;showinfo=0&amp;cc_load_policy=1&amp;modestbranding=1&amp;rel=0</guide_Modules_InGame>
+    </ru>
+    <st>
+        <reportError>https://bugs-st.worldofwarships.ru/</reportError>
+        <forum>http://forum-st.worldofwarships.ru/</forum>
+        <register>http://cpm.wargaming.net/jhv2ojf6/?pub_id=loginscreen</register>
+        <passwordRecovery>https://st.worldofwarships.ru/personal/password_reset/new/</passwordRecovery>
+        <wargamingNet>http://wargaming.net</wargamingNet>
+        <wowsWebsite>https://worldofwarships.eu/</wowsWebsite>
+        <eula>https://worldofwarships.eu/en/content/docs/user_agreement/</eula>
+        <extraLicences>http://legal.ru.wargaming.net/?Wows-legal-info</extraLicences>
+        <gameRatingDisplay>default</gameRatingDisplay>
+        <buyGold>https://eu.wargaming.net/shop/wows/</buyGold>
+        <buyPrem>https://eu.wargaming.net/shop/wows/premium/</buyPrem>
+        <enableLanguageBar>0</enableLanguageBar>
+        <support>https://bugs-st.worldofwarships.ru/</support>
+        <projectR>http://worldofwarships.eu/gnb/</projectR>
+        <kongzhong/>
+        <auth>
+            <domain name="clans" url="https://cp-st22.worldofwarships.ru/clans/gateway/wows/auth/?spa_id=%(spa_id)s&amp;token=%(wgni_token)s"/>
+            <domain name="auth_wows" url="https://auth-st.worldofwarships.ru/auth-token/?spa_id=%(spa_id)s&amp;token=%(wgni_token)s"/>
+        </auth>
+        <!-- Special URL that should be opened in-game (must end with 'InGame'):-->
+
+        <guidesInGame>https://worldofwarships.eu/content/in-game/education/?consumer=game-browser</guidesInGame>
+        <portalInGame next="https://portal-st.worldofwarships.ru/" redirect="true"/>
+        <forbiddenInGame>https://portal-st.worldofwarships.ru/403/</forbiddenInGame>
+        <newsInGame domain="auth_wows" next="https://portal-st.worldofwarships.ru/news_ingame/">https://portal-st.worldofwarships.ru/news_ingame/</newsInGame>
+        <!-- Referrals -->
+
+        <playtogetherWebsite>http://playtogether.worldofwarships.eu/</playtogetherWebsite>
+        <!-- Player profile -->
+
+        <playerStats domain="auth_wows" next="https://profile-st.worldofwarships.ru/ingame/account/%(playerId)s/">https://profile-st.worldofwarships.ru/ingame/account/%(playerId)s</playerStats>
+        <!-- Clans -->
+
+        <clansInGame domain="clans">https://cp-st22.worldofwarships.ru/clans/gateway/wows/</clansInGame>
+        <clanInvites domain="clans">https://cp-st22.worldofwarships.ru/clans/gateway/wows/</clanInvites>
+        <!-- Warehouse -->
+
+        <warehouseInGame domain="auth_wows" next="https://warehouse-st.worldofwarships.ru">https://warehouse-st.worldofwarships.ru</warehouseInGame>
+        <!--shopInGame-->
+
+        <shopInGameHost cookie="true">https://steamboat.wowsp.ru1x095.ix/</shopInGameHost>
+        <shopInGameConfirmation>https://steamboat.wowsp.ru1x095.ix/api/steam/confirm/</shopInGameConfirmation>
+        <shopInGameCancellation>https://steamboat.wowsp.ru1x095.ix/api/steam/cancel/</shopInGameCancellation>
+        <shopInGame token="true">https://auth.wowsp.ru1x095.ix/auth-token/?spa_id=%(spa_id)s&amp;token=%(wgni_token)s&amp;next=https://steamboat.wowsp.ru1x095.ix/?debug</shopInGame>
+        <buyGoldInGame token="true">https://auth.wowsp.ru1x095.ix/auth-token/?spa_id=%(spa_id)s&amp;token=%(wgni_token)s&amp;next=https://steamboat.wowsp.ru1x095.ix/#catalog/gold</buyGoldInGame>
+        <!--Authorization -->
+
+        <auth_wows token="true">https://auth-st.worldofwarships.ru/auth-token/?spa_id=%(spa_id)s&amp;token=%(wgni_token)s</auth_wows>
+        <auth_wgni token="true">https://st.worldofwarships.ru/id/signin/token/?account_id=%(spa_id)s&amp;token=%(wgni_token)s</auth_wgni>
+        <!-- Account leveling -->
+
+        <guideFeature_1_InGame>https://www.youtube.com/embed/b1jBzHzMuTk?autoplay=1&amp;fs=0&amp;showinfo=0&amp;cc_load_policy=1&amp;modestbranding=1&amp;rel=0</guideFeature_1_InGame>
+        <guideFeature_2_InGame>https://www.youtube.com/embed/77wOb8wksbo?autoplay=1&amp;fs=0&amp;showinfo=0&amp;cc_load_policy=1&amp;modestbranding=1&amp;rel=0</guideFeature_2_InGame>
+        <guideFeature_3_InGame>https://www.youtube.com/embed/SkGh6CHf-eI?autoplay=1&amp;fs=0&amp;showinfo=0&amp;cc_load_policy=1&amp;modestbranding=1&amp;rel=0</guideFeature_3_InGame>
+        <guideFeature_4_InGame>https://www.youtube.com/embed/9Y53GfswGsI?autoplay=1&amp;fs=0&amp;showinfo=0&amp;cc_load_policy=1&amp;modestbranding=1&amp;rel=0</guideFeature_4_InGame>
+        <guideFeature_5_InGame>https://www.youtube.com/embed/cNgSykOzNIU?autoplay=1&amp;fs=0&amp;showinfo=0&amp;cc_load_policy=1&amp;modestbranding=1&amp;rel=0</guideFeature_5_InGame>
+        <guideFeature_6_InGame>https://www.youtube.com/embed/Lt1exoWBP8U?autoplay=1&amp;fs=0&amp;showinfo=0&amp;cc_load_policy=1&amp;modestbranding=1&amp;rel=0</guideFeature_6_InGame>
+        <guideFeature_7_InGame>https://www.youtube.com/embed/FPpmcfvINfo?autoplay=1&amp;fs=0&amp;showinfo=0&amp;cc_load_policy=1&amp;modestbranding=1&amp;rel=0</guideFeature_7_InGame>
+        <guideFeature_8_InGame>https://www.youtube.com/embed/-kvcjbtqAZE?autoplay=1&amp;fs=0&amp;showinfo=0&amp;cc_load_policy=1&amp;modestbranding=1&amp;rel=0</guideFeature_8_InGame>
+        <guideFeature_9_InGame>https://www.youtube.com/embed/WfP1hhqKnNQ?autoplay=1&amp;fs=0&amp;showinfo=0&amp;cc_load_policy=1&amp;modestbranding=1&amp;rel=0</guideFeature_9_InGame>
+        <guideFeature_10_InGame>https://www.youtube.com/embed/_CxVzK3CzvU?autoplay=1&amp;fs=0&amp;showinfo=0&amp;cc_load_policy=1&amp;modestbranding=1&amp;rel=0</guideFeature_10_InGame>
+        <guideFeature_11_InGame>https://www.youtube.com/embed/CyaCnfeFx7U?autoplay=1&amp;fs=0&amp;showinfo=0&amp;cc_load_policy=1&amp;modestbranding=1&amp;rel=0</guideFeature_11_InGame>
+        <guideFeature_12_InGame>https://www.youtube.com/embed/2oW5xbwaCis?autoplay=1&amp;fs=0&amp;showinfo=0&amp;cc_load_policy=1&amp;modestbranding=1&amp;rel=0</guideFeature_12_InGame>
+        <guideFeature_13_InGame>https://www.youtube.com/embed/qFan7jyOHaE?autoplay=1&amp;fs=0&amp;showinfo=0&amp;cc_load_policy=1&amp;modestbranding=1&amp;rel=0</guideFeature_13_InGame>
+        <guideFeature_14_InGame>https://www.youtube.com/embed/vERtx_QT4X4?autoplay=1&amp;fs=0&amp;showinfo=0&amp;cc_load_policy=1&amp;modestbranding=1&amp;rel=0</guideFeature_14_InGame>
+        <guideFeature_15_InGame>https://www.youtube.com/embed/nfXyqj7aLfs?autoplay=1&amp;fs=0&amp;showinfo=0&amp;cc_load_policy=1&amp;modestbranding=1&amp;rel=0</guideFeature_15_InGame>
+        <!-- Modules -->
+
+        <guide_Modules_InGame>https://www.youtube.com/embed/vqMYVRqINWE?autoplay=1&amp;fs=0&amp;showinfo=0&amp;cc_load_policy=1&amp;modestbranding=1&amp;rel=0</guide_Modules_InGame>
+    </st>
+    <pt>
+        <reportError>http://forum.worldofwarships.eu/</reportError>
+        <forum>http://forum.worldofwarships.eu/</forum>
+        <register>https://pt.worldofwarships.ru/registration/en/</register>
+        <passwordRecovery>https://pt.worldofwarships.ru/personal/password_reset/new/</passwordRecovery>
+        <wargamingNet>http://wargaming.net</wargamingNet>
+        <wowsWebsite>https://worldofwarships.eu/</wowsWebsite>
+        <eula>https://worldofwarships.eu/en/content/docs/user_agreement/</eula>
+        <extraLicences>http://legal.ru.wargaming.net/?Wows-legal-info</extraLicences>
+        <gameRatingDisplay>default</gameRatingDisplay>
+        <buyGold>https://eu.wargaming.net/shop/wows/?utm_source=wows_client&amp;utm_medium=cpu&amp;utm_campaign=wows_client/</buyGold>
+        <buyPrem>https://eu.wargaming.net/shop/wows/premium/</buyPrem>
+        <enableLanguageBar>0</enableLanguageBar>
+        <support>https://eu.wargaming.net/support/</support>
+        <projectR>http://worldofwarships.eu/gnb/</projectR>
+        <kongzhong/>
+        <auth>
+            <domain name="clans" url="https://cp-wowspt.worldofwarships.ru/clans/gateway/wows/auth/?spa_id=%(spa_id)s&amp;token=%(wgni_token)s"/>
+            <domain name="auth_wows" url="https://auth-pt.worldofwarships.ru/auth-token/?spa_id=%(spa_id)s&amp;token=%(wgni_token)s"/>
+        </auth>
+        <!-- Special URL that should be opened in-game (must end with 'InGame'):-->
+
+        <guidesInGame>https://worldofwarships.eu/content/in-game/education/?consumer=game-browser</guidesInGame>
+        <forbiddenInGame>https://portal-pt.worldofwarships.ru/403/</forbiddenInGame>
+        <newsInGame domain="auth_wows" next="https://portal-pt.worldofwarships.ru/news_ingame/">https://portal-pt.worldofwarships.ru/news_ingame/</newsInGame>
+        <!-- Referrals -->
+
+        <playtogetherWebsite domain="auth_wows" next="http://referral-pt.worldofwarships.ru/">http://referral-pt.worldofwarships.ru/</playtogetherWebsite>
+        <!-- Player profile -->
+
+        <playerStats domain="auth_wows" next="https://profile-pt.worldofwarships.ru/ingame/account/%(playerId)s/">https://profile-pt.worldofwarships.ru/ingame/account/%(playerId)s/</playerStats>
+        <!-- Clans -->
+
+        <clansInGame domain="clans">https://cp-wowspt.worldofwarships.ru/clans/gateway/wows/</clansInGame>
+        <clanInvites domain="clans">https://cp-wowspt.worldofwarships.ru/clans/gateway/wows/</clanInvites>
+        <!-- Warehouse -->
+
+        <warehouseInGame domain="auth_wows">https://warehouse-pt.worldofwarships.ru</warehouseInGame>
+        <!--shopInGame-->
+
+        <shopInGameHost cookie="true">https://steamboat.wowsp.ru1x095.ix/</shopInGameHost>
+        <shopInGameConfirmation>https://steamboat.wowsp.ru1x095.ix/api/steam/confirm/</shopInGameConfirmation>
+        <shopInGameCancellation>https://steamboat.wowsp.ru1x095.ix/api/steam/cancel/</shopInGameCancellation>
+        <shopInGame token="true">https://auth.wowsp.ru1x095.ix/auth-token/?spa_id=%(spa_id)s&amp;token=%(wgni_token)s&amp;next=https://steamboat.wowsp.ru1x095.ix/?debug</shopInGame>
+        <buyGoldInGame token="true">https://auth.wowsp.ru1x095.ix/auth-token/?spa_id=%(spa_id)s&amp;token=%(wgni_token)s&amp;next=https://steamboat.wowsp.ru1x095.ix/#catalog/gold</buyGoldInGame>
+        <!--Authorization -->
+
+        <auth_wows token="true">https://auth-pt.worldofwarships.ru/auth-token/?spa_id=%(spa_id)s&amp;token=%(wgni_token)s</auth_wows>
+        <auth_wgni token="true">https://%(realm)s.wargaming.net/id/signin/token/?account_id=%(spa_id)s&amp;token=%(wgni_token)s</auth_wgni>
+        <!-- Account leveling -->
+
+        <guideFeature_1_InGame>https://www.youtube.com/embed/b1jBzHzMuTk?autoplay=1&amp;fs=0&amp;showinfo=0&amp;cc_load_policy=1&amp;modestbranding=1&amp;rel=0</guideFeature_1_InGame>
+        <guideFeature_2_InGame>https://www.youtube.com/embed/77wOb8wksbo?autoplay=1&amp;fs=0&amp;showinfo=0&amp;cc_load_policy=1&amp;modestbranding=1&amp;rel=0</guideFeature_2_InGame>
+        <guideFeature_3_InGame>https://www.youtube.com/embed/SkGh6CHf-eI?autoplay=1&amp;fs=0&amp;showinfo=0&amp;cc_load_policy=1&amp;modestbranding=1&amp;rel=0</guideFeature_3_InGame>
+        <guideFeature_4_InGame>https://www.youtube.com/embed/9Y53GfswGsI?autoplay=1&amp;fs=0&amp;showinfo=0&amp;cc_load_policy=1&amp;modestbranding=1&amp;rel=0</guideFeature_4_InGame>
+        <guideFeature_5_InGame>https://www.youtube.com/embed/cNgSykOzNIU?autoplay=1&amp;fs=0&amp;showinfo=0&amp;cc_load_policy=1&amp;modestbranding=1&amp;rel=0</guideFeature_5_InGame>
+        <guideFeature_6_InGame>https://www.youtube.com/embed/Lt1exoWBP8U?autoplay=1&amp;fs=0&amp;showinfo=0&amp;cc_load_policy=1&amp;modestbranding=1&amp;rel=0</guideFeature_6_InGame>
+        <guideFeature_7_InGame>https://www.youtube.com/embed/FPpmcfvINfo?autoplay=1&amp;fs=0&amp;showinfo=0&amp;cc_load_policy=1&amp;modestbranding=1&amp;rel=0</guideFeature_7_InGame>
+        <guideFeature_8_InGame>https://www.youtube.com/embed/-kvcjbtqAZE?autoplay=1&amp;fs=0&amp;showinfo=0&amp;cc_load_policy=1&amp;modestbranding=1&amp;rel=0</guideFeature_8_InGame>
+        <guideFeature_9_InGame>https://www.youtube.com/embed/WfP1hhqKnNQ?autoplay=1&amp;fs=0&amp;showinfo=0&amp;cc_load_policy=1&amp;modestbranding=1&amp;rel=0</guideFeature_9_InGame>
+        <guideFeature_10_InGame>https://www.youtube.com/embed/_CxVzK3CzvU?autoplay=1&amp;fs=0&amp;showinfo=0&amp;cc_load_policy=1&amp;modestbranding=1&amp;rel=0</guideFeature_10_InGame>
+        <guideFeature_11_InGame>https://www.youtube.com/embed/CyaCnfeFx7U?autoplay=1&amp;fs=0&amp;showinfo=0&amp;cc_load_policy=1&amp;modestbranding=1&amp;rel=0</guideFeature_11_InGame>
+        <guideFeature_12_InGame>https://www.youtube.com/embed/2oW5xbwaCis?autoplay=1&amp;fs=0&amp;showinfo=0&amp;cc_load_policy=1&amp;modestbranding=1&amp;rel=0</guideFeature_12_InGame>
+        <guideFeature_13_InGame>https://www.youtube.com/embed/qFan7jyOHaE?autoplay=1&amp;fs=0&amp;showinfo=0&amp;cc_load_policy=1&amp;modestbranding=1&amp;rel=0</guideFeature_13_InGame>
+        <guideFeature_14_InGame>https://www.youtube.com/embed/vERtx_QT4X4?autoplay=1&amp;fs=0&amp;showinfo=0&amp;cc_load_policy=1&amp;modestbranding=1&amp;rel=0</guideFeature_14_InGame>
+        <guideFeature_15_InGame>https://www.youtube.com/embed/nfXyqj7aLfs?autoplay=1&amp;fs=0&amp;showinfo=0&amp;cc_load_policy=1&amp;modestbranding=1&amp;rel=0</guideFeature_15_InGame>
+        <!-- Modules -->
+
+        <guide_Modules_InGame>https://www.youtube.com/embed/vqMYVRqINWE?autoplay=1&amp;fs=0&amp;showinfo=0&amp;cc_load_policy=1&amp;modestbranding=1&amp;rel=0</guide_Modules_InGame>
+    </pt>
+    <winst>
+        <reportError>https://%(realm)s.wargaming.net/support</reportError>
+        <forum>http://forum.worldofwarships.com/</forum>
+        <register>http://winst.worldofwarships.com</register>
+        <passwordRecovery>https://%(realm)s.wargaming.net/personal/password_reset/new/</passwordRecovery>
+        <wargamingNet>http://wargaming.net</wargamingNet>
+        <wowsWebsite>https://worldofwarships.com/</wowsWebsite>
+        <eula>https://worldofwarships.com/content/docs/user_agreement/</eula>
+        <extraLicences>http://legal.%(realm)s.wargaming.net/en/wows-info-en/</extraLicences>
+        <gameRatingDisplay>default</gameRatingDisplay>
+        <buyGold>https://shop-winst.worldofwarships.com/</buyGold>
+        <buyPrem>https://shop-winst.worldofwarships.com/</buyPrem>
+        <enableLanguageBar>0</enableLanguageBar>
+        <support>https://%(realm)s.wargaming.net/support/</support>
+        <projectR domain="auth_wows" next="https://elements.worldofwarships.com/">https://elements.worldofwarships.com/</projectR>
+        <kongzhong/>
+        <auth>
+            <domain name="clans" url="https://cp-winst.worldofwarships.com/clans/gateway/wows/auth/?spa_id=%(spa_id)s&amp;token=%(wgni_token)s"/>
+            <domain name="auth_wows" url="https://auth-winst.worldofwarships.com/auth-token/?spa_id=%(spa_id)s&amp;token=%(wgni_token)s"/>
+        </auth>
+        <!-- Personal -->
+
+        <personal>%(wgn_url)s/id/signin/token/?account_id=%(spa_id)s&amp;token=%(wgni_token)s%(optional_requested_for)s&amp;next=/personal/?language=%(localeRfcName)s</personal>
+        <!-- Special URL that should be opened in-game (must end with 'InGame'):-->
+
+        <guidesInGame>https://worldofwarships.eu/content/in-game/education?consumer=game-browser</guidesInGame>
+        <forbiddenInGame>https://portal-pt.worldofwarships.ru/403/</forbiddenInGame>
+        <newsInGame domain="auth_wows" next="https://portal-winst.worldofwarships.com/news_ingame/">https://portal-winst.worldofwarships.com/news_ingame/</newsInGame>
+        <!-- Referrals -->
+
+        <playtogetherWebsite domain="auth_wows" next="https://referral-winst.worldofwarships.com/">https://referral-winst.worldofwarships.com/</playtogetherWebsite>
+        <!-- Player profile -->
+
+        <playerStats domain="auth_wows" next="https://profile-winst.worldofwarships.com/ingame/account/%(playerId)s/">https://profile-winst.worldofwarships.com/ingame/account/%(playerId)s/</playerStats>
+        <!-- Clans -->
+
+        <clansInGame domain="clans">https://cp-winst.worldofwarships.com/clans/gateway/wows/</clansInGame>
+        <clanInvites domain="clans">https://cp-winst.worldofwarships.com/clans/gateway/wows/</clanInvites>
+        <!-- Warehouse -->
+
+        <warehouseInGame domain="auth_wows">https://warehouse-winst.worldofwarships.com</warehouseInGame>
+        <!--shopInGame-->
+
+        <shopInGameHost cookie="true">https://shop-winst.worldofwarships.com/</shopInGameHost>
+        <shopInGameConfirmation>https://shop-winst.worldofwarships.com/api/steam/confirm/</shopInGameConfirmation>
+        <shopInGameCancellation>https://shop-winst.worldofwarships.com/api/steam/cancel/</shopInGameCancellation>
+        <shopInGame domain="auth_wows" next="https://shop-winst.worldofwarships.com/">https://shop-winst.worldofwarships.com/</shopInGame>
+        <buyGoldInGame domain="auth_wows" next="https://shop-winst.worldofwarships.com/#catalog/gold">https://shop-winst.worldofwarships.com/#catalog/gold</buyGoldInGame>
+        <!--WinStore-->
+
+        <microStoreUrl>https://shop-winst.worldofwarships.com/api/winstore</microStoreUrl>
+        <!--Authorization -->
+
+        <auth_wows token="true">https://auth-winst.worldofwarships.com/auth-token/?spa_id=%(spa_id)s&amp;token=%(wgni_token)s</auth_wows>
+        <auth_wgni token="true">https://winst.worldofwarships.com/id/signin/token/?account_id=%(spa_id)s&amp;token=%(wgni_token)s</auth_wgni>
+        <!-- Account leveling -->
+
+        <guideFeature_1_InGame>https://www.youtube.com/embed/b1jBzHzMuTk?autoplay=1&amp;fs=0&amp;showinfo=0&amp;cc_load_policy=1&amp;modestbranding=1&amp;rel=0</guideFeature_1_InGame>
+        <guideFeature_2_InGame>https://www.youtube.com/embed/77wOb8wksbo?autoplay=1&amp;fs=0&amp;showinfo=0&amp;cc_load_policy=1&amp;modestbranding=1&amp;rel=0</guideFeature_2_InGame>
+        <guideFeature_3_InGame>https://www.youtube.com/embed/SkGh6CHf-eI?autoplay=1&amp;fs=0&amp;showinfo=0&amp;cc_load_policy=1&amp;modestbranding=1&amp;rel=0</guideFeature_3_InGame>
+        <guideFeature_4_InGame>https://www.youtube.com/embed/9Y53GfswGsI?autoplay=1&amp;fs=0&amp;showinfo=0&amp;cc_load_policy=1&amp;modestbranding=1&amp;rel=0</guideFeature_4_InGame>
+        <guideFeature_5_InGame>https://www.youtube.com/embed/cNgSykOzNIU?autoplay=1&amp;fs=0&amp;showinfo=0&amp;cc_load_policy=1&amp;modestbranding=1&amp;rel=0</guideFeature_5_InGame>
+        <guideFeature_6_InGame>https://www.youtube.com/embed/Lt1exoWBP8U?autoplay=1&amp;fs=0&amp;showinfo=0&amp;cc_load_policy=1&amp;modestbranding=1&amp;rel=0</guideFeature_6_InGame>
+        <guideFeature_7_InGame>https://www.youtube.com/embed/FPpmcfvINfo?autoplay=1&amp;fs=0&amp;showinfo=0&amp;cc_load_policy=1&amp;modestbranding=1&amp;rel=0</guideFeature_7_InGame>
+        <guideFeature_8_InGame>https://www.youtube.com/embed/-kvcjbtqAZE?autoplay=1&amp;fs=0&amp;showinfo=0&amp;cc_load_policy=1&amp;modestbranding=1&amp;rel=0</guideFeature_8_InGame>
+        <guideFeature_9_InGame>https://www.youtube.com/embed/WfP1hhqKnNQ?autoplay=1&amp;fs=0&amp;showinfo=0&amp;cc_load_policy=1&amp;modestbranding=1&amp;rel=0</guideFeature_9_InGame>
+        <guideFeature_10_InGame>https://www.youtube.com/embed/_CxVzK3CzvU?autoplay=1&amp;fs=0&amp;showinfo=0&amp;cc_load_policy=1&amp;modestbranding=1&amp;rel=0</guideFeature_10_InGame>
+        <guideFeature_11_InGame>https://www.youtube.com/embed/CyaCnfeFx7U?autoplay=1&amp;fs=0&amp;showinfo=0&amp;cc_load_policy=1&amp;modestbranding=1&amp;rel=0</guideFeature_11_InGame>
+        <guideFeature_12_InGame>https://www.youtube.com/embed/2oW5xbwaCis?autoplay=1&amp;fs=0&amp;showinfo=0&amp;cc_load_policy=1&amp;modestbranding=1&amp;rel=0</guideFeature_12_InGame>
+        <guideFeature_13_InGame>https://www.youtube.com/embed/qFan7jyOHaE?autoplay=1&amp;fs=0&amp;showinfo=0&amp;cc_load_policy=1&amp;modestbranding=1&amp;rel=0</guideFeature_13_InGame>
+        <guideFeature_14_InGame>https://www.youtube.com/embed/vERtx_QT4X4?autoplay=1&amp;fs=0&amp;showinfo=0&amp;cc_load_policy=1&amp;modestbranding=1&amp;rel=0</guideFeature_14_InGame>
+        <guideFeature_15_InGame>https://www.youtube.com/embed/nfXyqj7aLfs?autoplay=1&amp;fs=0&amp;showinfo=0&amp;cc_load_policy=1&amp;modestbranding=1&amp;rel=0</guideFeature_15_InGame>
+        <!-- Modules -->
+
+        <guide_Modules_InGame>https://www.youtube.com/embed/vqMYVRqINWE?autoplay=1&amp;fs=0&amp;showinfo=0&amp;cc_load_policy=1&amp;modestbranding=1&amp;rel=0</guide_Modules_InGame>
+    </winst>
+    <clanst>
+        <reportError>https://%(realm)s.wargaming.net/support</reportError>
+        <forum>http://forum.worldofwarships.com/</forum>
+        <register>http://clanst.worldofwarships.ru</register>
+        <passwordRecovery>https://%(realm)s.wargaming.net/personal/password_reset/new/</passwordRecovery>
+        <wargamingNet>http://wargaming.net</wargamingNet>
+        <wowsWebsite>https://worldofwarships.ru/</wowsWebsite>
+        <eula>https://worldofwarships.ru/content/docs/user_agreement/</eula>
+        <extraLicences>http://legal.%(realm)s.wargaming.net/en/wows-info-en/</extraLicences>
+        <gameRatingDisplay>default</gameRatingDisplay>
+        <buyGold>https://shop-clanst.worldofwarships.ru/</buyGold>
+        <buyPrem>https://shop-clanst.worldofwarships.ru/</buyPrem>
+        <enableLanguageBar>0</enableLanguageBar>
+        <support>https://%(realm)s.wargaming.net/support/</support>
+        <projectR domain="auth_wows" next="https://elements.worldofwarships.ru/">https://elements.worldofwarships.ru/</projectR>
+        <kongzhong/>
+        <auth>
+            <domain name="clans" url="https://cp-clanst.worldofwarships.ru/clans/gateway/wows/auth/?spa_id=%(spa_id)s&amp;token=%(wgni_token)s"/>
+            <domain name="auth_wows" url="https://auth-clanst.worldofwarships.ru/auth-token/?spa_id=%(spa_id)s&amp;token=%(wgni_token)s"/>
+        </auth>
+        <!-- Personal -->
+
+        <personal>%(wgn_url)s/id/signin/token/?account_id=%(spa_id)s&amp;token=%(wgni_token)s%(optional_requested_for)s&amp;next=/personal/?language=%(localeRfcName)s</personal>
+        <!-- Special URL that should be opened in-game (must end with 'InGame'):-->
+
+        <guidesInGame>https://worldofwarships.eu/content/in-game/education?consumer=game-browser</guidesInGame>
+        <forbiddenInGame>https://portal-pt.worldofwarships.ru/403/</forbiddenInGame>
+        <newsInGame domain="auth_wows" next="https://portal-clanst.worldofwarships.ru/news_ingame/">https://portal-clanst.worldofwarships.ru/news_ingame/</newsInGame>
+        <!-- Referrals -->
+
+        <playtogetherWebsite domain="auth_wows" next="https://referral-clanst.worldofwarships.ru/">https://referral-clanst.worldofwarships.ru/</playtogetherWebsite>
+        <!-- Player profile -->
+
+        <playerStats domain="auth_wows" next="https://profile-clanst.worldofwarships.ru/ingame/account/%(playerId)s/">https://profile-clanst.worldofwarships.ru/ingame/account/%(playerId)s/</playerStats>
+        <!-- Clans -->
+
+        <clansInGame domain="clans">https://cp-clanst.worldofwarships.ru/clans/gateway/wows/</clansInGame>
+        <clanInvites domain="clans">https://cp-clanst.worldofwarships.ru/clans/gateway/wows/</clanInvites>
+        <!-- Warehouse -->
+
+        <warehouseInGame domain="auth_wows">https://warehouse-clanst.worldofwarships.ru</warehouseInGame>
+        <!--shopInGame-->
+
+        <shopInGameHost cookie="true">https://shop-clanst.worldofwarships.ru/</shopInGameHost>
+        <shopInGameConfirmation>https://shop-clanst.worldofwarships.ru/api/steam/confirm/</shopInGameConfirmation>
+        <shopInGameCancellation>https://shop-clanst.worldofwarships.ru/api/steam/cancel/</shopInGameCancellation>
+        <shopInGame domain="auth_wows" next="https://shop-clanst.worldofwarships.ru/">https://shop-clanst.worldofwarships.ru/</shopInGame>
+        <buyGoldInGame domain="auth_wows" next="https://shop-clanst.worldofwarships.ru/#catalog/gold">https://shop-clanst.worldofwarships.ru/#catalog/gold</buyGoldInGame>
+        <!--WinStore-->
+
+        <microStoreUrl>https://shop-winst.worldofwarships.com/api/winstore</microStoreUrl>
+        <!--Authorization -->
+
+        <auth_wows token="true">https://auth-clanst.worldofwarships.ru/auth-token/?spa_id=%(spa_id)s&amp;token=%(wgni_token)s</auth_wows>
+        <auth_wgni token="true">https://clanst.worldofwarships.ru/id/signin/token/?account_id=%(spa_id)s&amp;token=%(wgni_token)s</auth_wgni>
+        <!-- Account leveling -->
+
+        <guideFeature_1_InGame>https://www.youtube.com/embed/b1jBzHzMuTk?autoplay=1&amp;fs=0&amp;showinfo=0&amp;cc_load_policy=1&amp;modestbranding=1&amp;rel=0</guideFeature_1_InGame>
+        <guideFeature_2_InGame>https://www.youtube.com/embed/77wOb8wksbo?autoplay=1&amp;fs=0&amp;showinfo=0&amp;cc_load_policy=1&amp;modestbranding=1&amp;rel=0</guideFeature_2_InGame>
+        <guideFeature_3_InGame>https://www.youtube.com/embed/SkGh6CHf-eI?autoplay=1&amp;fs=0&amp;showinfo=0&amp;cc_load_policy=1&amp;modestbranding=1&amp;rel=0</guideFeature_3_InGame>
+        <guideFeature_4_InGame>https://www.youtube.com/embed/9Y53GfswGsI?autoplay=1&amp;fs=0&amp;showinfo=0&amp;cc_load_policy=1&amp;modestbranding=1&amp;rel=0</guideFeature_4_InGame>
+        <guideFeature_5_InGame>https://www.youtube.com/embed/cNgSykOzNIU?autoplay=1&amp;fs=0&amp;showinfo=0&amp;cc_load_policy=1&amp;modestbranding=1&amp;rel=0</guideFeature_5_InGame>
+        <guideFeature_6_InGame>https://www.youtube.com/embed/Lt1exoWBP8U?autoplay=1&amp;fs=0&amp;showinfo=0&amp;cc_load_policy=1&amp;modestbranding=1&amp;rel=0</guideFeature_6_InGame>
+        <guideFeature_7_InGame>https://www.youtube.com/embed/FPpmcfvINfo?autoplay=1&amp;fs=0&amp;showinfo=0&amp;cc_load_policy=1&amp;modestbranding=1&amp;rel=0</guideFeature_7_InGame>
+        <guideFeature_8_InGame>https://www.youtube.com/embed/-kvcjbtqAZE?autoplay=1&amp;fs=0&amp;showinfo=0&amp;cc_load_policy=1&amp;modestbranding=1&amp;rel=0</guideFeature_8_InGame>
+        <guideFeature_9_InGame>https://www.youtube.com/embed/WfP1hhqKnNQ?autoplay=1&amp;fs=0&amp;showinfo=0&amp;cc_load_policy=1&amp;modestbranding=1&amp;rel=0</guideFeature_9_InGame>
+        <guideFeature_10_InGame>https://www.youtube.com/embed/_CxVzK3CzvU?autoplay=1&amp;fs=0&amp;showinfo=0&amp;cc_load_policy=1&amp;modestbranding=1&amp;rel=0</guideFeature_10_InGame>
+        <guideFeature_11_InGame>https://www.youtube.com/embed/CyaCnfeFx7U?autoplay=1&amp;fs=0&amp;showinfo=0&amp;cc_load_policy=1&amp;modestbranding=1&amp;rel=0</guideFeature_11_InGame>
+        <guideFeature_12_InGame>https://www.youtube.com/embed/2oW5xbwaCis?autoplay=1&amp;fs=0&amp;showinfo=0&amp;cc_load_policy=1&amp;modestbranding=1&amp;rel=0</guideFeature_12_InGame>
+        <guideFeature_13_InGame>https://www.youtube.com/embed/qFan7jyOHaE?autoplay=1&amp;fs=0&amp;showinfo=0&amp;cc_load_policy=1&amp;modestbranding=1&amp;rel=0</guideFeature_13_InGame>
+        <guideFeature_14_InGame>https://www.youtube.com/embed/vERtx_QT4X4?autoplay=1&amp;fs=0&amp;showinfo=0&amp;cc_load_policy=1&amp;modestbranding=1&amp;rel=0</guideFeature_14_InGame>
+        <guideFeature_15_InGame>https://www.youtube.com/embed/nfXyqj7aLfs?autoplay=1&amp;fs=0&amp;showinfo=0&amp;cc_load_policy=1&amp;modestbranding=1&amp;rel=0</guideFeature_15_InGame>
+        <!-- Modules -->
+
+        <guide_Modules_InGame>https://www.youtube.com/embed/vqMYVRqINWE?autoplay=1&amp;fs=0&amp;showinfo=0&amp;cc_load_policy=1&amp;modestbranding=1&amp;rel=0</guide_Modules_InGame>
+    </clanst>
+    <st1>
+        <reportError>https://%(realm)s.wargaming.net/support</reportError>
+        <forum>http://forum.worldofwarships.com/</forum>
+        <register>http://st1.worldofwarships.ru</register>
+        <passwordRecovery>https://%(realm)s.wargaming.net/personal/password_reset/new/</passwordRecovery>
+        <wargamingNet>http://wargaming.net</wargamingNet>
+        <wowsWebsite>https://worldofwarships.ru/</wowsWebsite>
+        <eula>https://worldofwarships.ru/content/docs/user_agreement/</eula>
+        <extraLicences>http://legal.%(realm)s.wargaming.net/en/wows-info-en/</extraLicences>
+        <gameRatingDisplay>default</gameRatingDisplay>
+        <buyGold>https://shop-st1.worldofwarships.ru/</buyGold>
+        <buyPrem>https://shop-st1.worldofwarships.ru/</buyPrem>
+        <enableLanguageBar>0</enableLanguageBar>
+        <support>https://%(realm)s.wargaming.net/support/</support>
+        <projectR domain="auth_wows" next="https://elements.worldofwarships.ru/">https://elements.worldofwarships.ru/</projectR>
+        <kongzhong/>
+        <auth>
+            <domain name="clans" url="https://cp-st1.worldofwarships.ru/clans/gateway/wows/auth/?spa_id=%(spa_id)s&amp;token=%(wgni_token)s"/>
+            <domain name="auth_wows" url="https://auth-st1.worldofwarships.ru/auth-token/?spa_id=%(spa_id)s&amp;token=%(wgni_token)s"/>
+        </auth>
+        <!-- Personal -->
+
+        <personal>%(wgn_url)s/id/signin/token/?account_id=%(spa_id)s&amp;token=%(wgni_token)s%(optional_requested_for)s&amp;next=/personal/?language=%(localeRfcName)s</personal>
+        <!-- Special URL that should be opened in-game (must end with 'InGame'):-->
+
+        <guidesInGame>https://worldofwarships.eu/content/in-game/education?consumer=game-browser</guidesInGame>
+        <forbiddenInGame>https://portal-pt.worldofwarships.ru/403/</forbiddenInGame>
+        <newsInGame domain="auth_wows" next="https://portal-st1.worldofwarships.ru/news_ingame/">https://portal-st1.worldofwarships.ru/news_ingame/</newsInGame>
+        <!-- Referrals -->
+
+        <playtogetherWebsite domain="auth_wows" next="https://referral-st1.worldofwarships.ru/">https://referral-st1.worldofwarships.ru/</playtogetherWebsite>
+        <!-- Player profile -->
+
+        <playerStats domain="auth_wows" next="https://profile-st1.worldofwarships.ru/ingame/account/%(playerId)s/">https://profile-st1.worldofwarships.ru/ingame/account/%(playerId)s/</playerStats>
+        <!-- Clans -->
+
+        <clansInGame domain="clans">https://cp-st1.worldofwarships.ru/clans/gateway/wows/</clansInGame>
+        <clanInvites domain="clans">https://cp-st1.worldofwarships.ru/clans/gateway/wows/</clanInvites>
+        <!-- Warehouse -->
+
+        <warehouseInGame domain="auth_wows">https://warehouse-st1.worldofwarships.ru</warehouseInGame>
+        <!--shopInGame-->
+
+        <shopInGameHost cookie="true">https://shop-st1.worldofwarships.ru/</shopInGameHost>
+        <shopInGameConfirmation>https://shop-st1.worldofwarships.ru/api/steam/confirm/</shopInGameConfirmation>
+        <shopInGameCancellation>https://shop-st1.worldofwarships.ru/api/steam/cancel/</shopInGameCancellation>
+        <shopInGame domain="auth_wows" next="https://shop-st1.worldofwarships.ru/">https://shop-st1.worldofwarships.ru/</shopInGame>
+        <buyGoldInGame domain="auth_wows" next="https://shop-st1.worldofwarships.ru/#catalog/gold">https://shop-st1.worldofwarships.ru/#catalog/gold</buyGoldInGame>
+        <!--WinStore-->
+
+        <microStoreUrl>https://shop-winst.worldofwarships.com/api/winstore</microStoreUrl>
+        <!--Authorization -->
+
+        <auth_wows token="true">https://auth-st1.worldofwarships.ru/auth-token/?spa_id=%(spa_id)s&amp;token=%(wgni_token)s</auth_wows>
+        <auth_wgni token="true">https://%(realm)s.wargaming.net/id/signin/token/?account_id=%(spa_id)s&amp;token=%(wgni_token)s</auth_wgni>
+        <!-- Account leveling -->
+
+        <guideFeature_1_InGame>https://www.youtube.com/embed/b1jBzHzMuTk?autoplay=1&amp;fs=0&amp;showinfo=0&amp;cc_load_policy=1&amp;modestbranding=1&amp;rel=0</guideFeature_1_InGame>
+        <guideFeature_2_InGame>https://www.youtube.com/embed/77wOb8wksbo?autoplay=1&amp;fs=0&amp;showinfo=0&amp;cc_load_policy=1&amp;modestbranding=1&amp;rel=0</guideFeature_2_InGame>
+        <guideFeature_3_InGame>https://www.youtube.com/embed/SkGh6CHf-eI?autoplay=1&amp;fs=0&amp;showinfo=0&amp;cc_load_policy=1&amp;modestbranding=1&amp;rel=0</guideFeature_3_InGame>
+        <guideFeature_4_InGame>https://www.youtube.com/embed/9Y53GfswGsI?autoplay=1&amp;fs=0&amp;showinfo=0&amp;cc_load_policy=1&amp;modestbranding=1&amp;rel=0</guideFeature_4_InGame>
+        <guideFeature_5_InGame>https://www.youtube.com/embed/cNgSykOzNIU?autoplay=1&amp;fs=0&amp;showinfo=0&amp;cc_load_policy=1&amp;modestbranding=1&amp;rel=0</guideFeature_5_InGame>
+        <guideFeature_6_InGame>https://www.youtube.com/embed/Lt1exoWBP8U?autoplay=1&amp;fs=0&amp;showinfo=0&amp;cc_load_policy=1&amp;modestbranding=1&amp;rel=0</guideFeature_6_InGame>
+        <guideFeature_7_InGame>https://www.youtube.com/embed/FPpmcfvINfo?autoplay=1&amp;fs=0&amp;showinfo=0&amp;cc_load_policy=1&amp;modestbranding=1&amp;rel=0</guideFeature_7_InGame>
+        <guideFeature_8_InGame>https://www.youtube.com/embed/-kvcjbtqAZE?autoplay=1&amp;fs=0&amp;showinfo=0&amp;cc_load_policy=1&amp;modestbranding=1&amp;rel=0</guideFeature_8_InGame>
+        <guideFeature_9_InGame>https://www.youtube.com/embed/WfP1hhqKnNQ?autoplay=1&amp;fs=0&amp;showinfo=0&amp;cc_load_policy=1&amp;modestbranding=1&amp;rel=0</guideFeature_9_InGame>
+        <guideFeature_10_InGame>https://www.youtube.com/embed/_CxVzK3CzvU?autoplay=1&amp;fs=0&amp;showinfo=0&amp;cc_load_policy=1&amp;modestbranding=1&amp;rel=0</guideFeature_10_InGame>
+        <guideFeature_11_InGame>https://www.youtube.com/embed/CyaCnfeFx7U?autoplay=1&amp;fs=0&amp;showinfo=0&amp;cc_load_policy=1&amp;modestbranding=1&amp;rel=0</guideFeature_11_InGame>
+        <guideFeature_12_InGame>https://www.youtube.com/embed/2oW5xbwaCis?autoplay=1&amp;fs=0&amp;showinfo=0&amp;cc_load_policy=1&amp;modestbranding=1&amp;rel=0</guideFeature_12_InGame>
+        <guideFeature_13_InGame>https://www.youtube.com/embed/qFan7jyOHaE?autoplay=1&amp;fs=0&amp;showinfo=0&amp;cc_load_policy=1&amp;modestbranding=1&amp;rel=0</guideFeature_13_InGame>
+        <guideFeature_14_InGame>https://www.youtube.com/embed/vERtx_QT4X4?autoplay=1&amp;fs=0&amp;showinfo=0&amp;cc_load_policy=1&amp;modestbranding=1&amp;rel=0</guideFeature_14_InGame>
+        <guideFeature_15_InGame>https://www.youtube.com/embed/nfXyqj7aLfs?autoplay=1&amp;fs=0&amp;showinfo=0&amp;cc_load_policy=1&amp;modestbranding=1&amp;rel=0</guideFeature_15_InGame>
+        <!-- Modules -->
+
+        <guide_Modules_InGame>https://www.youtube.com/embed/vqMYVRqINWE?autoplay=1&amp;fs=0&amp;showinfo=0&amp;cc_load_policy=1&amp;modestbranding=1&amp;rel=0</guide_Modules_InGame>
+    </st1>
+</gui_urls.xml>
